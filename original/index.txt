@@ -1,0 +1,20 @@
+FTP directory /cats/V/50/ at cdsarc.u-strasbg.fr
+To view this FTP site in File Explorer: press Alt, click View, and then click Open FTP Site in File Explorer. 
+
+*========================================================================*
+*  CDS FTP repository for Astronomical Catalogues & Tables               *
+*                                                                        *
+* Use of the FTP server is restricted only to the search or submission   * 
+* of catalogues.                                                         *
+* For security reasons, sessions are logged.                             *
+*                                                                        *
+* For questions or problems:     cds-question@astro.unistra.fr           *
+*========================================================================*
+*       If you want to deposit files   ===> cd incoming                  *
+*       If you want to get     files   ===> cd pub                       *
+*========================================================================*
+* TIP: if your FTP client is hanging after a message like                *
+* 229 Entering Extended Passive Mode (|||20572|)                         *
+* --->> the solution can be to disable this mode with the command:       *
+* epsv4 off                                                              *
+*========================================================================*
