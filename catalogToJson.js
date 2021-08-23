@@ -1,6 +1,7 @@
+// Converts original/catalog to json format.
 // Requires Node.js > 10.
 // Usage:
-//  node toJson.js
+//  node catalogToJson.js
 
 const fs = require('fs');
 const readline = require('readline');

@@ -5,7 +5,7 @@ JSON format. All original data is preserved. Acronyms avoided where possible
 to make things a tad more readable.
 
 The script used to perform the conversion is included in this repo in case
-anyone needs the data adjusted (see `toJson.js`).
+anyone needs the data adjusted (see `catalogToJson.js`).
 
 Fields saved as camel case to be JavaScript appropriate. Two data files are
 included: one prettified, and one not prettified.
