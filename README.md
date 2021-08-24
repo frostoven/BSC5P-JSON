@@ -4,6 +4,11 @@ Contains the complete BSC5P (Bright Star Catalog, 5th Edition) converted to
 JSON format. All original data is preserved. Acronyms avoided where possible
 to make things a tad more readable.
 
+This repo came into existence because of a lack of ready-made resources while
+working on the [Cosmosis game project](https://github.com/aggregate1166877/Cosmosis)
+(and I can see why there are no complete JSON sources - conversions done here
+are over 6x larger).
+
 The scripts used to perform the conversion are included in this repo in case
 anyone needs the data adjusted, see 'Scripts provided' section below.
 
@@ -31,11 +36,6 @@ Fields saved as camel case to be JavaScript appropriate.
 * `check_broken_cache.sh` - Convenience script that looks for queries that
   returned no results.
 
-This repo came into existence because of a lack of ready-made resources while
-working on the [Cosmosis game project](https://github.com/aggregate1166877/Cosmosis)
-(and I can see why there are no complete JSON sources - conversions done here
-are over 6x larger).
-
 ## Description
 Excerpt [from original](https://heasarc.gsfc.nasa.gov/W3Browse/star-catalog/bsc5p.html):
 > **Overview**
@@ -54,7 +54,7 @@ Excerpt [from original](https://heasarc.gsfc.nasa.gov/W3Browse/star-catalog/bsc5
 Use of catalog data subject to [HEASARC](https://heasarc.gsfc.nasa.gov/) terms
 of use.
 
-Caching queries responses from Simbad subject to the
+Caching query responses from Simbad subject to the
 [SIMBAD Astronomical Database](http://simbad.u-strasbg.fr/simbad/) terms of
 use.
 
