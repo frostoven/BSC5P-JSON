@@ -7,8 +7,7 @@ to make things a tad more readable.
 The scripts used to perform the conversion are included in this repo in case
 anyone needs the data adjusted, see 'Scripts provided' section below.
 
-Fields saved as camel case to be JavaScript appropriate. Two data files are
-included: one prettified, and one not prettified.
+Fields saved as camel case to be JavaScript appropriate.
 
 **Catalog files provided:**
 * `bsc5p.json` - Original BSC5P catalog data, converted to JSON format. Prettified.
