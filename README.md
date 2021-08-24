@@ -31,8 +31,8 @@ Fields saved as camel case to be JavaScript appropriate.
   owners for providing this service, my side-projects would be virtually
   impossible feats without it).
 * `enrichStarData.js` - Parses the cached Simbad pages, reads `bsc5p_min.json`,
-  extends the latter with the processed info, and then save this as two new
-  files (`bsc5p_extra.json` and `bsc5p_extra_min.json`).
+  extends the latter with the processed info, and then saves the changes as two
+  new files (`bsc5p_extra.json` and `bsc5p_extra_min.json`).
 * `check_broken_cache.sh` - Convenience script that looks for queries that
   returned no results.
 
