@@ -1,4 +1,5 @@
-// Converts original/catalog to json format.
+// This script converts original_bsc5p/catalog to json format.
+//
 // Requires Node.js > 10.
 // Usage:
 //  node catalogToJson.js
@@ -6,7 +7,7 @@
 const fs = require('fs');
 const readline = require('readline');
 
-const CONVERT_FROM_FILE = 'original/catalog';
+const CONVERT_FROM_FILE = 'original_bsc5p/catalog';
 const RESULT_PRETTY_FILE = 'bsc5p.json';
 const RESULT_MIN_FILE = 'bsc5p_min.json';
 const FROM = 0;
