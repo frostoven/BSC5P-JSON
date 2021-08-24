@@ -1,0 +1,55 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:37:42
+
+HD207528
+--------
+
+Object * 12 Cep  ---  *  ---  OID=@199164   (@@7789,11)  ---  coobox=606
+
+Coordinates(ICRS,ep=J2000,eq=2000): 21 47 25.2941240707  +60 41 33.679124769 (Opt ) A [0.1403 0.1592 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 21 45 56.6597279306  +60 27 36.586528458
+Coordinates(Gal,ep=J2000,eq=2000): 102.2158614887166  +05.4524641577551
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -9.380 -2.254 [0.284 0.268 90] A 2018yCat.1345....0G
+Parallax: 8.1777 [0.1627] A 2018yCat.1345....0G
+Radial Velocity: -21.03 [0.18] A 2018yCat.1345....0G
+Redshift: -0.000070 [0.000001] A 2018yCat.1345....0G
+cz: -21.03 [0.18] A 2018yCat.1345....0G
+Flux B : 7.056 [0.015] D 2000A&A...355L..27H
+Flux V : 5.514 [0.009] D 2000A&A...355L..27H
+Flux G : 4.7724 [0.0039] C 2018yCat.1345....0G
+Flux J : 2.756 [0.268] D 2003yCat.2246....0C
+Flux H : 2.108 [0.182] D 2003yCat.2246....0C
+Flux K : 1.797 [0.228] D 2003yCat.2246....0C
+Spectral type: M1III D ~                  
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (29):
+   TIC 408628633                   PLX 5273                        * 12 Cep                      
+   AG+60 1413                      BD+60 2294                      GC 30526                      
+   GCRV 13698                      GEN# +1.00207528                GSC 04262-02280               
+   HD 207528                       HIC 107586                      HIP 107586                    
+   HR 8339                         IRAS 21459+6027                 IRC +60329                    
+   PPM 23195                       RAFGL 2809S                     SAO 19642                     
+   SKY# 41534                      TYC 4262-2280-1                 UBV M 25954                   
+   YZ 60 12529                     [DS98] 314                      [HFE83] 1464                  
+   2MASS J21472530+6041337         Cl Trumpler 37 2052             PLX 5273.00                   
+   WEB 19416                       Gaia DR2 2203631347450816768                                  
+
+Bibcodes  1850-2021 () (31):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2010A&A...514A...2I  2008MNRAS.389..869E
+  2006AstL...32..759G  2005A&A...430..165F  2003A&A...397..997P  2003Ap.....46...18P
+  2001BAVSR..50..162B  2001IBVS.5015....1S  2001PASP..113..983P  1998NewA....3..137D
+  1997ApJS..112..557K  1997BaltA...6..481A  1996BaltA...5..603A  1995A&AS..114..269D
+  1995GCTP..C......0V  1993yCat.3135....0C  1991MNRAS.249...62L  1987A&AS...68..259H
+  1986A&AS...65..607O  1985AbaOB..59...83B  1983A&AS...53..223H  1967ApJ...147..587M
+  1967ApJS...14..307E  1962JO.....45..257P  1958TrRig...7...33A  1957ApJ...125..408N
+  1954AJ.....59..228E  1953GCRV..C......0W  1926ApJ....64..225A            
+
+Measures (distance:1  MK:1  PLX:4  PM:5  velocities:6  ):
+distance:1MK:1PLX:4PM:5velocities:6
+
+Notes (0) :
+
+================================================================================
+

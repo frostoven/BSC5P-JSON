@@ -1,0 +1,69 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:06:42
+
+HD79416
+-------
+
+Object HR 3661  ---  a2*  ---  OID=@3004157   (@@63818,0)  ---  coobox=20533
+
+Coordinates(ICRS,ep=J2000,eq=2000): 09 12 30.52282  -43 36 47.7371 (Opt ) A [4.22 3.34 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 09 10 39.42267  -43 24 24.6742
+Coordinates(Gal,ep=J2000,eq=2000): 266.62506067  +03.29755121 
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -22.72 12.87 [0.48 0.38 0] A 2007A&A...474..653V
+Parallax: 4.71 [0.46] A 2007A&A...474..653V
+Radial Velocity: 15.40 [3.7] C 2007AN....328..889K
+Redshift: 0.000051 [0.000012] C 2007AN....328..889K
+cz: 15.40 [3.70] C 2007AN....328..889K
+Flux U : 4.98 [~] D 2003AJ....125.2531R
+Flux B : 5.46 [~] E ~                  
+Flux V : 5.562 [~] E ~                  
+Spectral type: B8V(pSi) C 1978MSS...C02....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (29):
+   CD-43 5041                      CEL 3222                        CPC 0 7119                    
+   CPD-43 3450                     CSI-43 5041 23                  CSI-43 5041 21                
+   GC 12719                        GCRV 6027                       GEN# +1.00079416J             
+   HD 79416                        HIC 45189                       HIP 45189                     
+   HR 3661                         PPM 314078                      ROT 1450                      
+   SAO 220952                      SKY# 17761                      TD1 13689                     
+   UBV 8837                        V* KL Vel                       [CS62] E4 40                  
+   ALS 19671                       Renson 22530                    PMSC 09088-4312               
+   IDS 09088-4312 ABC              CCDM J09125-4337ABC             ** HJ 4188AB                  
+   WDS J09125-4337AB               WEB 8619                                                      
+
+Bibcodes  1850-2021 () (84):
+  2021MNRAS.504.3758P  2019A&A...623A..72K  2017MNRAS.468.2745N  2016A&A...585A..12B
+  2016A&A...591A.118S  2016AJ....152..207R  2015A&A...584A..26B  2013MNRAS.433..402A
+  2012A&A...537A.120Z  2012A&A...546A..61D  2012AJ....143...42H  2012AJ....144...56T
+  2012ApJS..199....8G  2012MNRAS.427..343M  2011MNRAS.414.2602D  2010A&A...510A..54W
+  2010AJ....139..743T  2009A&A...498..961R  2009AJ....137.3358M  2008MNRAS.389..869E
+  2008MNRAS.389..925T  2005AJ....130.1652R  2004AcA....54..281M  2003A&A...411..447L
+  2003AJ....125.2531R  2003AJ....126..370D  2002A&A...384.1030S  2002NewA....7..495C
+  2001A&A...367..521P  2001A&A...380..238S  2000A&A...359...82T  2000ApJS..129..281C
+  1999A&A...343..872A  1999A&AS..134...87J  1998A&A...330..215W  1998A&AS..127..421C
+  1998A&AS..132...93A  1998AJ....116.2423P  1997A&A...325.1125L  1997A&AS..124...75T
+  1996A&AS..118..481B  1996AJ....111..936H  1996MNRAS.281..522C  1995A&AS..114..269D
+  1995A&AS..114..487J  1994A&AS..107..235J  1994BSAO...38..152G  1993SAAOC..15...30C
+  1993yCat.3135....0C  1991A&AS...88...63P  1991A&AS...89..429R  1990SAAOC..14...55C
+  1989SAAOC..13....1M  1989SAAOC..13...15C  1988A&AS...72....1C  1987ApJS...63..365C
+  1987MNRAS.227..213S  1987SAAOC..11...93C  1985IBVS.2681....1K  1984A&AS...55..371C
+  1984ApJS...55..657C  1983A&AS...52..193V  1983MNRAS.202..761H  1983SAAOC...7...36C
+  1982MNSSA..41...85C  1980MNSSA..39...22C  1980SAAOC...1..149M  1979A&AS...35..193W
+  1978MSS...C02....0H  1977A&AS...27..343D  1977A&AS...30...71C  1976MmRAS..81...25C
+  1975Ap.....11..266G  1975PASP...87..289G  1974AJ.....79.1022C  1974MNSSA..33..149C
+  1973SAOSR.350....1D  1972AJ.....77..733B  1972AJ.....77..868C  1968AJ.....73..569V
+  1962RGOB...49....3C  1953GCRV..C......0W  1950AJ.....55....9S  1950MNRAS.110..531C
+
+Measures (Fe_H:1  MK:3  PLX:2  PM:2  ROT:1  velocities:6  ):
+Fe_H:1MK:3PLX:2PM:2ROT:1velocities:6
+
+Notes (2) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 45189 includes the components \object{CCDM J09125-4337AB} and \object{CCDM J09125-4337C}
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    see also \object{NAME HR 3661 CLUSTER}
+
+================================================================================
+

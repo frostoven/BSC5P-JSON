@@ -1,0 +1,55 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:05:18
+
+HD77104
+-------
+
+Object * 66 Cnc  ---  *  ---  OID=@1600765   (@@22613,7)  ---  coobox=12296
+
+Coordinates(ICRS,ep=J2000,eq=2000): 09 01 24.1299974045  +32 15 08.266604098 (Opt ) A [0.0745 0.0581 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 08 58 20.4475911012  +32 26 56.413074638
+Coordinates(Gal,ep=J2000,eq=2000): 192.3551959247809  +40.3642484926231
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 0.48 0.34 [0.77 0.57 0] A 2007A&A...474..653V
+Parallax: 6.8850 [0.1020] A 2018yCat.1345....0G
+Radial Velocity: -12.8 [2] E 1953GCRV..C......0W
+Redshift: -0.000043 [0.000007] E 1953GCRV..C......0W
+cz: -12.80 [2.00] E 1953GCRV..C......0W
+Flux U : 6.030 [0.010] C 1991A&AS...89..415O
+Flux B : 5.940 [0.007] C 1991A&AS...89..415O
+Flux V : 5.870 [0.009] C 1991A&AS...89..415O
+Flux G : 5.9370 [0.0006] C 2018yCat.1345....0G
+Flux J : 5.727 [0.021] C 2003yCat.2246....0C
+Flux H : 5.746 [0.021] C 2003yCat.2246....0C
+Flux K : 5.718 [0.018] C 2003yCat.2246....0C
+Spectral type: A2V D 2007A&A...463..671R
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (27):
+   TIC 166584461                   * 66 Cnc                        AG+32 928                     
+   BD+32 1829                      CSI+32 1829 1                   GC 12456                      
+   GCRV 5923                       HD 77104                        HGAM 587                      
+   HIC 44307                       HIP 44307                       HR 3587                       
+   PPM 74179                       SAO 61202                       SKY# 17411                    
+   TD1 13392                       UBV 8702                        2MASS J09012412+3215082       
+   TYC 2492-1845-1                 WEB 8496                        Gaia DR2 712054695201335296   
+   CCDM J09014+3216A               ADS 7137 A                      GEN# +1.00077104              
+   IDS 08553+3239 A                ** STF 1298A                    WDS J09014+3215A              
+
+Bibcodes  1850-2021 () (29):
+  2019A&A...623A..72K  2017AJ....153...16S  2016A&A...591A.118S  2016AJ....152...40G
+  2015ApJS..216...33F  2012A&A...537A.120Z  2012A&A...546A..61D  2012ApJS..199....8G
+  2012MNRAS.427..343M  2010A&A...510A..54W  2008MNRAS.389..869E  2007A&A...463..671R
+  2006AstL...32..759G  2005AJ....130.2262R  2004AJ....128.3012M  2003A&A...411..447L
+  2002A&A...393..897R  2000AJ....119.3071D  1999AJ....117.2511G  1995A&AS..114..269D
+  1995ApJS...99..135A  1993yCat.3135....0C  1991A&AS...89..415O  1991PPMtO..10..214Y
+  1976PASP...88...95C  1970ApJS...19..387A  1959ApJ...130..159O  1956JO.....39..181M
+  1953GCRV..C......0W                                    
+
+Measures (distance:1  Fe_H:1  MK:1  PLX:3  PM:3  ROT:2  velocities:4  ):
+distance:1Fe_H:1MK:1PLX:3PM:3ROT:2velocities:4
+
+Notes (0) :
+
+================================================================================
+

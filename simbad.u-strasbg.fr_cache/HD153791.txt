@@ -1,0 +1,54 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:49:37
+
+HD153791
+--------
+
+Object HD 153791  ---  *  ---  OID=@3509185   (@@67786,15)  ---  coobox=22393
+
+Coordinates(ICRS,ep=J2000,eq=2000): 17 03 41.6828872168  -47 09 38.053975802 (Opt ) A [0.0746 0.0656 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 16 59 58.2347581688  -47 05 26.558151658
+Coordinates(Gal,ep=J2000,eq=2000): 340.3253324690232  -03.4530386024280
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -0.697 5.317 [0.124 0.109 90] A 2018yCat.1345....0G
+Parallax: 5.9192 [0.0855] A 2018yCat.1345....0G
+Radial Velocity: 3.80 [0.5] A 2006AstL...32..759G
+Redshift: 0.000013 [0.000002] A 2006AstL...32..759G
+cz: 3.80 [0.50] A 2006AstL...32..759G
+Flux B : 6.136 [0.014] D 2000A&A...355L..27H
+Flux V : 6.064 [0.010] D 2000A&A...355L..27H
+Flux G : 6.0485 [0.0006] C 2018yCat.1345....0G
+Flux J : 5.882 [0.021] C 2003yCat.2246....0C
+Flux H : 5.844 [0.021] C 2003yCat.2246....0C
+Flux K : 5.809 [0.021] C 2003yCat.2246....0C
+Spectral type: A2/3V D 1978MSS...C02....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (25):
+   CCDM J17037-4710A               CD-46 11191                     CPC 0 15719                   
+   CPD-46 8369                     CSI-46 11191 21                 CSI-46 11191 23               
+   GC 22977                        GSC 08331-00666                 HD 153791                     
+   HIC 83481                       HIP 83481                       HR 6323                       
+   IDS 16563-4701 A                PPM 322556                      SAO 227588                    
+   SKY# 30760                      TD1 19826                       TYC 8331-666-1                
+   [SC95] ZET 254                  [SC96] Mis 254                  2MASS J17034167-4709381       
+   WDS J17037-4710A                uvby98 100153791                Gaia DR1 5962868367384144768  
+   Gaia DR2 5962868371706076160                                                                  
+
+Bibcodes  1850-2021 () (22):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2016A&A...591A.118S  2015A&A...580A..23P
+  2012A&A...537A.120Z  2012A&A...542A.116A  2012A&A...546A..61D  2012MNRAS.427..343M
+  2007A&A...463..671R  2006AstL...32..759G  2002A&A...381..105R  2002A&A...393..897R
+  2001A&A...373..625P  1999A&AS..135..503G  1998A&AS..129..431H  1996ApJS..104..101S
+  1995ApJS...96..605S  1993yCat.3135....0C  1990A&AS...85..915D  1978MSS...C02....0H
+  1977A&AS...27..443G  1971MNSSA..30...79C                        
+
+Measures (distance:1  Fe_H:1  MK:2  PLX:4  PM:4  ROT:2  velocities:1  ):
+distance:1Fe_H:1MK:2PLX:4PM:4ROT:2velocities:1
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 83481 includes the components \object{CCDM J17037-4710 A} and \object{CCDM J17037-4710 B}
+
+================================================================================
+

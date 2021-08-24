@@ -1,0 +1,49 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:52:18
+
+HD61031
+-------
+
+Object HD 61031  ---  *  ---  OID=@3008383   (@@67692,16)  ---  coobox=21022
+
+Coordinates(ICRS,ep=J2000,eq=2000): 07 34 39.5796737769  -51 28 28.259558217 (Opt ) A [0.0352 0.0364 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 07 33 22.6925207706  -51 21 48.906309151
+Coordinates(Gal,ep=J2000,eq=2000): 263.7074808296834  -14.6435996444650
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -5.164 7.859 [0.075 0.070 90] A 2018yCat.1345....0G
+Parallax: 2.4559 [0.0360] A 2018yCat.1345....0G
+Radial Velocity: 28.30 [1.9] B 2006AstL...32..759G
+Redshift: 0.000094 [0.000006] B 2006AstL...32..759G
+cz: 28.30 [1.90] B 2006AstL...32..759G
+Flux B : 6.351 [0.014] D 2000A&A...355L..27H
+Flux V : 6.280 [0.010] D 2000A&A...355L..27H
+Flux G : 6.2361 [0.0005] C 2018yCat.1345....0G
+Flux J : 5.958 [0.024] C 2003yCat.2246....0C
+Flux H : 5.860 [0.023] C 2003yCat.2246....0C
+Flux K : 5.823 [0.020] C 2003yCat.2246....0C
+Spectral type: A1III/IV D 1978MSS...C02....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (20):
+   TIC 267457243                   2MASS J07343957-5128282         CD-51 2571                    
+   CPC 0 4656                      CPD-51 1232                     GC 10179                      
+   GEN# +1.00061031                GSC 08145-02038                 HD 61031                      
+   HIC 36856                       HIP 36856                       HR 2925                       
+   PPM 336173                      SAO 235310                      SKY# 13896                    
+   TD1 10580                       TYC 8145-2038-1                 uvby98 100061031              
+   Gaia DR1 5493443697649869952    Gaia DR2 5493443701948812800                                  
+
+Bibcodes  1850-2021 () (18):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2016A&A...591A.118S  2015A&A...580A..23P
+  2012A&A...546A..61D  2012MNRAS.427..343M  2007AstL...33..571B  2006A&A...458..293P
+  2006AstL...32..759G  1999AJ....117..354D  1998A&AS..129..431H  1998A&AS..130..455V
+  1993yCat.3135....0C  1987ApJS...65..581G  1984ApJS...55..597E  1978MSS...C02....0H
+  1977A&AS...27..443G  1977PASP...89..205E                        
+
+Measures (distance:1  Fe_H:1  MK:2  PLX:4  PM:4  velocities:1  ):
+distance:1Fe_H:1MK:2PLX:4PM:4velocities:1
+
+Notes (0) :
+
+================================================================================
+

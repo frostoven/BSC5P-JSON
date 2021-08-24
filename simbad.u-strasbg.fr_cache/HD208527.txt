@@ -1,0 +1,65 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:38:02
+
+HD208527
+--------
+
+Object HD 208527  ---  *  ---  OID=@1479291   (@@30615,10)  ---  coobox=9609
+
+Coordinates(ICRS,ep=J2000,eq=2000): 21 56 23.9845774113  +21 14 23.486334463 (Opt ) A [0.0975 0.1095 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 21 54 03.5726129317  +21 00 05.449718477
+Coordinates(Gal,ep=J2000,eq=2000): 077.2452082942340  -25.7177705527474
+hierarchy counts: #parents=0, #children=1, #siblings=0
+Proper motions: 1.205 15.029 [0.249 0.214 90] A 2018yCat.1345....0G
+Parallax: 3.1798 [0.1118] A 2018yCat.1345....0G
+Radial Velocity: 4.67 [0.20] A 2018yCat.1345....0G
+Redshift: 0.000016 [0.000001] A 2018yCat.1345....0G
+cz: 4.67 [0.20] A 2018yCat.1345....0G
+Flux U : 10.090 [0.010] C 1991A&AS...89..415O
+Flux B : 8.060 [0.007] C 1991A&AS...89..415O
+Flux V : 6.370 [0.009] C 1991A&AS...89..415O
+Flux G : 5.5974 [0.0025] C 2018yCat.1345....0G
+Flux J : 3.328 [0.214] D 2003yCat.2246....0C
+Flux H : 2.537 [0.170] D 2003yCat.2246....0C
+Flux K : 2.224 [0.244] D 2003yCat.2246....0C
+Spectral type: K5V D ~                  
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (29):
+   TIC 283621278                   AG+21 2431                      BD+20 5046                    
+   DO 21021                        FK5 1579                        GC 30710                      
+   GCRV 13785                      GEN# +1.00208527                GJ 841.1                      
+   GSC 01691-01788                 HD 208527                       HIC 108296                    
+   HIP 108296                      HR 8372                         IRC +20524                    
+   N30 4835                        PMC 90-93 1119                  PPM 113798                    
+   SAO 90112                       SKY# 41804                      SRS 31579                     
+   TYC 1691-1788-1                 YZ 21 8460                      Zkh 323                       
+   uvby98 100208527                Gaia DR2 1781063082986968960    2MASS J21562398+2114233       
+   PLX 5301.02                     WEB 19509                                                     
+
+Bibcodes  1850-2021 () (60):
+  2020ApJ...890...23L  2019A&A...623A..72K  2019ApJ...876...23G  2019ApJ...887..261M
+  2019MNRAS.490.3158C  2019PASP..131c4401D  2018A&A...620A..58S  2018AJ....156...64J
+  2017A&A...603A..30S  2017AJ....153..136S  2017AJ....154..184W  2017ApJ...844...36L
+  2016MNRAS.457.2173G  2015A&A...576A..94S  2015A&A...580A..23P  2014ApJS..210....5F
+  2013A&A...549A...2L  2013A&A...551L...8P  2013A&A...552A.119S  2013A&A...556A.150S
+  2011MNRAS.410..190T  2010ApJ...725..875I  2010ApJS..190..203P  2010PASP..122..885S
+  2007ApJS..168..297T  2006AstL...32..759G  2006MNRAS.368..637W  2005A&A...430..165F
+  2004ApJS..152..261W  2002A&A...390.1033V  2002ApJS..141..503N  2002KFNT...18f.535Z
+  2001A&A...365..222G  2001A&A...367..521P  2000ApJ...532..474S  1999VeARI..35....1W
+  1998A&AS..132..155H  1997AJ....114..850S  1997PNAOJ...5....1Y  1995A&AS..109..501C
+  1995A&AS..114..269D  1995GCTP..C......0V  1993yCat.3135....0C  1992A&AS...95..355C
+  1992PASP..104...96P  1991A&AS...89..415O  1990PBeiO..16...18L  1989A&AS...77..411S
+  1989SoByu..61...66M  1987A&AS...67..157R  1987AJ.....93..183M  1984AJ.....89.1068H
+  1983A&AS...52..131O  1982A&AS...50..147C  1980BICDS..18...27H  1979VKha..190...52Z
+  1977A&AS...30..349F  1975AJ.....80.1011H  1961MmSAI..32..281F  1953GCRV..C......0W
+
+Measures (distance:1  Fe_H:2  ISO:1  MK:1  PLX:4  PM:6  velocities:7  ):
+distance:1Fe_H:2ISO:1MK:1PLX:4PM:6velocities:7
+
+Notes (1) :
+(S) 13-Nov-2012 - bc    ref:~    obj:HD 208527
+    Substellar companion \object{HD 208527b} detected, see also \exosun{HD 208527} in the \exoEncyclopedie.
+
+================================================================================
+

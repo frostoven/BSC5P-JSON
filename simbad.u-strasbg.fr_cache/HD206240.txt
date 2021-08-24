@@ -1,0 +1,49 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:35:04
+
+HD206240
+--------
+
+Object * lam Oct  ---  **  ---  OID=@3304704   (@@71256,12)  ---  coobox=23588
+
+Coordinates(ICRS,ep=J2000,eq=2000): 21 50 54.56355  -82 43 08.0450 (Opt ) A [4.13 3.52 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 21 43 27.77411  -82 57 05.3136
+Coordinates(Gal,ep=J2000,eq=2000): 309.02082204  -32.13261427 
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: 68.14 -31.86 [0.47 0.40 0] A 2007A&A...474..653V
+Parallax: 7.97 [0.45] A 2007A&A...474..653V
+Radial Velocity: -10.5 [2] E 1953GCRV..C......0W
+Redshift: -0.000035 [0.000007] E 1953GCRV..C......0W
+cz: -10.50 [2.00] E 1953GCRV..C......0W
+Flux B : 6.04 [~] E ~                  
+Flux V : 5.29 [~] E ~                  
+Flux J : 3.906 [0.290] D 2003yCat.2246....0C
+Flux H : 3.434 [0.238] D 2003yCat.2246....0C
+Flux K : 3.336 [0.284] D 2003yCat.2246....0C
+Spectral type: G8/K0III D 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (26):
+   TIC 392772420                   2MASS J21505467-8243080         * lam Oct                     
+   CCDM J21509-8243AB              CPC 22 2718                     CPD-83 722                    
+   GC 30472                        GCRV 13676                      GEN# +1.00206240J             
+   HD 206240                       HD 206241                       HIC 107843                    
+   HIP 107843                      HR 8280                         IDS 21356-8311 AB             
+   IRAS 21435-8257                 N30 4795                        PPM 378641                    
+   SAO 258914                      SKY# 41633                      TD1 28351                     
+   UBV 18611                       WDS J21509-8243AB               ** HJ 5278AB                  
+   uvby98 100206240                WEB 19445                                                     
+
+Bibcodes  1850-2021 () (15):
+  2019A&A...623A..72K  2011A&A...530A..93V  2008MNRAS.389..869E  2006AstL...32..759G
+  2000AJ....120.2638H  1995A&AS..114..269D  1993yCat.3135....0C  1984AJ.....89.1887C
+  1984ApJS...55..657C  1983MNRAS.202..761H  1981SAAOC...6...10D  1979A&AS...37..367O
+  1975MSS...C01....0H  1953GCRV..C......0W  1938CoPer...1...10H            
+
+Measures (MK:4  PLX:2  PM:4  velocities:5  ):
+MK:4PLX:2PM:4velocities:5
+
+Notes (0) :
+
+================================================================================
+

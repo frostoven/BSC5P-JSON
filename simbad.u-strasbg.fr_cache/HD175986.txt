@@ -1,0 +1,58 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:09:06
+
+HD175986
+--------
+
+Object HD 175986  ---  **  ---  OID=@3402036   (@@70252,9)  ---  coobox=23668
+
+Coordinates(ICRS,ep=J2000,eq=2000): 19 03 29.6337340883  -68 45 20.061187744 (Opt ) A [0.1988 0.2659 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 18 58 09.7262402147  -68 49 42.601437732
+Coordinates(Gal,ep=J2000,eq=2000): 326.7214943084025  -26.2285436259462
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -8.647 -7.576 [0.490 0.599 90] A 2018yCat.1345....0G
+Parallax: 15.5512 [0.2935] A 2018yCat.1345....0G
+Radial Velocity: 26.37 [0.18] A 2018yCat.1345....0G
+Redshift: 0.000088 [0.000001] A 2018yCat.1345....0G
+cz: 26.37 [0.18] A 2018yCat.1345....0G
+Flux B : 6.422 [0.014] D 2000A&A...355L..27H
+Flux V : 5.861 [0.009] D 2000A&A...355L..27H
+Flux G : 5.7307 [0.0006] C 2018yCat.1345....0G
+Flux J : 4.588 [0.168] D 2003yCat.2246....0C
+Flux H : 4.719 [0.017] C 2003yCat.2246....0C
+Flux K : 4.546 [0.016] C 2003yCat.2246....0C
+Spectral type: G0IV C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size: 0.0017  0.0   26 (Opt )  D 2001AJ....122.3466M
+
+Identifiers (24):
+   TIC 382151113                   CCDM J19035-6845AB              CPC 21.1 3678                 
+   CPD-68 3180                     GC 26117                        GEN# +1.00175986J             
+   GSC 09292-02325                 HD 175986                       HIC 93574                     
+   HIP 93574                       HR 7161                         IDS 18528-6854 AB             
+   IRAS 18581-6849                 PPM 363742                      SAO 254446                    
+   SKY# 35219                      TD1 23572                       TYC 9292-2325-1               
+   UBV 16106                       2MASS J19032965-6845199         WDS J19035-6845AB             
+   uvby98 100175986                ** FIN 357                      Gaia DR2 6421518377211390208  
+
+Bibcodes  1850-2021 () (42):
+  2020ApJS..247...11R  2019A&A...623A..72K  2019ApJS..241...12S  2019MNRAS.482.4096D
+  2018A&A...616A..37B  2017AJ....154..115H  2017MNRAS.469.3042N  2016A&A...591A.118S
+  2016ApJ...826..171G  2015A&A...580A..23P  2014AJ....147...87T  2013MNRAS.428..321D
+  2012A&A...542A.116A  2012A&A...546A..69M  2012MNRAS.427..343M  2012MNRAS.427.2723J
+  2011A&A...530A.138C  2010AJ....139..743T  2010ChA&A..34..277X  2010SerAJ.180...71C
+  2009A&A...501..941H  2008MNRAS.389..869E  2006AstL...32..759G  2004A&A...418..989N
+  2003A&A...398..647R  2002A&A...384..180F  2001BaltA..10..481B  1999A&A...341..121S
+  1998A&A...330..585M  1998A&AS..128...29P  1998A&AS..129..431H  1998A&AS..133..149M
+  1995AJ....109.2828T  1993yCat.3135....0C  1992MNRAS.257..105B  1991AJ....102..589S
+  1985A&AS...59...15A  1983A&AS...53..177A  1980ApJS...44....1T  1977A&AS...27..443G
+  1975AJ.....80..637M  1975MSS...C01....0H                        
+
+Measures (distance:1  Fe_H:1  MK:3  PLX:3  PM:4  velocities:3  ):
+distance:1Fe_H:1MK:3PLX:3PM:4velocities:3
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 93574 includes the components \object{CCDM J19035-6845AB}
+
+================================================================================
+

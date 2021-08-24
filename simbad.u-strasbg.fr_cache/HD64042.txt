@@ -1,0 +1,53 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:54:42
+
+HD64042
+-------
+
+Object HD 64042  ---  *  ---  OID=@1013028   (@@13817,7)  ---  coobox=7951
+
+Coordinates(ICRS,ep=J2000,eq=2000): 07 51 00.0796  -24 31 42.800 (Opt ) A [0.678 0.347 0] 2016A&A...595A...2G
+Coordinates(FK4,ep=B1950,eq=1950): 07 48 53.3267  -24 23 58.803
+Coordinates(Gal,ep=J2000,eq=2000): 241.3670079  +01.0753781   
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -3.780 -28.503 [0.030 0.041 90] A 2016A&A...595A...2G
+Parallax: 7.12 [0.70] A 2007A&A...474..653V
+Radial Velocity: -6.70 [2] B 2007AN....328..889K
+Redshift: -0.000022 [0.000007] B 2007AN....328..889K
+cz: -6.70 [2.00] B 2007AN....328..889K
+Flux B : 6.459 [0.015] D 2000A&A...355L..27H
+Flux V : 6.478 [0.010] D 2000A&A...355L..27H
+Flux G : 6.510 [0.001] C 2016A&A...595A...2G
+Flux J : 6.377 [0.024] C 2003yCat.2246....0C
+Flux H : 6.371 [0.034] C 2003yCat.2246....0C
+Flux K : 6.347 [0.023] C 2003yCat.2246....0C
+Spectral type: B9.5V C 1988MSS...C04....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (26):
+   TIC 128057356                   ADS 6414 AB                     CCDM J07510-2432AB            
+   CD-24 6060                      CPD-24 2966                     GC 10613                      
+   GEN# +1.00064042J               GSC 06557-04521                 HD 64042                      
+   HIC 38316                       HIP 38316                       HR 3060                       
+   IDS 07468-2416 AB               PPM 253316                      SAO 174658                    
+   SKY# 14602                      TD1 11195                       TYC 6557-4521-1               
+   UBV 7576                        UBV M 13723                     YZ 114 5581                   
+   2MASS J07510008-2431426         WDS J07510-2432AB               ** B 146AB                    
+   uvby98 100064042                Gaia DR1 5614503535640491648                                  
+
+Bibcodes  1850-2021 () (17):
+  2019A&A...623A..72K  2016A&A...591A.118S  2015A&A...580A..23P  2012A&A...537A.120Z
+  2012A&A...546A..61D  2012MNRAS.427..343M  2007A&A...463..671R  2002A&A...393..897R
+  2000A&A...356..141F  1998A&AS..129..431H  1995ApJS...99..135A  1993yCat.3135....0C
+  1988MSS...C04....0H  1977A&AS...27..443G  1977PASP...89..187E  1977PASP...89..205E
+  1975PASP...87..945H                                    
+
+Measures (Fe_H:1  MK:2  PLX:3  PM:3  ROT:3  velocities:1  ):
+Fe_H:1MK:2PLX:3PM:3ROT:3velocities:1
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 38316 includes the components \object{CCDM J07510-2432AB}
+
+================================================================================
+

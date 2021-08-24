@@ -1,0 +1,52 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:19:45
+
+HD193944
+--------
+
+Object HD 193944  ---  *  ---  OID=@196199   (@@9991,15)  ---  coobox=215
+
+Coordinates(ICRS,ep=J2000,eq=2000): 20 20 30.6424901776  +53 35 44.480007354 (Opt ) A [0.0552 0.0600 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 20 19 10.8876224593  +53 26 10.366508515
+Coordinates(Gal,ep=J2000,eq=2000): 089.0815800647283  +09.6044102143021
+hierarchy counts: #parents=1, #children=0, #siblings=0
+Proper motions: 1.326 -1.959 [0.124 0.114 90] A 2018yCat.1345....0G
+Parallax: 2.2986 [0.0625] A 2018yCat.1345....0G
+Radial Velocity: -7.16 [0.39] A 2005A&A...430..165F
+Redshift: -0.000024 [0.000001] A 2005A&A...430..165F
+cz: -7.16 [0.39] A 2005A&A...430..165F
+Flux B : 7.769 [0.016] D 2000A&A...355L..27H
+Flux V : 6.197 [0.010] D 2000A&A...355L..27H
+Flux G : 5.6329 [0.0016] C 2018yCat.1345....0G
+Flux J : 3.787 [0.294] D 2003yCat.2246....0C
+Flux H : 3.009 [0.21] C 2003yCat.2246....0C
+Flux K : 2.696 [0.286] D 2003yCat.2246....0C
+Spectral type: K5 E 1993yCat.3135....0C
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (29):
+   TIC 352054125                   ADS 13743 A                     AG+53 1306                    
+   BD+53 2384                      CCDM J20205+5336A               CSI+53 2384 1                 
+   GC 28311                        GCRV 12710                      GEN# +1.00193944J             
+   GSC 03937-00494                 HD 193944                       HIC 100295                    
+   HIP 100295                      HR 7791                         IDS 20178+5317                
+   IRC +50325                      PPM 38399                       SAO 32491                     
+   SKY# 38415                      TYC 3937-494-1                  UBV M 24778                   
+   YZ 53 6508                      WDS J20205+5336A                2MASS J20203062+5335444       
+   Gaia DR1 2184903361589514112    WEB 18090                       Gaia DR2 2184903365893090688  
+   WISE J202030.67+533542.6        IRAS 20191+5326                                               
+
+Bibcodes  1850-2021 () (17):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2018A&A...615A..49C  2012MNRAS.427..343M
+  2011MNRAS.410..190T  2006AstL...32..759G  2005A&A...430..165F  1995A&AS..114..269D
+  1993yCat.3135....0C  1992A&A...261..499S  1987A&AS...68..259H  1986ApJS...62..147B
+  1985ApJS...59...95A  1961ApJS....6....1K  1954AJ.....59..228E  1953GCRV..C......0W
+  1892AN....129..297E                                    
+
+Measures (distance:1  MK:1  PLX:4  PM:5  velocities:6  ):
+distance:1MK:1PLX:4PM:5velocities:6
+
+Notes (0) :
+
+================================================================================
+

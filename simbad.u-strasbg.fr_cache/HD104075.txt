@@ -1,0 +1,57 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:22:03
+
+HD104075
+--------
+
+Object HD 104075  ---  *  ---  OID=@1860323   (@@38637,4)  ---  coobox=12757
+
+Coordinates(ICRS,ep=J2000,eq=2000): 11 59 17.5328524809  +33 10 01.211628180 (Opt ) A [0.0748 0.0656 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 11 56 43.4034516860  +33 26 43.730757107
+Coordinates(Gal,ep=J2000,eq=2000): 181.5801273878036  +77.2261118943652
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -1.611 -10.263 [0.133 0.162 90] A 2018yCat.1345....0G
+Parallax: 6.0329 [0.0895] A 2018yCat.1345....0G
+Radial Velocity: 1.03 [0.21] A 2018yCat.1345....0G
+Redshift: 0.000003 [0.000001] A 2018yCat.1345....0G
+cz: 1.03 [0.21] A 2018yCat.1345....0G
+Flux B : 7.12 [0.02] C 1997JApA...18..161Y
+Flux V : 5.96 [0.02] C 1997JApA...18..161Y
+Flux G : 5.5966 [0.0012] C 2018yCat.1345....0G
+Flux J : 4.099 [0.326] D 2003yCat.2246....0C
+Flux H : 3.506 [0.27] D 2003yCat.2246....0C
+Flux K : 3.44 [0.35] D 2003yCat.2246....0C
+Spectral type: K1II-III C 1997JApA...18..161Y
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (28):
+   TIC 173046336                   IRAS 11567+3326                 AKARI-IRC-V1 J1159175+331001  
+   ADS 8374 A                      AG+33 1119                      BD+33 2176                    
+   CCDM J11593+3310A               CSI+33 2176 1                   GC 16392                      
+   GCRV 7214                       GEN# +1.00104075J               GSC 02524-02324               
+   HD 104075                       HIC 58460                       HIP 58460                     
+   HR 4581                         IDS 11542+3343 A                JP11 2137                     
+   NGP 33 32                       PPM 76194                       SAO 62784                     
+   SKY# 22563                      TYC 2524-2324-1                 UBV M 17586                   
+   WDS J11593+3310A                2MASS J11591754+3310013         WEB 10444                     
+   Gaia DR2 4027931110281084416                                                                  
+
+Bibcodes  1850-2021 () (32):
+  2019A&A...623A..72K  2019MNRAS.483..299G  2019MNRAS.490.3158C  2017AJ....153...16S
+  2016ApJ...817...40F  2016MNRAS.460.3179W  2012A&A...546A..61D  2012MNRAS.427..343M
+  2006AstL...32..759G  2005A&A...430..165F  1999A&AS..139..433D  1997A&AS..124..255F
+  1997JApA...18..161Y  1995A&AS..114..269D  1993PASP..105.1422P  1993yCat.3135....0C
+  1991PPMtO..10..214Y  1989AJ.....97..510M  1986ApJS...62..147B  1983A&AS...53..427H
+  1981ApJS...45..437A  1978AJ.....83..791E  1976A&AS...26..219M  1975ApJS...29..161J
+  1973AJ.....78...37S  1972AJ.....77..726S  1970A&AS....1..199H  1970ApJS...19..387A
+  1968ApJ...151..907A  1962AJ.....67...37U  1961ApJS....6....1K  1953GCRV..C......0W
+
+Measures (distance:1  Fe_H:2  MK:4  PLX:3  PM:3  velocities:6  ):
+distance:1Fe_H:2MK:4PLX:3PM:3velocities:6
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 58460 includes the components \object{CCDM J11593+3310 A} and \object{CCDM J11593+3310 B}
+
+================================================================================
+

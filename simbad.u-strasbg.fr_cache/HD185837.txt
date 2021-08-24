@@ -1,0 +1,55 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:14:00
+
+HD185837
+--------
+
+Object HD 185837  ---  *  ---  OID=@2902480   (@@59565,0)  ---  coobox=20294
+
+Coordinates(ICRS,ep=J2000,eq=2000): 19 39 44.92189  +33 58 44.1794 (Opt ) A [4.31 3.43 89] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 19 37 51.97172  +33 51 44.7548
+Coordinates(Gal,ep=J2000,eq=2000): 068.34381516  +05.76352382 
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -3.21 12.44 [0.39 0.49 0] A 2007A&A...474..653V
+Parallax: 6.67 [0.53] A 2007A&A...474..653V
+Radial Velocity: -33.30 [4.3] C 2006AstL...32..759G
+Redshift: -0.000111 [0.000014] C 2006AstL...32..759G
+cz: -33.30 [4.30] C 2006AstL...32..759G
+Flux U : 6.300 [0.010] C 1991A&AS...89..415O
+Flux B : 6.190 [0.007] C 1991A&AS...89..415O
+Flux V : 6.090 [0.009] C 1991A&AS...89..415O
+Flux J : 5.747 [0.020] C 2003yCat.2246....0C
+Flux H : 5.779 [0.021] C 2003yCat.2246....0C
+Flux K : 5.724 [0.021] C 2003yCat.2246....0C
+Spectral type: A3IV C ~                  
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (28):
+   TIC 70239340                    ADS 12765 AB                    AG+33 1820                    
+   BD+33 3547                      CCDM J19397+3359AB              CEL 4813                      
+   CSI+33 3547 1                   GC 27216                        GCRV 12055                    
+   GEN# +1.00185837J               GSC 02664-00996                 HD 185837                     
+   HIC 96724                       HIP 96724                       HR 7481                       
+   IDS 19360+3345 AB               PPM 83318                       ROT 2830                      
+   SAO 68654                       SKY# 36720                      TD1 25215                     
+   TYC 2664-996-1                  UBV 16718                       2MASS J19394490+3358442       
+   WDS J19397+3359AB               ** HO 111AB                     uvby98 100185837              
+   WEB 16969                                                                                     
+
+Bibcodes  1850-2021 () (24):
+  2019A&A...623A..72K  2015A&A...580A..23P  2012MNRAS.427..343M  2006AstL...32..759G
+  2000A&A...356..141F  1998A&AS..129..431H  1995A&AS..114..269D  1993yCat.3135....0C
+  1991A&AS...89..415O  1989PBeiO..14...12L  1980A&AS...39..167K  1978A&AS...33...15C
+  1976A&AS...26..219M  1973SAOSR.350....1D  1969ApJS...19...79B  1968RA......7..435M
+  1967JO.....50....7B  1966AJ.....71..709C  1964JO.....47....1B  1961ApJS....6....1K
+  1959ApJ...130..159O  1954JO.....37...73B  1953GCRV..C......0W  1952JO.....35...27B
+
+Measures (MK:4  PLX:2  PM:4  ROT:1  velocities:6  ):
+MK:4PLX:2PM:4ROT:1velocities:6
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 96724 includes the components \object{CCDM J19397+3359AB}
+
+================================================================================
+

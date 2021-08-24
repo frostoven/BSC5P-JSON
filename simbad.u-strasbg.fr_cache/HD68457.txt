@@ -1,0 +1,56 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:58:27
+
+HD68457
+-------
+
+Object * 56 Cam  ---  *  ---  OID=@437560   (@@2130,0)  ---  coobox=3666
+
+Coordinates(ICRS,ep=J2000,eq=2000): 08 15 50.5013239192  +60 22 50.161097263 (Opt ) A [0.0376 0.0405 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 08 11 38.5117540318  +60 32 01.917435178
+Coordinates(Gal,ep=J2000,eq=2000): 156.5871261336384  +33.6939005701890
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -16.350 6.950 [0.071 0.078 90] A 2018yCat.1345....0G
+Parallax: 5.9995 [0.0485] A 2018yCat.1345....0G
+Radial Velocity: -15.7 [2] E 1953GCRV..C......0W
+Redshift: -0.000052 [0.000007] E 1953GCRV..C......0W
+cz: -15.70 [2.00] E 1953GCRV..C......0W
+Flux B : 6.67 [0.01] D 2002A&A...384..180F
+Flux V : 6.48 [0.01] D 2002A&A...384..180F
+Flux G : 6.4334 [0.0006] C 2018yCat.1345....0G
+Flux J : 5.992 [0.019] C 2003yCat.2246....0C
+Flux H : 5.902 [0.018] C 2003yCat.2246....0C
+Flux K : 5.853 [0.018] C 2003yCat.2246....0C
+Spectral type: A7Vm D 2007A&A...463..671R
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (33):
+   TIC 73277893                    AG+60 626                       BD+60 1119                    
+   CSI+60 1119 1                   GC 11199                        GCRV 5459                     
+   GSC 04126-02445                 HD 68457                        HIC 40474                     
+   HIP 40474                       HR 3221                         PPM 16546                     
+   SAO 14479                       SKY# 15632                      TD1 11966                     
+   TYC 4126-2445-1                 UBV 7861                        [HFE83] 569                   
+   2MASS J08155048+6022502         Renson 18950                    BD+60 1119A                   
+   uvby98 100068457                WEB 7880                        Gaia DR1 1083911928599887488  
+   CCDM J08158+6022A               IDS 08074+6041 A                ** STF 1192A                  
+   GEN# +1.00068457                WDS J08158+6023A                ADS 6680 A                    
+   * 56 Cam                        1RXS J081547.2+602258           WISE J081550.47+602250.3      
+
+Bibcodes  1850-2021 () (31):
+  2019A&A...623A..72K  2018A&A...609A.116R  2016A&A...591A.118S  2015A&A...580A..23P
+  2014ApJ...791...58A  2012A&A...537A.120Z  2012A&A...546A..61D  2012MNRAS.427..343M
+  2009A&A...498..961R  2007A&A...463..671R  2007A&A...475..677S  2006AstL...32..759G
+  2002A&A...393..897R  2002MNRAS.331...45K  2000IBVS.4969....1A  1998A&AS..128..573M
+  1998A&AS..132..155H  1995A&AS..114..269D  1995ApJS...99..135A  1993yCat.3135....0C
+  1992A&AS...96..191C  1991A&AS...89..429R  1983A&AS...53..223H  1982A&AS...47..341K
+  1980ApJS...43..501C  1979IBVS.1545....1M  1976PASP...88...95C  1970ApJS...19..387A
+  1967JO.....50..343H  1961ApJS....6....1K  1953GCRV..C......0W            
+
+Measures (distance:1  Fe_H:4  MK:1  PLX:3  PM:5  ROT:3  velocities:4  ):
+distance:1Fe_H:4MK:1PLX:3PM:5ROT:3velocities:4
+
+Notes (0) :
+
+================================================================================
+

@@ -1,0 +1,53 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:42:18
+
+HD139980
+--------
+
+Object * h Lup  ---  PM*  ---  OID=@2311966   (@@49738,0)  ---  coobox=16427
+
+Coordinates(ICRS,ep=J2000,eq=2000): 15 42 38.3167556762  -37 25 29.775863233 (Opt ) A [0.1123 0.0748 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 15 39 22.8516605872  -37 15 57.512560423
+Coordinates(Gal,ep=J2000,eq=2000): 336.7139637615022  +13.9736721122213
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -49.055 -17.614 [0.258 0.198 90] A 2018yCat.1345....0G
+Parallax: 12.3617 [0.1356] A 2018yCat.1345....0G
+Radial Velocity: -14.41 [0.13] A 2018yCat.1345....0G
+Redshift: -0.000048 [0.000000] A 2018yCat.1345....0G
+cz: -14.41 [0.13] A 2018yCat.1345....0G
+Flux B : 6.218 [0.014] D 2000A&A...355L..27H
+Flux V : 5.240 [0.009] D 2000A&A...355L..27H
+Flux G : 4.9178 [0.0020] C 2018yCat.1345....0G
+Flux J : 3.471 [0.236] D 2003yCat.2246....0C
+Flux H : 2.911 [0.176] D 2003yCat.2246....0C
+Flux K : 2.819 [0.220] D 2003yCat.2246....0C
+Spectral type: G8/K0III D 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (27):
+   TIC 176457161                   PLX 3545                        * h Lup                       
+   CD-37 10441                     CPC 18 7748                     CPD-37 6553                   
+   FK5 3242                        GC 21103                        GCRV 9060                     
+   GEN# +1.00139980                GSC 07339-01215                 HD 139980                     
+   HIC 76939                       HIP 76939                       HR 5837                       
+   IRAS 15393-3715                 N30 3530                        PMC 90-93 1369                
+   PPM 294162                      SACS 344                        SAO 206887                    
+   SKY# 28402                      TYC 7339-1215-1                 2MASS J15423832-3725298       
+   PLX 3545.00                     WEB 13047                       Gaia DR2 6009789205765529472  
+
+Bibcodes  1850-2021 () (26):
+  2019A&A...623A..72K  2019ApJ...880...49H  2019MNRAS.490.3158C  2017AJ....154..115H
+  2016A&A...591A.118S  2015MNRAS.448.2749A  2015MNRAS.450.1900A  2012A&A...546A..61D
+  2012MNRAS.427..343M  2008MNRAS.389..869E  2006AstL...32..759G  2005A&A...431..773R
+  2005A&A...433.1155M  2000VeARI..37....1W  1997PNAOJ...5....1Y  1996AJ....111.1615E
+  1995A&AS..114..269D  1995GCTP..C......0V  1994A&AS..106..441N  1994PBeiO..24...71L
+  1993yCat.3135....0C  1991VeARI..33....1F  1990A&AS...85..915D  1982MSS...C03....0H
+  1966JO.....49..387L  1953GCRV..C......0W                        
+
+Measures (distance:1  Fe_H:1  ISO:1  MK:2  PLX:4  PM:5  velocities:7  ):
+distance:1Fe_H:1ISO:1MK:2PLX:4PM:5velocities:7
+
+Notes (0) :
+
+================================================================================
+

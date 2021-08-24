@@ -1,0 +1,52 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:55:05
+
+HD30605
+-------
+
+Object * 96 Tau  ---  *  ---  OID=@733692   (@@19159,2)  ---  coobox=4901
+
+Coordinates(ICRS,ep=J2000,eq=2000): 04 49 44.0816749591  +15 54 15.187387595 (Opt ) A [0.1072 0.0693 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 04 46 52.2670690630  +15 49 07.110835874
+Coordinates(Gal,ep=J2000,eq=2000): 183.6006665098914  -17.9690837292912
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 3.76 -7.56 [0.62 0.48 0] A 2007A&A...474..653V
+Parallax: 3.1697 [0.1152] A 2018yCat.1345....0G
+Radial Velocity: 10.89 [0.13] A 2018yCat.1345....0G
+Redshift: 0.000036 [0.000000] A 2018yCat.1345....0G
+cz: 10.89 [0.13] A 2018yCat.1345....0G
+Flux B : 7.69 [~] E ~                  
+Flux V : 6.11 [~] E ~                  
+Flux G : 5.4280 [0.0018] C 2018yCat.1345....0G
+Flux J : 3.396 [0.282] D 2003yCat.2246....0C
+Flux H : 2.543 [0.246] D 2003yCat.2246....0C
+Flux K : 2.398 [0.282] D 2003yCat.2246....0C
+Spectral type: K3III D ~                  
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (31):
+   TIC 436648370                   * 96 Tau                        ADS 3464 A                    
+   AG+15 411                       BD+15 687                       CCDM J04497+1554A             
+   CSI+15 687 1                    GC 5873                         GCRV 2836                     
+   GEN# +1.00030605                GSC 01280-01436                 HD 30605                      
+   HIC 22441                       HIP 22441                       HR 1537                       
+   IDS 04440+1544 A                IRC +20093                      PPM 120304                    
+   SAO 94151                       SKY# 7508                       TYC 1280-1436-1               
+   UBV 4620                        UBV M 10352                     YZ 15 1318                    
+   uvby98 100030605                WDS J04497+1554A                2MASS J04494408+1554153       
+   AKARI-IRC-V1 J0449440+155414    IRAS 04468+1549                 WEB 4327                      
+   Gaia DR2 3405115153910030848                                                                  
+
+Bibcodes  1850-2021 () (14):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2015A&A...580A..23P  2014A&A...567A..26L
+  2012A&A...546A..61D  2012MNRAS.427..343M  2006AstL...32..759G  2005A&A...430..165F
+  1995A&AS..114..269D  1993yCat.3135....0C  1990A&AS...83...91F  1970ApJS...19..387A
+  1966MNRAS.133..475A  1953GCRV..C......0W                        
+
+Measures (distance:1  MK:1  PLX:3  PM:3  velocities:6  ):
+distance:1MK:1PLX:3PM:3velocities:6
+
+Notes (0) :
+
+================================================================================
+

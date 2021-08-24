@@ -1,0 +1,75 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:51:14
+
+HD16754
+-------
+
+Object * s Eri  ---  SB*  ---  OID=@3015395   (@@75313,12)  ---  coobox=23221
+
+Coordinates(ICRS,ep=J2000,eq=2000): 02 39 47.9654399769  -42 53 30.363788605 (Opt ) A [0.3040 0.3259 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 02 37 53.6263531933  -43 06 20.724489533
+Coordinates(Gal,ep=J2000,eq=2000): 255.6730362750363  -62.9809146009521
+hierarchy counts: #parents=2, #children=0, #siblings=0
+Proper motions: 88.20 -17.82 [2.02 1.98 0] A 2007A&A...474..653V
+Parallax: 24.7076 [0.3930] A 2018yCat.1345....0G
+Radial Velocity: 18.00 [4.2] C 2006AstL...32..759G
+Redshift: 0.000060 [0.000014] C 2006AstL...32..759G
+cz: 18.00 [4.20] C 2006AstL...32..759G
+Flux B : 4.81 [~] E ~                  
+Flux V : 4.75 [~] E ~                  
+Flux G : 4.6496 [0.0029] C 2018yCat.1345....0G
+Flux J : 4.68 [0.27] D 2003yCat.2246....0C
+Flux H : 4.62 [0.08] E 2003yCat.2246....0C
+Flux K : 4.460 [0.024] C 2003yCat.2246....0C
+Spectral type: A1Vb C 2006AJ....132..161G
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (44):
+   TIC 142268253                   PLX 542                         * s Eri                       
+   CCDM J02398-4254A               CD-43 814                       CPC 0 1260                    
+   CPD-43 277                      CSI-43 814 21                   FK5 2185                      
+   GC 3217                         GCRV 1508                       GEN# +1.00016754              
+   GSC 07558-00987                 HD 16754                        HIC 12413                     
+   HIP 12413                       HR 789                          IDS 02360-4319 A              
+   JP11 683                        PPM 306963                      RBS 341                       
+   ROT 365                         SAO 215996                      SKY# 3974                     
+   TD1 1586                        TYC 7558-987-1                  UBV 2675                      
+   UBV M 9100                      uvby98 100016754                PLX 542.00                    
+   1RXS J023948.1-425327           WDS J02398-4254A                AKARI-IRC-V1 J0239480-425330  
+   IRAS 02379-4306                 * s Eri A                       * s Eri B                     
+   HD 16754A                       HD 16754B                       UCAC3 95-5540                 
+   UCAC4 236-002414                2MASS J02394796-4253300         WISE J023948.06-425330.4      
+   WEB 2542                        Gaia DR2 4946915263923114368                                  
+
+Bibcodes  1850-2021 () (74):
+  2019A&A...623A..72K  2019AJ....158...13N  2019MNRAS.483..299G  2018AJ....156..137B
+  2018MNRAS.474.1515W  2017AJ....154..115H  2017PASP..129e4501I  2016A&A...590A..13E
+  2016A&A...591A.118S  2016A&A...593A..38B  2016A&A...594A..63G  2016ApJ...826..171G
+  2015A&A...580A..23P  2015ApJ...804..146D  2015MNRAS.449.3160R  2015MNRAS.454..593B
+  2014MNRAS.445.2558T  2013A&A...553A..60R  2013ApJ...762...88M  2013ApJ...768...25G
+  2013ApJ...776....4N  2012A&A...542A.116A  2012A&A...544A...9V  2012A&A...546A..61D
+  2012A&ARv..20...51V  2012AJ....143..135V  2012ApJ...758...77Z  2012MNRAS.427..343M
+  2011A&A...530A..93V  2011A&A...531A.143D  2011ApJ...732...61Z  2010A&A...523A..73E
+  2010MNRAS.403.1089P  2009ApJS..184..138H  2008MNRAS.389..869E  2007A&A...464..377F
+  2007A&A...475..677S  2007AJ....134.1089S  2006AJ....132..161G  2006AstL...32..759G
+  2005AJ....129.2420M  2001A&A...367..521P  2000AN....321....1S  2000KFNT...16a..20K
+  1998A&AS..129..431H  1998A&AS..132..155H  1996BaltA...5..603A  1995A&AS..110..553S
+  1995A&AS..114..269D  1995ApJS...99..135A  1995GCTP..C......0V  1993VeARI..34....1S
+  1993yCat.3135....0C  1987ApJS...65..581G  1985A&AS...60...99W  1985A&AS...60..365M
+  1982ApJ...262..263T  1981A&A....96..174M  1981A&AS...44..337S  1978A&AS...33...15C
+  1978MSS...C02....0H  1977A&A....56..235H  1977A&AS...27..443G  1976A&AS...23..125S
+  1976ApJS...32....7B  1975A&AS...21...81D  1971ApJS...23..421H  1970AJ.....75..624C
+  1969AJ.....74..139P  1965BOTT....4...33I  1961MNRAS.123..233B  1953GCRV..C......0W
+  1950AJ.....55..138J  1950ApJ...112..554R                        
+
+Measures (distance:1  Fe_H:3  herschel:2  MK:2  PLX:4  PM:4  ROT:3  velocities:6  ):
+distance:1Fe_H:3herschel:2MK:2PLX:4PM:4ROT:3velocities:6
+
+Notes (1) :
+(S) 26-May-2014 - cl    ref:~    obj:* s Eri
+    Spectroscopic binary : components are not separated in Simbad. s Eri B = HD
+    16754 B not to be confused with ** B 2075B = WDS J02398-4254B = \object{UCAC4
+    236-002415}
+
+================================================================================
+

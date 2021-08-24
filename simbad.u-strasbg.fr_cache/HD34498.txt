@@ -1,0 +1,49 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:55:43
+
+HD34498
+-------
+
+Object HD 34498  ---  *  ---  OID=@776097   (@@23132,14)  ---  coobox=4416
+
+Coordinates(ICRS,ep=J2000,eq=2000): 05 20 02.3184282425  +44 25 31.379695133 (Opt ) A [0.0400 0.0309 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 05 16 24.2415845329  +44 22 30.693064778
+Coordinates(Gal,ep=J2000,eq=2000): 164.2203141145547  +04.1499308969795
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -0.25 -19.18 [0.56 0.29 0] A 2007A&A...474..653V
+Parallax: 3.9566 [0.0383] A 2018yCat.1345....0G
+Radial Velocity: 15.12 [0.14] A 2018yCat.1345....0G
+Redshift: 0.000050 [0.000000] A 2018yCat.1345....0G
+cz: 15.12 [0.14] A 2018yCat.1345....0G
+Flux U : 9.290 [0.010] C 1991A&AS...89..415O
+Flux B : 7.830 [0.007] C 1991A&AS...89..415O
+Flux V : 6.480 [0.009] C 1991A&AS...89..415O
+Flux G : 6.0353 [0.0005] C 2018yCat.1345....0G
+Flux J : 4.452 [0.250] D 2003yCat.2246....0C
+Flux H : 3.661 [0.236] D 2003yCat.2246....0C
+Flux K : 3.324 [0.324] E 2003yCat.2246....0C
+Spectral type: K0 E 1993yCat.3135....0C
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (19):
+   TIC 98771234                    2MASS J05200233+4425313         AG+44 538                     
+   AGKR 4731                       BD+44 1170                      GC 6508                       
+   GCRV 3165                       GSC 02921-02001                 HD 34498                      
+   HIC 24881                       HIP 24881                       HR 1733                       
+   IRAS 05164+4422                 PPM 47996                       SAO 40242                     
+   SKY# 8437                       TYC 2921-2001-1                 WEB 4818                      
+   Gaia DR2 208441089366368128                                                                   
+
+Bibcodes  1850-2021 () (15):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D  2012MNRAS.427..343M
+  2006AstL...32..759G  2005A&A...430..165F  1995A&AS..114..269D  1993yCat.3135....0C
+  1991A&AS...89..415O  1989SoByu..61...58E  1986Ap&SS.123...67G  1986BICDS..31..131H
+  1981Ap.....17..277E  1975PASP...87..289G  1953GCRV..C......0W            
+
+Measures (distance:1  MK:1  PLX:3  PM:6  velocities:6  ):
+distance:1MK:1PLX:3PM:6velocities:6
+
+Notes (0) :
+
+================================================================================
+

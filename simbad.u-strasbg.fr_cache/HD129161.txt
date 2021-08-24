@@ -1,0 +1,52 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:35:23
+
+HD129161
+--------
+
+Object HD 129161  ---  **  ---  OID=@2298327   (@@48176,1)  ---  coobox=16346
+
+Coordinates(ICRS,ep=J2000,eq=2000): 14 41 51.23708  -30 55 59.3696 (Opt ) A [6.68 4.57 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 14 38 51.84873  -30 43 11.6765
+Coordinates(Gal,ep=J2000,eq=2000): 329.23453330  +26.23875981 
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: -15.53 -15.87 [0.76 0.52 0] A 2007A&A...474..653V
+Parallax: 2.83 [0.73] A 2007A&A...474..653V
+Radial Velocity: -10.80 [3.7] C 2007AN....328..889K
+Redshift: -0.000036 [0.000012] C 2007AN....328..889K
+cz: -10.80 [3.70] C 2007AN....328..889K
+Flux B : 6.36 [~] E ~                  
+Flux V : 6.45 [~] E ~                  
+Flux J : 6.451 [0.023] C 2003yCat.2246....0C
+Flux H : 6.497 [0.018] C 2003yCat.2246....0C
+Flux K : 6.501 [0.020] C 2003yCat.2246....0C
+Spectral type: B8V C 1970MmRAS..72..233H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (26):
+   TIC 47619476                    BDS 6952 AB                     CCDM J14419-3056AB            
+   CD-30 11624                     CPC 17 7570                     CPD-30 3883                   
+   GC 19780                        GCRV 64941                      GEN# +1.00129161J             
+   GSC 07296-01962                 HD 129161                       HIC 71853                     
+   HIP 71853                       HR 5474                         IDS 14359-3030 AB             
+   PPM 292950                      SAO 205841                      SKY# 26706                    
+   TD1 17634                       YZ 120 9256                     2MASS J14415122-3055590       
+   WDS J14419-3056AB               Renson 36810                    ** BU 414                     
+   uvby98 100129161                WEB 12375                                                     
+
+Bibcodes  1850-2021 () (20):
+  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2000A&A...356..141F
+  1998A&A...336..953G  1998A&AS..129..431H  1998A&AS..132..155H  1998RMxAA..34..111L
+  1996AJ....111..936H  1995A&AS..114..269D  1993AJ....106..352H  1993yCat.3135....0C
+  1992ApJS...82..117S  1990A&AS...85..915D  1984A&AS...58..387N  1982MSS...C03....0H
+  1979MNRAS.189...13C  1977A&AS...27..443G  1970MmRAS..72..233H  1965JO.....48..211B
+
+Measures (MK:3  PLX:2  PM:3  velocities:4  ):
+MK:3PLX:2PM:3velocities:4
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 71853 includes the components \object{CCDM J14419-3056A} and \object{CCDM J14419-3056B}
+
+================================================================================
+

@@ -1,0 +1,59 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:50:57
+
+HD15253
+-------
+
+Object CCDM J02294+5532AB  ---  **  ---  OID=@137945   (@@2623,9)  ---  coobox=2629
+
+Coordinates(ICRS,ep=J2000,eq=2000): 02 29 24.96030  +55 32 10.3360 (Opt ) A [5.96 5.70 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 02 25 52.79793  +55 18 49.7665
+Coordinates(Gal,ep=J2000,eq=2000): 136.54826532  -04.72386055 
+hierarchy counts: #parents=1, #children=0, #siblings=0
+Proper motions: 33.47 -11.42 [0.65 0.68 0] A 2007A&A...474..653V
+Parallax: 6.14 [0.62] A 2007A&A...474..653V
+Radial Velocity: 1.5 [2] E 1953GCRV..C......0W
+Redshift: 0.000005 [0.000007] E 1953GCRV..C......0W
+cz: 1.50 [2.00] E 1953GCRV..C......0W
+Flux U : 6.60 [~] C 2002yCat.2237....0D
+Flux B : 6.60 [~] C 2002yCat.2237....0D
+Flux V : 6.51 [~] C 2002yCat.2237....0D
+Flux H : 6.23 [~] C 2002yCat.2237....0D
+Flux K : 6.24 [~] C 2002yCat.2237....0D
+Spectral type: B9.5Vn_sh C 1995ApJS...99..135A
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (26):
+   ADS 1878 AB                     AG+55 256                       BD+54 557                     
+   CCDM J02294+5532AB              CEL 279                         GC 2965                       
+   GCRV 1398                       GEN# +1.00015253J               HD 15253                      
+   HIC 11593                       HIP 11593                       HR 716                        
+   IDS 02224+5505                  JP11 653                        PPM 27672                     
+   SAO 23369                       SKY# 3685                       TD1 1437                      
+   UBV M 8959                      YZ 0 255                        YZ 55 1153                    
+   [KW97] 12-4                     WDS J02294+5532AB               ** STF 268AB                  
+   uvby98 100015253                WEB 2415                                                      
+
+Bibcodes  1850-2021 () (45):
+  2019A&A...623A..72K  2018A&A...615A..49C  2012A&A...546A..61D  2012AJ....143...28F
+  2012AJ....143..124M  2012MNRAS.427..343M  2010AJ....140.1758T  2007AJ....134.1671M
+  2007MNRAS.374..965S  2006AstL...32..759G  2002A&A...393..897R  2002yCat.2237....0D
+  2001AJ....122.1586M  2000A&A...354..157H  1999A&AS..134..255K  1998A&A...338..674W
+  1998A&AS..129..431H  1997AAHam..11....1K  1997AJ....113.1884S  1996ApJ...471L..49G
+  1995A&A...299..163L  1995A&AS..114..269D  1995ApJS...99..135A  1994BAAS...26.1388G
+  1993yCat.3135....0C  1992A&AS...96..191C  1991A&A...250..127J  1991A&A...252..229J
+  1990A&AS...85..855A  1990A&AS...85.1089L  1988A&AS...72..505J  1988Ap&SS.147....1G
+  1986A&AS...65....1A  1983A&AS...51...63P  1983PASP...95..491P  1980A&AS...41..319P
+  1979AJ.....84..356C  1976ApJS...30...97D  1973MNRAS.161..145A  1973SAOSR.350....1D
+  1968ApJ...151..907A  1968PASP...80..685C  1968PASP...80..746C  1967PASP...79..102A
+  1953GCRV..C......0W                                    
+
+Measures (IUE:5  MK:5  PLX:2  PM:2  ROT:2  velocities:4  ):
+IUE:5MK:5PLX:2PM:2ROT:2velocities:4
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 11593 includes the components \object{CCDM J02294+5532AB}
+
+================================================================================
+

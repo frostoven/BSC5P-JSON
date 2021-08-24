@@ -1,0 +1,57 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:57:26
+
+HD42167
+-------
+
+Object * tet Col  ---  *  ---  OID=@866642   (@@12519,16)  ---  coobox=7817
+
+Coordinates(ICRS,ep=J2000,eq=2000): 06 07 31.6324955085  -37 15 10.516273764 (Opt ) A [0.1258 0.1469 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 06 05 48.6843198194  -37 14 41.458791896
+Coordinates(Gal,ep=J2000,eq=2000): 243.9378048576750  -24.2627554344857
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 0.631 0.535 [0.259 0.291 90] A 2018yCat.1345....0G
+Parallax: 4.2385 [0.1414] A 2018yCat.1345....0G
+Radial Velocity: 45.30 [1.78] B 2007AN....328..889K
+Redshift: 0.000151 [0.000006] B 2007AN....328..889K
+cz: 45.30 [1.78] B 2007AN....328..889K
+Flux B : 4.888 [0.014] D 2000A&A...355L..27H
+Flux V : 4.994 [0.009] D 2000A&A...355L..27H
+Flux G : 4.9437 [0.0026] C 2018yCat.1345....0G
+Flux J : 5.140 [0.020] C 2003yCat.2246....0C
+Flux H : 5.188 [0.034] C 2003yCat.2246....0C
+Flux K : 5.150 [0.020] C 2003yCat.2246....0C
+Spectral type: B(8)IV D 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (29):
+   TIC 393296309                   2MASS J06073161-3715105         * tet Col                     
+   CD-37 2609                      CPC 18 2277                     CPD-37 855                    
+   FK5 2468                        GC 7805                         GCRV 3865                     
+   GEN# +1.00042167                GSC 07083-01772                 HD 42167                      
+   HIC 29034                       HIP 29034                       HR 2177                       
+   N30 1317                        PPM 282299                      SAO 196514                    
+   SKY# 10249                      NAME Elkurud                    TD1 6193                      
+   TYC 7083-1772-1                 UBV 6205                        UBV M 11805                   
+   uvby98 100042167                IRAS 06058-3714                 AKARI-IRC-V1 J0607316-371510  
+   WEB 5683                        Gaia DR2 2884917717270728064                                  
+
+Bibcodes  1850-2021 () (39):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2018MNRAS.474.5287A  2017ApJ...842...48A
+  2017MNRAS.472.4634K  2016A&A...591A.118S  2015A&A...575A..35B  2015A&A...580A..23P
+  2015MNRAS.448..588D  2012A&A...537A.120Z  2012A&A...544A..31V  2012A&A...546A..61D
+  2012AstL...38..694G  2012MNRAS.427..343M  2011A&A...530A..93V  2008MNRAS.389..869E
+  2005A&A...444..941P  2002A&A...381..105R  2002A&A...393..897R  2001A&A...367..297A
+  2000IBVS.4968....1A  2000VeARI..37....1W  1999A&AS..135..503G  1998A&AS..129..431H
+  1998A&AS..130..455V  1996A&AS..118..481B  1995A&AS..114..269D  1994PBeiO..24...71L
+  1993yCat.3135....0C  1991VeARI..33....1F  1985A&AS...60...99W  1984ApJS...55..597E
+  1982MSS...C03....0H  1978A&AS...32..409G  1977A&AS...27..443G  1977A&AS...30...71C
+  1975PASP...87...37E  1953GCRV..C......0W  1950AJ.....55....9S            
+
+Measures (distance:1  Fe_H:2  MK:2  PLX:3  PM:5  ROT:1  velocities:5  ):
+distance:1Fe_H:2MK:2PLX:3PM:5ROT:1velocities:5
+
+Notes (0) :
+
+================================================================================
+

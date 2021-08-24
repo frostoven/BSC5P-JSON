@@ -1,0 +1,51 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:52:27
+
+HD156768
+--------
+
+Object HD 156768  ---  *  ---  OID=@3463804   (@@68849,6)  ---  coobox=22430
+
+Coordinates(ICRS,ep=J2000,eq=2000): 17 22 55.22084  -58 00 37.1661 (Opt ) A [4.31 3.43 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 17 18 36.15246  -57 57 45.5814
+Coordinates(Gal,ep=J2000,eq=2000): 333.05362349  -12.07144720 
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -6.52 -14.35 [0.49 0.39 0] A 2007A&A...474..653V
+Parallax: 2.98 [0.52] A 2007A&A...474..653V
+Radial Velocity: -9.80 [0.2] A 2006AstL...32..759G
+Redshift: -0.000033 [0.000001] A 2006AstL...32..759G
+cz: -9.80 [0.20] A 2006AstL...32..759G
+Flux B : 7.016 [0.017] D 2000A&A...355L..27H
+Flux V : 5.872 [0.010] D 2000A&A...355L..27H
+Flux J : 4.086 [0.262] D 2003yCat.2246....0C
+Flux H : 3.475 [0.234] D 2003yCat.2246....0C
+Flux K : 3.412 [0.260] D 2003yCat.2246....0C
+Spectral type: G8Ib/II C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (22):
+   TIC 367904430                   CCDM J17229-5801AB              CPC 20 5548                   
+   CPD-57 8478                     GC 23439                        GEN# +1.00156768J             
+   GSC 08736-03859                 HD 156768                       HIC 85049                     
+   HIP 85049                       HR 6438                         IDS 17143-5755 AB             
+   IRAS 17185-5757                 PPM 345944                      SAO 244678                    
+   SKY# 31361                      TYC 8736-3859-1                 UBV 14764                     
+   UBV M 22103                     2MASS J17225522-5800373         WDS J17229-5801AB             
+   ** HDO 270AB                                                                                  
+
+Bibcodes  1850-2021 () (19):
+  2019A&A...623A..72K  2019ApJS..244...15M  2012A&A...546A..61D  2012MNRAS.427..343M
+  2011MNRAS.410..190T  2006AstL...32..759G  2002A&A...395...97D  2000A&A...356..141F
+  1993yCat.3135....0C  1992AJ....103.1381E  1990A&AS...85..915D  1989IBVS.3407....1C
+  1987MNRAS.227..213S  1985A&AS...59...15A  1985IBVS.2686....1A  1985IBVS.2775....1W
+  1983AJ.....88.1187E  1975MNSSA..34....7H  1975MSS...C01....0H            
+
+Measures (MK:2  PLX:2  PM:3  velocities:1  ):
+MK:2PLX:2PM:3velocities:1
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 85049 includes the components \object{CCDM J17229-5801AB}
+
+================================================================================
+

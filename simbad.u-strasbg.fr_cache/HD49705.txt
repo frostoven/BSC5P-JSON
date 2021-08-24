@@ -1,0 +1,48 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:47:43
+
+HD49705
+-------
+
+Object HD 49705  ---  **  ---  OID=@3009580   (@@69062,1)  ---  coobox=21149
+
+Coordinates(ICRS,ep=J2000,eq=2000): 06 46 41.65301  -54 41 42.0989 (Opt ) A [5.45 3.70 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 06 45 40.52829  -54 38 22.2283
+Coordinates(Gal,ep=J2000,eq=2000): 264.21780389  -22.50524755 
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -42.80 14.27 [0.42 0.62 0] A 2007A&A...474..653V
+Parallax: 7.86 [0.47] A 2007A&A...474..653V
+Radial Velocity: 2.70 [0.4] A 2006AstL...32..759G
+Redshift: 0.000009 [0.000001] A 2006AstL...32..759G
+cz: 2.70 [0.40] A 2006AstL...32..759G
+Flux B : 7.433 [0.015] D 2000A&A...355L..27H
+Flux V : 6.534 [0.010] D 2000A&A...355L..27H
+Flux J : 4.994 [0.037] C 2003yCat.2246....0C
+Flux H : 4.598 [0.027] C 2003yCat.2246....0C
+Flux K : 4.414 [0.020] C 2003yCat.2246....0C
+Spectral type: G6III C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (21):
+   TIC 278960800                   2MASS J06464165-5441421         CCDM J06467-5442AB            
+   CPC 19 2283                     CPD-54 1115                     GC 8900                       
+   GEN# +1.00049705J               GSC 08540-01123                 HD 49705                      
+   HIC 32477                       HIP 32477                       HR 2524                       
+   IDS 06446-5435 AB               IRAS 06456-5438                 PPM 335466                    
+   SAO 234704                      SKY# 11918                      TYC 8540-1123-1               
+   UBV 6760                        WDS J06467-5442AB               ** I 157AB                    
+
+Bibcodes  1850-2021 () (12):
+  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2006AstL...32..759G
+  2000A&A...356..141F  2000A&A...359..316B  1998A&AS..127..251H  1993yCat.3135....0C
+  1989PASP..101...45E  1989PASP..101..366E  1985A&AS...59...15A  1975MSS...C01....0H
+
+Measures (MK:2  PLX:2  PM:2  velocities:1  ):
+MK:2PLX:2PM:2velocities:1
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 32477 includes the components \object{CCDM J06467-5442AB}
+
+================================================================================
+

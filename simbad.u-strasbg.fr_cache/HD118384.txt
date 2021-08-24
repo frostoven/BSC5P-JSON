@@ -1,0 +1,49 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:30:28
+
+HD118384
+--------
+
+Object HD 118384  ---  *  ---  OID=@3359374   (@@64935,13)  ---  coobox=21710
+
+Coordinates(ICRS,ep=J2000,eq=2000): 13 38 07.62621  -58 24 52.7223 (Opt ) A [5.01 4.66 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 13 34 49.67861  -58 09 36.3770
+Coordinates(Gal,ep=J2000,eq=2000): 309.02892025  +03.90331972 
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -0.94 -26.33 [0.57 0.53 0] A 2007A&A...474..653V
+Parallax: 6.31 [0.65] A 2007A&A...474..653V
+Radial Velocity: 0.30 [0.4] A 2006AstL...32..759G
+Redshift: 0.000001 [0.000001] A 2006AstL...32..759G
+cz: 0.30 [0.40] A 2006AstL...32..759G
+Flux B : 7.601 [0.016] D 2000A&A...355L..27H
+Flux V : 6.454 [0.010] D 2000A&A...355L..27H
+Flux J : 4.744 [0.316] E 2003yCat.2246....0C
+Flux H : 4.078 [0.242] D 2003yCat.2246....0C
+Flux K : 3.938 [0.290] D 2003yCat.2246....0C
+Spectral type: K1III C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (23):
+   TIC 413004975                   CCDM J13381-5825AB              CD-57 5110                    
+   CPC 20 4248                     CPD-57 6169                     GC 18405                      
+   GEN# +1.00118384J               GSC 08675-01387                 HD 118384                     
+   HIC 66521                       HIP 66521                       HR 5122                       
+   IDS 13316-5754 AB               IRAS 13348-5809                 PPM 342094                    
+   SAO 241013                      SKY# 25074                      TYC 8675-1387-1               
+   UBV 12209                       UBV M 19556                     2MASS J13380761-5824527       
+   WDS J13381-5825AB               ** R 223AB                                                    
+
+Bibcodes  1850-2021 () (12):
+  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2006AstL...32..759G
+  1998A&AS..127..251H  1993yCat.3135....0C  1985A&AS...59...15A  1984AJ.....89.1887C
+  1984ApJS...55..657C  1983MNRAS.202..761H  1975MNSSA..34....7H  1975MSS...C01....0H
+
+Measures (MK:2  PLX:2  PM:3  velocities:1  ):
+MK:2PLX:2PM:3velocities:1
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 66521 includes the components \object{CCDM J13381-5825AB}
+
+================================================================================
+

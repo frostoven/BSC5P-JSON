@@ -1,0 +1,56 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:19:36
+
+HD100286
+--------
+
+Object * 17 Crt B  ---  PM*  ---  OID=@1835923   (@@38098,11)  ---  coobox=15205
+
+Coordinates(ICRS,ep=J2000,eq=2000): 11 32 16.0399758789  -29 15 47.893472730 (Opt ) A [0.0934 0.0590 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 11 29 47.0684386604  -28 59 20.509489608
+Coordinates(Gal,ep=J2000,eq=2000): 282.8801776888257  +30.5072432681113
+hierarchy counts: #parents=1, #children=0, #siblings=0
+Proper motions: -22.025 139.982 [0.188 0.149 90] A 2018yCat.1345....0G
+Parallax: 35.9838 [0.1320] A 2018yCat.1345....0G
+Radial Velocity: 9.8 [2] E 1953GCRV..C......0W
+Redshift: 0.000033 [0.000007] E 1953GCRV..C......0W
+cz: 9.80 [2.00] E 1953GCRV..C......0W
+Flux B : 6.19 [0.01] D 2000A&A...355L..27H
+Flux V : 5.671 [0.009] D 2000A&A...355L..27H
+Flux G : 5.6104 [0.0010] C 2018yCat.1345....0G
+Flux R : 5.49 [~] D 2009yCat.1315....0Z
+Flux H : 4.33 [0.33] E 2003yCat.2246....0C
+Flux K : 4.50 [0.07] C 2003yCat.2246....0C
+Spectral type: F8V C 2001AJ....121.2148G
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (21):
+   TIC 429149602                   * 17 Crt B                      ADS 8202 B                    
+   CCDM J11323-2916B               CD-28 8928B                     CSI-28 8928 22                
+   GC 15830                        GCRV 7023                       HD 100286                     
+   HR 4443                         PPM 259117                      SAO 179967                    
+   YZ 118 7577                     uvby98 100100286                WDS J11323-2916B              
+   TYC 6663-1171-1                 UCAC3 122-146256                2MASS J11321604-2915480       
+   GEN# +1.00100286                WEB 10119                       Gaia DR2 3482326708703712640  
+
+Bibcodes  1850-2021 () (39):
+  2020ApJ...888L...9N  2020ApJS..247...11R  2017AJ....153...21L  2016ApJ...826..171G
+  2015A&A...580A..23P  2014A&A...567A..26L  2012A&A...542A.116A  2011A&A...530A.138C
+  2009A&A...501..941H  2008MNRAS.389..869E  2007A&A...472.1055S  2006A&A...454..553D
+  2006AJ....132..161G  2004A&A...418..989N  2003A&A...398..647R  2001AJ....121.2148G
+  1998A&AS..129..431H  1998A&AS..132..155H  1995A&AS..114..269D  1993yCat.3135....0C
+  1992MNRAS.257..105B  1987A&AS...68..259H  1986AJ.....92..910E  1984ApJS...55..657C
+  1983MNRAS.202..761H  1982MSS...C03....0H  1981ApJS...45..437A  1980BICDS..19...41H
+  1979ApJS...41..173H  1977A&AS...27..443G  1975MNSSA..34....7H  1970ApJS...19..387A
+  1965PASP...77..359W  1964JO.....47...27H  1959AJ.....64..219S  1958AJ.....63..246V
+  1957JO.....40...93W  1953GCRV..C......0W  1952ApJ...115..157W            
+
+Measures (distance:1  Fe_H:1  MK:4  PLX:1  PM:2  ROT:2  velocities:6  ):
+distance:1Fe_H:1MK:4PLX:1PM:2ROT:2velocities:6
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 56280 includes the components \object{CCDM J11323-2916 AB}
+
+================================================================================
+

@@ -1,0 +1,46 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:41:58
+
+HD215669
+--------
+
+Object HD 215669  ---  PM*  ---  OID=@1206374   (@@24880,5)  ---  coobox=8734
+
+Coordinates(ICRS,ep=J2000,eq=2000): 22 47 19.1617991682  -34 09 42.195814013 (Opt ) A [0.0667 0.0413 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 22 44 31.1658849226  -34 25 34.117912457
+Coordinates(Gal,ep=J2000,eq=2000): 010.4590467214665  -62.5101749860650
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -62.521 27.728 [0.222 0.098 90] A 2018yCat.1345....0G
+Parallax: 9.0156 [0.0503] A 2018yCat.1345....0G
+Radial Velocity: 40.80 [0.1] A 2007AN....328..889K
+Redshift: 0.000136 [0.000000] A 2007AN....328..889K
+cz: 40.80 [0.10] A 2007AN....328..889K
+Flux B : 7.446 [0.015] D 2000A&A...355L..27H
+Flux V : 6.296 [0.010] D 2000A&A...355L..27H
+Flux G : 5.9419 [0.0008] C 2018yCat.1345....0G
+Flux J : 4.413 [0.242] D 2003yCat.2246....0C
+Flux H : 3.742 [0.230] D 2003yCat.2246....0C
+Flux K : 3.718 [0.230] D 2003yCat.2246....0C
+Spectral type: K1III C 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (19):
+   TIC 206618475                   CD-34 15735                     CPC 17 12333                  
+   CPD-34 9164                     GC 31785                        GEN# +1.00215669              
+   GSC 07501-01263                 HD 215669                       HIC 112501                    
+   HIP 112501                      HR 8668                         PPM 302998                    
+   SAO 214081                      SKY# 43305                      TYC 7501-1263-1               
+   UBV 19519                       UBV M 26612                     2MASS J22471917-3409421       
+   Gaia DR2 6602654259228571264                                                                  
+
+Bibcodes  1850-2021 () (7):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2017AJ....154..115H  1993AJ....106.1639M
+  1993yCat.3135....0C  1985A&AS...59...15A  1982MSS...C03....0H            
+
+Measures (distance:1  MK:2  PLX:3  PM:4  velocities:2  ):
+distance:1MK:2PLX:3PM:4velocities:2
+
+Notes (0) :
+
+================================================================================
+

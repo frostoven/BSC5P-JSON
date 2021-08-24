@@ -1,0 +1,51 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:50:00
+
+HD56239
+-------
+
+Object HD 56239  ---  **  ---  OID=@3051046   (@@68740,8)  ---  coobox=21203
+
+Coordinates(ICRS,ep=J2000,eq=2000): 07 12 01.97968  -63 11 24.2109 (Opt ) A [5.70 5.36 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 07 11 33.83039  -63 06 15.2387
+Coordinates(Gal,ep=J2000,eq=2000): 274.00302358  -21.77392930 
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -1.28 -1.81 [0.61 0.65 0] A 2007A&A...474..653V
+Parallax: 6.77 [0.47] A 2007A&A...474..653V
+Radial Velocity: -0.50 [2] B 2007AN....328..889K
+Redshift: -0.000002 [0.000007] B 2007AN....328..889K
+cz: -0.50 [2.00] B 2007AN....328..889K
+Flux B : 6.020 [0.014] D 2000A&A...355L..27H
+Flux V : 6.039 [0.009] D 2000A&A...355L..27H
+Flux J : 6.037 [0.019] C 2003yCat.2246....0C
+Flux H : 6.132 [0.036] C 2003yCat.2246....0C
+Flux K : 6.036 [0.024] C 2003yCat.2246....0C
+Spectral type: A0IV/V D 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (26):
+   TIC 349096525                   2MASS J07120200-6311243         CCDM J07120-6311AB            
+   CD-62 282                       CPC 20.1 1753                   CPD-62 789                    
+   GC 9582                         GEN# +1.00056239J               GSC 08913-02026               
+   HD 56239                        HIC 34780                       HIP 34780                     
+   HR 2754                         IDS 07111-6301 AB               N30 1594                      
+   PPM 355882                      SAO 249774                      SKY# 12974                    
+   TD1 9570                        TYC 8913-2026-1                 UBV 7063                      
+   UBV M 13091                     WDS J07120-6311AB               ** HDO 199                    
+   ** HDO 199AB                    uvby98 100056239                                              
+
+Bibcodes  1850-2021 () (15):
+  2019A&A...623A..72K  2015A&A...580A..23P  2012A&A...546A..61D  2012MNRAS.427..343M
+  2000A&A...356..141F  1998A&AS..129..431H  1998A&AS..130..455V  1996AJ....111..936H
+  1993yCat.3135....0C  1990AJ.....99..965M  1977A&AS...27..443G  1977PASP...89..205E
+  1977PASP...89..588H  1975MSS...C01....0H  1972AJ.....77..878W            
+
+Measures (MK:2  PLX:2  PM:4  velocities:1  ):
+MK:2PLX:2PM:4velocities:1
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 34780 includes the components \object{CCDM J07120-6311AB}
+
+================================================================================
+

@@ -1,0 +1,50 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:47:55
+
+HD224834
+--------
+
+Object * tau Phe  ---  *  ---  OID=@3281913   (@@75178,2)  ---  coobox=23543
+
+Coordinates(ICRS,ep=J2000,eq=2000): 00 01 04.5828261595  -48 48 35.552573765 (Opt ) A [0.0392 0.0498 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 23 58 30.8355607929  -49 05 17.775217851
+Coordinates(Gal,ep=J2000,eq=2000): 323.7942517545922  -66.2280517785861
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -17.474 -6.016 [0.061 0.089 90] A 2018yCat.1345....0G
+Parallax: 6.6713 [0.0759] A 2018yCat.1345....0G
+Radial Velocity: 14.70 [0.14] A 2018yCat.1345....0G
+Redshift: 0.000049 [0.000000] A 2018yCat.1345....0G
+cz: 14.70 [0.14] A 2018yCat.1345....0G
+Flux B : 6.620 [0.014] D 2000A&A...355L..27H
+Flux V : 5.698 [0.009] D 2000A&A...355L..27H
+Flux G : 5.4597 [0.0013] C 2018yCat.1345....0G
+Flux J : 4.377 [0.332] E 2003yCat.2246....0C
+Flux H : 3.774 [0.262] D 2003yCat.2246....0C
+Flux K : 3.740 [0.382] E 2003yCat.2246....0C
+Spectral type: G6/8III D 1978MSS...C02....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (22):
+   TIC 321908941                   2MASS J00010458-4848355         * tau Phe                     
+   CD-49 14316                     CPC 0 20817                     CPD-49 11840                  
+   GC 33305                        GCRV 74841                      GEN# +1.00224834              
+   GSC 08025-01056                 HD 224834                       HIC 88                        
+   HIP 88                          HR 9081                         N30 5262                      
+   PPM 304462                      SAO 231895                      SKY# 27                       
+   TYC 8025-1056-1                 UBV 20624                       UBV M 27397                   
+   Gaia DR2 4977699562277892864                                                                  
+
+Bibcodes  1850-2021 () (18):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D  2012ApJ...747..101M
+  2012MNRAS.427..343M  2010A&A...520A..79M  2008MNRAS.389..869E  2006AstL...32..759G
+  2001A&A...367..521P  1993AN....314..289H  1993yCat.3135....0C  1983AcA....33..431D
+  1980AcA....30..453G  1978MSS...C02....0H  1969MNRAS.144..333W  1968AJ.....73..431P
+  1966MNRAS.131..467P  1958MNRAS.118..609B                        
+
+Measures (distance:1  MK:3  PLX:3  PM:5  velocities:3  ):
+distance:1MK:3PLX:3PM:5velocities:3
+
+Notes (0) :
+
+================================================================================
+

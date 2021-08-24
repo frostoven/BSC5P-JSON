@@ -1,0 +1,64 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:52:11
+
+HD19735
+-------
+
+Object HD 19735  ---  PM*  ---  OID=@112366   (@@1077,1)  ---  coobox=2753
+
+Coordinates(ICRS,ep=J2000,eq=2000): 03 12 26.4204424388  +47 43 33.148736065 (Opt ) A [0.0458 0.0347 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 03 08 58.1513114972  +47 32 22.677270474
+Coordinates(Gal,ep=J2000,eq=2000): 146.0590609291697  -08.7139503396022
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 74.100 -84.141 [0.134 0.096 90] A 2018yCat.1345....0G
+Parallax: 6.1055 [0.0590] A 2018yCat.1345....0G
+Radial Velocity: -39.73 [0.12] A 2018yCat.1345....0G
+Redshift: -0.000133 [0.000000] A 2018yCat.1345....0G
+cz: -39.73 [0.12] A 2018yCat.1345....0G
+Flux B : 7.765 [0.017] D 2000A&A...355L..27H
+Flux V : 6.327 [0.010] D 2000A&A...355L..27H
+Flux G : 5.7784 [0.0007] C 2018yCat.1345....0G
+Flux J : 3.643 [0.190] D 2003yCat.2246....0C
+Flux H : 2.935 [0.174] D 2003yCat.2246....0C
+Flux K : 2.685 [0.242] D 2003yCat.2246....0C
+Spectral type: K5III C ~                  
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (33):
+   TIC 192734343                   2MASS J03122641+4743334         AG+47 340                     
+   AGKR 2808                       BD+47 779                       CCDM J03124+4744A             
+   CSI+47 779 1                    DO 26768                        FK5 2225                      
+   GC 3812                         GCRV 1759                       GEN# +5.20200138J             
+   GSC 03315-01632                 HD 19735                        HIC 14914                     
+   HIP 14914                       HR 949                          IDS 03055+4721 A              
+   IRAS 03089+4732                 IRC +50087                      Koenig 5                      
+   N30 650                         PPM 45922                       SAO 38638                     
+   SKY# 4804                       TYC 3315-1632-1                 UBV 3062                      
+   UBV M 40908                     Cl Melotte 20 138               WDS J03124+4744A              
+   Gaia DR1 435145745466178944     WEB 2878                        Gaia DR2 435145543609975040   
+
+Bibcodes  1850-2021 () (53):
+  2019A&A...623A..72K  2019MNRAS.483..299G  2019MNRAS.490.3158C  2012A&A...546A..61D
+  2012MNRAS.427..343M  2006AstL...32..759G  2006RMxAA..42..179P  2005A&A...430..165F
+  2001A&A...367..521P  2000A&AS..146..251B  1999A&A...352..217G  1999A&AS..139..433D
+  1998AJ....115.2435E  1997AJ....114..825E  1996AJ....112.1595E  1996BaltA...5....1B
+  1995A&A...302..745D  1995A&AS..114..269D  1993A&AS..100..311T  1993yCat.3135....0C
+  1991ApJS...76..715T  1991VeARI..33....1F  1990ApJ...348..253M  1989PBeiO..14...12L
+  1986ApJS...60..577T  1986ApJS...62..147B  1984PASP...96..723G  1980AcA....30..453G
+  1979A&AS...38...89J  1979AJ.....84..356C  1976ApJ...205..823W  1975PASP...87...17B
+  1973ApJ...184..427B  1971A&A....15..123H  1971MNRAS.153..171W  1971MNRAS.155..215W
+  1971PASP...83..271E  1968ApJ...151..907A  1968MNRAS.140...21P  1967ApJS...14..307E
+  1967MNRAS.135...23A  1966MNRAS.133..449P  1966MNRAS.133..475A  1966MNRAS.134..135P
+  1964MNRAS.128..435P  1962AJ.....67..757Y  1960MNRAS.120..287G  1960MNRAS.121...52D
+  1958ZA.....45..243H  1956AN....283..109H  1955ApJS....2..195R  1953AN....281..107K
+  1953GCRV..C......0W                                    
+
+Measures (distance:1  MK:7  PLX:4  PM:7  velocities:7  ):
+distance:1MK:7PLX:4PM:7velocities:7
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 14914 includes the components \object{CCDM J03124+4744 A} and \object{CCDM J03124+4744 B}
+
+================================================================================
+

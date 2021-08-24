@@ -1,0 +1,59 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:56:55
+
+HD160928
+--------
+
+Object HD 160928  ---  **  ---  OID=@2319768   (@@54018,14)  ---  coobox=17059
+
+Coordinates(ICRS,ep=J2000,eq=2000): 17 44 42.0078963976  -42 43 45.538012256 (Opt ) A [0.2654 0.2445 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 17 41 06.6669556032  -42 42 31.524822903
+Coordinates(Gal,ep=J2000,eq=2000): 348.0784367375199  -06.9906578552298
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 5.606 14.705 [0.501 0.436 90] A 2018yCat.1345....0G
+Parallax: 13.2058 [0.2742] A 2018yCat.1345....0G
+Radial Velocity: -8.80 [1.8] B 2007AN....328..889K
+Redshift: -0.000029 [0.000006] B 2007AN....328..889K
+cz: -8.80 [1.80] B 2007AN....328..889K
+Flux B : 6.027 [0.014] D 2000A&A...355L..27H
+Flux V : 5.871 [0.010] D 2000A&A...355L..27H
+Flux G : 5.8131 [0.0015] C 2018yCat.1345....0G
+Flux J : 5.495 [0.023] C 2003yCat.2246....0C
+Flux H : 5.416 [0.042] C 2003yCat.2246....0C
+Flux K : 5.384 [0.024] C 2003yCat.2246....0C
+Spectral type: A3IVn B 2017AJ....154...31G
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (30):
+   TIC 32560561                    CCDM J17447-4244AB              CD-42 12431                   
+   CEL 4562                        CPC 0 16641                     CPD-42 7927                   
+   GC 24054                        GEN# +1.00160928J               GSC 07893-02172               
+   HD 160928                       HIC 86847                       HIP 86847                     
+   HR 6597                         IDS 17375-4241 AB               IRAS 17411-4242               
+   N30 3945                        PPM 323342                      SAO 228363                    
+   SKY# 32080                      TD1 20860                       TYC 7893-2172-1               
+   UBV M 22351                     [SC95] ZET 523                  [SC96] Mis 643                
+   2MASS J17444200-4243454         WDS J17447-4244AB               ** FIN 341                    
+   ** FIN 341AB                    uvby98 100160928                Gaia DR2 5957213823943185152  
+
+Bibcodes  1850-2021 () (38):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2017AJ....153...39C  2017AJ....154...31G
+  2017AJ....154..110T  2017AJ....154..115H  2017MNRAS.466..546M  2015A&A...580A..23P
+  2015ApJ...804..146D  2015PASA...32...36M  2012A&A...546A..61D  2012MNRAS.427..343M
+  2010AJ....139..743T  2008CoAst.153...49P  2008MNRAS.389..869E  2007A&A...464..377F
+  2005AJ....129.2420M  2004A&A...425..615F  2003A&A...412..447G  2001A&A...373..625P
+  1999A&A...349..521F  1998A&AS..129..431H  1997A&A...326L..29P  1997A&AS..123...93P
+  1996ApJS..104..101S  1995ApJS...96..605S  1994MNRAS.269..209K  1993AJ....106..352H
+  1993yCat.3135....0C  1990AJ.....99..965M  1990BICDS..38..137R  1987AJ.....94..771D
+  1986A&A...154..349H  1982ApJS...49..469P  1978MSS...C02....0H  1977A&AS...27..443G
+  1976ApJS...30...97D  1973SAOSR.350....1D                        
+
+Measures (distance:1  Fe_H:1  MK:3  PLX:3  PM:5  velocities:1  ):
+distance:1Fe_H:1MK:3PLX:3PM:5velocities:1
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 86847 includes the components \object{CCDM J17447-4244AB}
+
+================================================================================
+

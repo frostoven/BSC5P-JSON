@@ -1,0 +1,60 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:04:37
+
+HD75811
+-------
+
+Object HD 75811  ---  **  ---  OID=@1136936   (@@18449,0)  ---  coobox=6108
+
+Coordinates(ICRS,ep=J2000,eq=2000): 08 52 24.1815243067  +05 20 25.098929677 (Opt ) A [0.2297 0.1904 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 08 49 45.7825027593  +05 31 46.029039136
+Coordinates(Gal,ep=J2000,eq=2000): 222.5538339349179  +29.2570827855472
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -2.144 -7.864 [0.488 0.396 90] A 2018yCat.1345....0G
+Parallax: 3.2152 [0.2542] A 2018yCat.1345....0G
+Radial Velocity: -10.40 [4.3] C 2006AstL...32..759G
+Redshift: -0.000035 [0.000014] C 2006AstL...32..759G
+cz: -10.40 [4.30] C 2006AstL...32..759G
+Flux B : 6.456 [0.015] D 2000A&A...355L..27H
+Flux V : 6.350 [0.010] D 2000A&A...355L..27H
+Flux G : 6.3247 [0.0012] C 2018yCat.1345....0G
+Flux I : 6.21 [0.01] D 2011MNRAS.415..854D
+Flux J : 6.011 [0.026] C 2003yCat.2246....0C
+Flux H : 5.958 [0.049] C 2003yCat.2246....0C
+Flux K : 5.927 [0.021] C 2003yCat.2246....0C
+Spectral type: A5V C ~                  
+Morphological type: ~ ~ ~
+Angular size: 0.0117  0.0  310 (Opt )  D 2001AJ....122.3466M
+
+Identifiers (31):
+   TIC 265280041                   ADS 7061 AB                     AG+05 1313                    
+   BD+05 2074                      CCDM J08524+0520AB              GC 12249                      
+   GCRV 5844                       GEN# +1.00075811J               GSC 00220-00746               
+   HD 75811                        HIC 43570                       HIP 43570                     
+   HR 3526                         IDS 08471+0543 AB               PPM 155117                    
+   ROT 1395                        SAO 117214                      SKY# 17083                    
+   TD1 13207                       TYC 220-746-1                   UBV 8596                      
+   UBV M 14820                     YZ 5 4853                       2MASS J08522417+0520251       
+   WDS J08524+0520AB               Renson 21226                    BD+05 2074A                   
+   uvby98 100075811                ** A 2900                       WEB 8397                      
+   Gaia DR2 582039296346268032                                                                   
+
+Bibcodes  1850-2021 () (34):
+  2019A&A...623A..72K  2018A&A...617A..32B  2016A&A...591A.118S  2015A&A...580A..23P
+  2012A&A...537A.120Z  2012A&A...546A..61D  2012MNRAS.427..343M  2011MNRAS.415..854D
+  2009A&A...498..961R  2007A&A...463..671R  2007ApJ...669.1209L  2006A&A...458..293P
+  2006AstL...32..759G  2003PASP..115..807F  2002A&A...384..180F  2002A&A...393..897R
+  2000A&A...356..141F  1998A&AS..129..431H  1998A&AS..130..455V  1998A&AS..132...93A
+  1995A&AS..114..269D  1995ApJS...99..135A  1993yCat.3135....0C  1984A&AS...55..479A
+  1980A&A....83..287H  1980A&A....85...93M  1980ApJS...43..491A  1979AJ.....84..857A
+  1977A&AS...27..443G  1973ApJ...182..809A  1966AJ.....71..709C  1964AnAp...27..660C
+  1961ApJS....6....1K  1953GCRV..C......0W                        
+
+Measures (distance:1  Fe_H:2  MK:3  PLX:3  PM:3  ROT:3  velocities:6  ):
+distance:1Fe_H:2MK:3PLX:3PM:3ROT:3velocities:6
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 43570 includes the components \object{CCDM J08524+0520AB}
+
+================================================================================
+

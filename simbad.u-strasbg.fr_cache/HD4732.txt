@@ -1,0 +1,63 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:48:42
+
+HD4732
+------
+
+Object HD 4732  ---  PM*  ---  OID=@1278450   (@@26101,0)  ---  coobox=10452
+
+Coordinates(ICRS,ep=J2000,eq=2000): 00 49 13.9504401330  -24 08 11.992922812 (Opt ) A [0.0443 0.0347 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 00 46 46.1594899393  -24 24 29.691299431
+Coordinates(Gal,ep=J2000,eq=2000): 113.3772600088425  -86.9674100974852
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: 80.969 -56.494 [0.094 0.062 90] A 2018yCat.1345....0G
+Parallax: 18.2248 [0.0565] A 2018yCat.1345....0G
+Radial Velocity: 25.00 [0.26] A 2018yCat.1345....0G
+Redshift: 0.000083 [0.000001] A 2018yCat.1345....0G
+cz: 25.00 [0.26] A 2018yCat.1345....0G
+Flux B : 6.84 [~] C 2013ApJ...762....9S
+Flux V : 5.90 [~] C 2013ApJ...762....9S
+Flux G : 5.6333 [0.0008] C 2018yCat.1345....0G
+Flux R : 7.09 [0.30] E 2012yCat.1322....0Z
+Flux J : 4.34 [0.25] D 2003yCat.2246....0C
+Flux H : 3.72 [0.24] D 2003yCat.2246....0C
+Flux K : 3.69 [0.04] E 2003yCat.2246....0C
+Spectral type: K0III C 1988MSS...C04....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (29):
+   TIC 63905972                    CD-24 345                       CPD-24 78                     
+   CSI-24 345 21                   GC 980                          GCRV 455                      
+   GSC 06421-01078                 HD 4732                         HIC 3834                      
+   HIP 3834                        HR 228                          IRAS 00467-2424               
+   PPM 243277                      SAO 166602                      SKY# 1271                     
+   UBV M 7681                      YZ 114 386                      Gaia DR2 2345744256120965504  
+   2MASS J00491393-2408119         UCAC4 330-000916                WDS J00492-2408A              
+   CCDM J00492-2408A               TYC 6421-1078-1                 ADS 679 A                     
+   uvby98 100004732                WEB 684                         Barnard 13A                   
+   GEN# +1.00004732                IDS 00443-2441 A                                              
+
+Bibcodes  1850-2021 () (51):
+  2021ApJ...910L..19C  2020ApJ...890...23L  2020MNRAS.497.4091M  2019A&A...623A..72K
+  2019A&A...626A..74V  2019A&A...629A..80H  2019ApJ...876...23G  2019MNRAS.485.4703A
+  2019MNRAS.490.3158C  2018MNRAS.481.4680A  2017A&A...600A..69A  2017A&A...605A..72L
+  2017AJ....153..136S  2017AJ....154..115H  2017NewA...55....1H  2016A&A...591A.118S
+  2016AJ....152...19W  2015A&A...574A..50J  2015A&A...575A..18B  2015A&A...580A..23P
+  2015AJ....150...88L  2015ApJ...800...74W  2015ApJ...803....1N  2014ApJ...785...94L
+  2014PASJ...66...91T  2013A&A...551L...8P  2013ApJ...762....9S  2013MNRAS.431.1686V
+  2012A&A...546A..61D  2012MNRAS.427..343M  2008PASJ...60..781T  2007A&A...464..377F
+  2007AJ....133.2464L  2005AJ....129.2420M  1998A&AS..129..431H  1995A&AS..114..269D
+  1993AJ....106...80E  1993yCat.3135....0C  1991ApJS...76..383D  1989PASP..101...45E
+  1989PASP..101..366E  1988MSS...C04....0H  1987A&AS...68..259H  1986A&AS...64..487K
+  1986MNRAS.223..279W  1985ApJS...59...95A  1982AJ.....87.1679H  1979AJ.....84.1293Y
+  1977A&AS...27...47H  1970ApJS...19..387A  1953GCRV..C......0W            
+
+Measures (distance:1  Fe_H:6  MK:2  PLX:3  PM:4  ROT:2  velocities:6  ):
+distance:1Fe_H:6MK:2PLX:3PM:4ROT:2velocities:6
+
+Notes (1) :
+(S) 29-Jan-2013 - bc    ref:~    obj:HD 4732
+    2 substellar companions detected: \object{HD 4732b} and \object{HD 4732c}. See also \exosun{HR 228} in the \exoEncyclopedie.
+
+================================================================================
+

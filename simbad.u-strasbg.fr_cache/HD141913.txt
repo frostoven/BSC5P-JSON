@@ -1,0 +1,52 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:43:11
+
+HD141913
+--------
+
+Object HD 141913  ---  V*  ---  OID=@3427435   (@@67867,4)  ---  coobox=22308
+
+Coordinates(ICRS,ep=J2000,eq=2000): 15 54 52.63592  -60 44 37.1479 (Opt ) A [5.80 4.31 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 15 50 37.79815  -60 35 48.3991
+Coordinates(Gal,ep=J2000,eq=2000): 323.56078669  -05.44620146 
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -1.74 -4.48 [0.49 0.66 0] A 2007A&A...474..653V
+Parallax: 2.37 [0.60] A 2007A&A...474..653V
+Radial Velocity: -5.00 [4.3] C 2006AstL...32..759G
+Redshift: -0.000017 [0.000014] C 2006AstL...32..759G
+cz: -5.00 [4.30] C 2006AstL...32..759G
+Flux B : 6.27 [~] E ~                  
+Flux V : 6.21 [~] E ~                  
+Flux J : 5.706 [0.018] C 2003yCat.2246....0C
+Flux H : 5.665 [0.029] C 2003yCat.2246....0C
+Flux K : 5.587 [0.020] C 2003yCat.2246....0C
+Spectral type: B9II C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (25):
+   TIC 341034233                   CCDM J15549-6045AB              CD-60 5918                    
+   CPC 20.1 4770                   CPD-60 6191                     GC 21330                      
+   GCRV 9147                       GEN# +1.00141913J               GSC 09023-01271               
+   HD 141913                       HIC 77927                       HIP 77927                     
+   HR 5898                         IDS 15464-6027 AB               NSV 7310                      
+   PPM 361730                      SAO 253344                      SKY# 28737                    
+   TYC 9023-1271-1                 UBV 13470                       2MASS J15545266-6044371       
+   WDS J15549-6045AB               ** SLR 11AB                     uvby98 100141913              
+   WEB 13177                                                                                     
+
+Bibcodes  1850-2021 () (18):
+  2019A&A...623A..72K  2015A&A...580A..23P  2012A&A...546A..61D  2012MNRAS.427..343M
+  2011MNRAS.410..190T  2006AstL...32..759G  2000A&A...356..141F  1998A&AS..129..431H
+  1996A&AS..118..481B  1995A&AS..114..269D  1993yCat.3135....0C  1986A&AS...63...71V
+  1984ApJS...55..597E  1978Ap.....14...30S  1977A&AS...27..443G  1975MSS...C01....0H
+  1953GCRV..C......0W  1950AJ.....55....9S                        
+
+Measures (MK:2  PLX:2  PM:3  V*:1  velocities:4  ):
+MK:2PLX:2PM:3V*:1velocities:4
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 77927 includes the components \object{CCDM J15549-6045AB}
+
+================================================================================
+

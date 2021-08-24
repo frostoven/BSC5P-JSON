@@ -1,0 +1,60 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:55:07
+
+HD31203
+-------
+
+Object * iot Pic A  ---  PM*  ---  OID=@3011724   (@@72205,9)  ---  coobox=22676
+
+Coordinates(ICRS,ep=J2000,eq=2000): 04 50 55.3268408622  -53 27 41.230037114 (Opt ) A [0.1414 0.1567 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 04 49 48.3285521031  -53 32 44.553261654
+Coordinates(Gal,ep=J2000,eq=2000): 261.2740718099499  -39.2221190466471
+hierarchy counts: #parents=1, #children=0, #siblings=0
+Proper motions: -98.707 66.139 [0.323 0.388 90] A 2018yCat.1345....0G
+Parallax: 24.9211 [0.1559] A 2018yCat.1345....0G
+Radial Velocity: 8.60 [3.4] C 2006AstL...32..759G
+Redshift: 0.000029 [0.000011] C 2006AstL...32..759G
+cz: 8.60 [3.40] C 2006AstL...32..759G
+Flux B : 5.86 [0.01] D 2002A&A...384..180F
+Flux V : 5.57 [0.01] D 2002A&A...384..180F
+Flux G : 5.5366 [0.0011] C 2018yCat.1345....0G
+Flux I : 5.18 [0.01] C 2013ApJS..208...29W
+Flux J : 5.077 [0.037] D 2003yCat.2246....0C
+Flux H : 4.879 [0.018] C 2003yCat.2246....0C
+Flux K : 4.805 [0.024] C 2003yCat.2246....0C
+Spectral type: F0V C 1984ApJS...55..657C
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (31):
+   TIC 259592543                   CCDM J04509-5328A               CSI-53 760 43                 
+   HIC 22531                       HIP 22531                       UBV 4716                      
+   UBV M 10427                     WDS J04509-5328A                * iot Pic A                   
+   CPC 19 1512                     CSI-53 760 41                   GC 5945                       
+   GCRV 2876                       HD 31203                        HR 1563                       
+   IDS 04487-5338 A                N30 1043                        PPM 333835                    
+   ROT 690                         SAO 233709                      SKY# 7546                     
+   uvby98 100031203 A              TYC 8510-1940-1                 PMSC 04487-5338A              
+   ** SHY 172A                     CPD-53 760A                     ** DUN 18A                    
+   2MASS J04505530-5327415         WEB 4349                        Gaia DR2 4777112872882315648  
+   GEN# +1.00031203                                                                              
+
+Bibcodes  1850-2021 () (44):
+  2020AJ....160...69T  2019A&A...623A..72K  2019ApJS..241...12S  2017AJ....154..115H
+  2017PASP..129e4501I  2016A&A...591A.118S  2016ApJ...826..171G  2015A&A...580A..23P
+  2015AJ....149....8T  2015ApJ...804..146D  2014ApJS..212...10P  2014MNRAS.443.2815P
+  2013ApJS..208...29W  2013MNRAS.433.2334K  2012A&A...542A.116A  2012A&A...546A..61D
+  2012MNRAS.420.2399M  2010AJ....140..510T  2008MNRAS.389..869E  2006AJ....132..161G
+  2006AstL...32..759G  1998A&AS..129..431H  1998A&AS..132..155H  1997A&AS..124...75T
+  1995A&AS..114..269D  1995ApJS...99..135A  1993yCat.3135....0C  1988ApJ...329..253W
+  1984AJ.....89..515D  1984ApJS...55..657C  1981A&AS...44...23R  1980A&A....82..370H
+  1980A&AS...41..255O  1980ApJS...44....1T  1980BICDS..19...41H  1978A&A....66..335H
+  1978A&AS...34..453O  1977A&AS...27..443G  1975AJ.....80..637M  1975MSS...C01....0H
+  1972MNRAS.160..155S  1961MNRAS.123..233B  1957MNRAS.117..449D  1953GCRV..C......0W
+
+Measures (distance:1  Fe_H:2  MK:5  PLX:3  PM:5  ROT:3  velocities:8  ):
+distance:1Fe_H:2MK:5PLX:3PM:5ROT:3velocities:8
+
+Notes (0) :
+
+================================================================================
+

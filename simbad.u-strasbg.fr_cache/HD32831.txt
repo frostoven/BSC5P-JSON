@@ -1,0 +1,61 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:55:20
+
+HD32831
+-------
+
+Object * gam Cae  ---  **  ---  OID=@774558   (@@12477,5)  ---  coobox=7062
+
+Coordinates(ICRS,ep=J2000,eq=2000): 05 04 24.40218  -35 28 58.7161 (Opt ) A [4.30 2.73 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 05 02 36.39885  -35 33 01.2391
+Coordinates(Gal,ep=J2000,eq=2000): 238.60056080  -36.22504032 
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: 126.17 -43.67 [0.31 0.49 0] A 2007A&A...474..653V
+Parallax: 17.99 [0.40] A 2007A&A...474..653V
+Radial Velocity: 9.7 [2] E 1953GCRV..C......0W
+Redshift: 0.000032 [0.000007] E 1953GCRV..C......0W
+cz: 9.70 [2.00] E 1953GCRV..C......0W
+Flux U : 6.94 [~] C 2002yCat.2237....0D
+Flux B : 5.75 [~] C 2002yCat.2237....0D
+Flux V : 4.55 [~] C 2002yCat.2237....0D
+Flux R : 3.64 [~] C 2002yCat.2237....0D
+Flux I : 2.99 [~] C 2002yCat.2237....0D
+Flux J : 2.504 [0.01] B 2012MNRAS.419.1637L
+Flux H : 1.903 [0.01] B 2012MNRAS.419.1637L
+Flux K : 1.769 [0.01] B 2012MNRAS.419.1637L
+Spectral type: K2.5IIIb+G8IV C 1984ApJS...55..657C
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (31):
+   TIC 77669474                    2MASS J05042437-3528584         PLX 1146                      
+   * gam01 Cae                     * gam Cae                       CCDM J05044-3529AB            
+   CD-35 2089                      CPC 18 1812                     CPD-35 586                    
+   GC 6212                         GCRV 3010                       GEN# +1.00032831J             
+   GSC 07053-02046                 HD 32831                        HIC 23595                     
+   HIP 23595                       HR 1652                         IDS 05008-3537 AB             
+   IRAS 05026-3532                 JP11 981                        N30 1080                      
+   PPM 281010                      RAFGL 4390S                     SAO 195532                    
+   SKY# 7942                       TD1 4002                        UBV 4901                      
+   UBV M 10619                     WDS J05044-3529AB               ** JC 9                       
+   WEB 4598                                                                                      
+
+Bibcodes  1850-2021 () (44):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2017AJ....154..115H  2012A&A...546A..61D
+  2012MNRAS.419.1637L  2012MNRAS.427..343M  2011ApJ...735..112J  2010ApJS..190..203P
+  2009MNRAS.399..399R  2008MNRAS.389..869E  2007PASP..119..994E  2006A&A...460..855W
+  2006AJ....131.3008H  2006AstL...32..759G  2005A&A...431..773R  2005A&A...434.1201R
+  2002yCat.2237....0D  2000AJ....120.2638H  1999AcA....49..319P  1999ApJ...518..859K
+  1997AJ....114.2117H  1997ApJS..112..557K  1995A&AS..114..269D  1993AJ....106...80E
+  1993yCat.3135....0C  1992S&T....83...83S  1989A&AS...78..511P  1989PASP..101...45E
+  1989PASP..101..366E  1985A&AS...60..315V  1985IBVS.2736....1C  1984AJ.....89.1887C
+  1984ApJS...55..657C  1983MNRAS.202..761H  1982A&AS...50..115W  1982MSS...C03....0H
+  1974BAICz..25...15C  1973PASP...85..542E  1970ApJ...161..199E  1969PASP...81..553E
+  1965BOTT....4...33I  1953GCRV..C......0W  1950AJ.....55....9S  1919ApJ....50..161L
+
+Measures (MK:2  PLX:2  PM:4  velocities:7  ):
+MK:2PLX:2PM:4velocities:7
+
+Notes (0) :
+
+================================================================================
+

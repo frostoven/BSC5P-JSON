@@ -1,0 +1,54 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:59:05
+
+HD69445
+-------
+
+Object HD 69445  ---  **  ---  OID=@1073174   (@@12892,17)  ---  coobox=8130
+
+Coordinates(ICRS,ep=J2000,eq=2000): 08 15 52.53941  -30 55 33.3985 (Opt ) A [5.89 4.13 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 08 13 52.19108  -30 46 16.4010
+Coordinates(Gal,ep=J2000,eq=2000): 249.71314038  +02.32782320 
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: -49.31 -12.13 [0.47 0.67 0] A 2007A&A...474..653V
+Parallax: 10.22 [0.68] A 2007A&A...474..653V
+Radial Velocity: 4.40 [1.7] B 2007AN....328..889K
+Redshift: 0.000015 [0.000006] B 2007AN....328..889K
+cz: 4.40 [1.70] B 2007AN....328..889K
+Flux B : 7.74 [0.01] E 2012yCat.1322....0Z
+Flux V : 7.71 [0.01] E 2012yCat.1322....0Z
+Flux R : 7.08 [0.36] E 2012yCat.1322....0Z
+Flux J : 4.784 [0.018] C 2003yCat.2246....0C
+Flux H : 4.375 [0.076] C 2003yCat.2246....0C
+Flux K : 4.236 [0.027] C 2003yCat.2246....0C
+Flux g : 8.15 [0.01] E 2012yCat.1322....0Z
+Flux r : 7.54 [0.01] E 2012yCat.1322....0Z
+Flux i : 6.42 [0.01] D 2012yCat.1322....0Z
+Spectral type: G5/8III+(G) D 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (27):
+   TIC 146626743                   2MASS J08155253-3055334         BDS 4539 AB                   
+   CCDM J08159-3056AB              CD-30 5946                      CPC 17 3846                   
+   CPD-30 2357                     CSI-30 5946 21                  GC 11256                      
+   HD 69445                        HIC 40476                       HIP 40476                     
+   HR 3251                         IDS 08119-3037 AB               PPM 285008                    
+   SAO 199010                      SKY# 15633                      UBV 7949                      
+   1RXS J081552.8-305526           WDS J08159-3056AB               ** BU 454AB                   
+   AKARI-IRC-V1 J0815525-305532    IRAS 08138-3046                 GEN# +1.00069445              
+   GSC 07122-01231                 UCAC4 296-041314                WISE J081552.50-305533.2      
+
+Bibcodes  1850-2021 () (19):
+  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2009ApJS..184..138H
+  2000A&A...356..141F  1998A&AS..127..251H  1997AJ....114.2117H  1993yCat.3135....0C
+  1987AJ.....94..771D  1987ApJS...63..365C  1986ApJS...62..147B  1985A&AS...59...15A
+  1984AJ.....89.1887C  1984ApJS...55..657C  1983MNRAS.202..761H  1982MSS...C03....0H
+  1980A&A....84..108F  1980A&AS...40..347V  1975MNSSA..34....7H            
+
+Measures (MK:2  PLX:2  PM:2  velocities:1  ):
+MK:2PLX:2PM:2velocities:1
+
+Notes (0) :
+
+================================================================================
+

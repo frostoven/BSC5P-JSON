@@ -1,0 +1,53 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:06:04
+
+HD78293
+-------
+
+Object HD 78293  ---  *  ---  OID=@3063937   (@@66674,7)  ---  coobox=20733
+
+Coordinates(ICRS,ep=J2000,eq=2000): 09 04 47.9684281977  -57 51 09.272712222 (Opt ) A [0.0369 0.0387 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 09 03 27.9282310460  -57 39 08.828972839
+Coordinates(Gal,ep=J2000,eq=2000): 276.3109546507897  -07.2268266809152
+hierarchy counts: #parents=1, #children=0, #siblings=0
+Proper motions: -24.872 21.215 [0.082 0.071 90] A 2018yCat.1345....0G
+Parallax: 3.1529 [0.0390] A 2018yCat.1345....0G
+Radial Velocity: 14.20 [0.6] A 2006AstL...32..759G
+Redshift: 0.000047 [0.000002] A 2006AstL...32..759G
+cz: 14.20 [0.60] A 2006AstL...32..759G
+Flux B : 6.69 [~] E ~                  
+Flux V : 6.44 [~] E ~                  
+Flux G : 6.3843 [0.0004] C 2018yCat.1345....0G
+Flux J : 5.831 [0.019] C 2003yCat.2246....0C
+Flux H : 5.740 [0.034] C 2003yCat.2246....0C
+Flux K : 5.665 [0.024] C 2003yCat.2246....0C
+Spectral type: A8III C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (23):
+   TIC 384261503                   CCDM J09048-5751AB              CD-57 2444                    
+   CPC 20 2464                     CPD-57 1859                     GC 12567                      
+   GEN# +1.00078293J               HD 78293                        HIC 44565                     
+   HIP 44565                       HR 3622                         IDS 09021-5727 AB             
+   PPM 337556                      SAO 236578                      SKY# 17510                    
+   TD1 13551                       UBV 8768                        2MASS J09044796-5751092       
+   WDS J09048-5751AB               ** HJ 4178AB                    TYC 8590-166-1                
+   uvby98 100078293                Gaia DR2 5303843264032361600                                  
+
+Bibcodes  1850-2021 () (22):
+  2020ApJS..247...11R  2019A&A...623A..72K  2018A&A...615A..49C  2015A&A...580A..23P
+  2012A&A...542A.116A  2012A&A...546A..61D  2012MNRAS.427..343M  2006AstL...32..759G
+  2002A&A...381..105R  2002A&A...393..897R  1999A&AS..135..503G  1998A&AS..129..431H
+  1993yCat.3135....0C  1988AJ.....96..635E  1986PASP...98..423E  1985AJ.....90.1046E
+  1982PVSS...10...10M  1980A&A....84..108F  1980ApJS...44....1T  1979AJ.....84..552J
+  1977A&AS...27..443G  1975MSS...C01....0H                        
+
+Measures (distance:1  MK:2  PLX:3  PM:3  ROT:1  velocities:1  ):
+distance:1MK:2PLX:3PM:3ROT:1velocities:1
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 44565 includes the components \object{CCDM J09048-5751AB}
+
+================================================================================
+

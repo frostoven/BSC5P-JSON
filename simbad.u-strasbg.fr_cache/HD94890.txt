@@ -1,0 +1,63 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:16:12
+
+HD94890
+-------
+
+Object * iot Ant  ---  PM*  ---  OID=@1778691   (@@36928,13)  ---  coobox=15258
+
+Coordinates(ICRS,ep=J2000,eq=2000): 10 56 43.0509748389  -37 08 15.952141940 (Opt ) A [0.1193 0.1226 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 10 54 22.9704451849  -36 52 06.659668918
+Coordinates(Gal,ep=J2000,eq=2000): 278.8554690819417  +20.3130131916386
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 74.303 -125.185 [0.221 0.259 90] A 2018yCat.1345....0G
+Parallax: 16.1823 [0.1882] A 2018yCat.1345....0G
+Radial Velocity: 2.30 [0.31] A 2018yCat.1345....0G
+Redshift: 0.000008 [0.000001] A 2018yCat.1345....0G
+cz: 2.30 [0.31] A 2018yCat.1345....0G
+Flux U : 6.47 [~] C 2002yCat.2237....0D
+Flux B : 5.63 [~] C 2002yCat.2237....0D
+Flux V : 4.60 [~] C 2002yCat.2237....0D
+Flux G : 4.2533 [0.0035] C 2018yCat.1345....0G
+Flux R : 3.85 [~] C 2002yCat.2237....0D
+Flux I : 3.32 [~] C 2002yCat.2237....0D
+Flux J : 2.888 [0.01] B 2012MNRAS.419.1637L
+Flux H : 2.424 [0.01] B 2012MNRAS.419.1637L
+Flux K : 2.296 [0.01] B 2012MNRAS.419.1637L
+Spectral type: K0III C 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (32):
+   TIC 158543228                   PLX 2554                        * iot Ant                     
+   CD-36 6808                      CPC 18 5095                     CPD-36 4700                   
+   FK5 414                         GC 15047                        GCRV 6782                     
+   GEN# +1.00094890                GSC 07211-02295                 HD 94890                      
+   HIC 53502                       HIP 53502                       HR 4273                       
+   IRAS 10543-3651                 JP11 2011                       N30 2575                      
+   PMC 90-93 297                   PPM 288317                      SACS 240                      
+   SAO 201927                      SKY# 20934                      SRS 30414                     
+   TD1 15262                       TYC 7211-2295-1                 UBV 10032                     
+   UBV M 16666                     2MASS J10564305-3708158         PLX 2554.00                   
+   WEB 9713                        Gaia DR2 5394951821153092864                                  
+
+Bibcodes  1850-2021 () (45):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2017AJ....154..115H  2016A&A...591A.118S
+  2015AJ....150...88L  2015MNRAS.448.2749A  2015MNRAS.450.1900A  2012A&A...546A..61D
+  2012MNRAS.419.1637L  2010A&A...515A.111S  2010ApJS..190..203P  2010MNSSA..69..107S
+  2009A&A...507.1739S  2008MNRAS.389..869E  2006AstL...32..759G  2002AcA....52..159K
+  2002yCat.2237....0D  2001A&A...365..222G  2001A&A...367..521P  1999AcA....49..319P
+  1999VeARI..35....1W  1998A&A...339..858D  1998A&AS..129..505B  1997PNAOJ...5....1Y
+  1996AJ....112.1595E  1995A&AS..109..501C  1995A&AS..114..269D  1995GCTP..C......0V
+  1994A&AS..106..441N  1994PBeiO..24...71L  1993AJ....106...80E  1993yCat.3135....0C
+  1992A&AS...95..355C  1992PPMtO..11..184X  1990PBeiO..16...18L  1989PASP..101...45E
+  1989PASP..101..366E  1987A&AS...67....1C  1982MSS...C03....0H  1978A&AS...31..159B
+  1976A&AS...25...55C  1974PASP...86..129E  1966JO.....49..387L  1953GCRV..C......0W
+  1950AJ.....55....9S                                    
+
+Measures (distance:1  Fe_H:3  MK:3  PLX:4  PM:5  velocities:7  ):
+distance:1Fe_H:3MK:3PLX:4PM:5velocities:7
+
+Notes (0) :
+
+================================================================================
+

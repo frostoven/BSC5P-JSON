@@ -1,0 +1,56 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:01:38
+
+HD72462
+-------
+
+Object HD 72462  ---  **  ---  OID=@1096959   (@@14865,17)  ---  coobox=7655
+
+Coordinates(ICRS,ep=J2000,eq=2000): 08 32 33.3576176696  -15 01 48.616630586 (Opt ) A [0.1726 0.1293 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 08 30 13.8546002047  -14 51 35.636478529
+Coordinates(Gal,ep=J2000,eq=2000): 238.5555147234055  +14.4067807397912
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -43.862 39.526 [0.323 0.212 90] A 2018yCat.1345....0G
+Parallax: 16.3573 [0.2186] A 2018yCat.1345....0G
+Radial Velocity: 28.10 [1.6] B 2006AstL...32..759G
+Redshift: 0.000094 [0.000005] B 2006AstL...32..759G
+cz: 28.10 [1.60] B 2006AstL...32..759G
+Flux B : 6.640 [0.015] D 2000A&A...355L..27H
+Flux V : 6.380 [0.010] D 2000A&A...355L..27H
+Flux G : 6.3118 [0.0003] C 2018yCat.1345....0G
+Flux J : 5.845 [0.027] C 2003yCat.2246....0C
+Flux H : 5.737 [0.036] C 2003yCat.2246....0C
+Flux K : 5.670 [0.029] C 2003yCat.2246....0C
+Spectral type: A7IV/V D 1988MSS...C04....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (25):
+   TIC 386458569                   BD-14 2564                      CCDM J08326-1502AB            
+   GC 11703                        GEN# +1.00072462J               GSC 06011-02255               
+   HD 72462                        HIC 41893                       HIP 41893                     
+   HR 3374                         IDS 08279-1441 AB               PPM 220256                    
+   SAO 154373                      SKY# 16283                      TD1 12645                     
+   TYC 6011-2255-1                 UBV 8130                        UBV M 14433                   
+   YZ 104 3418                     2MASS J08323336-1501487         WDS J08326-1502AB             
+   PMSC 08279-1441                 ** B 2528                       uvby98 100072462              
+   Gaia DR2 5722446169849340288                                                                  
+
+Bibcodes  1850-2021 () (30):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2017AJ....154..115H  2016A&A...591A.118S
+  2015A&A...580A..23P  2015ApJ...804..146D  2014A&A...563A.138V  2014AJ....147..123T
+  2012A&A...537A.120Z  2012A&A...546A..61D  2012AJ....143...42H  2012MNRAS.427..343M
+  2010AJ....139..743T  2007A&A...463..671R  2007A&A...464..377F  2007ApJ...658.1289T
+  2006AstL...32..759G  2005AJ....129.2420M  2002A&A...381..105R  2002A&A...393..897R
+  2001A&A...367..521P  1999A&AS..135..503G  1998A&AS..129..431H  1998AJ....116.1412K
+  1997A&AS..124...75T  1995AJ....109.2828T  1995ApJS...99..135A  1993yCat.3135....0C
+  1988MSS...C04....0H  1977A&AS...27..443G                        
+
+Measures (distance:1  Fe_H:1  MK:3  PLX:3  PM:4  ROT:3  velocities:1  ):
+distance:1Fe_H:1MK:3PLX:3PM:4ROT:3velocities:1
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 41893 includes the components CCDM J08326-1502AB
+
+================================================================================
+

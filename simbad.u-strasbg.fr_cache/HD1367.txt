@@ -1,0 +1,56 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST15:06:26
+
+HD1367
+------
+
+Object HD 1367  ---  PM*  ---  OID=@1388215   (@@28714,11)  ---  coobox=11275
+
+Coordinates(ICRS,ep=J2000,eq=2000): 00 17 47.6987294262  +01 41 19.425461276 (Opt ) A [0.0380 0.0304 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 00 15 13.5026290292  +01 24 39.235332998
+Coordinates(Gal,ep=J2000,eq=2000): 105.8948966947427  -60.0654671758765
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 91.200 10.303 [0.091 0.058 90] A 2018yCat.1345....0G
+Parallax: 8.8750 [0.0419] A 2018yCat.1345....0G
+Radial Velocity: -9.05 [0.14] A 2018yCat.1345....0G
+Redshift: -0.000030 [0.000000] A 2018yCat.1345....0G
+cz: -9.05 [0.14] A 2018yCat.1345....0G
+Flux B : 7.126 [0.015] D 2000A&A...355L..27H
+Flux V : 6.176 [0.010] D 2000A&A...355L..27H
+Flux G : 5.9303 [0.0004] C 2018yCat.1345....0G
+Flux J : 4.952 [0.216] D 2003yCat.2246....0C
+Flux H : 4.326 [0.206] D 2003yCat.2246....0C
+Flux K : 4.225 [0.264] D 2003yCat.2246....0C
+Spectral type: K0III C 1999MSS...C05....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (27):
+   TIC 293304772                   2MASS J00174770+0141193         AG+01 24                      
+   BD+00 28                        FK5 2017                        GC 346                        
+   GCRV 155                        GEN# +1.00001367                GSC 00002-01641               
+   HD 1367                         HIC 1421                        HIP 1421                      
+   HR 67                           IRAS 00152+0124                 PMC 90-93 1182                
+   PPM 143346                      SAO 109119                      SKY# 520                      
+   TYC 2-1641-1                    UBV 212                         UBV M 7282                    
+   YZ 0 3091                       YZ 1 45                         uvby98 100001367              
+   Gaia DR1 2547964815499312768    WEB 260                         Gaia DR2 2547964815499312768  
+
+Bibcodes  1850-2021 () (37):
+  2020A&A...640A...2S  2019A&A...623A..72K  2019A&A...629A..80H  2019MNRAS.483..299G
+  2019MNRAS.484..125R  2019MNRAS.490.3158C  2016A&A...586A..94L  2015A&A...580A..23P
+  2014ApJ...785...94L  2012A&A...546A..61D  2012MNRAS.427..343M  2011MNRAS.410..190T
+  2010PASJ...62.1071L  2008MNRAS.387.1563E  2006A&A...450.1173L  2006AstL...32..759G
+  2005A&A...430..165F  2001A&A...367..297A  2000VeARI..37....1W  1999A&AS..139..433D
+  1999MSS...C05....0H  1998A&AS..129..431H  1998AJ....115..605L  1997PNAOJ...5....1Y
+  1995A&AS..114..269D  1994AJ....107..594E  1993VeARI..34....1S  1993yCat.3135....0C
+  1990A&AS...83..225A  1990A&AS...84..229A  1989PASP..101...45E  1985AJ.....90..333E
+  1980A&AS...42..311H  1979PASP...91...83C  1974AJ.....79..682H  1970ApJS...19..387A
+  1953GCRV..C......0W                                    
+
+Measures (distance:1  Fe_H:2  MK:2  PLX:4  PM:3  ROT:1  velocities:9  ):
+distance:1Fe_H:2MK:2PLX:4PM:3ROT:1velocities:9
+
+Notes (0) :
+
+================================================================================
+

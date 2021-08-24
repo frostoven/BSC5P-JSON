@@ -1,0 +1,54 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:33:26
+
+HD123630
+--------
+
+Object * 96 Vir  ---  **  ---  OID=@2243190   (@@47162,22)  ---  coobox=15764
+
+Coordinates(ICRS,ep=J2000,eq=2000): 14 09 00.5929519521  -10 20 04.371302007 (Opt ) A [0.0407 0.0259 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 14 06 20.4840494634  -10 05 54.687576157
+Coordinates(Gal,ep=J2000,eq=2000): 332.2027410884807  +48.0795030019808
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -7.390 21.261 [0.065 0.053 90] A 2018yCat.1345....0G
+Parallax: 7.8225 [0.0417] A 2018yCat.1345....0G
+Radial Velocity: -15.33 [0.18] A 2018yCat.1345....0G
+Redshift: -0.000051 [0.000001] A 2018yCat.1345....0G
+cz: -15.33 [0.18] A 2018yCat.1345....0G
+Flux B : 7.455 [0.016] D 2000A&A...355L..27H
+Flux V : 6.460 [0.010] D 2000A&A...355L..27H
+Flux G : 6.1658 [0.0006] C 2018yCat.1345....0G
+Flux J : 4.874 [0.210] D 2003yCat.2246....0C
+Flux H : 4.198 [0.218] D 2003yCat.2246....0C
+Flux K : 4.156 [0.288] D 2003yCat.2246....0C
+Spectral type: K0III C 1999MSS...C05....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (30):
+   TIC 19967999                    * 96 Vir                        AAVSO 1403-09                 
+   BD-09 3865                      GC 19092                        GCRV 8287                     
+   GEN# +1.00123630                GSC 05558-01726                 HD 123630                     
+   HERZ 1821                       HIC 69127                       HIP 69127                     
+   HR 5298                         IRAS 14063-1005                 PMC 90-93 6193                
+   PPM 228362                      SAO 158385                      SKY# 25864                    
+   SRS 12093                       TYC 5558-1726-1                 UBV 12476                     
+   UBV M 19993                     YZC 11 5016                     uvby98 100123630              
+   2MASS J14090060-1020044         WDS J14090-1020AB               ** CHR 40                     
+   CCDM J14090-1020AB              WEB 12070                       Gaia DR2 3614734159526614656  
+
+Bibcodes  1850-2021 () (25):
+  2019A&A...623A..72K  2019A&A...625A.141L  2019A&A...631A.113F  2019MNRAS.483..299G
+  2019MNRAS.490.3158C  2017A&A...598A.100J  2016ApJ...817...40F  2016MNRAS.460.3179W
+  2015A&A...580A..23P  2012A&A...546A..61D  2012MNRAS.427..343M  2009AJ....138..813H
+  2002BASI...30..677S  1999MSS...C05....0H  1997PNAOJ...5....1Y  1995A&AS..114..269D
+  1993PASP..105...36S  1993yCat.3135....0C  1987AJ.....93..688M  1984A&A...137..281A
+  1983A&AS...54..161A  1979PASP...91...83C  1974AJ.....79..682H  1961BAICz..12..211V
+  1953GCRV..C......0W                                    
+
+Measures (distance:1  Fe_H:3  MK:2  PLX:3  PM:4  velocities:7  ):
+distance:1Fe_H:3MK:2PLX:3PM:4velocities:7
+
+Notes (0) :
+
+================================================================================
+

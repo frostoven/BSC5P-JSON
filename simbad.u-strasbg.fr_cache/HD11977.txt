@@ -1,0 +1,74 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:50:20
+
+HD11977
+-------
+
+Object * eta02 Hyi  ---  PM*  ---  OID=@3212892   (@@72979,1)  ---  coobox=23016
+
+Coordinates(ICRS,ep=J2000,eq=2000): 01 54 56.1320498641  -67 38 50.294625663 (Opt ) A [0.1431 0.1176 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 01 53 39.9204066427  -67 53 34.481538282
+Coordinates(Gal,ep=J2000,eq=2000): 293.9255185359230  -48.3554812938759
+hierarchy counts: #parents=0, #children=1, #siblings=0
+Proper motions: 75.680 73.609 [0.259 0.227 90] A 2018yCat.1345....0G
+Parallax: 14.6943 [0.1523] A 2018yCat.1345....0G
+Radial Velocity: -17.928 [0.0002] A 2018A&A...616A...7S
+Redshift: -0.000060 [0.000000] A 2018A&A...616A...7S
+cz: -17.93 [0.00] A 2018A&A...616A...7S
+Flux B : 5.623 [0.014] D 2000A&A...355L..27H
+Flux V : 4.685 [0.009] D 2000A&A...355L..27H
+Flux G : 4.3706 [0.0039] C 2018yCat.1345....0G
+Flux J : 3.046 [0.01] B 2012MNRAS.419.1637L
+Flux H : 2.594 [0.01] B 2012MNRAS.419.1637L
+Flux K : 2.486 [0.01] B 2012MNRAS.419.1637L
+Spectral type: G8IIIb B 1989ApJS...71..245K
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (26):
+   TIC 232074535                   * eta02 Hyi                     CPC 21 324                    
+   CPD-68 101                      FK5 69                          GC 2331                       
+   GCRV 1074                       GEN# +1.00011977                GSC 09143-00238               
+   HD 11977                        HIC 8928                        HIP 8928                      
+   HR 570                          IRAS 01536-6753                 JP11 559                      
+   N30 398                         PPM 352648                      SAO 248460                    
+   SKY# 2805                       TD1 1128                        TYC 9143-238-1                
+   UBV 1972                        UBV M 8547                      Gaia DR2 4697508196671120000  
+   2MASS J01545613-6738503         WEB 1877                                                      
+
+Bibcodes  1850-2021 () (96):
+  2021A&A...647A.157S  2020A&A...640A...2S  2020ApJ...890...23L  2019A&A...623A..72K
+  2019ApJ...876...23G  2019MNRAS.490.3158C  2019Natur.567..200P  2018A&A...616A...7S
+  2018A&A...616A..68G  2017A&A...600A..22M  2017A&A...603A..30S  2017AJ....153..136S
+  2017AJ....154..115H  2016A&A...585A...5B  2016A&A...589A.112C  2016A&A...591A.118S
+  2016A&A...593A.133B  2015A&A...574A..50J  2015A&A...575A..18B  2015AJ....150...88L
+  2015MNRAS.448.2749A  2015MNRAS.450.1900A  2015MNRAS.451.3131S  2013A&A...551L...8P
+  2013A&A...552A.119S  2013A&A...556A.150S  2013A&A...557A..70M  2012A&A...539A..58C
+  2012A&A...546A..61D  2012ApJ...745...28G  2012MNRAS.419.1637L  2012MNRAS.427..343M
+  2011A&A...527A.140R  2011A&A...530A..93V  2011ApJ...737...66K  2010A&A...515A.111S
+  2010ApJ...709..168A  2010ApJ...709..396B  2010ApJ...725..721G  2010MNRAS.402.2609I
+  2009A&A...493.1099S  2009A&A...505.1311D  2009ApJ...694.1085V  2009MNRAS.396.2074H
+  2008A&A...480..215H  2008ApJ...687.1339K  2008MNRAS.389..869E  2008PASJ...60..539S
+  2007A&A...472..649D  2007A&A...473..979P  2007A&A...475..981B  2007A&A...475.1003H
+  2007AJ....134.1089S  2007ApJ...662.1282M  2007ApJ...665..785J  2006A&A...457..335H
+  2006A&A...458..609D  2006A&A...458..873S  2006ApJ...646..505B  2006ApJ...646..523R
+  2006ApJ...649.1010J  2006AstL...32..759G  2005A&A...431..773R  2005A&A...433.1155M
+  2005A&A...437..743H  2005A&A...437L..31S  2005ApJ...632L.131S  2004A&A...421..241S
+  2003A&A...397.1151S  2001A&A...365..222G  2001A&A...367..297A  2001A&A...367..521P
+  1999AcA....49..319P  1999ApJ...518..859K  1999VeARI..35....1W  1995A&AS..114..269D
+  1994AJ....107..594E  1993yCat.3135....0C  1992A&AS...95..355C  1991A&AS...90..109C
+  1990PBeiO..16...18L  1989A&AS...78..511P  1989ApJS...71..245K  1989BICDS..36...27G
+  1989PASP..101...45E  1989PASP..101...54E  1988BICDS..35...37K  1985BICDS..29...25K
+  1985RMxAA..10..377M  1980AcA....30..453G  1975MSS...C01....0H  1974PASP...86..129E
+  1969BOTT....5...57M  1969MNRAS.144..333W  1967BOTT....4..106M  1953GCRV..C......0W
+
+Measures (diameter:1  distance:1  Fe_H:7  MK:4  PLX:3  PM:5  ROT:2  velocities:9  ):
+diameter:1distance:1Fe_H:7MK:4PLX:3PM:5ROT:2velocities:9
+
+Notes (1) :
+(S) 01-Jul-2005 - mk    ref:~    obj:HD 11977
+    \object{HD 11977b} is a substellar companion of HD 11977, one of the few
+    planetcandidates detected around an intermediate-mass star(see also \exosun{HD
+    11977} in the \exoEncyclopedie)
+
+================================================================================
+

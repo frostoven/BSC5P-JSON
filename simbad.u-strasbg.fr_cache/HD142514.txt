@@ -1,0 +1,57 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:43:26
+
+HD142514
+--------
+
+Object HD 142514  ---  SB*  ---  OID=@8409067   (@@-1,255)  ---  coobox=22141
+
+Coordinates(ICRS,ep=J2000,eq=2000): 15 58 58.1473916469  -65 02 15.301596711 (Opt ) A [0.0877 0.0921 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 15 54 21.5876338957  -64 53 41.087229426
+Coordinates(Gal,ep=J2000,eq=2000): 321.1063608016912  -09.0137089818251
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -10.770 -5.878 [0.147 0.187 90] A 2018yCat.1345....0G
+Parallax: 4.4396 [0.1402] A 2018yCat.1345....0G
+Radial Velocity: 1.00 [1.6] B 2006AstL...32..759G
+Redshift: 0.000003 [0.000005] B 2006AstL...32..759G
+cz: 1.00 [1.60] B 2006AstL...32..759G
+Flux B : 5.671 [0.014] D 2000A&A...355L..27H
+Flux V : 5.740 [0.009] D 2000A&A...355L..27H
+Flux G : 5.7091 [0.0007] C 2018yCat.1345....0G
+Flux J : 5.864 [0.021] C 2003yCat.2246....0C
+Flux H : 5.92 [0.04] C 2003yCat.2246....0C
+Flux K : 5.861 [0.017] C 2003yCat.2246....0C
+Spectral type: B7III C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (34):
+   TIC 342230156                   WDS J15590-6502Aa,Ab            CCDM J15590-6502AC            
+   TYC 9031-4549-1                 WDS J15590-6502A                UCAC4 125-149644              
+   2MASS J15585814-6502152         ** HDS 2250                     ** B 854A                     
+   HD 142514A                      Gaia DR1 5822906550124823808    CPC 21 3636                   
+   CPD-64 3320                     CSI-64 3320 41                  CSI-64 3320 43                
+   GC 21414                        GCRV 65796                      GSC 09031-04549               
+   HD 142514                       HIC 78279                       HIP 78279                     
+   HR 5920                         N30 3580                        PPM 361773                    
+   SAO 253362                      SKY# 28843                      TD1 18672                     
+   UBV 13508                       UBV M 21028                     uvby98 100142514              
+   WEB 13236                       IDS 15498-6445 AC               GEN# +1.00142514              
+   Gaia DR2 5822906554447980032                                                                  
+
+Bibcodes  1850-2021 () (31):
+  2019A&A...623A..72K  2015A&A...580A..23P  2012A&A...546A..61D  2012AJ....143...28F
+  2012ApJS..199....8G  2012MNRAS.424.1925C  2012MNRAS.427..343M  2011MNRAS.410..190T
+  2010A&A...510A..54W  2010AN....331..349H  2008MNRAS.389..869E  2006AstL...32..759G
+  1998A&AS..129..431H  1996A&AS..118..481B  1996ApJ...468..290T  1995A&AS..114..269D
+  1994ApJS...94..127F  1994ApJS...95..163S  1993yCat.3135....0C  1991ApJ...373..614B
+  1985A&AS...60..183L  1983A&A...122...23A  1983A&AS...51..143G  1983A&AS...51..161L
+  1983A&AS...53..445Z  1980A&AS...40..207C  1977A&AS...27..443G  1977PASP...89..187E
+  1977PASP...89..205E  1975MSS...C01....0H  1970MmRAS..72..233H            
+
+Measures (distance:1  IUE:2  MK:3  PLX:4  PM:5  velocities:4  ):
+distance:1IUE:2MK:3PLX:4PM:5velocities:4
+
+Notes (0) :
+
+================================================================================
+

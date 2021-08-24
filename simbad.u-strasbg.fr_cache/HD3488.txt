@@ -1,0 +1,49 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:48:30
+
+HD3488
+------
+
+Object HD 3488  ---  PM*  ---  OID=@3231697   (@@74471,7)  ---  coobox=23495
+
+Coordinates(ICRS,ep=J2000,eq=2000): 00 37 18.2465128034  -54 23 37.749627414 (Opt ) A [0.0176 0.0162 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 00 34 58.8069110716  -54 40 07.680573399
+Coordinates(Gal,ep=J2000,eq=2000): 307.4056262482978  -62.6114927259536
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 70.567 -3.697 [0.022 0.023 90] A 2016A&A...595A...2G
+Parallax: 7.0827 [0.0231] A 2018yCat.1345....0G
+Radial Velocity: -5.51 [0.13] A 2018yCat.1345....0G
+Redshift: -0.000018 [0.000000] A 2018yCat.1345....0G
+cz: -5.51 [0.13] A 2018yCat.1345....0G
+Flux B : 7.401 [0.015] D 2000A&A...355L..27H
+Flux V : 6.403 [0.010] D 2000A&A...355L..27H
+Flux G : 6.1242 [0.0003] C 2018yCat.1345....0G
+Flux J : 4.812 [0.260] D 2003yCat.2246....0C
+Flux H : 4.338 [0.076] C 2003yCat.2246....0C
+Flux K : 4.110 [0.234] D 2003yCat.2246....0C
+Spectral type: K0II/IIICNIV D 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (20):
+   TIC 281637751                   2MASS J00371824-5423375         CD-55 147                     
+   CPC 19 177                      CPD-55 130                      GC 745                        
+   GEN# +1.00003488                GSC 08466-01340                 HD 3488                       
+   HIC 2937                        HIP 2937                        HR 162                        
+   PPM 330376                      SAO 232114                      SKY# 985                      
+   TYC 8466-1340-1                 UBV 486                         UBV M 7522                    
+   Gaia DR1 4921448783620869760    Gaia DR2 4921448787917541888                                  
+
+Bibcodes  1850-2021 () (20):
+  2019A&A...623A..72K  2019ApJ...880...49H  2019MNRAS.490.3158C  2016A&A...591A.118S
+  2015AJ....150...88L  2015MNRAS.448.2749A  2015MNRAS.450.1900A  2012A&A...546A..61D
+  2012MNRAS.427..343M  2011MNRAS.410..190T  2006AstL...32..759G  1995AJ....109.2828T
+  1994AJ....107..594E  1993yCat.3135....0C  1992AJ....103.1381E  1989PASP..101...45E
+  1989PASP..101...54E  1986A&AS...64..487K  1985A&AS...59...15A  1975MSS...C01....0H
+
+Measures (distance:1  Fe_H:1  MK:2  PLX:4  PM:4  velocities:2  ):
+distance:1Fe_H:1MK:2PLX:4PM:4velocities:2
+
+Notes (0) :
+
+================================================================================
+

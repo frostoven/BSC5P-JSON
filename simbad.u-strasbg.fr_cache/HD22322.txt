@@ -1,0 +1,49 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:53:02
+
+HD22322
+-------
+
+Object HD 22322  ---  *  ---  OID=@668235   (@@12413,0)  ---  coobox=6812
+
+Coordinates(ICRS,ep=J2000,eq=2000): 03 34 33.58863  -31 52 29.2776 (Opt ) A [4.92 3.77 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 03 32 33.24756  -32 02 27.1545
+Coordinates(Gal,ep=J2000,eq=2000): 230.60772317  -54.39796840 
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 15.05 -0.39 [0.43 0.56 0] A 2007A&A...474..653V
+Parallax: 2.83 [0.56] A 2007A&A...474..653V
+Radial Velocity: 14.30 [0.4] A 2006AstL...32..759G
+Redshift: 0.000048 [0.000001] A 2006AstL...32..759G
+cz: 14.30 [0.40] A 2006AstL...32..759G
+Flux B : 7.899 [0.015] D 2000A&A...355L..27H
+Flux V : 6.422 [0.009] D 2000A&A...355L..27H
+Flux J : 4.130 [0.278] D 2003yCat.2246....0C
+Flux H : 3.306 [0.254] D 2003yCat.2246....0C
+Flux K : 3.147 [0.262] D 2003yCat.2246....0C
+Spectral type: K3III C 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (23):
+   TIC 142977105                   2MASS J03343359-3152292         CCDM J03346-3152AB            
+   CD-32 1358                      CPC 17 1266                     CPD-32 388                    
+   GC 4281                         GEN# +1.00022322J               GSC 07021-00076               
+   HD 22322                        HIC 16672                       HIP 16672                     
+   HR 1095                         IDS 03306-3213 AB               IRAS 03325-3202               
+   N30 734                         PPM 279176                      SAO 194379                    
+   SKY# 5409                       TYC 7021-76-1                   UBV 3435                      
+   WDS J03346-3152AB               ** B 53AB                                                     
+
+Bibcodes  1850-2021 () (10):
+  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2006AstL...32..759G
+  2000A&A...356..141F  1993yCat.3135....0C  1991MNRAS.248..112W  1989PASP..101...45E
+  1985A&AS...59...15A  1982MSS...C03....0H                        
+
+Measures (MK:2  PLX:2  PM:2  velocities:1  ):
+MK:2PLX:2PM:2velocities:1
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 16672 includes the components \object{CCDM J03346-3152AB}
+
+================================================================================
+

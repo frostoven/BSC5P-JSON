@@ -1,0 +1,58 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:55:09
+
+HD31553
+-------
+
+Object * 99 Tau  ---  *  ---  OID=@743251   (@@20280,5)  ---  coobox=4536
+
+Coordinates(ICRS,ep=J2000,eq=2000): 04 57 48.6461452181  +23 56 54.832853036 (Opt ) A [0.2297 0.1626 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 04 54 46.4080839165  +23 52 20.528216236
+Coordinates(Gal,ep=J2000,eq=2000): 178.0931521986861  -11.6452515345546
+hierarchy counts: #parents=1, #children=0, #siblings=0
+Proper motions: 4.001 -14.160 [0.463 0.290 90] A 2018yCat.1345....0G
+Parallax: 6.1822 [0.3081] A 2018yCat.1345....0G
+Radial Velocity: 3.9 [2] E 1953GCRV..C......0W
+Redshift: 0.000013 [0.000007] E 1953GCRV..C......0W
+cz: 3.90 [2.00] E 1953GCRV..C......0W
+Flux B : 6.903 [0.016] D 2000A&A...355L..27H
+Flux V : 5.806 [0.010] D 2000A&A...355L..27H
+Flux G : 5.4079 [0.0029] C 2018yCat.1345....0G
+Flux J : 3.764 [0.296] D 2003yCat.2246....0C
+Flux H : 3.319 [0.232] D 2003yCat.2246....0C
+Flux K : 3.021 [0.356] E 2003yCat.2246....0C
+Spectral type: K0III E 1954ArA.....1..425A
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (33):
+   TIC 68754110                    2MASS J04574864+2356547         * 99 Tau                      
+   ADS 3557 A                      AG+23 451                       BD+23 777                     
+   CCDM J04578+2357A               CSI+23 777 1                    DO 10908                      
+   GC 6044                         GCRV 2930                       GEN# +1.00031553J             
+   GSC 01832-02497                 HD 31553                        HIC 23068                     
+   HIP 23068                       HR 1586                         IDS 04518+2348 A              
+   IRAS 04547+2352                 IRAS F04547+2352                N30 1057                      
+   PPM 93923                       SAO 76858                       SChM 21                       
+   SKY# 7752                       TYC 1832-2497-1                 UBV M 10478                   
+   YPAC 111                        YZ 23 1580                      WDS J04578+2357A              
+   Gaia DR1 3419439827619135488    WEB 4475                        Gaia DR2 3419439831914622720  
+
+Bibcodes  1850-2021 () (32):
+  2020A&A...639A...7J  2019A&A...623A..72K  2019ApJS..245....8P  2019MNRAS.490.3158C
+  2018A&A...615A..49C  2014A&A...567A..26L  2012A&A...546A..61D  2012MNRAS.427..343M
+  2008MNRAS.389..869E  2006AstL...32..759G  2000PASP..112.1320S  1999A&A...342..831J
+  1999ApJ...515..706J  1998A&AS..127..251H  1998AJ....116.2466F  1997A&A...323..513P
+  1997AJ....113..905P  1996A&AS..118..239H  1995A&AS..110..177D  1995A&AS..114..269D
+  1995ApJ...446L..79Z  1994AJ....107..594E  1993yCat.3135....0C  1992BaltA...1..125S
+  1989PASP..101...45E  1989PASP..101...54E  1987A&AS...68..259H  1986ApJ...307..711O
+  1970ApJS...19..387A  1967ApJS...14..307E  1954ArA.....1..425A  1953GCRV..C......0W
+
+Measures (distance:1  MK:1  PLX:4  PM:6  velocities:6  ):
+distance:1MK:1PLX:4PM:6velocities:6
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 23068 includes the components \object{CCDM J04578+2357 A} and \object{CCDM J04578+2357 B}
+
+================================================================================
+

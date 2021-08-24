@@ -1,0 +1,59 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:03:35
+
+HD170479
+--------
+
+Object HD 170479  ---  *  ---  OID=@2393024   (@@56827,4)  ---  coobox=18530
+
+Coordinates(ICRS,ep=J2000,eq=2000): 18 31 04.8414699868  -32 59 20.753703372 (Opt ) A [0.4702 0.4589 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 18 27 48.0164654950  -33 01 26.787047586
+Coordinates(Gal,ep=J2000,eq=2000): 001.1073359768797  -10.4893701466447
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -1.371 -47.071 [0.938 0.780 90] A 2018yCat.1345....0G
+Parallax: 10.6451 [0.5932] A 2018yCat.1345....0G
+Radial Velocity: 9.2 [2] E 1953GCRV..C......0W
+Redshift: 0.000031 [0.000007] E 1953GCRV..C......0W
+cz: 9.20 [2.00] E 1953GCRV..C......0W
+Flux B : 5.566 [0.014] D 2000A&A...355L..27H
+Flux V : 5.386 [0.009] D 2000A&A...355L..27H
+Flux G : 5.2981 [0.0057] C 2018yCat.1345....0G
+Flux J : 4.986 [0.037] C 2003yCat.2246....0C
+Flux H : 4.962 [0.034] C 2003yCat.2246....0C
+Flux K : 4.868 [0.024] C 2003yCat.2246....0C
+Spectral type: A5V C 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (39):
+   TIC 197110837                   PLX 4252                        BDS 8590 AB                   
+   CCDM J18311-3259AB              CD-33 13281                     CPC 17 10004                  
+   CPD-33 5124                     GC 25263                        GCRV 10962                    
+   GEN# +1.00170479J               GSC 07398-01220                 HD 170479                     
+   HIC 90763                       HIP 90763                       HR 6936                       
+   IDS 18245-3303 ABC              IRAS 18278-3301                 N30 4108                      
+   PPM 297823                      ROT 2612                        SAO 210257                    
+   SKY# 33866                      SRS 43939                       TD1 22535                     
+   TYC 7398-1220-1                 UBV 15718                       UBV M 22996                   
+   [SC95] M 657                    [SC96] GC 631                   [SC96] Mis 1415               
+   2MASS J18310483-3259207         PLX 4252.00                     WDS J18311-3259AB             
+   ** HWE 43AB                     Renson 47760                    CD-33 13281A                  
+   uvby98 100170479                WEB 15547                       Gaia DR2 4044965912701284224  
+
+Bibcodes  1850-2021 () (28):
+  2019A&A...623A..72K  2015A&A...580A..23P  2012A&ARv..20...51V  2012MNRAS.427..343M
+  2011A&A...531A.143D  2009A&A...498..961R  2008MNRAS.389..869E  2006AstL...32..759G
+  1998A&AS..129..431H  1996ApJS..104..101S  1995A&AS..109..501C  1995A&AS..114..269D
+  1995ApJS...96..605S  1995ApJS...99..135A  1995GCTP..C......0V  1993yCat.3135....0C
+  1991A&AS...89..429R  1990A&AS...85..915D  1983AcA....33...89S  1982MSS...C03....0H
+  1977A&A....56..235H  1977A&AS...27..443G  1974RMxAA...1..175M  1973AJ.....78..401W
+  1972MNRAS.160..155S  1970IBVS..452....1S  1963PASP...75..194H  1953GCRV..C......0W
+
+Measures (distance:1  MK:2  PLX:4  PM:5  ROT:2  velocities:4  ):
+distance:1MK:2PLX:4PM:5ROT:2velocities:4
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 90763 includes the components \object{CCDM J18311-3259AB}
+
+================================================================================
+

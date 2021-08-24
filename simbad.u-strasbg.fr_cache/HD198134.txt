@@ -1,0 +1,70 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:22:01
+
+HD198134
+--------
+
+Object V* T Cyg  ---  LP?  ---  OID=@2957888   (@@62315,0)  ---  coobox=20470
+
+Coordinates(ICRS,ep=J2000,eq=2000): 20 47 10.7523904479  +34 22 26.837368218 (Opt ) A [0.0851 0.1039 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 20 45 10.9000014668  +34 11 21.820554030
+Coordinates(Gal,ep=J2000,eq=2000): 076.3943678716140  -05.6213893922511
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 39.637 8.068 [0.197 0.230 90] A 2018yCat.1345....0G
+Parallax: 8.4327 [0.1348] A 2018yCat.1345....0G
+Radial Velocity: -23.97 [0.14] A 2018yCat.1345....0G
+Redshift: -0.000080 [0.000000] A 2018yCat.1345....0G
+cz: -23.97 [0.14] A 2018yCat.1345....0G
+Flux B : 6.224 [0.014] D 2000A&A...355L..27H
+Flux V : 4.930 [0.009] D 2000A&A...355L..27H
+Flux G : 4.4700 [0.0026] C 2018yCat.1345....0G
+Flux R : 5.33 [0.46] E 2009yCat.1315....0Z
+Flux J : 2.63 [0.27] D 2003yCat.2246....0C
+Flux H : 1.97 [0.23] D 2003yCat.2246....0C
+Flux K : 1.80 [0.26] D 2003yCat.2246....0C
+Spectral type: K3III C ~                  
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (34):
+   TIC 232906886                   PLX 4965                        AAVSO 2043+34                 
+   ADS 14290 A                     AG+34 2081                      BD+33 4028                    
+   CCDM J20472+3422A               CSI+33 4028 1                   GC 28981                      
+   GCRV 13037                      GEN# +1.00198134A               HD 198134                     
+   HIC 102571                      HIP 102571                      HR 7956                       
+   IDS 20432+3400                  IDS 20432+3400 A                IRC +30453                    
+   PPM 85521                       ROT 3039                        SAO 70499                     
+   SKY# 39396                      UBV 21447                       UBV M 25168                   
+   V* T Cyg                        [S78b] 342A                     WDS J20472+3422A              
+   TYC 2695-4138-1                 GSC 02695-04138                 UCAC3 249-235111              
+   2MASS J20471075+3422268         IRAS 20451+3411                 WEB 18584                     
+   Gaia DR2 1869341845103357312                                                                  
+
+Bibcodes  1850-2021 () (72):
+  2020JAVSO..48..111B  2019A&A...623A..72K  2019MNRAS.490.3158C  2017ApJ...838...66L
+  2016A&A...591A.118S  2012MNRAS.427..343M  2011ApJ...734...67M  2011JAVSO..39....1P
+  2010A&A...515A.111S  2010ApJS..190..203P  2010CoSka..40...83T  2010JAVSO..38..161P
+  2009PASP..121..842R  2009PASP..121.1120C  2008MNRAS.389..869E  2008PASP..120..730S
+  2006AstL...32..759G  2005A&A...430..165F  2005A&A...431..773R  2004PASP..116..604S
+  2002A&A...386..492R  2002A&A...393..183B  2001A&A...373..159C  2001A&A...374..968M
+  2000ApJS..130..201H  1999A&AS..134..523T  1999A&AS..139..433D  1999AJ....117.1864C
+  1998A&A...339..858D  1997A&AS..124..299C  1997ApJS..112..557K  1997BaltA...6..481A
+  1996BaltA...5..603A  1995A&A...302..745D  1995A&AS..114..269D  1995AN....316..209J
+  1994A&AS..106..413H  1994Ap.....37..326D  1993Afz....36..273D  1993PASP..105.1422P
+  1993yCat.3135....0C  1992ApJ...388..171M  1991ApJS...76..715T  1991PPMtO..10..214Y
+  1990ApJ...348..253M  1990ApJS...74.1075M  1989PBeiO..14...12L  1986ApJS...62..147B
+  1985AbaOB..59...83B  1985ApJS...59...95A  1982BICDS..23...53H  1981A&AS...44..179P
+  1979PZP.....3..579P  1978IBVS.1513....1P  1977AN....298..121B  1976A&AS...26..219M
+  1971A&A....15..123H  1970A&AS....1..199H  1966MNRAS.133...99S  1966MNRAS.133..475A
+  1964MNRAS.128..435P  1963MNRAS.125..557A  1962JO.....45..117B  1961ApJS....6....1K
+  1960MNRAS.120..287G  1960MNRAS.121...52D  1958AnAp...21...26G  1955ApJ...121..118H
+  1954ApJ...119..613H  1953GCRV..C......0W  1952ApJ...115..157W  1952ApJ...116..122R
+
+Measures (distance:1  Fe_H:4  MK:6  PLX:3  PM:5  ROT:2  velocities:7  ):
+distance:1Fe_H:4MK:6PLX:3PM:5ROT:2velocities:7
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 102571 includes the components \object{CCDM J20472+3422A} and \object{CCDM J20472+3422B}
+
+================================================================================
+

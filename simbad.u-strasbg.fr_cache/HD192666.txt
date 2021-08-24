@@ -1,0 +1,57 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:18:50
+
+HD192666
+--------
+
+Object * 3 Cap  ---  *  ---  OID=@2577206   (@@61462,3)  ---  coobox=19345
+
+Coordinates(ICRS,ep=J2000,eq=2000): 20 16 22.8057223428  -12 20 13.626911238 (Opt ) A [0.0585 0.0353 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 20 13 36.7715099410  -12 29 29.606705027
+Coordinates(Gal,ep=J2000,eq=2000): 031.1195340222197  -24.3518659751245
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 7.048 -17.392 [0.117 0.074 90] A 2018yCat.1345....0G
+Parallax: 6.3596 [0.0673] A 2018yCat.1345....0G
+Radial Velocity: -20.10 [4.3] C 2006AstL...32..759G
+Redshift: -0.000067 [0.000014] C 2006AstL...32..759G
+cz: -20.10 [4.30] C 2006AstL...32..759G
+Flux B : 6.287 [0.014] D 2000A&A...355L..27H
+Flux V : 6.299 [0.010] D 2000A&A...355L..27H
+Flux G : 6.2670 [0.0003] C 2018yCat.1345....0G
+Flux J : 6.199 [0.018] C 2003yCat.2246....0C
+Flux H : 6.278 [0.029] C 2003yCat.2246....0C
+Flux K : 6.210 [0.020] C 2003yCat.2246....0C
+Spectral type: B9IV C 1988MSS...C04....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (31):
+   TIC 14593975                    * 3 Cap                         ADS 13600 A                   
+   BD-12 5680                      CCDM J20164-1220A               CSI-12 5680 1                 
+   GC 28149                        GCRV 70736                      GEN# +1.00192666              
+   GSC 05748-02597                 HD 192666                       HIC 99918                     
+   HIP 99918                       HR 7738                         IDS 20108-1239 A              
+   PPM 237176                      SAO 163402                      SKY# 38229                    
+   SRS 16035                       TD1 26360                       TYC 5748-2597-1               
+   UBV 17522                       UBV M 24652                     YZC 11 7141                   
+   uvby98 100192666                2MASS J20162280-1220137         WDS J20164-1220A              
+   Renson 53720                    ** BU 294A                      WEB 17972                     
+   Gaia DR2 6879740981957759744                                                                  
+
+Bibcodes  1850-2021 () (35):
+  2019A&A...623A..72K  2019MNRAS.483..299G  2019MNRAS.490.3158C  2016A&A...591A.118S
+  2015A&A...580A..23P  2014A&A...567A..26L  2013MNRAS.429..119P  2012A&A...537A.120Z
+  2012AstL...38..694G  2012MNRAS.427..343M  2011ApJ...728..104S  2009A&A...498..961R
+  2007A&A...463..671R  2006AstL...32..759G  2002ApJ...573..359A  1998A&AS..129..431H
+  1998A&AS..132...93A  1996A&AS..118..481B  1995A&AS..114..269D  1994BSAO...38..152G
+  1993Ap&SS.203...53H  1993yCat.3135....0C  1991A&AS...89..429R  1991AJ....102..589S
+  1988MSS...C04....0H  1985A&AS...60...99W  1984A&AS...58..387N  1982A&A...114...23H
+  1981A&AS...44..137S  1977A&AS...27..443G  1977PASP...89..205E  1976PDAO...14..379A
+  1973AJ.....78..192W  1970MmRAS..72..233H  1968PASP...80..746C            
+
+Measures (distance:1  Fe_H:1  MK:5  PLX:3  PM:4  ROT:2  velocities:4  ):
+distance:1Fe_H:1MK:5PLX:3PM:4ROT:2velocities:4
+
+Notes (0) :
+
+================================================================================
+

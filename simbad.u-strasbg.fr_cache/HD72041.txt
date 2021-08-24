@@ -1,0 +1,57 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:01:14
+
+HD72041
+-------
+
+Object * ups01 Cnc  ---  PM*  ---  OID=@1089486   (@@21414,11)  ---  coobox=5582
+
+Coordinates(ICRS,ep=J2000,eq=2000): 08 31 30.5194950108  +24 04 51.992027611 (Opt ) A [0.0735 0.0485 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 08 28 33.2942048249  +24 15 04.398110533
+Coordinates(Gal,ep=J2000,eq=2000): 200.1893137971148  +31.9833433525568
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -80.808 -45.146 [0.151 0.105 90] A 2018yCat.1345....0G
+Parallax: 13.5945 [0.0901] A 2018yCat.1345....0G
+Radial Velocity: 19.00 [4.3] C 2006AstL...32..759G
+Redshift: 0.000063 [0.000014] C 2006AstL...32..759G
+cz: 19.00 [4.30] C 2006AstL...32..759G
+Flux B : 6.003 [0.014] D 2000A&A...355L..27H
+Flux V : 5.694 [0.009] D 2000A&A...355L..27H
+Flux G : 5.6221 [0.0011] C 2018yCat.1345....0G
+Flux J : 5.048 [0.018] C 2003yCat.2246....0C
+Flux H : 4.906 [0.016] C 2003yCat.2246....0C
+Flux K : 4.911 [0.021] C 2003yCat.2246....0C
+Spectral type: F0IIIn D ~                  
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (30):
+   TIC 3699722                     * 30 Cnc                        * ups01 Cnc                   
+   AG+24 983                       BD+24 1940                      FK5 2666                      
+   GC 11655                        GCRV 5604                       GEN# +1.00072041              
+   GSC 01941-02827                 HD 72041                        HIC 41816                     
+   HIP 41816                       HR 3355                         IRAS 08285+2415               
+   N30 1981                        PPM 98777                       ROT 7049                      
+   SAO 80229                       SKY# 16243                      TD1 12571                     
+   TYC 1941-2827-1                 UBV M 14386                     YZ 0 836                      
+   YZ 24 3408                      uvby98 100072041                2MASS J08313052+2404519       
+   NSV 17909                       WEB 8051                        Gaia DR2 678464752411817344   
+
+Bibcodes  1850-2021 () (38):
+  2020ApJS..247...11R  2019A&A...623A..72K  2019MNRAS.490.3158C  2018A&A...617A..32B
+  2017AJ....154..115H  2017MNRAS.469.3042N  2015A&A...580A..23P  2015ApJ...804..146D
+  2014A&A...567A..26L  2012A&A...546A..61D  2012A&ARv..20...51V  2012MNRAS.427..343M
+  2010A&A...516A..29V  2009A&A...493.1099S  2008MNRAS.389..869E  2006AstL...32..759G
+  2002A&A...393..897R  2000IBVS.4969....1A  2000VeARI..37....1W  1998A&AS..129..431H
+  1997AJ....114.2796H  1995A&AS..114..269D  1995ApJS...99..135A  1993yCat.3135....0C
+  1991VeARI..33....1F  1990ApJ...348..253M  1989PBeiO..14...12L  1985AJ.....90.1260E
+  1978A&A....66..335H  1977A&AS...30..349F  1976PASP...88...95C  1972A&A....18..428D
+  1970ApJS...19..387A  1966AJ.....71..709C  1960BAICz..11..214A  1960MNRAS.120p.563E
+  1958ApJ...128..228B  1953GCRV..C......0W                        
+
+Measures (distance:1  MK:1  PLX:3  PM:6  ROT:3  velocities:5  ):
+distance:1MK:1PLX:3PM:6ROT:3velocities:5
+
+Notes (0) :
+
+================================================================================
+

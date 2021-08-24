@@ -1,0 +1,50 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:59:25
+
+HD70003
+-------
+
+Object HD 70003  ---  **  ---  OID=@1084692   (@@12027,8)  ---  coobox=8168
+
+Coordinates(ICRS,ep=J2000,eq=2000): 08 18 12.79919  -37 22 28.5825 (Opt ) A [6.94 3.96 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 08 16 21.12988  -37 13 03.6433
+Coordinates(Gal,ep=J2000,eq=2000): 255.32939232  -00.87991180 
+hierarchy counts: #parents=1, #children=2, #siblings=0
+Proper motions: -7.12 3.97 [0.45 0.79 0] A 2007A&A...474..653V
+Parallax: 2.45 [0.62] A 2007A&A...474..653V
+Radial Velocity: 15.80 [1.2] B 2006AstL...32..759G
+Redshift: 0.000053 [0.000004] B 2006AstL...32..759G
+cz: 15.80 [1.20] B 2006AstL...32..759G
+Flux B : 6.93 [~] E ~                  
+Flux V : 6.70 [~] E ~                  
+Flux J : 5.755 [0.018] C 2003yCat.2246....0C
+Flux H : 5.450 [0.034] C 2003yCat.2246....0C
+Flux K : 5.292 [0.017] C 2003yCat.2246....0C
+Spectral type: A0IV C 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (24):
+   TIC 182889144                   2MASS J08181280-3722287         CCDM J08182-3722AB            
+   CD-36 4443                      CEL 2336                        CPC 18 3614                   
+   CPD-36 2228                     GC 11336                        HD 70003                      
+   HIC 40673                       HIP 40673                       HR 3267                       
+   IDS 08145-3704 AB               PPM 285060                      SAO 199059                    
+   SKY# 15727                      TD1 12200                       UBV 7980                      
+   WDS J08182-3722AB               uvby98 100070003                ** HJ 4073                    
+   GEN# +1.00070003                WISE J081812.81-372228.7        GSC 07134-02766               
+
+Bibcodes  1850-2021 () (23):
+  2019A&A...623A..72K  2018A&A...615A..49C  2012A&A...546A..61D  2012MNRAS.427..343M
+  2006AstL...32..759G  2000A&A...356..141F  1998A&AS..129..431H  1998A&AS..130..455V
+  1996MNRAS.279..280S  1995A&AS..111..229A  1993yCat.3135....0C  1991A&AS...90..565S
+  1987ApJS...63..365C  1985A&AS...59...15A  1983A&AS...52..193V  1983A&AS...52..479A
+  1983MNRAS.202..761H  1982MSS...C03....0H  1980A&A....84..108F  1980A&AS...40..347V
+  1977A&AS...27..443G  1977A&AS...29..309A  1975MNSSA..34....7H            
+
+Measures (MK:2  PLX:2  PM:2  velocities:1  ):
+MK:2PLX:2PM:2velocities:1
+
+Notes (0) :
+
+================================================================================
+

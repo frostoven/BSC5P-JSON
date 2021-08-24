@@ -1,0 +1,62 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:55:22
+
+HD33042
+-------
+
+Object * eta02 Pic  ---  PM*  ---  OID=@2981395   (@@72221,13)  ---  coobox=22661
+
+Coordinates(ICRS,ep=J2000,eq=2000): 05 04 58.0143319993  -49 34 40.203357685 (Opt ) A [0.1259 0.1297 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 05 03 40.1685937732  -49 38 41.373180770
+Coordinates(Gal,ep=J2000,eq=2000): 256.1686681750106  -37.2783635147140
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 68.538 -2.186 [0.260 0.309 90] A 2018yCat.1345....0G
+Parallax: 7.8033 [0.1351] A 2018yCat.1345....0G
+Radial Velocity: 36.55 [0.17] A 2018yCat.1345....0G
+Redshift: 0.000122 [0.000001] A 2018yCat.1345....0G
+cz: 36.55 [0.17] A 2018yCat.1345....0G
+Flux U : 8.35 [~] C 2002yCat.2237....0D
+Flux B : 6.47 [~] C 2002yCat.2237....0D
+Flux V : 5.01 [~] C 2002yCat.2237....0D
+Flux G : 4.4072 [0.0028] C 2018yCat.1345....0G
+Flux R : 3.81 [~] C 2002yCat.2237....0D
+Flux I : 2.90 [~] C 2002yCat.2237....0D
+Flux J : 2.42 [~] C 2002yCat.2237....0D
+Flux H : 1.62 [~] C 2002yCat.2237....0D
+Flux K : 1.47 [~] C 2002yCat.2237....0D
+Spectral type: K5III C 1978MSS...C02....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (30):
+   TIC 219374573                   2MASS J05045803-4934399         PLX 1155                      
+   FK5 187                         * eta02 Pic                     CD-49 1562                    
+   CPC 0 2666                      CPD-49 644                      GC 6234                       
+   GCRV 3025                       GEN# +1.00033042                GSC 08081-01231               
+   HD 33042                        HIC 23649                       HIP 23649                     
+   HR 1663                         IRAS 05036-4938                 JP11 986                      
+   N30 1087                        NSV 1827                        PPM 309337                    
+   SAO 217164                      SKY# 7968                       TYC 8081-1231-1               
+   UBV 4923                        UBV M 10641                     [DS98] 58                     
+   PLX 1155.00                     WEB 4612                        Gaia DR2 4785279186259228032  
+
+Bibcodes  1850-2021 () (46):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D  2012MNRAS.427..343M
+  2011A&A...534A..33R  2010ApJS..190..203P  2009MNRAS.399..399R  2008A&A...484..371O
+  2008MNRAS.389..869E  2006A&A...460..855W  2006AstL...32..759G  2005A&A...431..773R
+  2005A&A...434.1201R  2003A&A...397..997P  2002yCat.2237....0D  2001A&A...365..222G
+  2001A&A...367..521P  1999VeARI..35....1W  1998NewA....3..137D  1997AJ....114..825E
+  1997ApJS..112..557K  1996AJ....112.1595E  1995A&AS..114..269D  1995GCTP..C......0V
+  1993yCat.3135....0C  1992A&AS...95..355C  1991A&AS...90..109C  1991AJ....101.1377E
+  1990MNRAS.247..227F  1990PBeiO..16...18L  1989A&AS...77...67C  1986A&AS...65..607O
+  1983A&AS...52..373A  1983Ap&SS..97..161V  1980AcA....30..453G  1979PASP...91..507C
+  1978A&AS...31..159B  1978MSS...C02....0H  1976A&AS...25...55C  1973ApJ...184..793E
+  1973PASP...85..542E  1970ApJ...161..199E  1969MNRAS.144..333W  1965BOTT....4...33I
+  1960MNRAS.120..448E  1953GCRV..C......0W                        
+
+Measures (distance:1  MK:3  PLX:4  PM:5  velocities:7  ):
+distance:1MK:3PLX:4PM:5velocities:7
+
+Notes (0) :
+
+================================================================================
+

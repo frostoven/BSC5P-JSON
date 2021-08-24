@@ -1,0 +1,56 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:27:10
+
+HD110829
+--------
+
+Object * iot Cru  ---  PM*  ---  OID=@3312759   (@@64984,4)  ---  coobox=21658
+
+Coordinates(ICRS,ep=J2000,eq=2000): 12 45 38.0501902327  -60 58 52.753628626 (Opt ) A [0.1928 0.1689 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 12 42 40.5880471632  -60 42 25.460348112
+Coordinates(Gal,ep=J2000,eq=2000): 302.2277615821756  +01.8824917743425
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 112.968 -65.830 [0.314 0.296 90] A 2018yCat.1345....0G
+Parallax: 26.0909 [0.2150] A 2018yCat.1345....0G
+Radial Velocity: 7.45 [0.12] A 2018yCat.1345....0G
+Redshift: 0.000025 [0.000000] A 2018yCat.1345....0G
+cz: 7.45 [0.12] A 2018yCat.1345....0G
+Flux B : 5.738 [0.014] D 2000A&A...355L..27H
+Flux V : 4.686 [0.009] D 2000A&A...355L..27H
+Flux G : 4.3270 [0.0025] C 2018yCat.1345....0G
+Flux J : 2.820 [0.278] D 2003yCat.2246....0C
+Flux H : 2.281 [0.256] D 2003yCat.2246....0C
+Flux K : 2.169 [0.256] D 2003yCat.2246....0C
+Spectral type: K0III C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (29):
+   TIC 460680010                   PLX 2934                        IRAS 12426-6042               
+   * iot Cru                       CCDM J12456-6059A               CPC 20.1 3683                 
+   CPD-60 4273                     CSI-60 4273 41                  GC 17339                      
+   GCRV 7647                       GEN# +1.00110829A               GSC 08988-02172               
+   HD 110829                       HIC 62268                       HIP 62268                     
+   HR 4842                         IDS 12398-6026 A                JP11 2282                     
+   PPM 359604                      SAO 252016                      SKY# 23772                    
+   TYC 8988-2172-1                 UBV 11436                       2MASS J12453807-6058527       
+   PLX 2934.00                     CPD-60 4273A                    WDS J12456-6059A              
+   WEB 11060                       Gaia DR2 6056280401373072000                                  
+
+Bibcodes  1850-2021 () (35):
+  2019A&A...623A..72K  2019A&A...629A..80H  2019ApJ...880...49H  2019MNRAS.483..299G
+  2019MNRAS.490.3158C  2017AJ....154..115H  2017PASP..129e4501I  2016A&A...591A.118S
+  2015MNRAS.448.2749A  2015MNRAS.450.1900A  2013A&A...551L...8P  2012A&A...546A..61D
+  2012MNRAS.427..343M  2008MNRAS.389..869E  2006AJ....132..161G  2006AstL...32..759G
+  1995A&AS..109..177W  1995A&AS..114..269D  1995GCTP..C......0V  1993AJ....106...80E
+  1993yCat.3135....0C  1990A&AS...85..915D  1989A&AS...79...61S  1989A&AS...81..103S
+  1989MNRAS.239..913S  1987MNRAS.227..213S  1975MSS...C01....0H  1974PASP...86..129E
+  1971ApJ...165..561J  1970A&AS....3....1G  1963MNRAS.125..307H  1961ApJS....6..253I
+  1959PASP...71..156W  1957MNRAS.117..534E  1953GCRV..C......0W            
+
+Measures (distance:1  Fe_H:2  MK:3  PLX:4  PM:3  ROT:1  velocities:8  ):
+distance:1Fe_H:2MK:3PLX:4PM:3ROT:1velocities:8
+
+Notes (0) :
+
+================================================================================
+

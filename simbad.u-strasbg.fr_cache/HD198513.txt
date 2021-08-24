@@ -1,0 +1,53 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:22:16
+
+HD198513
+--------
+
+Object HD 198513  ---  **  ---  OID=@154870   (@@9637,0)  ---  coobox=216
+
+Coordinates(ICRS,ep=J2000,eq=2000): 20 48 42.74238  +51 54 37.1839 (Opt ) A [4.39 4.22 89] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 20 47 12.07254  +51 43 26.7396
+Coordinates(Gal,ep=J2000,eq=2000): 090.24352982  +05.16590752 
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: 5.52 1.56 [0.48 0.50 0] A 2007A&A...474..653V
+Parallax: 4.49 [0.44] A 2007A&A...474..653V
+Radial Velocity: -25.40 [2.9] C 2006AstL...32..759G
+Redshift: -0.000085 [0.000010] C 2006AstL...32..759G
+cz: -25.40 [2.90] C 2006AstL...32..759G
+Flux B : 6.277 [~] E ~                  
+Flux V : 6.372 [~] E ~                  
+Spectral type: B8III C 1970MmRAS..72..233H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (25):
+   ADS 14336 AB                    BD+51 2957                      CEL 5175                      
+   CSI+51 2957 1                   GC 29033                        GCRV 71514                    
+   GEN# +1.00198513J               GSC 03586-02802                 HD 198513                     
+   HIC 102712                      HIP 102712                      HR 7978                       
+   IDS 20457+5132                  ROT 3045                        SAO 32908                     
+   SKY# 39473                      TD1 27335                       UBV 18038                     
+   UBV M 25209                     YZ 51 6778                      ADS 14336                     
+   WDS J20487+5155AB               ** STF 2732                     uvby98 100198513              
+   WEB 18620                                                                                     
+
+Bibcodes  1850-2021 () (34):
+  2019A&A...623A..72K  2019AstBu..74...66G  2017AJ....153..218C  2013AJ....146...56M
+  2012MNRAS.427..343M  2006AstL...32..759G  2005AJ....129..809S  2004AJ....128.3012M
+  2002ApJ...573..359A  1998A&A...336..953G  1998A&A...337..512A  1998A&AS..129..431H
+  1996A&AS..118..481B  1995A&AS..112..453N  1995A&AS..114..269D  1994BSAO...38..152G
+  1993yCat.3135....0C  1992A&AS...96..191C  1986AISAO..22...39G  1985A&AS...60...99W
+  1985AISAO..20...37G  1977A&AS...30...71C  1977PASP...89..187E  1973AJ.....78..192W
+  1973AJ.....78..738C  1973SAOSR.350....1D  1972A&A....17...47P  1970MmRAS..72..233H
+  1969AJ.....74.1082M  1968PASP...80..746C  1965MNRAS.129..137H  1963ApJ...137..530C
+  1961ApJS....6....1K  1954AJ.....59..228E                        
+
+Measures (MK:5  PLX:2  PM:3  ROT:2  velocities:4  ):
+MK:5PLX:2PM:3ROT:2velocities:4
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 102712 includes the components \object{CCDM J20487+5155A} and \object{CCDM J20487+5155B}
+
+================================================================================
+

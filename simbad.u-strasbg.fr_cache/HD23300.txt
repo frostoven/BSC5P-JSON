@@ -1,0 +1,60 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:53:11
+
+HD23300
+-------
+
+Object HD 23300  ---  *  ---  OID=@151369   (@@725,9)  ---  coobox=2767
+
+Coordinates(ICRS,ep=J2000,eq=2000): 03 45 59.2599041847  +45 40 54.842937187 (Opt ) A [0.1004 0.0700 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 03 42 28.8055172181  +45 31 36.323170702
+Coordinates(Gal,ep=J2000,eq=2000): 152.0008904890701  -07.1087712286631
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 22.031 -19.041 [0.316 0.206 90] A 2018yCat.1345....0G
+Parallax: 4.6025 [0.1296] A 2018yCat.1345....0G
+Radial Velocity: 2.2 [2] E 1953GCRV..C......0W
+Redshift: 0.000007 [0.000007] E 1953GCRV..C......0W
+cz: 2.20 [2.00] E 1953GCRV..C......0W
+Flux B : 5.565 [0.014] D 2000A&A...355L..27H
+Flux V : 5.655 [0.009] D 2000A&A...355L..27H
+Flux G : 5.6244 [0.0013] C 2018yCat.1345....0G
+Flux J : 5.710 [0.026] C 2003yCat.2246....0C
+Flux H : 5.777 [0.023] C 2003yCat.2246....0C
+Flux K : 5.788 [0.016] C 2003yCat.2246....0C
+Spectral type: B6V C ~                  
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (27):
+   TIC 431955285                   ADS 2746 A                      AG+45 391                     
+   BD+45 811                       CCDM J03460+4541A               CSI+45 811 1                  
+   GC 4495                         GCRV 2092                       GEN# +1.00023300J             
+   GSC 03326-03347                 HD 23300                        HIC 17584                     
+   HIP 17584                       HR 1141                         IDS 03390+4522 A              
+   PPM 46499                       SAO 39085                       SKY# 5726                     
+   TD1 2470                        TYC 3326-3347-1                 UBV 3560                      
+   UBV M 9666                      2MASS J03455925+4540547         WDS J03460+4541A              
+   uvby98 100023300                WEB 3344                        Gaia DR2 244600281592631552   
+
+Bibcodes  1850-2021 () (48):
+  2019A&A...623A..72K  2019MNRAS.483..299G  2019MNRAS.490.3158C  2017A&A...597A..22S
+  2017AJ....153...16S  2016A&A...591A.118S  2015A&A...580A..23P  2012A&A...537A.120Z
+  2012A&A...546A..61D  2012ApJS..199....8G  2012AstL...38..694G  2012MNRAS.419.1472I
+  2012MNRAS.427..343M  2010A&A...510A..54W  2010ApJ...722..605H  2010PASJ...62.1239T
+  2008MNRAS.389..869E  2006AstL...32..759G  2005AJ....129..809S  2003AJ....125.3311K
+  2002ApJ...573..359A  1998A&AS..129..431H  1996A&AS..118..481B  1995A&AS..110..177D
+  1995A&AS..114..269D  1995ApJ...445..231T  1993Ap&SS.203...53H  1993MNRAS.265..581T
+  1993yCat.3135....0C  1989PBeiO..14...12L  1985A&AS...60...99W  1985Ap&SS.109..191G
+  1984ApJ...285..190A  1982AN....303..105G  1980AJ.....85.1651M  1979AJ.....84..356C
+  1977A&AS...30...71C  1975A&AS...19..189M  1975PASP...87...37E  1974ApJ...194...65W
+  1973AJ.....78..738C  1970ApJS...19..387A  1968ApJ...151..907A  1967ApJ...147..158S
+  1967PASP...79..102A  1963ApJ...137..530C  1961ApJS....6....1K  1953GCRV..C......0W
+
+Measures (distance:1  Fe_H:3  MK:3  PLX:3  PM:3  ROT:3  velocities:8  ):
+distance:1Fe_H:3MK:3PLX:3PM:3ROT:3velocities:8
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 17584 includes the components \object{CCDM J03460+4541 A} and \object{CCDM J03460+4541 B}
+
+================================================================================
+

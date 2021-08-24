@@ -1,0 +1,54 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST02:37:10
+
+HD92063
+-------
+
+Object * t01 Car  ---  PM*  ---  OID=@3186025   (@@65280,5)  ---  coobox=20895
+
+Coordinates(ICRS,ep=J2000,eq=2000): 10 36 20.5181894006  -59 33 51.810166607 (Opt ) A [0.1200 0.1173 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 10 34 27.8725783165  -59 18 14.875734905
+Coordinates(Gal,ep=J2000,eq=2000): 286.5726815962605  -01.0539062429411
+hierarchy counts: #parents=1, #children=0, #siblings=0
+Proper motions: -40.984 -39.180 [0.229 0.226 90] A 2018yCat.1345....0G
+Parallax: 13.2367 [0.1354] A 2018yCat.1345....0G
+Radial Velocity: -10.15 [0.19] A 2018yCat.1345....0G
+Redshift: -0.000034 [0.000001] A 2018yCat.1345....0G
+cz: -10.15 [0.19] A 2018yCat.1345....0G
+Flux B : 6.249 [0.015] D 2000A&A...355L..27H
+Flux V : 5.088 [0.009] D 2000A&A...355L..27H
+Flux G : 4.6878 [0.0034] C 2018yCat.1345....0G
+Flux J : 3.150 [0.260] D 2003yCat.2246....0C
+Flux H : 2.494 [0.232] D 2003yCat.2246....0C
+Flux K : 2.388 [0.246] D 2003yCat.2246....0C
+Spectral type: K1III C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (30):
+   TIC 458105162                   PLX 2487                        * t01 Car                     
+   CD-58 3387                      CPC 20 3055                     CPD-58 2371                   
+   CSV 101143                      GC 14594                        GCRV 6628                     
+   GEN# +1.00092063                GSC 08613-03366                 HD 92063                      
+   HIC 51912                       HIP 51912                       HR 4164                       
+   IRAS 10344-5918                 N30 2517                        NSV 4909                      
+   PPM 339223                      SAO 238242                      SKY# 20343                    
+   SV* ZI 836                      TYC 8613-3366-1                 UBV 9759                      
+   UBV M 16396                     2MASS J10362052-5933518         PLX 2487.00                   
+   Gaia DR1 5254541364489787904    WEB 9476                        Gaia DR2 5254541368828470784  
+
+Bibcodes  1850-2021 () (25):
+  2020ApJ...899..162W  2020MNRAS.497.2569S  2020NatAs...4..776A  2019A&A...623A..72K
+  2019ApJS..244...15M  2019MNRAS.490.3158C  2018A&A...615A..49C  2018ATel11457....1B
+  2018ATel11508....1K  2017AJ....154..115H  2015A&A...575A..50A  2012A&A...546A..61D
+  2012MNRAS.427..343M  2008MNRAS.389..869E  2006AstL...32..759G  1995A&AS..114..269D
+  1995GCTP..C......0V  1993AJ....106...80E  1993yCat.3135....0C  1989PASP..101...45E
+  1989PASP..101..366E  1975MSS...C01....0H  1970ApJ...161..199E  1953GCRV..C......0W
+  1950AJ.....55....9S                                    
+
+Measures (distance:1  MK:2  PLX:4  PM:5  V*:1  velocities:7  ):
+distance:1MK:2PLX:4PM:5V*:1velocities:7
+
+Notes (0) :
+
+================================================================================
+

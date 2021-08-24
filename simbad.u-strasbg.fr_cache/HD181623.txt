@@ -1,0 +1,59 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:11:37
+
+HD181623
+--------
+
+Object * bet02 Sgr  ---  PM*  ---  OID=@3528939   (@@72659,13)  ---  coobox=24054
+
+Coordinates(ICRS,ep=J2000,eq=2000): 19 23 13.1374490  -44 47 59.205109 (Opt ) A [0.17 0.10 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 19 19 36.5943933  -44 53 45.123610
+Coordinates(Gal,ep=J2000,eq=2000): 353.2828566784  -24.1164499314
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 93.45 -54.09 [0.25 0.16 90] A 2007A&A...474..653V
+Parallax: 24.31 [0.19] A 2007A&A...474..653V
+Radial Velocity: 11.50 [1.00] B 2018yCat.1345....0G
+Redshift: 0.000038 [0.000003] B 2018yCat.1345....0G
+cz: 11.50 [1.00] B 2018yCat.1345....0G
+Flux B : 4.601 [0.014] D 2000A&A...355L..27H
+Flux V : 4.270 [0.009] D 2000A&A...355L..27H
+Flux G : 4.1028 [0.0035] C 2018yCat.1345....0G
+Flux J : 3.183 [0.188] D 2003yCat.2246....0C
+Flux H : 2.935 [0.196] D 2003yCat.2246....0C
+Flux K : 2.931 [0.220] D 2003yCat.2246....0C
+Spectral type: F2/3V D 1978MSS...C02....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (30):
+   TIC 62184739                    PLX 4528                        * bet02 Sgr                   
+   CD-45 13171                     CPC 0 18135                     CPD-45 9701                   
+   GC 26718                        GCRV 11819                      GEN# +1.00181623              
+   GSC 07943-02106                 HD 181623                       HIC 95294                     
+   HIP 95294                       HR 7343                         NAME Arkab Posterior          
+   PPM 325051                      ROT 2778                        SAO 229654                    
+   SKY# 36053                      TD1 24474                       TYC 7943-2106-1               
+   UBV 16371                       UBV M 23695                     uvby98 100181623              
+   2MASS J19231312-4447591         PLX 4528.00                     AKARI-IRC-V1 J1923132-444759  
+   IRAS 19195-4453                 WEB 16651                       Gaia DR2 6664407333373349376  
+
+Bibcodes  1850-2021 () (45):
+  2020ApJS..247...11R  2019A&A...623A..72K  2019MNRAS.490.3158C  2017AJ....154..115H
+  2017MNRAS.469.3042N  2016A&A...591A.118S  2016ApJ...826..171G  2015A&A...580A..23P
+  2015ApJ...804..146D  2014A&A...567A..26L  2012A&ARv..20...51V  2012MNRAS.427..343M
+  2011A&A...530A..93V  2011A&A...530A.138C  2010A&A...515A.111S  2009A&A...501..941H
+  2008MNRAS.389..869E  2007A&A...464..377F  2006AstL...32..759G  2005AJ....129.2420M
+  2004A&A...418..989N  2003A&A...398.1121E  2003S&T...106c..38T  2001A&A...367..521P
+  1998A&A...339..858D  1998A&AS..129..431H  1998A&AS..129..505B  1995A&AS..114..269D
+  1995GCTP..C......0V  1993yCat.3135....0C  1991AJ....102..323P  1989ApJS...69..301G
+  1988A&A...191..227R  1986A&A...155..371H  1985AJ.....90.1260E  1984A&AS...56..229O
+  1978A&A....66..335H  1978MSS...C02....0H  1976IzKry..55..127B  1975AJ.....80..637M
+  1972ApJ...175..787E  1972MNRAS.159..165S  1970AJ.....75..624C  1966ApJ...146..392D
+  1953GCRV..C......0W                                    
+
+Measures (distance:1  Fe_H:4  ISO:1  IUE:2  MK:4  PLX:4  PM:4  ROT:1  velocities:8  ):
+distance:1Fe_H:4ISO:1IUE:2MK:4PLX:4PM:4ROT:1velocities:8
+
+Notes (0) :
+
+================================================================================
+

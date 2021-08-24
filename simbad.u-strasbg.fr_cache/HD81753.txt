@@ -1,0 +1,60 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:07:49
+
+HD81753
+-------
+
+Object HD 81753  ---  Be*  ---  OID=@1637246   (@@34210,0)  ---  coobox=14992
+
+Coordinates(ICRS,ep=J2000,eq=2000): 09 26 44.90150  -28 47 15.7048 (Opt ) A [5.98 4.13 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 09 24 34.02722  -28 34 11.9192
+Coordinates(Gal,ep=J2000,eq=2000): 257.78011820  +15.63180200 
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: -18.23 -5.55 [0.68 0.47 0] A 2007A&A...474..653V
+Parallax: 1.59 [0.67] A 2007A&A...474..653V
+Radial Velocity: 2.00 [13.4] E 2007AN....328..889K
+Redshift: 0.000007 [0.000045] E 2007AN....328..889K
+cz: 2.00 [13.40] E 2007AN....328..889K
+Flux U : 5.45 [~] D 1982IAUS...98..261J
+Flux B : 6.00 [~] E ~                  
+Flux V : 6.10 [~] E ~                  
+Flux J : 6.177 [0.018] C 2003yCat.2246....0C
+Flux H : 6.192 [0.038] C 2003yCat.2246....0C
+Flux K : 6.090 [0.017] C 2003yCat.2246....0C
+Spectral type: B5V(e) C 1982ApJS...50...55S
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (28):
+   TIC 189271286                   [JE82] 434                      ADS 7379 AB                   
+   ADS 7379                        CCDM J09267-2847AB              CD-28 7271                    
+   CPD-28 3739                     CSV 101048                      EM* CDS 748                   
+   GC 13033                        GEN# +1.00081753J               HD 81753                      
+   HIC 46329                       HIP 46329                       HR 3745                       
+   IDS 09224-2821 AB               NSV 4492                        PPM 256174                    
+   SAO 177461                      SKY# 18244                      SV* ZI 757                    
+   TD1 13929                       UBV 9020                        YZ 118 6112                   
+   2MASS J09264488-2847158         WDS J09267-2847AB               ** JC 5AB                     
+   uvby98 100081753                                                                              
+
+Bibcodes  1850-2021 () (41):
+  2019A&A...623A..72K  2018A&A...609A.108S  2018MNRAS.477.5261B  2017AJ....153..252L
+  2016A&A...591A.118S  2016MNRAS.463.1162C  2015A&A...578A..45P  2012A&A...537A.120Z
+  2012A&A...546A..61D  2012MNRAS.427..343M  2011MNRAS.410..190T  2010A&A...514A...2I
+  2010MNRAS.405.2439O  2002ApJ...573..359A  2002MNRAS.331...45K  2001A&A...368..912Y
+  2000A&A...356..141F  2000IBVS.4968....1A  1998A&AS..129..431H  1998A&AS..130..455V
+  1998ApJ...497..330M  1998RMxAA..34..111L  1996A&AS..118..481B  1996AJ....111..936H
+  1993yCat.3135....0C  1991A&AS...90..565S  1990AJ.....99..965M  1989A&AS...80...73G
+  1988A&AS...74..497M  1987MNRAS.227..213S  1983A&AS...52..471A  1982ApJS...50...55S
+  1982IAUS...98..261J  1982MSS...C03....0H  1977A&AS...27..443G  1977A&AS...29..309A
+  1972AJ.....77..878W  1972ApJ...175..453M  1967IBSH...11...34K  1963ApJ...137..530C
+  1950AJ.....55....9S                                    
+
+Measures (Fe_H:1  MK:2  PLX:2  PM:2  ROT:1  velocities:1  ):
+Fe_H:1MK:2PLX:2PM:2ROT:1velocities:1
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 46329 includes the components \object{CCDM J09267-2847AB}
+
+================================================================================
+

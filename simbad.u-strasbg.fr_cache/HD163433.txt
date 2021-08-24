@@ -1,0 +1,50 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:58:54
+
+HD163433
+--------
+
+Object CCDM J17580-3908AB  ---  **  ---  OID=@2349312   (@@55058,9)  ---  coobox=17082
+
+Coordinates(ICRS,ep=J2000,eq=2000): 17 57 57.79123  -39 08 11.4855 (Opt ) A [5.53 2.37 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 17 54 29.68150  -39 07 53.7816
+Coordinates(Gal,ep=J2000,eq=2000): 352.47588636  -07.36511116 
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -8.60 -23.44 [0.63 0.27 0] A 2007A&A...474..653V
+Parallax: 7.89 [0.50] A 2007A&A...474..653V
+Radial Velocity: -1.30 [2] B 2007AN....328..889K
+Redshift: -0.000004 [0.000007] B 2007AN....328..889K
+cz: -1.30 [2.00] B 2007AN....328..889K
+Flux B : 6.445 [0.014] D 2000A&A...355L..27H
+Flux V : 6.463 [0.010] D 2000A&A...355L..27H
+Flux J : 6.228 [0.019] C 2003yCat.2246....0C
+Flux H : 6.241 [0.036] C 2003yCat.2246....0C
+Flux K : 6.191 [0.017] C 2003yCat.2246....0C
+Spectral type: A0IV/V D 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (22):
+   TIC 112584039                   CCDM J17580-3908AB              CD-39 12058                   
+   CPC 18 9124                     CPD-39 7791                     GC 24411                      
+   GEN# +1.00163433J               GSC 07886-02050                 HD 163433                     
+   HIC 87948                       HIP 87948                       HR 6683                       
+   IDS 17510-3907 AB               PPM 297060                      SAO 209524                    
+   SKY# 32571                      TD1 21254                       TYC 7886-2050-1               
+   2MASS J17575781-3908116         WDS J17580-3908AB               ** I 1013AB                   
+   uvby98 100163433                                                                              
+
+Bibcodes  1850-2021 () (13):
+  2019A&A...623A..72K  2015A&A...580A..23P  2012A&A...546A..61D  2012MNRAS.427..343M
+  2001A&A...373..625P  2000A&A...356..141F  1998A&AS..129..431H  1993yCat.3135....0C
+  1990A&AS...85..915D  1982MSS...C03....0H  1977A&AS...27..443G  1974PASP...86..907H
+  1972AJ.....77..878W                                    
+
+Measures (MK:2  PLX:2  PM:3  velocities:1  ):
+MK:2PLX:2PM:3velocities:1
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 87948 includes the components \object{CCDM J17580-3908AB}
+
+================================================================================
+

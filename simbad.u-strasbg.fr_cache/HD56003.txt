@@ -1,0 +1,53 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:49:55
+
+HD56003
+-------
+
+Object * 24 Mon  ---  *  ---  OID=@956986   (@@17234,0)  ---  coobox=7249
+
+Coordinates(ICRS,ep=J2000,eq=2000): 07 15 19.4072538543  -00 09 40.626294835 (Opt ) A [0.0405 0.0380 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 07 12 45.8288383288  -00 04 22.646333740
+Coordinates(Gal,ep=J2000,eq=2000): 215.8065926798631  +05.2385776849653
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -8.535 3.488 [0.080 0.063 90] A 2018yCat.1345....0G
+Parallax: 6.1906 [0.0479] A 2018yCat.1345....0G
+Radial Velocity: -4.06 [0.19] A 2018yCat.1345....0G
+Redshift: -0.000014 [0.000001] A 2018yCat.1345....0G
+cz: -4.06 [0.19] A 2018yCat.1345....0G
+Flux B : 7.32 [0.02] D 2002A&A...384..180F
+Flux V : 6.42 [0.01] D 2002A&A...384..180F
+Flux G : 6.1848 [0.0003] C 2018yCat.1345....0G
+Flux J : 4.886 [0.272] D 2003yCat.2246....0C
+Flux H : 4.527 [0.076] E 2003yCat.2246....0C
+Flux K : 4.366 [0.024] C 2003yCat.2246....0C
+Spectral type: K0III C 1999MSS...C05....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (32):
+   TIC 23856429                    2MASS J07151941-0009407         * 24 Mon                      
+   AG-00 990                       AGKR 6509                       BD+00 1871                    
+   GC 9622                         GCRV 4790                       HD 56003                      
+   HIC 35080                       HIP 35080                       HR 2744                       
+   IRAS 07127-0004                 N30 1607                        PPM 176787                    
+   SAO 134414                      SKY# 13113                      SRS 7594                      
+   UBV 7050                        YZ 90 2084                      [B10] 1873                    
+   TYC 4816-3054-1                 uvby98 100056003                WEB 7012                      
+   Gaia DR2 3111034345110477312    CCDM J07153-0010A               ADS 5933 A                    
+   GEN# +1.00056003                WDS J07153-0010A                ** BU 1268A                   
+   IDS 07102+0001 A                WISE J071519.40-000940.4                                      
+
+Bibcodes  1850-2021 () (19):
+  2019A&A...623A..72K  2015A&A...580A..23P  2012A&A...546A..61D  2012MNRAS.427..343M
+  2006AstL...32..759G  1999A&AS..139..433D  1999MSS...C05....0H  1995A&AS..114..269D
+  1993AJ....106...80E  1993yCat.3135....0C  1991A&A...248..367Z  1989PASP..101...45E
+  1989PASP..101..366E  1985ApJS...59...95A  1974AJ.....79..682H  1971SvA....14.1038Z
+  1970ApJS...19..387A  1953GCRV..C......0W  1914ApJ....40..385A            
+
+Measures (distance:1  MK:2  PLX:3  PM:7  velocities:5  ):
+distance:1MK:2PLX:3PM:7velocities:5
+
+Notes (0) :
+
+================================================================================
+

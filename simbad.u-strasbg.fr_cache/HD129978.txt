@@ -1,0 +1,53 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:35:34
+
+HD129978
+--------
+
+Object * 5 Lib  ---  *  ---  OID=@2296880   (@@48130,6)  ---  coobox=15865
+
+Coordinates(ICRS,ep=J2000,eq=2000): 14 45 57.7583993772  -15 27 34.356747948 (Opt ) A [0.0695 0.0864 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 14 43 12.0391597961  -15 14 59.522668683
+Coordinates(Gal,ep=J2000,eq=2000): 339.4825197273781  +39.1500156105384
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -35.713 -0.709 [0.336 0.438 90] A 2018yCat.1345....0G
+Parallax: 5.7805 [0.0752] A 2018yCat.1345....0G
+Radial Velocity: -39.8 [2] E 1953GCRV..C......0W
+Redshift: -0.000133 [0.000007] E 1953GCRV..C......0W
+cz: -39.80 [2.00] E 1953GCRV..C......0W
+Flux B : 7.58 [0.02] D 2002A&A...384..180F
+Flux V : 6.34 [0.01] D 2002A&A...384..180F
+Flux G : 5.9580 [0.0011] C 2018yCat.1345....0G
+Flux J : 4.457 [0.294] D 2003yCat.2246....0C
+Flux H : 3.725 [0.256] D 2003yCat.2246....0C
+Flux K : 3.543 [0.318] D 2003yCat.2246....0C
+Spectral type: K2III C 1988MSS...C04....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (30):
+   TIC 262318231                   * 5 Lib                         BD-14 4023                    
+   FK5 5308                        GC 19870                        GCRV 8576                     
+   GSC 06154-01082                 HD 129978                       HIC 72194                     
+   HIP 72194                       HR 5503                         IRAS 14431-1514               
+   PMC 90-93 6210                  PPM 229252                      SAO 158788                    
+   SKY# 26818                      SRS 12496                       TYC 6154-1082-1               
+   YZ 105 5453                     2MASS J14455775-1527344         WEB 12420                     
+   Gaia DR2 6309938391032371072    UCAC4 373-070204                WISE J144557.73-152733.3      
+   WDS J14460-1528A                ** HLD 20A                      CCDM J14460-1528A             
+   ADS 9376 A                      GEN# +1.00129978                IDS 14404-1502 A              
+
+Bibcodes  1850-2021 () (22):
+  2019A&A...623A..72K  2019MNRAS.483..299G  2019MNRAS.490.3158C  2018A&A...617A..32B
+  2016ApJ...826..171G  2014A&A...561A..24B  2012A&A...546A..61D  2012MNRAS.427..343M
+  2011A&A...525A..71W  2008A&A...483...57S  2006AstL...32..759G  2006PASJ...58..177S
+  2005AJ....129.2420M  2004ApJS..152..251V  1997PNAOJ...5....1Y  1995A&AS..114..269D
+  1993yCat.3135....0C  1991VeARI..33....1F  1988MSS...C04....0H  1981ApJS...45..437A
+  1967AJ.....72..899W  1953GCRV..C......0W                        
+
+Measures (distance:1  MK:2  PLX:3  PM:4  velocities:5  ):
+distance:1MK:2PLX:3PM:4velocities:5
+
+Notes (0) :
+
+================================================================================
+

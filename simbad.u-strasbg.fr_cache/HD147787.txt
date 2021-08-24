@@ -1,0 +1,68 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:45:40
+
+HD147787
+--------
+
+Object * iot TrA  ---  gD*  ---  OID=@3414308   (@@68244,7)  ---  coobox=22401
+
+Coordinates(ICRS,ep=J2000,eq=2000): 16 27 57.3451690929  -64 03 28.592059202 (Opt ) A [0.1028 0.0873 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 16 23 17.5794220918  -63 56 48.542919074
+Coordinates(Gal,ep=J2000,eq=2000): 324.0633770518600  -10.4806719513323
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 53.597 26.065 [0.189 0.191 90] A 2018yCat.1345....0G
+Parallax: 24.9414 [0.1257] A 2018yCat.1345....0G
+Radial Velocity: -5.1 [0.9] E 1953GCRV..C......0W
+Redshift: -0.000017 [0.000003] E 1953GCRV..C......0W
+cz: -5.10 [0.90] E 1953GCRV..C......0W
+Flux B : 5.63 [~] E ~                  
+Flux V : 5.27 [~] E ~                  
+Flux G : 5.1807 [0.0016] C 2018yCat.1345....0G
+Flux J : 4.545 [0.198] D 2003yCat.2246....0C
+Flux H : 4.571 [0.076] C 2003yCat.2246....0C
+Flux K : 4.411 [0.015] C 2003yCat.2246....0C
+Spectral type: F0IV C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (39):
+   TIC 350856014                   PLX 3729                        SBC9 900                      
+   * iot TrA                       CCDM J16280-6403A               CD-63 1201                    
+   CPC 21 3777                     CPD-63 3923                     CSI-63 3923 41                
+   GC 22100                        GCRV 9452                       GEN# +1.00147787A             
+   GSC 09045-02767                 HD 147787                       HIC 80645                     
+   HIP 80645                       HR 6109                         IDS 16187-6350 A              
+   IRAS 16232-6356                 NSV 20629                       PPM 362089                    
+   ROT 2327                        SAO 253555                      SBC7 572                      
+   SKY# 29674                      TD1 19136                       UBV M 21403                   
+   uvby98 100147787 A              2MASS J16275736-6403286         WDS J16280-6403A              
+   TYC 9045-2767-1                 V* iot TrA                      * iot TrA A                   
+   * iot TrA B                     HD 147787A                      HD 147787B                    
+   ** DUN 201A                     WEB 13638                       Gaia DR2 5828317422956035072  
+
+Bibcodes  1850-2021 () (55):
+  2020A&A...639A..11R  2020ApJS..247...11R  2019A&A...623A..72K  2019ApJS..241...12S
+  2019MNRAS.490.3158C  2017AJ....154..115H  2017PASP..129e4501I  2016A&A...591A.118S
+  2016ApJ...826..171G  2015A&A...580A..23P  2015ApJ...804..146D  2012A&A...542A.116A
+  2012A&A...546A..61D  2012ApJ...756...46R  2012MNRAS.427..343M  2011A&A...530A.138C
+  2011AJ....142...39H  2011MNRAS.414.2602D  2010A&A...515A.111S  2009A&A...493.1099S
+  2009A&A...501..941H  2009ApJS..184..138H  2008CoAst.152..116G  2008MNRAS.389..869E
+  2006A&A...449..281D  2006AstL...32..759G  2006MmSAI..77..313D  2004A&A...418..989N
+  2004A&A...424..727P  2004MNRAS.349..757L  2003A&A...412..813R  2001A&A...373..159C
+  2000IBVS.4870....1K  2000IBVS.5003....1A  1999MNRAS.309L..19H  1998A&A...337..790A
+  1998A&AS..129..431H  1998A&AS..132..155H  1997A&AS..124..299C  1995A&AS..114..269D
+  1995AJ....109.2828T  1993yCat.3135....0C  1990ApJ...354..310B  1989A&AS...81..103S
+  1984ApJS...54..421G  1981A&AS...44...47H  1980ApJS...44....1T  1978A&A....66..335H
+  1978PDAO...15..121B  1977A&AS...27..443G  1975MSS...C01....0H  1973PASP...85..542E
+  1972MNRAS.159..165S  1969PASP...81..443L  1953GCRV..C......0W            
+
+Measures (distance:1  Fe_H:5  MK:3  PLX:3  PM:4  ROT:3  velocities:6  ):
+distance:1Fe_H:5MK:3PLX:3PM:4ROT:3velocities:6
+
+Notes (1) :
+(S) 26-May-2014 - cl    ref:~    obj:* iot TrA
+    Spectroscopic binary: components are not separated in Simbad. * iot TrA B = HD
+    147787B should not be confused with ** DUN 201B = WDS J16280-6403B = \object{TYC
+    9045-2914-1}
+
+================================================================================
+

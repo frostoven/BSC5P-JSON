@@ -1,0 +1,53 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:08:45
+
+HD82694
+-------
+
+Object HD 82694  ---  **  ---  OID=@3003400   (@@63068,18)  ---  coobox=20503
+
+Coordinates(ICRS,ep=J2000,eq=2000): 09 32 19.27745  -40 38 57.6084 (Opt ) A [2.90 2.55 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 09 30 20.02756  -40 25 38.5357
+Coordinates(Gal,ep=J2000,eq=2000): 267.12893706  +07.98929961 
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 8.74 -5.97 [0.29 0.33 0] A 2007A&A...474..653V
+Parallax: 7.70 [0.39] A 2007A&A...474..653V
+Radial Velocity: -0.7 [2] E 1953GCRV..C......0W
+Redshift: -0.000002 [0.000007] E 1953GCRV..C......0W
+cz: -0.70 [2.00] E 1953GCRV..C......0W
+Flux B : 6.320 [0.014] D 2000A&A...355L..27H
+Flux V : 5.393 [0.009] D 2000A&A...355L..27H
+Flux J : 3.971 [0.306] E 2003yCat.2246....0C
+Flux H : 3.407 [0.236] D 2003yCat.2246....0C
+Flux K : 3.459 [0.266] D 2003yCat.2246....0C
+Spectral type: G8III C 1978MSS...C02....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (28):
+   TIC 5546608                     PLX 2277                        CCDM J09323-4039AB            
+   CD-40 5284                      CPC 0 7489                      CPD-40 3640                   
+   FK5 2759                        GC 13180                        GCRV 6184                     
+   GEN# +1.00082694J               GSC 07696-02621                 HD 82694                      
+   HIC 46811                       HIP 46811                       HR 3807                       
+   IDS 09284-4012 AB               N30 2273                        PPM 314417                    
+   SAO 221262                      SKY# 18453                      TYC 7696-2621-1               
+   UBV 9125                        UBV M 15524                     2MASS J09321929-4038576       
+   PLX 2277.00                     WDS J09323-4039AB               ** RST 1435AB                 
+   WEB 8828                                                                                      
+
+Bibcodes  1850-2021 () (19):
+  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2008MNRAS.389..869E
+  2006AstL...32..759G  2000A&A...356..141F  1995A&AS..114..269D  1995GCTP..C......0V
+  1994AJ....107..594E  1994PBeiO..24...71L  1993yCat.3135....0C  1991VeARI..33....1F
+  1989PASP..101...45E  1989PASP..101...54E  1983A&AS...52..373A  1983A&AS...52..403C
+  1978MSS...C02....0H  1953GCRV..C......0W  1950AJ.....55....9S            
+
+Measures (MK:2  PLX:3  PM:4  velocities:5  ):
+MK:2PLX:3PM:4velocities:5
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 46811 includes the components \object{CCDM J09323-4039AB}
+
+================================================================================
+

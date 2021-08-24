@@ -1,0 +1,53 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:02:50
+
+HD73887
+-------
+
+Object HD 73887  ---  *  ---  OID=@3102839   (@@67193,20)  ---  coobox=21258
+
+Coordinates(ICRS,ep=J2000,eq=2000): 08 37 18.8334609096  -62 51 12.472275864 (Opt ) A [0.0577 0.0598 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 08 36 25.7747552865  -62 40 37.564442318
+Coordinates(Gal,ep=J2000,eq=2000): 278.1500644698804  -12.9888617933617
+hierarchy counts: #parents=1, #children=0, #siblings=0
+Proper motions: -10.841 -21.829 [0.125 0.110 90] A 2018yCat.1345....0G
+Parallax: 10.4647 [0.0626] A 2018yCat.1345....0G
+Radial Velocity: 20.5 [2] E 1953GCRV..C......0W
+Redshift: 0.000068 [0.000007] E 1953GCRV..C......0W
+cz: 20.50 [2.00] E 1953GCRV..C......0W
+Flux B : 6.480 [0.015] D 2000A&A...355L..27H
+Flux V : 5.456 [0.009] D 2000A&A...355L..27H
+Flux G : 5.1431 [0.0020] C 2018yCat.1345....0G
+Flux J : 3.897 [0.278] D 2003yCat.2246....0C
+Flux H : 3.29 [0.25] D 2003yCat.2246....0C
+Flux K : 3.215 [0.288] D 2003yCat.2246....0C
+Spectral type: K0III C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (30):
+   AKARI-IRC-V1 J0837188-625112    WISE J083718.89-625110.3        IRAS 08364-6240               
+   TIC 310764588                   PLX 2071                        CCDM J08373-6251A             
+   CPC 20.1 2239                   CPD-62 1058                     CSI-62 1058 41                
+   FK5 2679                        GC 11867                        GCRV 5688                     
+   GEN# +1.00073887J               GSC 08930-00600                 HD 73887                      
+   HIC 42286                       HIP 42286                       HR 3432                       
+   IDS 08355-6230 A                N30 2014                        PPM 356837                    
+   SAO 250288                      SKY# 16471                      TYC 8930-600-1                
+   UBV 8340                        WDS J08373-6251A                2MASS J08371884-6251125       
+   Gaia DR1 5300813246195025664    WEB 8122                        Gaia DR2 5300813250494889728  
+
+Bibcodes  1850-2021 () (21):
+  2019A&A...623A..72K  2018A&A...615A..49C  2016A&A...591A.118S  2015MNRAS.448.2749A
+  2015MNRAS.450.1900A  2012A&A...546A..61D  2012MNRAS.427..343M  2008MNRAS.389..869E
+  2006AstL...32..759G  1995A&AS..114..269D  1993AJ....106...80E  1993VeARI..34....1S
+  1993yCat.3135....0C  1990A&AS...85..915D  1989PASP..101..366E  1984ApJS...55..657C
+  1983MNRAS.202..761H  1981AJ.....86..875M  1975MNSSA..34....7H  1975MSS...C01....0H
+  1953GCRV..C......0W                                    
+
+Measures (distance:1  Fe_H:1  MK:2  PLX:4  PM:3  velocities:6  ):
+distance:1Fe_H:1MK:2PLX:4PM:3velocities:6
+
+Notes (0) :
+
+================================================================================
+

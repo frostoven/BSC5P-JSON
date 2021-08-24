@@ -1,0 +1,57 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:15:48
+
+HD189118
+--------
+
+Object * tet02 Sgr  ---  PM*  ---  OID=@2355411   (@@61029,0)  ---  coobox=18994
+
+Coordinates(ICRS,ep=J2000,eq=2000): 19 59 51.3569733049  -34 41 52.083680302 (Opt ) A [0.1059 0.0891 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 19 56 36.7888584461  -34 50 03.088680978
+Coordinates(Gal,ep=J2000,eq=2000): 006.1653488356082  -28.3448609999154
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 108.23 -69.51 [0.31 0.26 0] A 2007A&A...474..653V
+Parallax: 20.6487 [0.1548] A 2018yCat.1345....0G
+Radial Velocity: -17.60 [0.8] A 2006AstL...32..759G
+Redshift: -0.000059 [0.000003] A 2006AstL...32..759G
+cz: -17.60 [0.80] A 2006AstL...32..759G
+Flux B : 5.465 [0.014] D 2000A&A...355L..27H
+Flux V : 5.299 [0.009] D 2000A&A...355L..27H
+Flux G : 5.2524 [0.0016] C 2018yCat.1345....0G
+Flux J : 5.042 [0.037] C 2003yCat.2246....0C
+Flux H : 5.010 [0.024] C 2003yCat.2246....0C
+Flux K : 4.863 [0.018] C 2003yCat.2246....0C
+Spectral type: A4/5IV D 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (33):
+   TIC 211278117                   PLX 4726                        * tet02 Sgr                   
+   CCDM J19599-3442A               CD-35 13832                     CPC 17 10890                  
+   CPD-35 8701                     CSI-35 13832 21                 WISE J195951.43-344152.6      
+   IRAS 19565-3450                 GC 27676                        GCRV 12324                    
+   GEN# +1.00189118                GSC 07448-01356                 HD 189118                     
+   HIC 98421                       HIP 98421                       HR 7624                       
+   IDS 19534-3458 A                PPM 299635                      ROT 2889                      
+   SAO 211717                      SKY# 37487                      SRS 44297                     
+   TD1 25775                       TYC 7448-1356-1                 uvby98 100189118              
+   2MASS J19595136-3441522         PLX 4726.00                     WDS J19599-3442A              
+   Renson 52320                    WEB 17372                       Gaia DR2 6698466664548330496  
+
+Bibcodes  1850-2021 () (36):
+  2020A&A...635A.162L  2019A&A...623A..72K  2019AJ....157..211M  2019MNRAS.490.3158C
+  2018ApJS..239....2B  2017AJ....154..115H  2017PASP..129e4501I  2015A&A...580A..23P
+  2015ApJ...804..146D  2014MNRAS.437.1216D  2012MNRAS.427..343M  2011A&A...531A.143D
+  2009A&A...498..961R  2008MNRAS.389..869E  2006AstL...32..759G  1998A&AS..129..431H
+  1995A&AS..109..501C  1995A&AS..114..269D  1995ApJS...99..135A  1995GCTP..C......0V
+  1994AJ....108.2203D  1993yCat.3135....0C  1992IBVS.3768....1A  1992IBVS.3820....1H
+  1991A&AS...89..429R  1983A&A...121...35W  1983AcA....33...89S  1982MSS...C03....0H
+  1978AJ.....83..606M  1977A&AS...27..443G  1974RMxAA...1..175M  1973PASP...85..379E
+  1972MNRAS.160..155S  1971ApJS...23..421H  1968ApJ...153..557B  1953GCRV..C......0W
+
+Measures (distance:1  MK:2  PLX:4  PM:4  ROT:2  velocities:5  ):
+distance:1MK:2PLX:4PM:4ROT:2velocities:5
+
+Notes (0) :
+
+================================================================================
+

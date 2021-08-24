@@ -1,0 +1,50 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:01:53
+
+HD72737
+-------
+
+Object HD 72737  ---  **  ---  OID=@3033670   (@@66692,1)  ---  coobox=20716
+
+Coordinates(ICRS,ep=J2000,eq=2000): 08 32 04.95709  -53 12 42.8997 (Opt ) A [5.53 3.61 38] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 08 30 41.66399  -53 02 28.7749
+Coordinates(Gal,ep=J2000,eq=2000): 269.74890846  -07.96534883 
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: -16.20 18.16 [0.63 0.41 0] A 2007A&A...474..653V
+Parallax: 4.35 [0.46] A 2007A&A...474..653V
+Radial Velocity: 19.00 [7.4] D 2007AN....328..889K
+Redshift: 0.000063 [0.000025] D 2007AN....328..889K
+cz: 19.00 [7.40] D 2007AN....328..889K
+Flux B : 7.005 [0.015] D 2000A&A...355L..27H
+Flux V : 6.021 [0.010] D 2000A&A...355L..27H
+Flux J : 4.171 [0.208] D 2003yCat.2246....0C
+Flux H : 3.632 [0.212] D 2003yCat.2246....0C
+Flux K : 3.729 [0.036] C 2003yCat.2246....0C
+Spectral type: A0/1V D 1978MSS...C02....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (26):
+   TIC 90212823                    2MASS J08320493-5312429         CCDM J08321-5313AB            
+   CPC 19 3016                     CPD-52 1517                     GC 11713                      
+   GCRV 5624                       GSC 08568-03121                 HD 72738                      
+   HD 72737                        HIC 41861                       HIP 41861                     
+   HR 3386                         IDS 08293-5252 AB               IRAS 08307-5302               
+   PPM 336997                      SAO 236062                      SKY# 16269                    
+   TD1 12694                       UBV 8145                        UBV M 14465                   
+   WDS J08321-5313AB               WEB 8058                        ** SLR 8                      
+   GEN# +1.00072737                WISE J083204.92-531242.0                                      
+
+Bibcodes  1850-2021 () (19):
+  2019A&A...623A..72K  2016A&A...591A.118S  2012A&A...542A.116A  2012A&A...546A..61D
+  2012MNRAS.427..343M  2008MNRAS.389..869E  2001A&A...367..297A  2000A&A...356..141F
+  1998ApJS..119...83P  1995A&AS..114..269D  1993yCat.3135....0C  1991A&AS...90..565S
+  1990ApJS...74..275H  1987AJ.....94..771D  1980A&AS...40..347V  1978MSS...C02....0H
+  1976ApJ...203..435P  1960PASP...72..500J  1953GCRV..C......0W            
+
+Measures (Fe_H:1  IUE:2  MK:8  PLX:2  PM:3  ROT:1  velocities:4  ):
+Fe_H:1IUE:2MK:8PLX:2PM:3ROT:1velocities:4
+
+Notes (0) :
+
+================================================================================
+

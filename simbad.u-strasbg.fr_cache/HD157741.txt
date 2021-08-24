@@ -1,0 +1,63 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:53:41
+
+HD157741
+--------
+
+Object HD 157741  ---  **  ---  OID=@2730838   (@@53221,1)  ---  coobox=18119
+
+Coordinates(ICRS,ep=J2000,eq=2000): 17 24 33.8004650724  +15 36 21.769588684 (Opt ) A [0.0403 0.0446 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 17 22 18.4458165218  +15 39 00.411370466
+Coordinates(Gal,ep=J2000,eq=2000): 037.8447556437315  +26.0954158633418
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 7.771 10.856 [0.083 0.085 90] A 2018yCat.1345....0G
+Parallax: 5.8361 [0.0508] A 2018yCat.1345....0G
+Radial Velocity: -19.00 [3.2] C 2006AstL...32..759G
+Redshift: -0.000063 [0.000011] C 2006AstL...32..759G
+cz: -19.00 [3.20] C 2006AstL...32..759G
+Flux U : 6.05 [~] D 2003AJ....125.2531R
+Flux B : 6.362 [0.015] D 2000A&A...355L..27H
+Flux V : 6.409 [0.010] D 2000A&A...355L..27H
+Flux G : 6.3763 [0.0004] C 2018yCat.1345....0G
+Flux J : 6.289 [0.019] C 2003yCat.2246....0C
+Flux H : 6.352 [0.015] C 2003yCat.2246....0C
+Flux K : 6.337 [0.016] C 2003yCat.2246....0C
+Spectral type: B9V C ~                  
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (29):
+   TIC 393870367                   ADS 10528 AB                    AG+15 1748                    
+   BD+15 3179                      CCDM J17246+1536AB              GC 23559                      
+   GCRV 10059                      GEN# +1.00157741J               GSC 01537-01528               
+   HD 157741                       HIC 85187                       HIP 85187                     
+   HR 6482                         IDS 17200+1542 AB               PPM 133352                    
+   ROT 2443                        SAO 102806                      SKY# 31414                    
+   TD1 20396                       TYC 1537-1528-1                 UBV 14843                     
+   YZ 15 6256                      2MASS J17243379+1536217         ALS 17418                     
+   WDS J17246+1536AB               ** STF 2160AB                   uvby98 100157741              
+   WEB 14386                       Gaia DR2 4543892025542175360                                  
+
+Bibcodes  1850-2021 () (50):
+  2019A&A...623A..72K  2019MNRAS.483..299G  2017MNRAS.472..675A  2016A&A...591A.118S
+  2016ApJ...826..171G  2015A&A...580A..23P  2015ApJS..216...33F  2012A&A...537A.120Z
+  2012A&A...546A..61D  2012AJ....143...28F  2012ApJS..199....8G  2012MNRAS.427..343M
+  2011A&A...525A..71W  2010A&A...510A..54W  2008AN....329...54S  2008ApJ...683.1045H
+  2007A&A...463..671R  2006AstL...32..759G  2006PASJ...58..177S  2005AJ....130.1652R
+  2004ApJS..152..251V  2003AJ....125.2531R  2002ApJ...573..359A  2001MNRAS.327..841C
+  2000AJ....119.3071D  1999AJ....117.2511G  1998A&AS..129..431H  1996A&AS..115...59T
+  1996A&AS..118..481B  1996PASP..108..833H  1995A&AS..114..269D  1995ApJS...99..135A
+  1994ApJS...94..127F  1993yCat.3135....0C  1989ApJ...340.1038B  1987AJ.....93..183M
+  1986NIA86......377H  1985A&AS...60...99W  1985A&AS...60..183L  1984ApJS...55..597E
+  1983A&AS...51..143G  1983A&AS...51..161L  1978ApJS...37..371W  1977PASP...89..187E
+  1973AJ.....78..738C  1969ApJ...157.1101G  1963ApJ...137..530C  1962ApJ...135..711M
+  1959ApJ...130..159O  1953GCRV..C......0W                        
+
+Measures (distance:1  Fe_H:1  IUE:1  MK:4  PLX:3  PM:5  ROT:3  velocities:6  ):
+distance:1Fe_H:1IUE:1MK:4PLX:3PM:5ROT:3velocities:6
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 85187 includes the components \object{CCDM J17246+1536AB}
+
+================================================================================
+

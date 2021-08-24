@@ -1,0 +1,61 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:28:40
+
+HD113823
+--------
+
+Object HD 113823  ---  **  ---  OID=@3325654   (@@64958,11)  ---  coobox=21662
+
+Coordinates(ICRS,ep=J2000,eq=2000): 13 07 24.29673  -59 51 37.8238 (Opt ) A [6.34 4.75 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 13 04 18.17095  -59 35 36.0489
+Coordinates(Gal,ep=J2000,eq=2000): 304.93765927  +02.94904411 
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: -11.41 -6.60 [0.54 0.72 0] A 2007A&A...474..653V
+Parallax: 5.88 [0.93] A 2007A&A...474..653V
+Radial Velocity: 4.00 [3.7] C 2007AN....328..889K
+Redshift: 0.000013 [0.000012] C 2007AN....328..889K
+cz: 4.00 [3.70] C 2007AN....328..889K
+Flux U : 6.57 [~] C 1967ArA.....4..375L
+Flux B : 6.45 [~] C 1967ArA.....4..375L
+Flux V : 5.98 [~] C 1967ArA.....4..375L
+Flux J : 4.356 [0.284] D 2003yCat.2246....0C
+Flux H : 3.811 [0.254] D 2003yCat.2246....0C
+Flux K : 3.822 [0.298] D 2003yCat.2246....0C
+Spectral type: B9IV+F8/G2 C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (32):
+   LLNS 9856                       TIC 253422871                   CCDM J13074-5952AB            
+   CD-59 4570                      CEL 4200                        CPC 20 4063                   
+   CPD-59 4740                     GC 17778                        GCRV 7804                     
+   GEN# +1.00113823J               GSC 08661-00706                 HD 113823                     
+   HIC 64033                       HIP 64033                       HR 4944                       
+   IDS 13012-5920 AB               PPM 341615                      SAO 240566                    
+   SKY# 24294                      TD1 16642                       UBV 11828                     
+   UBV M 19020                     ALS 17386                       2MASS J13072432-5951373       
+   WDS J13074-5952AB               UCAC2 50013697                  [L67b] 28+ 14                 
+   ** R 213                        AKARI-IRC-V1 J1307241-595136    IRAS 13043-5935               
+   uvby98 100113823                WEB 11319                                                     
+
+Bibcodes  1850-2021 () (43):
+  2019MNRAS.483..299G  2016A&A...591A.118S  2014A&A...562A..69K  2012A&A...542A.116A
+  2012A&A...546A..61D  2012MNRAS.427..343M  2006AJ....131.1000H  2006ApJ...640..491S
+  2005AJ....130.1652R  2003AJ....125.2531R  2001AJ....121.1583H  2000A&A...356..141F
+  1999A&AS..135..503G  1998A&AS..129..431H  1997AJ....114.2117H  1996A&AS..118..481B
+  1996AJ....111.1681H  1995A&AS..112...95C  1995A&AS..114..269D  1993AJ....106..352H
+  1993yCat.3135....0C  1992A&A...261..137M  1992A&AS...92..533B  1990A&AS...85..915D
+  1990AJ.....99..965M  1987AJ.....94..771D  1987MNRAS.227..213S  1984A&A...134..290B
+  1982A&A...108...51W  1980A&AS...41..111C  1979BICDS..17...24H  1977A&AS...27..443G
+  1976A&AS...23..283L  1975AJ.....80.1026A  1975ApJ...196..261S  1975MSS...C01....0H
+  1975PASP...87...37E  1973SAOSR.350....1D  1972MNRAS.160..155S  1970A&AS....3....1G
+  1969ApJ...158..441S  1967ArA.....4..375L  1953GCRV..C......0W            
+
+Measures (Fe_H:1  MK:3  PLX:2  PM:3  ROT:1  velocities:4  ):
+Fe_H:1MK:3PLX:2PM:3ROT:1velocities:4
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 64033 includes the components \object{CCDM J13074-5952AB}
+
+================================================================================
+

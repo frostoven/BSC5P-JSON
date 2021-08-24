@@ -1,0 +1,52 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:49:08
+
+HD153370
+--------
+
+Object HD 153370  ---  **  ---  OID=@3494738   (@@68179,6)  ---  coobox=22382
+
+Coordinates(ICRS,ep=J2000,eq=2000): 17 01 46.35181  -51 07 51.7016 (Opt ) A [9.39 7.03 79] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 16 57 52.66425  -51 03 29.1609
+Coordinates(Gal,ep=J2000,eq=2000): 336.97009407  -05.61573520 
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -10.62 -45.64 [1.07 0.80 0] A 2007A&A...474..653V
+Parallax: 9.57 [0.86] A 2007A&A...474..653V
+Radial Velocity: -27.90 [1.78] B 2007AN....328..889K
+Redshift: -0.000093 [0.000006] B 2007AN....328..889K
+cz: -27.90 [1.78] B 2007AN....328..889K
+Flux B : 6.710 [0.015] D 2000A&A...355L..27H
+Flux V : 6.428 [0.010] D 2000A&A...355L..27H
+Flux J : 5.881 [0.024] C 2003yCat.2246....0C
+Flux H : 5.766 [0.033] C 2003yCat.2246....0C
+Flux K : 5.742 [0.021] C 2003yCat.2246....0C
+Spectral type: A9III C 1978MSS...C02....0H
+Morphological type: ~ ~ ~
+Angular size: 0.0033  0.0  196 (Opt )  D 2001AJ....122.3466M
+
+Identifiers (26):
+   TIC 212028722                   CCDM J17018-5108AB              CD-50 10955                   
+   CPC 0 15675                     CPD-50 9796                     GC 22922                      
+   GCRV 66684                      GEN# +1.00153370J               GSC 08339-01997               
+   HD 153370                       HIC 83321                       HIP 83321                     
+   HR 6312                         IDS 16540-5059 AB               PPM 345612                    
+   SAO 244370                      SKY# 30695                      TD1 19776                     
+   TYC 8339-1997-1                 UBV 14364                       UBV M 21840                   
+   2MASS J17014636-5107517         WDS J17018-5108AB               ** I 1306                     
+   uvby98 100153370                WEB 14084                                                     
+
+Bibcodes  1850-2021 () (19):
+  2016AJ....152..138T  2015A&A...580A..23P  2012A&A...546A..61D  2012A&A...546A..69M
+  2012MNRAS.427..343M  2010AJ....139..743T  2010SerAJ.180...71C  2004A&A...415..259O
+  2002A&A...384..180F  1998A&AS..129..431H  1996AJ....111..936H  1995A&AS..114..269D
+  1993AJ....106..352H  1993yCat.3135....0C  1990A&AS...85..915D  1990AJ.....99..965M
+  1987ApJS...65..161H  1978MSS...C02....0H  1977A&AS...27..443G            
+
+Measures (MK:3  PLX:2  PM:3  velocities:4  ):
+MK:3PLX:2PM:3velocities:4
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 83321 includes the components \object{CCDM J17018-5108AB}
+
+================================================================================
+

@@ -1,0 +1,54 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:48:24
+
+HD152909
+--------
+
+Object HD 152909  ---  **  ---  OID=@2530422   (@@52043,6)  ---  coobox=17185
+
+Coordinates(ICRS,ep=J2000,eq=2000): 16 57 03.98446  -19 32 23.5559 (Opt ) A [11.27 8.79 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 16 54 07.51064  -19 27 44.7719
+Coordinates(Gal,ep=J2000,eq=2000): 001.62114410  +14.41203400 
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: -11.54 -15.69 [1.28 1.00 0] A 2007A&A...474..653V
+Parallax: 5.63 [1.33] A 2007A&A...474..653V
+Radial Velocity: -26.60 [4.3] C 2006AstL...32..759G
+Redshift: -0.000089 [0.000014] C 2006AstL...32..759G
+cz: -26.60 [4.30] C 2006AstL...32..759G
+Flux U : 6.04 [~] D 2003AJ....125.2531R
+Flux B : 6.7 [~] E ~                  
+Flux V : 6.28 [~] E ~                  
+Spectral type: B7.5V+B9V C 1983ApJ...272..182A
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (23):
+   ADS 10266 AB                    BD-19 4471                      CCDM J16571-1933AB            
+   CSI-19 4471 3                   HIC 82951                       HIP 82951                     
+   IDS 16512-1923 AB               WDS J16571-1932AB               CPD-19 6061                   
+   CSI-19 4471 1                   GC 22835                        GCRV 66646                    
+   GEN# +1.00152909J               HD 152909                       HR 6294                       
+   PPM 232367                      SKY# 30551                      TD1 19732                     
+   ALS 14408                       Hbg 1262                        ** SHJ 240                    
+   uvby98 100152909                WEB 14023                                                     
+
+Bibcodes  1850-2021 () (40):
+  2019A&A...623A..72K  2016A&A...591A.118S  2012A&A...537A.120Z  2012A&A...546A..61D
+  2012ApJS..199....8G  2012MNRAS.427..343M  2011AJ....142...46M  2010A&A...510A..54W
+  2006AstL...32..759G  2005A&A...431..773R  2005AJ....129..809S  2005AJ....130.1652R
+  2004A&A...413.1037K  2004AJ....128.3012M  2003AJ....125.2531R  2002A&A...386..492R
+  2002ApJ...573..359A  1998A&AS..129..431H  1996A&AS..118..481B  1996AJ....112.2786R
+  1995A&AS..114..269D  1994ApJ...437..638W  1993PASP..105.1127G  1993yCat.3135....0C
+  1992ApJS...82..117S  1991SoSAO..66....5K  1988MSS...C04....0H  1987AJ.....93..183M
+  1987AJ.....94..771D  1986PAZh...12..928K  1983ApJ...272..182A  1980BICDS..19...41H
+  1979RMxAA...4..351A  1977A&AS...27..215K  1977A&AS...27..443G  1977ApJS...35..111G
+  1972AJ.....77..750C  1970MmRAS..72..233H  1969AJ.....74.1082M  1957JO.....40...93W
+
+Measures (Fe_H:1  MK:5  PLX:2  PM:3  ROT:1  velocities:4  ):
+Fe_H:1MK:5PLX:2PM:3ROT:1velocities:4
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 82951 includes the components \object{CCDM J16571-1933A} and \object{CCDM J16571-1933B}
+
+================================================================================
+

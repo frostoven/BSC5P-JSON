@@ -1,0 +1,50 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:23:25
+
+HD106257
+--------
+
+Object HD 106257  ---  **  ---  OID=@1921995   (@@39330,0)  ---  coobox=16004
+
+Coordinates(ICRS,ep=J2000,eq=2000): 12 13 36.80571  -33 47 34.5059 (Opt ) A [4.05 2.29 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 12 11 00.61703  -33 30 52.7751
+Coordinates(Gal,ep=J2000,eq=2000): 294.00072668  +28.42201849 
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: 11.48 -15.21 [0.46 0.26 0] A 2007A&A...474..653V
+Parallax: 7.79 [0.54] A 2007A&A...474..653V
+Radial Velocity: -11.30 [4.3] C 2006AstL...32..759G
+Redshift: -0.000038 [0.000014] C 2006AstL...32..759G
+cz: -11.30 [4.30] C 2006AstL...32..759G
+Flux B : 6.463 [~] E ~                  
+Flux V : 6.408 [~] E ~                  
+Flux J : 6.139 [0.021] C 2003yCat.2246....0C
+Flux H : 6.143 [0.033] C 2003yCat.2246....0C
+Flux K : 6.116 [0.020] C 2003yCat.2246....0C
+Spectral type: A0IV C 1970MmRAS..72..233H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (24):
+   TIC 107143473                   CCDM J12136-3348AB              CD-33 8257                    
+   CPC 17 6109                     CPD-33 3216                     GC 16696                      
+   GCRV 63049                      GEN# +1.00106257J               GSC 07240-01744               
+   HD 106257                       HIC 59622                       HIP 59622                     
+   HR 4651                         IDS 12084-3314 AB               PPM 289896                    
+   SAO 203252                      SKY# 22932                      TD1 16141                     
+   UBV 21671                       2MASS J12133681-3347348         WDS J12136-3348AB             
+   ** HWE 72                       uvby98 100106257                WEB 10595                     
+
+Bibcodes  1850-2021 () (13):
+  2019A&A...623A..72K  2012A&A...546A..61D  2006AstL...32..759G  2001A&A...373..625P
+  2000A&A...356..141F  1998A&AS..129..431H  1995A&AS..114..269D  1993yCat.3135....0C
+  1982MSS...C03....0H  1980A&AS...39..197W  1977A&AS...27..443G  1977PASP...89..205E
+  1970MmRAS..72..233H                                    
+
+Measures (MK:3  PLX:2  PM:2  velocities:4  ):
+MK:3PLX:2PM:2velocities:4
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 59622 includes the components \object{CCDM J12136-3348A} and \object{CCDM J12136-3348B}
+
+================================================================================
+

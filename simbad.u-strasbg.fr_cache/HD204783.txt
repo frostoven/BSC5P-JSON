@@ -1,0 +1,51 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:33:48
+
+HD204783
+--------
+
+Object * ksi Gru  ---  *  ---  OID=@3487335   (@@75012,10)  ---  coobox=24552
+
+Coordinates(ICRS,ep=J2000,eq=2000): 21 32 05.8758290201  -41 10 45.524197826 (Opt ) A [0.0717 0.0645 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 21 28 56.3904790227  -41 24 02.765787867
+Coordinates(Gal,ep=J2000,eq=2000): 000.5595705242357  -47.0775675450860
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 19.427 11.278 [0.155 0.158 90] A 2018yCat.1345....0G
+Parallax: 7.5904 [0.1226] A 2018yCat.1345....0G
+Radial Velocity: -9.81 [0.13] A 2018yCat.1345....0G
+Redshift: -0.000033 [0.000000] A 2018yCat.1345....0G
+cz: -9.81 [0.13] A 2018yCat.1345....0G
+Flux B : 6.396 [0.015] D 2000A&A...355L..27H
+Flux V : 5.286 [0.009] D 2000A&A...355L..27H
+Flux G : 4.9493 [0.0026] C 2018yCat.1345....0G
+Flux J : 3.139 [0.226] D 2003yCat.2246....0C
+Flux H : 2.535 [0.188] D 2003yCat.2246....0C
+Flux K : 2.425 [0.240] D 2003yCat.2246....0C
+Spectral type: K0III C 1978MSS...C02....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (27):
+   TIC 165109591                   PLX 5185                        * ksi Gru                     
+   CD-41 14550                     CPC 0 19437                     CPD-41 9645                   
+   FK5 3719                        GC 30138                        GCRV 13531                    
+   GEN# +1.00204783                GSC 07984-00883                 HD 204783                     
+   HIC 106327                      HIP 106327                      HR 8229                       
+   IRAS 21289-4124                 PPM 327305                      SACS 473                      
+   SAO 230726                      SKY# 41076                      TYC 7984-883-1                
+   UBV 18523                       UBV M 25754                     2MASS J21320588-4110452       
+   PLX 5185.00                     WEB 19256                       Gaia DR2 6579272663428693248  
+
+Bibcodes  1850-2021 () (18):
+  2019A&A...623A..72K  2019MNRAS.483..299G  2019MNRAS.490.3158C  2008MNRAS.389..869E
+  2006AstL...32..759G  2002A&A...395..431B  2000VeARI..37....1W  1995A&AS..114..269D
+  1995GCTP..C......0V  1994A&AS..106..441N  1993VeARI..34....1S  1993yCat.3135....0C
+  1987A&AS...68..259H  1983A&AS...52..373A  1983A&AS...52..403C  1981SAAOC...6...10D
+  1978MSS...C02....0H  1953GCRV..C......0W                        
+
+Measures (distance:1  MK:2  PLX:4  PM:4  velocities:7  ):
+distance:1MK:2PLX:4PM:4velocities:7
+
+Notes (0) :
+
+================================================================================
+

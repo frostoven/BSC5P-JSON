@@ -1,0 +1,52 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:10:11
+
+HD177475
+--------
+
+Object * gam CrA B  ---  PM*  ---  OID=@2353494   (@@58527,7)  ---  coobox=18586
+
+Coordinates(ICRS,ep=J2000,eq=2000): 19 06 25.1022191999  -37 03 49.332880204 (Opt ) A [0.2163 0.2677 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 19 03 02.1479959025  -37 08 14.977159263
+Coordinates(Gal,ep=J2000,eq=2000): 000.1585841456562  -18.7361290738767
+hierarchy counts: #parents=1, #children=0, #siblings=0
+Proper motions: 152.563 -273.432 [0.428 0.382 90] A 2018yCat.1345....0G
+Parallax: 57.8583 [0.3061] A 2018yCat.1345....0G
+Radial Velocity: -51.0 [~] D 1970MNRAS.148..489F
+Redshift: -0.000170 [~] D 1970MNRAS.148..489F
+cz: -51.00 [~] D 1970MNRAS.148..489F
+Flux B : 7.06 [0.02] D 2002A&A...384..180F
+Flux V : 6.42 [0.01] D 2002A&A...384..180F
+Flux G : 4.7171 [0.0033] C 2018yCat.1345....0G
+Spectral type: F8/G1 E 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (17):
+   * gam CrA B                     CCDM J19064-3704B               CD-37 13048B                  
+   CPD-37 8464B                    CSI-37 13048 23                 GJ 743.1 B                    
+   HD 177475                       HR 7227                         IDS 18597-3712 B              
+   WDS J19064-3704B                GJ 9642 B                       GJ 743.1                      
+   ** HJ 5084B                     TYC 7422-1737-2                 PLX 4431.00B                  
+   WEB 16314                       Gaia DR2 6719152945029845376                                  
+
+Bibcodes  1850-2021 () (46):
+  2020ApJS..247...11R  2020MNRAS.494.5682S  2016ApJ...826..171G  2013MNRAS.431.2745G
+  2012A&A...546A..69M  2011A&A...530A.138C  2010MNRAS.403.1089P  2008MNRAS.389..869E
+  2004SerAJ.169...59P  2001A&A...367..521P  1999A&AS..135..319H  1998A&AS..132..155H
+  1998AJ....116..284E  1995A&AS..114..269D  1994AJ....107..306H  1994RMxAA..28...43P
+  1993yCat.3135....0C  1992A&A...259..543M  1992BICDS..40...71P  1992MNRAS.257..105B
+  1991ApJ...368..241C  1991ApJ...368..264A  1990A&AS...85..915D  1988ApJ...329..253W
+  1987Natur.328..127B  1986AJ.....92..910E  1985PASP...97...54S  1984ApJS...55..657C
+  1983A&AS...52..193V  1983A&AS...53..177A  1983ApJS...53..643J  1983MNRAS.202..761H
+  1982A&AS...50..115W  1982MSS...C03....0H  1980A&AS...39..197W  1980ARA&A..18..115P
+  1980BICDS..19...41H  1980PASP...92..493C  1980SAAOC...1..166C  1977PASP...89..588H
+  1974PASP...86..907H  1972AJ.....77..878W  1970MNRAS.148..489F  1957MNRAS.117..640A
+  1953JO.....36...61M  1919ApJ....50..161L                        
+
+Measures (distance:1  MK:2  PLX:1  PM:1  velocities:5  ):
+distance:1MK:2PLX:1PM:1velocities:5
+
+Notes (0) :
+
+================================================================================
+

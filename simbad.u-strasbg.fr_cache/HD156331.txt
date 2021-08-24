@@ -1,0 +1,56 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:52:08
+
+HD156331
+--------
+
+Object HR 6423  ---  **  ---  OID=@3510184   (@@68511,14)  ---  coobox=22488
+
+Coordinates(ICRS,ep=J2000,eq=2000): 17 19 30.5139880682  -50 03 49.546626099 (Opt ) A [0.0345 0.0422 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 17 15 38.3092772892  -50 00 43.324594080
+Coordinates(Gal,ep=J2000,eq=2000): 339.4996159283689  -07.2709522141188
+hierarchy counts: #parents=1, #children=0, #siblings=0
+Proper motions: 7.635 -32.838 [0.070 0.072 90] A 2018yCat.1345....0G
+Parallax: 16.4991 [0.0408] A 2018yCat.1345....0G
+Radial Velocity: 11.78 [0.44] A 2018yCat.1345....0G
+Redshift: 0.000039 [0.000001] A 2018yCat.1345....0G
+cz: 11.78 [0.44] A 2018yCat.1345....0G
+Flux B : 6.658 [0.015] D 2000A&A...355L..27H
+Flux V : 6.267 [0.010] D 2000A&A...355L..27H
+Flux G : 6.1506 [0.0004] C 2018yCat.1345....0G
+Flux J : 5.489 [0.023] C 2003yCat.2246....0C
+Flux H : 5.335 [0.034] C 2003yCat.2246....0C
+Flux K : 5.226 [0.020] C 2003yCat.2246....0C
+Spectral type: F3IV/V D 1978MSS...C02....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (24):
+   TIC 372880279                   CCDM J17195-5004AB              CD-49 11324                   
+   CPC 0 16002                     CPD-49 9879                     GC 23365                      
+   GEN# +1.00156331J               GSC 08349-03741                 HD 156331                     
+   HIC 84759                       HIP 84759                       HR 6423                       
+   IDS 17118-4958 AB               PPM 345888                      SAO 244631                    
+   SKY# 31242                      TD1 20197                       TYC 8349-3741-1               
+   2MASS J17193051-5003494         WDS J17195-5004AB               ** FIN 356                    
+   uvby98 100156331                Gaia DR1 5926350150246139776    Gaia DR2 5926350154581350528  
+
+Bibcodes  1850-2021 () (36):
+  2020ApJS..247...11R  2019A&A...623A..72K  2019ApJS..241...12S  2019MNRAS.490.3158C
+  2018A&A...609A.116R  2018A&A...615A..49C  2017AJ....154..110T  2017AJ....154..115H
+  2016A&A...591A.118S  2016ApJ...826..171G  2015A&A...580A..23P  2015ApJ...804..146D
+  2012A&A...546A..61D  2012AJ....144...56T  2012MNRAS.427..343M  2011A&A...530A.138C
+  2011MNRAS.411..435B  2010AJ....139..743T  2010PASP..122.1483T  2009A&A...501..941H
+  2006AstL...32..759G  2004A&A...418..989N  1999A&AS..139..433D  1998A&AS..127..251H
+  1998A&AS..129..431H  1996A&AS..118..481B  1996AJ....111..936H  1993yCat.3135....0C
+  1990A&AS...85..915D  1990AJ.....99..965M  1987AJ.....94..771D  1982ApJS...49..469P
+  1978MSS...C02....0H  1977A&AS...27..443G  1972MNRAS.159..165S  1969AJ.....74..689S
+
+Measures (distance:1  Fe_H:1  MK:3  PLX:4  PM:4  velocities:3  ):
+distance:1Fe_H:1MK:3PLX:4PM:4velocities:3
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 84759 includes the components CCDM J17195-5004AB
+
+================================================================================
+

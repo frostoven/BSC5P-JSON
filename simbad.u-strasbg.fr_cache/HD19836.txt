@@ -1,0 +1,55 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:52:12
+
+HD19836
+-------
+
+Object HD 19836  ---  *  ---  OID=@633590   (@@16244,6)  ---  coobox=6158
+
+Coordinates(ICRS,ep=J2000,eq=2000): 03 11 18.7743770181  -03 48 41.747827877 (Opt ) A [0.1344 0.1202 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 03 08 48.4169949231  -03 59 57.872090618
+Coordinates(Gal,ep=J2000,eq=2000): 184.1866005522481  -49.2893019863200
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -7.303 -17.129 [0.249 0.233 90] A 2018yCat.1345....0G
+Parallax: 3.4239 [0.1629] A 2018yCat.1345....0G
+Radial Velocity: 23.8 [2] E 1953GCRV..C......0W
+Redshift: 0.000079 [0.000007] E 1953GCRV..C......0W
+cz: 23.80 [2.00] E 1953GCRV..C......0W
+Flux B : 7.719 [0.016] D 2000A&A...355L..27H
+Flux V : 6.068 [0.010] D 2000A&A...355L..27H
+Flux G : 5.2125 [0.0027] C 2018yCat.1345....0G
+Flux J : 2.796 [0.254] D 2003yCat.2246....0C
+Flux H : 1.994 [0.214] D 2003yCat.2246....0C
+Flux K : 1.769 [0.270] D 2003yCat.2246....0C
+Spectral type: M1III C 1999MSS...C05....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (32):
+   TIC 49822087                    2MASS J03111878-0348417         ADS 2389 A                    
+   AGKR 2803                       BD-04 540                       CCDM J03113-0349A             
+   CSI-04 540 1                    FK5 2224                        GC 3806                       
+   GCRV 1757                       GEN# +1.00019836                GSC 04711-01306               
+   HD 19836                        HIC 14819                       HIP 14819                     
+   HR 955                          IDS 03063-0411 A                IRAS 03088-0359               
+   IRC +00040                      NSV 15646                       PPM 185494                    
+   RAFGL 4256S                     SAO 130328                      SKY# 4768                     
+   SRS 4912                        TYC 4711-1306-1                 UBV 3075                      
+   UBV M 9379                      YZ 93 763                       WDS J03113-0349A              
+   WEB 2861                        Gaia DR2 5183213060194126080                                  
+
+Bibcodes  1850-2021 () (28):
+  2019A&A...623A..72K  2019MNRAS.483..299G  2019MNRAS.490.3158C  2012A&A...546A..61D
+  2012MNRAS.427..343M  2010A&A...514A...2I  2010ApJS..190..203P  2006AstL...32..759G
+  2004PASP..116..493S  2003A&A...397..997P  1999MSS...C05....0H  1997ApJS..112..557K
+  1995A&AS..114..269D  1994PBeiO..24...71L  1993VeARI..34....1S  1993yCat.3135....0C
+  1992AJ....104..275E  1986A&AS...64..487K  1986A&AS...65..607O  1981ApJS...45..437A
+  1974AJ.....79.1424O  1970ApJ...161..199E  1970ApJS...19..387A  1967ApJ...147..587M
+  1967ApJS...14..307E  1961ApJS....6....1K  1953GCRV..C......0W  1952ApJ...115..157W
+
+Measures (distance:1  MK:2  PLX:3  PM:5  velocities:5  ):
+distance:1MK:2PLX:3PM:5velocities:5
+
+Notes (0) :
+
+================================================================================
+

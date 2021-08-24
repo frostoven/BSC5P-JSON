@@ -1,0 +1,54 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:55:20
+
+HD32781
+-------
+
+Object HD 32781  ---  *  ---  OID=@318867   (@@3735,9)  ---  coobox=2518
+
+Coordinates(ICRS,ep=J2000,eq=2000): 05 14 35.52226  +76 28 21.9358 (Opt ) A [5.27 3.78 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 05 07 31.15807  +76 24 49.8100
+Coordinates(Gal,ep=J2000,eq=2000): 136.13905170  +20.97499936 
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -8.35 -3.81 [0.43 0.60 0] A 2007A&A...474..653V
+Parallax: 7.54 [0.53] A 2007A&A...474..653V
+Radial Velocity: 6.50 [4.3] C 2006AstL...32..759G
+Redshift: 0.000022 [0.000014] C 2006AstL...32..759G
+cz: 6.50 [4.30] C 2006AstL...32..759G
+Flux B : 6.382 [0.015] D 2000A&A...355L..27H
+Flux V : 6.420 [0.010] D 2000A&A...355L..27H
+Flux J : 6.242 [0.021] C 2003yCat.2246....0C
+Flux H : 6.312 [0.020] C 2003yCat.2246....0C
+Flux K : 6.280 [0.021] C 2003yCat.2246....0C
+Spectral type: A0III: D 1970MmRAS..72..233H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (27):
+   TIC 140935469                   2MASS J05143554+7628221         ADS 3738 AB                   
+   AG+76 206                       BD+76 190                       CCDM J05146+7628AB            
+   GC 6323                         GCRV 55832                      GEN# +1.00032781J             
+   GSC 04511-02543                 HD 32781                        HIC 24440                     
+   HIP 24440                       HR 1650                         IDS 05005+7621 AB             
+   PPM 5890                        ROT 720                         SAO 5464                      
+   SKY# 8264                       TD1 3994                        TYC 4511-2543-1               
+   UBV 4898                        UBV M 10617                     WDS J05146+7628AB             
+   ** HU 1097AB                    uvby98 100032781                WEB 4734                      
+
+Bibcodes  1850-2021 () (26):
+  2021ApJ...911..111P  2019A&A...623A..72K  2016A&A...591A.118S  2015A&A...580A..23P
+  2012A&A...537A.120Z  2012A&A...546A..61D  2012MNRAS.427..343M  2007A&A...463..671R
+  2006AstL...32..759G  2002A&A...393..897R  2000A&A...356..141F  1998A&AS..129..431H
+  1995A&AS..114..269D  1993yCat.3135....0C  1989A&A...209..233R  1987AJ.....94..771D
+  1985A&AS...60...99W  1975A&AS...19..189M  1974ApJS...28..101D  1973AJ.....78..738C
+  1972A&AS....5..109C  1971A&A....15..285B  1970MmRAS..72..233H  1963ApJ...137..530C
+  1949BAN....11...71D  1912ApJ....36..169P                        
+
+Measures (Fe_H:1  MK:4  PLX:2  PM:2  ROT:3  velocities:5  ):
+Fe_H:1MK:4PLX:2PM:2ROT:3velocities:5
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 24440 includes the components \object{CCDM J05146+7628AB}
+
+================================================================================
+

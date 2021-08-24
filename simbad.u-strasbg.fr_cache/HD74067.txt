@@ -1,0 +1,64 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:02:58
+
+HD74067
+-------
+
+Object V* NY Vel  ---  a2*  ---  OID=@2974006   (@@63867,2)  ---  coobox=20518
+
+Coordinates(ICRS,ep=J2000,eq=2000): 08 40 19.1806001955  -40 15 49.982404044 (Opt ) A [0.1089 0.1397 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 08 38 29.0241571573  -40 05 08.154046182
+Coordinates(Gal,ep=J2000,eq=2000): 260.1933827177939  +00.9131771279837
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -60.796 9.543 [0.241 0.294 90] A 2018yCat.1345....0G
+Parallax: 13.0007 [0.1383] A 2018yCat.1345....0G
+Radial Velocity: 22.90 [0.5] A 2006AstL...32..759G
+Redshift: 0.000076 [0.000002] A 2006AstL...32..759G
+cz: 22.90 [0.50] A 2006AstL...32..759G
+Flux B : 5.19 [~] E ~                  
+Flux V : 5.20 [~] E ~                  
+Flux G : 5.1825 [0.0018] C 2018yCat.1345....0G
+Spectral type: Ap(SiCr) D 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (33):
+   CCDM J08403-4016AB              CD-39 4653                      CEL 2754                      
+   CPC 18 3816                     CPD-39 2750                     GC 11931                      
+   GCRV 5729                       GEN# +1.00074067J               GSC 07679-02117               
+   HD 74067                        HIC 42540                       HIP 42540                     
+   HR 3439                         IDS 08366-3954 AB               IRAS 08385-4005               
+   NSV 4193                        PPM 313389                      ROT 1362                      
+   SAO 220252                      SKY# 16606                      TD1 12909                     
+   UBV 8381                        UBV M 14598                     V* NY Vel                     
+   WDS J08403-4016AB               ** C 74                         ** COO 74AB                   
+   TYC 7679-2117-1                 Renson 20630                    CD-39 4653A                   
+   uvby98 100074067                WEB 8203                        Gaia DR2 5528344331319186176  
+
+Bibcodes  1850-2021 () (66):
+  2021MNRAS.504.3758P  2019A&A...623A..72K  2019MNRAS.483.2300S  2019MNRAS.483.3127S
+  2017AJ....154..115H  2017MNRAS.468.2745N  2016A&A...590A.116J  2016A&A...591A.118S
+  2015A&A...580A..23P  2015ApJ...804..146D  2012A&A...537A.120Z  2012A&A...546A..61D
+  2012MNRAS.427..343M  2011MNRAS.414.2602D  2009A&A...498..961R  2008MNRAS.389..869E
+  2006AstL...32..759G  2005A&A...441..631P  2003A&A...408.1065H  2003MNRAS.342..876W
+  2002A&A...381..105R  2002A&A...393..897R  2001A&A...367..521P  2001A&A...372..152H
+  2000IBVS.4968....1A  1999A&AS..135..503G  1999IBVS.4659....1K  1998A&A...334..181N
+  1998A&A...336..953G  1998A&AS..129..431H  1998A&AS..130..455V  1998A&AS..133....1P
+  1996A&AS..118..481B  1995A&AS..109..177W  1995A&AS..111..229A  1995A&AS..114..269D
+  1994AJ....108..661J  1993yCat.3135....0C  1991A&AS...89..429R  1986A&A...156..223L
+  1985A&AS...60..183L  1985AbaOB..58..313Z  1984A&AS...58..387N  1984AJ.....89.1887C
+  1984ApJS...55..657C  1983A&AS...51..143G  1983A&AS...51..161L  1983A&AS...52..193V
+  1983MNRAS.202..761H  1982A&A...114...23H  1982MSS...C03....0H  1980A&A....83..287H
+  1980A&A....85...93M  1980A&AS...40..207C  1980A&AS...40..347V  1977A&A....56..235H
+  1977A&A....61..563H  1977A&AS...27..343D  1977A&AS...27..443G  1977PASP...89..187E
+  1975MNSSA..34....7H  1973A&A....29..211V  1973SAOSR.350....1D  1972MNRAS.160..155S
+  1961MNRAS.122..325M  1953GCRV..C......0W                        
+
+Measures (distance:1  Fe_H:1  MK:3  PLX:3  PM:4  ROT:3  V*:1  velocities:4  ):
+distance:1Fe_H:1MK:3PLX:3PM:4ROT:3V*:1velocities:4
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 42540 includes the components \object{CCDM J08403-4016AB}
+
+================================================================================
+

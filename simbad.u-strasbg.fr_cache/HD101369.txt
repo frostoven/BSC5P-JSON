@@ -1,0 +1,56 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:20:40
+
+HD101369
+--------
+
+Object HD 101369  ---  *  ---  OID=@1854171   (@@38044,7)  ---  coobox=14808
+
+Coordinates(ICRS,ep=J2000,eq=2000): 11 39 51.1212888230  -14 28 06.683072524 (Opt ) A [0.0484 0.0329 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 11 37 19.0938302135  -14 11 28.180502440
+Coordinates(Gal,ep=J2000,eq=2000): 278.0830028617958  +44.9215264397090
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -38.336 -11.429 [0.121 0.070 90] A 2018yCat.1345....0G
+Parallax: 5.8799 [0.0661] A 2018yCat.1345....0G
+Radial Velocity: 4.80 [1.1] B 2006AstL...32..759G
+Redshift: 0.000016 [0.000004] B 2006AstL...32..759G
+cz: 4.80 [1.10] B 2006AstL...32..759G
+Flux B : 6.194 [0.014] D 2000A&A...355L..27H
+Flux V : 6.198 [0.010] D 2000A&A...355L..27H
+Flux G : 6.1918 [0.0004] C 2018yCat.1345....0G
+Flux J : 6.161 [0.021] C 2003yCat.2246....0C
+Flux H : 6.202 [0.044] C 2003yCat.2246....0C
+Flux K : 6.140 [0.017] C 2003yCat.2246....0C
+Spectral type: A0V C 1988MSS...C04....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (29):
+   TIC 391873394                   ADS 8259 A                      BD-13 3420                    
+   CCDM J11399-1428A               CSI-13 3420 1                   CSI-13 3420 3                 
+   FK5 2934                        GC 16009                        GEN# +1.00101369J             
+   GSC 05516-01579                 HD 101369                       HIC 56901                     
+   HIP 56901                       HR 4490                         IDS 11348-1355 A              
+   PPM 224734                      SAO 156820                      SKY# 22082                    
+   SRS 10491                       TD1 15787                       TYC 5516-1579-1               
+   UBV 10536                       UBV M 17272                     YZ 104 4336                   
+   2MASS J11395112-1428067         WDS J11399-1428A                uvby98 100101369              
+   Gaia DR1 3572844583278794880    Gaia DR2 3572844587575507328                                  
+
+Bibcodes  1850-2021 () (28):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2017ApJS..230...23V  2016A&A...591A.118S
+  2015A&A...580A..23P  2015ApJ...808...27M  2014A&A...562A..84R  2013A&A...553A..95M
+  2012A&A...537A.120Z  2012A&A...546A..61D  2012AstL...38..694G  2012MNRAS.427..343M
+  2007A&A...463..671R  2006AstL...32..759G  2002A&A...393..897R  1998A&AS..129..431H
+  1995ApJS...99..135A  1994PBeiO..24...71L  1993VeARI..34....1S  1993yCat.3135....0C
+  1988MSS...C04....0H  1984ApJS...55..597E  1978A&AS...33...15C  1977A&AS...27..443G
+  1977PASP...89..187E  1977PASP...89..205E  1974ApJS...28..101D  1961ApJS....6....1K
+
+Measures (distance:1  Fe_H:2  MK:3  PLX:4  PM:4  ROT:3  velocities:1  ):
+distance:1Fe_H:2MK:3PLX:4PM:4ROT:3velocities:1
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 56901 includes the components \object{CCDM J11399-1428 A} and \object{CCDM J11399-1428 B}
+
+================================================================================
+

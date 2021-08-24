@@ -1,0 +1,51 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:06:17
+
+HD173608
+--------
+
+Object * eps02 Lyr B  ---  PM*  ---  OID=@2923759   (@@56903,7)  ---  coobox=19834
+
+Coordinates(ICRS,ep=J2000,eq=2000): 18 44 22.9837964219  +39 36 46.051704135 (Opt ) A [0.1049 0.1081 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 18 42 43.4304004944  +39 33 33.401949600
+Coordinates(Gal,ep=J2000,eq=2000): 068.7952889872946  +18.1698694442048
+hierarchy counts: #parents=1, #children=0, #siblings=0
+Proper motions: 4.138 66.448 [0.227 0.200 90] A 2018yCat.1345....0G
+Parallax: 20.0603 [0.1196] A 2018yCat.1345....0G
+Radial Velocity: -28 [5] C 1979IAUS...30...57E
+Redshift: -0.000093 [0.000017] C 1979IAUS...30...57E
+cz: -28.00 [5.00] C 1979IAUS...30...57E
+Flux B : 5.58 [0.01] D 2002A&A...384..180F
+Flux V : 5.35 [0.01] D 2002A&A...384..180F
+Flux G : 5.3805 [0.0019] C 2018yCat.1345....0G
+Spectral type: A7Vn C 1995ApJS...99..135A
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (16):
+   ADS 11635 D                     CCDM J18443+3938D               CSI+39 3510 3                 
+   GCRV 11196                      HD 173608                       HR 7054                       
+   IDS 18410+3934 D                ROT 2656                        WDS J18443+3940D              
+   PMSC 18410+3933D                ** STF 2383D                    TYC 3122-3439-2               
+   WEB 15831                       * eps02 Lyr B                   * 5 Lyr B                     
+   Gaia DR2 2098202128100428288                                                                  
+
+Bibcodes  1850-2021 () (43):
+  2019MNRAS.488.3588Y  2017ApJ...844..103T  2016A&A...591A.118S  2015ApJ...798...87M
+  2015PASP..127.1218A  2014ApJS..211...25C  2012A&A...537A.120Z  2008MNRAS.389..869E
+  2007A&A...463..671R  2007AJ....134.1671M  2007ApJ...658.1289T  2002A&A...393..897R
+  1999AJ....117..548H  1997A&AS..124...75T  1995A&AS..114..269D  1995ApJS...99..135A
+  1993yCat.3135....0C  1992BICDS..40...71P  1989ApJS...70..623G  1988ATsir1528...17S
+  1988ApJ...329..253W  1987AJ.....93..183M  1986BICDS..31..131H  1985AbaOB..59...83B
+  1981ApJS...45..437A  1980BICDS..19...41H  1978AJ.....83..411J  1978PASP...90..703P
+  1975A&AS...19...91L  1974A&AS...15..215O  1974ApJ...189L..17B  1974ApJ...190..331W
+  1974MNRAS.169..331N  1974PASP...86..902H  1972ApJ...177..161B  1970VA.....12..367E
+  1969AJ.....74..764W  1961ApJS....6....1K  1958JO.....41....1C  1958JO.....41...31C
+  1957BAICz...8..102S  1956JO.....39..201W  1953GCRV..C......0W            
+
+Measures (distance:1  Fe_H:1  MK:3  PLX:1  PM:1  ROT:4  velocities:8  ):
+distance:1Fe_H:1MK:3PLX:1PM:1ROT:4velocities:8
+
+Notes (0) :
+
+================================================================================
+

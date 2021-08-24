@@ -1,0 +1,47 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:55:02
+
+HD30021
+-------
+
+Object * 55 Eri A  ---  SB*  ---  OID=@11631971   (@@-1,255)  ---  coobox=6444
+
+Coordinates(ICRS,ep=J2000,eq=2000): 04 43 35.1681132613  -08 47 46.425863932 (Opt ) A [0.0329 0.0262 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 04 41 11.1278905195  -08 53 18.081748747
+Coordinates(Gal,ep=J2000,eq=2000): 205.9653445317375  -32.3657334402270
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 31.024 -27.800 [0.071 0.073 90] A 2018yCat.1345....0G
+Parallax: 7.0374 [0.0454] A 2018yCat.1345....0G
+Radial Velocity: 46.78 [6.41] D 2018yCat.1345....0G
+Redshift: 0.000156 [0.000021] D 2018yCat.1345....0G
+cz: 46.78 [6.41] D 2018yCat.1345....0G
+Flux B : 7.51 [0.02] D 2002A&A...384..180F
+Flux V : 6.64 [0.01] D 2002A&A...384..180F
+Flux G : 6.4517 [0.0005] C 2018yCat.1345....0G
+Flux J : 5.185 [0.017] E 2003yCat.2246....0C
+Flux H : 4.730 [0.021] E 2003yCat.2246....0C
+Flux K : 4.581 [0.016] C 2003yCat.2246....0C
+Spectral type: G5III C 1985ApJS...59...95A
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (21):
+   TIC 56129375                    TYC 5321-2147-1                 * 55 Eri A                    
+   ADS 3409 A                      CCDM J04436-0848A               GEN# +1.00030021A             
+   uvby98 100030021 A              WDS J04436-0848A                PMSC 04388-0858Aab            
+   PMSC 04388-0858A                2MASS J04433516-0847462         SBC9 269                      
+   HD 30021                        HR 1506                         GCRV 2774                     
+   SAO 131443                      GC 5760                         ROT 675                       
+   SKY# 7340                       WEB 4226                        Gaia DR2 3185880919107361024  
+
+Bibcodes  1850-2021 () (12):
+  2012AJ....143..124M  2012MNRAS.427..298H  2011MNRAS.410.1761K  2008ApJ...674..909P
+  2004A&A...424..727P  2000AN....321....1S  1999MSS...C05....0H  1997A&AS..124...75T
+  1995A&AS..114..269D  1993yCat.3135....0C  1982A&A...105..318L  1953GCRV..C......0W
+
+Measures (distance:1  MK:3  PLX:1  PM:1  velocities:3  ):
+distance:1MK:3PLX:1PM:1velocities:3
+
+Notes (0) :
+
+================================================================================
+

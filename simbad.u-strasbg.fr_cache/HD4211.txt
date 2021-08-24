@@ -1,0 +1,59 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:48:36
+
+HD4211
+------
+
+Object * lam02 Scl  ---  PM*  ---  OID=@1197164   (@@24690,1)  ---  coobox=10298
+
+Coordinates(ICRS,ep=J2000,eq=2000): 00 44 12.0987361108  -38 25 18.062817253 (Opt ) A [0.0614 0.0457 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 00 41 47.2241519157  -38 41 48.956216528
+Coordinates(Gal,ep=J2000,eq=2000): 310.1235487298089  -78.6053366704762
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 245.795 119.586 [0.125 0.094 90] A 2018yCat.1345....0G
+Parallax: 10.1675 [0.0691] A 2018yCat.1345....0G
+Radial Velocity: 28.32 [0.20] A 2018yCat.1345....0G
+Redshift: 0.000094 [0.000001] A 2018yCat.1345....0G
+cz: 28.32 [0.20] A 2018yCat.1345....0G
+Flux B : 7.06 [~] E ~                  
+Flux V : 5.96 [~] E ~                  
+Flux G : 5.5541 [0.0012] C 2018yCat.1345....0G
+Flux J : 3.977 [0.01] B 2012MNRAS.419.1637L
+Flux H : 3.426 [0.01] B 2012MNRAS.419.1637L
+Flux K : 3.295 [0.01] B 2012MNRAS.419.1637L
+Spectral type: K1III C 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (33):
+   TIC 308209899                   2MASS J00441209-3825181         PLX 139                       
+   * lam02 Scl                     CD-39 181                       CPC 18 202                    
+   CPD-39 49                       FK5 26                          G 267-161                     
+   GC 879                          GCRV 50645                      GEN# +1.00004211              
+   HD 4211                         HIC 3456                        HIP 3456                      
+   HR 195                          IRAS 00418-3841                 LTT 406                       
+   N30 150                         NLTT 2420                       PPM 276315                    
+   SAO 192703                      SKY# 1146                       SRS 30026                     
+   UBV 601                         UBV M 7609                      YZC 29 202                    
+   uvby98 100004211                PLX 139.00                      TYC 7532-1040-1               
+   WISEA J004412.33-382516.7       WEB 612                         Gaia DR2 5000702410680381824  
+
+Bibcodes  1850-2021 () (41):
+  2019A&A...623A..72K  2019MNRAS.483..299G  2019MNRAS.490.3158C  2019Natur.567..200P
+  2018A&A...616A..68G  2016A&A...591A.118S  2016ApJ...817..112S  2015A&A...580A..23P
+  2015AJ....150...88L  2012A&A...546A..61D  2012MNRAS.419.1637L  2011MNRAS.416.2233H
+  2010A&A...515A.111S  2009A&A...495..901M  2007MNRAS.382..553L  2006AstL...32..759G
+  2003ApJ...582.1011S  2001A&A...365..222G  2001A&A...367..521P  2001A&A...367..725W
+  1999AcA....49..319P  1999VeARI..35....1W  1995A&AS..109..501C  1995A&AS..114..269D
+  1995GCTP..C......0V  1995yCat.1098....0L  1994PBeiO..24...71L  1993AJ....106...80E
+  1993yCat.3135....0C  1990PBeiO..16...18L  1989PASP..101...45E  1989PASP..101..366E
+  1987A&AS...68..259H  1986A&AS...64..487K  1985A&AS...62..137F  1982MSS...C03....0H
+  1978ApJS...38..287G  1976A&AS...23..125S  1973A&AS....9..297F  1958MNRAS.118..609B
+  1956AJ.....61..394J                                    
+
+Measures (distance:1  Fe_H:1  MK:3  PLX:4  PM:6  velocities:7  ):
+distance:1Fe_H:1MK:3PLX:4PM:6velocities:7
+
+Notes (0) :
+
+================================================================================
+

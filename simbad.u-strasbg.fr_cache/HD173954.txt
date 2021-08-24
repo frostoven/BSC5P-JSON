@@ -1,0 +1,49 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:06:56
+
+HD173954
+--------
+
+Object HD 173954  ---  *  ---  OID=@2672293   (@@57090,27)  ---  coobox=19589
+
+Coordinates(ICRS,ep=J2000,eq=2000): 18 48 02.6650988426  +04 14 29.119127739 (Opt ) A [0.0742 0.0813 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 18 45 33.7198244955  +04 11 05.151442918
+Coordinates(Gal,ep=J2000,eq=2000): 036.3232265675364  +02.6861845465176
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -5.047 13.970 [0.144 0.146 90] A 2018yCat.1345....0G
+Parallax: 4.3002 [0.1003] A 2018yCat.1345....0G
+Radial Velocity: -1.98 [0.14] A 2018yCat.1345....0G
+Redshift: -0.000007 [0.000000] A 2018yCat.1345....0G
+cz: -1.98 [0.14] A 2018yCat.1345....0G
+Flux B : 7.688 [0.017] D 2000A&A...355L..27H
+Flux V : 6.187 [0.010] D 2000A&A...355L..27H
+Flux G : 5.6198 [0.0017] C 2018yCat.1345....0G
+Flux J : 3.633 [0.298] D 2003yCat.2246....0C
+Flux H : 2.801 [0.248] D 2003yCat.2246....0C
+Flux K : 2.629 [0.288] D 2003yCat.2246....0C
+Spectral type: K4III C 1999MSS...C05....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (24):
+   TIC 172658479                   AG+04 2399                      BD+04 3884                    
+   FK5 3494                        GC 25756                        GCRV 26115                    
+   GEN# +1.00173954                GSC 00456-01113                 HD 173954                     
+   HIC 92254                       HIP 92254                       HR 7076                       
+   IRAS 18455+0411                 IRC +00378                      N30 4170                      
+   PPM 166593                      SAO 123928                      SKY# 34561                    
+   TYC 456-1113-1                  UBV 15983                       UBV M 23233                   
+   YZ 4 6381                       2MASS J18480267+0414288         Gaia DR2 4282079404820594176  
+
+Bibcodes  1850-2021 () (13):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2012MNRAS.427..343M  2006AstL...32..759G
+  2005A&A...430..165F  2002PASP..114..559A  2000VeARI..37....1W  1999MSS...C05....0H
+  1993yCat.3135....0C  1991VeARI..33....1F  1988AJ.....96..157B  1972MNRAS.155..449G
+  1955AJ.....60...65E                                    
+
+Measures (distance:1  MK:2  PLX:3  PM:6  velocities:6  ):
+distance:1MK:2PLX:3PM:6velocities:6
+
+Notes (0) :
+
+================================================================================
+

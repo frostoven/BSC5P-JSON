@@ -1,0 +1,47 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:40:39
+
+HD213402
+--------
+
+Object HD 213402  ---  PM*  ---  OID=@3304924   (@@71773,17)  ---  coobox=23598
+
+Coordinates(ICRS,ep=J2000,eq=2000): 22 35 26.5220967251  -78 46 17.708106585 (Opt ) A [0.0338 0.0354 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 22 30 45.6885178074  -79 01 48.689276769
+Coordinates(Gal,ep=J2000,eq=2000): 310.6888180997160  -36.2229593721592
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 53.928 -7.234 [0.064 0.069 90] A 2018yCat.1345....0G
+Parallax: 3.5101 [0.0380] A 2018yCat.1345....0G
+Radial Velocity: -11.80 [0.20] A 2018yCat.1345....0G
+Redshift: -0.000039 [0.000001] A 2018yCat.1345....0G
+cz: -11.80 [0.20] A 2018yCat.1345....0G
+Flux B : 7.504 [0.015] D 2000A&A...355L..27H
+Flux V : 6.139 [0.010] D 2000A&A...355L..27H
+Flux G : 5.6450 [0.0009] C 2018yCat.1345....0G
+Flux J : 3.812 [0.266] D 2003yCat.2246....0C
+Flux H : 3.044 [0.256] D 2003yCat.2246....0C
+Flux K : 2.909 [0.292] D 2003yCat.2246....0C
+Spectral type: K1III C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (20):
+   TIC 273651959                   2MASS J22352657-7846178         CPC 21.3 2788                 
+   CPD-79 1206                     FK5 3807                        GC 31498                      
+   GEN# +1.00213402                GSC 09483-00171                 HD 213402                     
+   HIC 111504                      HIP 111504                      HR 8577                       
+   IRAS 22308-7901                 PPM 375410                      SAO 258049                    
+   SKY# 42960                      TYC 9483-171-1                  UBV 19237                     
+   UBV M 26444                     Gaia DR2 6352296389298049664                                  
+
+Bibcodes  1850-2021 () (12):
+  2019A&A...623A..72K  2019MNRAS.483..299G  2019MNRAS.490.3158C  2006AstL...32..759G
+  2004Ap.....47..305E  2000VeARI..37....1W  1993VeARI..34....1S  1993yCat.3135....0C
+  1985A&AS...59...15A  1983IBVS.2394....1M  1981SAAOC...6...10D  1975MSS...C01....0H
+
+Measures (distance:1  MK:2  PLX:3  PM:4  velocities:3  ):
+distance:1MK:2PLX:3PM:4velocities:3
+
+Notes (0) :
+
+================================================================================
+

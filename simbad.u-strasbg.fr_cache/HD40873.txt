@@ -1,0 +1,58 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:57:06
+
+HD40873
+-------
+
+Object * 35 Cam  ---  V*  ---  OID=@335537   (@@809,2)  ---  coobox=3722
+
+Coordinates(ICRS,ep=J2000,eq=2000): 06 04 29.1199245321  +51 34 24.192057390 (Opt ) A [0.0871 0.0880 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 06 00 31.1639140301  +51 34 37.232223237
+Coordinates(Gal,ep=J2000,eq=2000): 161.8046399273362  +14.1635139830254
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 1.850 -41.692 [0.165 0.169 90] A 2018yCat.1345....0G
+Parallax: 7.1678 [0.0962] A 2018yCat.1345....0G
+Radial Velocity: 19.6 [2] B 1979IAUS...30...57E
+Redshift: 0.000065 [0.000007] B 1979IAUS...30...57E
+cz: 19.60 [2.00] B 1979IAUS...30...57E
+Flux B : 6.565 [0.015] D 2000A&A...355L..27H
+Flux V : 6.392 [0.010] D 2000A&A...355L..27H
+Flux G : 6.3542 [0.0005] C 2018yCat.1345....0G
+Flux J : 6.000 [0.021] C 2003yCat.2246....0C
+Flux H : 5.952 [0.036] C 2003yCat.2246....0C
+Flux K : 5.929 [0.026] C 2003yCat.2246....0C
+Spectral type: A7III C ~                  
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (38):
+   TIC 467125097                   2MASS J06042909+5134241         ADS 4633 A                    
+   AG+51 534                       BD+51 1146                      CCDM J06045+5135A             
+   CSI+51 1146 2                   CSV 100709                      FK5 2463                      
+   GC 7663                         GCRV 3790                       GEN# +1.00040873A             
+   GSC 03386-00977                 HD 40873                        HIC 28765                     
+   HIP 28765                       HR 2123                         IDS 05566+5135 A              
+   N30 1299                        NSV 2804                        PMC 90-93 1251                
+   PPM 30227                       ROT 962                         SAO 25548                     
+   SKY# 10119                      SV* ZI 501                      TD1 5837                      
+   TYC 3386-977-1                  UBV M 11710                     YZ 51 2399                    
+   uvby98 100040873 A              WDS J06045+5134A                Renson 10923                  
+   BD+51 1146A                     Gaia DR1 972092970444528512     WEB 5626                      
+   Gaia DR2 972092974741801088     * 35 Cam                                                      
+
+Bibcodes  1850-2021 () (32):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2018A&A...609A.116R  2015A&A...580A..23P
+  2012A&A...546A..61D  2012MNRAS.427..343M  2009A&A...498..961R  2006AstL...32..759G
+  2002A&A...393..897R  1998A&AS..129..431H  1997PNAOJ...5....1Y  1996AJ....111.1615E
+  1995A&AS..114..269D  1995ApJS...99..135A  1993yCat.3135....0C  1991A&AS...89..429R
+  1991VeARI..33....1F  1989ApJS...70..623G  1989PBeiO..14...12L  1988AJ.....96..635E
+  1985AJ.....90.1046E  1980A&A....85...93M  1979A&AS...38...89J  1977A&A....56..235H
+  1975ApJS...29..315H  1972A&A....18..428D  1970IBVS..427....1F  1967ApJ...149...55D
+  1966AJ.....71..709C  1962JO.....45...43C  1953GCRV..C......0W  1952ApJ...116..122R
+
+Measures (distance:1  MK:3  PLX:4  PM:6  ROT:4  V*:1  velocities:6  ):
+distance:1MK:3PLX:4PM:6ROT:4V*:1velocities:6
+
+Notes (0) :
+
+================================================================================
+

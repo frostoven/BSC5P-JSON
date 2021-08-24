@@ -1,0 +1,56 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:55:25
+
+HD33285
+-------
+
+Object * bet Men  ---  *  ---  OID=@3155792   (@@70368,2)  ---  coobox=22799
+
+Coordinates(ICRS,ep=J2000,eq=2000): 05 02 42.9984744282  -71 18 51.476528649 (Opt ) A [0.0756 0.0800 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 05 03 21.2225774343  -71 22 58.748836052
+Coordinates(Gal,ep=J2000,eq=2000): 282.7736138830168  -34.2077223219218
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -4.368 10.815 [0.141 0.154 90] A 2018yCat.1345....0G
+Parallax: 4.9368 [0.0810] A 2018yCat.1345....0G
+Radial Velocity: -11.4 [2] E 1953GCRV..C......0W
+Redshift: -0.000038 [0.000007] E 1953GCRV..C......0W
+cz: -11.40 [2.00] E 1953GCRV..C......0W
+Flux B : 6.298 [0.015] D 2000A&A...355L..27H
+Flux V : 5.294 [0.009] D 2000A&A...355L..27H
+Flux G : 5.0006 [0.0021] C 2018yCat.1345....0G
+Flux J : 3.594 [0.256] D 2003yCat.2246....0C
+Flux H : 3.050 [0.230] D 2003yCat.2246....0C
+Flux K : 2.916 [0.266] D 2003yCat.2246....0C
+Spectral type: G8III C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (30):
+   TIC 30762159                    PLX 1167                        * bet Men                     
+   2MASS J05024300-7118515         2MASSI J0502429-711851          CPC 21.1 729                  
+   CPD-71 309                      FK5 2380                        GC 6232                       
+   GCRV 3022                       GEN# +1.00033285                GSC 09169-01591               
+   HD 33285                        HIC 23467                       HIP 23467                     
+   HR 1677                         IRAS 05033-7122                 LI-LMC 359                    
+   MSX LMC 131                     N30 1086                        PPM 368632                    
+   SAO 256154                      SKY# 7896                       TYC 9169-1591-1               
+   UBV 4937                        UBV M 10665                     PLX 1167.00                   
+   SSTISAGEMC J050242.99-711851.4  WEB 4568                        Gaia DR2 4654622329745220864  
+
+Bibcodes  1850-2021 () (35):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2016A&A...591A.118S  2015AJ....150...88L
+  2015MNRAS.448.2749A  2015MNRAS.450.1900A  2012A&A...546A..61D  2012MNRAS.427..343M
+  2011A&A...530A..93V  2008MNRAS.389..869E  2006AstL...32..759G  2005A&A...431..773R
+  2005A&A...433.1155M  2001AJ....122.1844E  2000VeARI..37....1W  1997A&AS..121..247G
+  1997A&AS..125..419L  1995A&AS..114..269D  1995GCTP..C......0V  1994AJ....107..594E
+  1993AJ....105.1886S  1993yCat.3135....0C  1992A&A...256..447W  1991A&AS...90....1P
+  1991VeARI..33....1F  1989A&A...210L...1C  1989PASP..101...45E  1989PASP..101...54E
+  1979A&AS...38..151V  1975MSS...C01....0H  1974A&AS...15..215O  1970A&A.....6..294S
+  1955AJ.....60..126D  1953GCRV..C......0W  1952MNRAS.112..665W            
+
+Measures (distance:1  Fe_H:1  MK:2  PLX:4  PM:5  velocities:7  ):
+distance:1Fe_H:1MK:2PLX:4PM:5velocities:7
+
+Notes (0) :
+
+================================================================================
+

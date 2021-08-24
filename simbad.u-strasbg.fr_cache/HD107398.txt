@@ -1,0 +1,44 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:24:22
+
+HD107398
+--------
+
+Object HD 107398  ---  **  ---  OID=@1907703   (@@39518,1)  ---  coobox=13477
+
+Coordinates(ICRS,ep=J2000,eq=2000): 12 20 41.37473  +27 03 16.3899 (Opt ) A [14.58 7.23 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 12 18 10.50025  +27 20 00.7504
+Coordinates(Gal,ep=J2000,eq=2000): 211.79551954  +83.15700470 
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: 6.73 -117.77 [1.66 0.82 0] A 2007A&A...474..653V
+Parallax: 10.89 [1.22] A 2007A&A...474..653V
+Radial Velocity: -17.10 [2.2] C 2006AstL...32..759G
+Redshift: -0.000057 [0.000007] C 2006AstL...32..759G
+cz: -17.10 [2.20] C 2006AstL...32..759G
+Flux 
+Spectral type: F2 E 1993yCat.3135....0C
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (14):
+   ADS 8519 AB                     BD+27 2115                      CCDM J12207+2703AB            
+   CSI+27 2115 3                   HIC 60197                       HIP 60197                     
+   IDS 12156+2737 AB               WDS J12207+2703AB               ** STF 1633AB                 
+   uvby98 521110073                GEN# +5.21110073                HD 107398                     
+   WEB 10704                       Gaia DR1 4009509956893323136                                  
+
+Bibcodes  1850-2021 () (20):
+  2020ApJS..247...11R  2019A&A...623A..72K  2018A&A...609A.116R  2017AJ....154..115H
+  2016A&A...591A.118S  2016ApJ...826..171G  2015AJ....150...16G  2015ApJ...804..146D
+  2013MNRAS.433.2334K  2012A&A...546A..61D  2006AstL...32..759G  1998A&AS..129..431H
+  1995A&AS..114..269D  1993yCat.3135....0C  1992A&AS...96..191C  1989BICDS..36....3B
+  1989BICDS..37..109B  1982PDAO...16...87H  1982PDAO...16..111H  1976MmRAS..82...95H
+
+Measures (Fe_H:1  MK:1  PLX:2  PM:2  velocities:2  ):
+Fe_H:1MK:1PLX:2PM:2velocities:2
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 60197 includes the components \object{CCDM J12207+2703AB}
+
+================================================================================
+

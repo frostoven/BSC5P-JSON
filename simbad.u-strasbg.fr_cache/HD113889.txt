@@ -1,0 +1,56 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:28:43
+
+HD113889
+--------
+
+Object CCDM J13048+7301AB  ---  **  ---  OID=@408314   (@@5934,3)  ---  coobox=1765
+
+Coordinates(ICRS,ep=J2000,eq=2000): 13 04 49.74533  +73 01 29.8959 (Opt ) A [4.30 4.13 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 13 03 17.08160  +73 17 32.5391
+Coordinates(Gal,ep=J2000,eq=2000): 121.57226083  +44.06791135 
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: -18.33 7.72 [0.49 0.47 0] A 2007A&A...474..653V
+Parallax: 8.32 [0.49] A 2007A&A...474..653V
+Radial Velocity: -16.00 [4.3] C 2006AstL...32..759G
+Redshift: -0.000053 [0.000014] C 2006AstL...32..759G
+cz: -16.00 [4.30] C 2006AstL...32..759G
+Flux U : 6.690 [0.010] C 1991A&AS...89..415O
+Flux B : 6.610 [0.007] C 1991A&AS...89..415O
+Flux V : 6.410 [0.009] C 1991A&AS...89..415O
+Flux J : 5.937 [0.018] C 2003yCat.2246....0C
+Flux H : 5.888 [0.023] C 2003yCat.2246....0C
+Flux K : 5.849 [0.016] C 2003yCat.2246....0C
+Spectral type: F0V C ~                  
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (24):
+   TIC 198490597                   ADS 8772 AB                     AG+73 343                     
+   BD+73 583                       CCDM J13048+7301AB              CSI+73 583 1                  
+   GC 17748                        GCRV 7792                       GSC 04407-01790               
+   HD 113889                       HIC 63822                       HIP 63822                     
+   HR 4950                         IDS 13017+7334 AB               PPM 8333                      
+   ROT 1932                        SAO 7741                        SKY# 24244                    
+   TD1 16648                       2MASS J13044971+7301298         WDS J13048+7302AB             
+   ** BU 799AB                     uvby98 100113889                WEB 11286                     
+
+Bibcodes  1850-2021 () (33):
+  2019A&A...623A..72K  2016A&A...591A.118S  2012A&A...537A.120Z  2012A&A...546A..61D
+  2012MNRAS.427..343M  2007A&A...463..671R  2006AstL...32..759G  2002A&A...393..897R
+  2000A&A...356..141F  2000AJ....119.3071D  2000ApJ...544..933A  1999AJ....117.2511G
+  1998A&AS..132...93A  1998AJ....116..917W  1995A&AS..114..269D  1995ApJS...99..135A
+  1993yCat.3135....0C  1991A&AS...89..415O  1991PBeiO..17..120W  1990ApJS...74..275H
+  1987A&AS...67..303S  1981ApJS...45..437A  1972A&A....18..428D  1964JO.....47....1B
+  1963JO.....46..133H  1961ApJS....6....1K  1961JO.....44..158H  1960AJ.....65..156W
+  1958JO.....41....1C  1956AJ.....61..162W  1955JO.....38..221M  1953GCRV..C......0W
+  1912ApJ....36..169P                                    
+
+Measures (Fe_H:1  MK:3  PLX:2  PM:4  ROT:4  velocities:6  ):
+Fe_H:1MK:3PLX:2PM:4ROT:4velocities:6
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 63822 includes the components \object{CCDM J13048+7301AB}
+
+================================================================================
+

@@ -1,0 +1,57 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:51:56
+
+HD60584
+-------
+
+Object * n Pup A  ---  PM*  ---  OID=@996132   (@@14160,2)  ---  coobox=7944
+
+Coordinates(ICRS,ep=J2000,eq=2000): 07 34 18.6176587367  -23 28 25.194771997 (Opt ) A [0.0311 0.0426 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 07 32 11.7804561983  -23 21 48.512321499
+Coordinates(Gal,ep=J2000,eq=2000): 238.5571954820918  -01.7083153616484
+hierarchy counts: #parents=1, #children=0, #siblings=0
+Proper motions: -88.132 -0.739 [0.067 0.088 90] A 2018yCat.1345....0G
+Parallax: 32.7370 [0.0546] A 2018yCat.1345....0G
+Radial Velocity: -4.22 [0.89] A 2018yCat.1345....0G
+Redshift: -0.000014 [0.000003] A 2018yCat.1345....0G
+cz: -4.22 [0.89] A 2018yCat.1345....0G
+Flux B : 6.200 [0.014] D 2000A&A...355L..27H
+Flux V : 5.770 [0.010] D 2000A&A...355L..27H
+Flux G : 5.7044 [0.0007] C 2018yCat.1345....0G
+Flux R : 6.55 [0.05] E 2012yCat.1322....0Z
+Flux I : 8.79 [0.05] C 2005yCat.2263....0D
+Flux J : 5.03 [0.04] E 2003yCat.2246....0C
+Flux H : 4.900 [0.016] E 2003yCat.2246....0C
+Flux K : 4.773 [0.021] C 2003yCat.2246....0C
+Spectral type: F5V C 2008ApJS..176..216A
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (28):
+   TIC 423245334                   PLX 1791                        ADS 6190 A                    
+   CD-23 5709A                     CPD-23 2414A                    CSI-23 5709 22                
+   GC 10144                        GCRV 5054                       HD 60584                      
+   HR 2909                         PPM 252685                      SAO 174019                    
+   SKY# 13874                      UBV M 13409                     YZ 113 5130                   
+   CCDM J07343-2328A               WDS J07343-2328A                TYC 6539-3802-1               
+   UCAC3 134-66106                 UCAC4 333-030577                2MASS J07341862-2328250       
+   WISE J073418.55-232825.1        DENIS J073418.6-232824          ** HN 19A                     
+   * n Pup A                       PLX 1791.00A                    WEB 7315                      
+   Gaia DR2 5618420137803147008                                                                  
+
+Bibcodes  1850-2021 () (31):
+  2020ApJS..247...11R  2019ApJS..241...12S  2018PASJ...70...60K  2016A&A...591A.118S
+  2016ApJ...826..171G  2015A&A...580A..23P  2015AJ....149....8T  2012A&A...542A.116A
+  2011A&A...530A.138C  2009A&A...495..335L  2009A&A...501..941H  2009PASJ...61...19T
+  2008MNRAS.389..869E  2006AJ....132..161G  2004A&A...418..989N  1998A&AS..132..155H
+  1995A&AS..114..269D  1993yCat.3135....0C  1988MSS...C04....0H  1984A&AS...58..287D
+  1980BICDS..19...41H  1978A&A....66..335H  1978AJ.....83..411J  1972MNRAS.160..155S
+  1970A&AS....1..357T  1970ApJS...19..387A  1965PASP...77..359W  1958AJ.....63..246V
+  1957JO.....40...93W  1955ApJ...122..182N  1953GCRV..C......0W            
+
+Measures (distance:1  Fe_H:1  MK:3  PLX:2  PM:2  ROT:1  velocities:6  ):
+distance:1Fe_H:1MK:3PLX:2PM:2ROT:1velocities:6
+
+Notes (0) :
+
+================================================================================
+

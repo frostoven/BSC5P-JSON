@@ -1,0 +1,52 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:41:06
+
+HD214200
+--------
+
+Object HD 214200  ---  PM*  ---  OID=@1541677   (@@32270,12)  ---  coobox=10054
+
+Coordinates(ICRS,ep=J2000,eq=2000): 22 36 07.9014032353  +35 34 39.002034656 (Opt ) A [0.0310 0.0333 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 22 33 51.3507983042  +35 19 07.994765803
+Coordinates(Gal,ep=J2000,eq=2000): 094.1996152309830  -19.6352550677354
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 4.792 -58.802 [0.073 0.078 90] A 2018yCat.1345....0G
+Parallax: 7.4671 [0.0448] A 2018yCat.1345....0G
+Radial Velocity: -19.68 [0.20] A 2018yCat.1345....0G
+Redshift: -0.000066 [0.000001] A 2018yCat.1345....0G
+cz: -19.68 [0.20] A 2018yCat.1345....0G
+Flux B : 7.108 [0.015] D 2000A&A...355L..27H
+Flux V : 6.105 [0.010] D 2000A&A...355L..27H
+Flux G : 5.8262 [0.0006] C 2018yCat.1345....0G
+Flux J : 4.834 [0.300] E 2003yCat.2246....0C
+Flux H : 4.161 [0.254] D 2003yCat.2246....0C
+Flux K : 4.082 [0.328] E 2003yCat.2246....0C
+Spectral type: K0 E 1993yCat.3135....0C
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (23):
+   TIC 431362661                   AG+35 2332                      BD+34 4728                    
+   CCDM J22361+3535AB              GC 31558                        GCRV 14198                    
+   GEN# +1.00214200                GSC 02743-00743                 HD 214200                     
+   HIC 111567                      HIP 111567                      HR 8604                       
+   IDS 22316+3503 AB               IRAS 22338+3519                 PPM 87972                     
+   SAO 72517                       SKY# 42985                      TYC 2743-743-1                
+   UBV M 26495                     2MASS J22360789+3534390         ** STT 474AB                  
+   WEB 19944                       Gaia DR2 1904126647778183424                                  
+
+Bibcodes  1850-2021 () (20):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2018ApJ...867..121G  2015A&A...579A..68G
+  2014ApJ...785...94L  2013A&A...552A..21G  2011SerAJ.182...35D  2010PASJ...62.1071L
+  2006AstL...32..759G  2005A&A...430..165F  2001A&A...367..297A  1999A&AS..137..269M
+  1995A&AS..114..269D  1993yCat.3135....0C  1992A&AS...94..479D  1991PPMtO..10..214Y
+  1989PBeiO..14...12L  1987A&AS...68..259H  1976A&AS...26..219M  1953GCRV..C......0W
+
+Measures (distance:1  Fe_H:1  MK:1  PLX:3  PM:5  velocities:6  ):
+distance:1Fe_H:1MK:1PLX:3PM:5velocities:6
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 111567 includes the components \object{CCDM J22361+3535AB}
+
+================================================================================
+

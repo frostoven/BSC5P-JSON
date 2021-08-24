@@ -1,0 +1,55 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:54:17
+
+HD27402
+-------
+
+Object HD 27402  ---  PM*  ---  OID=@270654   (@@1759,23)  ---  coobox=2868
+
+Coordinates(ICRS,ep=J2000,eq=2000): 04 22 57.9481129425  +59 36 58.259099394 (Opt ) A [0.0496 0.0316 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 04 18 40.7725762503  +59 30 00.300960784
+Coordinates(Gal,ep=J2000,eq=2000): 146.9067363592694  +06.9909232848282
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 35.953 -44.364 [0.094 0.072 90] A 2018yCat.1345....0G
+Parallax: 7.2483 [0.0534] A 2018yCat.1345....0G
+Radial Velocity: 17.00 [3.2] C 2006AstL...32..759G
+Redshift: 0.000057 [0.000011] C 2006AstL...32..759G
+cz: 17.00 [3.20] C 2006AstL...32..759G
+Flux U : 6.380 [0.010] C 1991A&AS...89..415O
+Flux B : 6.28 [0.01] D 2002A&A...384..180F
+Flux V : 6.18 [0.01] D 2002A&A...384..180F
+Flux G : 6.1609 [0.0005] C 2018yCat.1345....0G
+Flux J : 5.865 [0.030] C 2003yCat.2246....0C
+Flux H : 5.916 [0.040] C 2003yCat.2246....0C
+Flux K : 5.795 [0.024] C 2003yCat.2246....0C
+Spectral type: A4V C ~                  
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (29):
+   TIC 8405211                     2MASS J04225793+5936584         AG+59 421                     
+   BD+59 793                       CSI+59 793 2                    GC 5276                       
+   GCRV 2517                       GSC 03731-02001                 HD 27402                      
+   HIC 20456                       HIP 20456                       HR 1352                       
+   PPM 29109                       ROT 637                         SAO 24577                     
+   SKY# 6745                       TD1 3031                        TYC 3731-2001-1               
+   YZ 59 3504                      uvby98 100027402                WEB 3913                      
+   Gaia DR2 471047793709782144     ** KUI 16A                      ** ARG 100A                   
+   IDS 04144+5923 A                WDS J04230+5937A                ADS 3146 A                    
+   CCDM J04230+5937A               WISE J042257.98+593657.7                                      
+
+Bibcodes  1850-2021 () (26):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2016A&A...591A.118S  2015A&A...580A..23P
+  2012A&A...537A.120Z  2012A&A...546A..61D  2012MNRAS.427..343M  2007A&A...463..671R
+  2006AstL...32..759G  2002A&A...393..897R  2001A&A...367..521P  1998A&AS..129..431H
+  1997AJ....113.1122L  1995A&AS..114..269D  1995ApJS...99..135A  1993yCat.3135....0C
+  1991A&AS...89..415O  1987AJ.....94..771D  1980A&A....85...93M  1980BICDS..19...41H
+  1979A&AS...35..193W  1977A&A....56..235H  1972A&AS....5..109C  1972A&AS....6..147B
+  1958JO.....41..115B  1953GCRV..C......0W                        
+
+Measures (distance:1  Fe_H:1  MK:3  PLX:3  PM:5  ROT:4  velocities:5  ):
+distance:1Fe_H:1MK:3PLX:3PM:5ROT:4velocities:5
+
+Notes (0) :
+
+================================================================================
+

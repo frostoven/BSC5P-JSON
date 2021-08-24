@@ -1,0 +1,59 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:03:23
+
+HD74405
+-------
+
+Object * tet Vol  ---  *  ---  OID=@3176621   (@@68403,16)  ---  coobox=21305
+
+Coordinates(ICRS,ep=J2000,eq=2000): 08 39 05.1629389518  -70 23 12.272040386 (Opt ) A [0.1212 0.1152 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 08 38 54.7314924028  -70 12 29.283128312
+Coordinates(Gal,ep=J2000,eq=2000): 284.6804342736085  -17.1161899272880
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 19.053 -39.612 [0.237 0.241 90] A 2018yCat.1345....0G
+Parallax: 13.7565 [0.1281] A 2018yCat.1345....0G
+Radial Velocity: 13.00 [4.2] C 2006AstL...32..759G
+Redshift: 0.000043 [0.000014] C 2006AstL...32..759G
+cz: 13.00 [4.20] C 2006AstL...32..759G
+Flux U : 5.18 [~] C 2002yCat.2237....0D
+Flux B : 5.21 [~] C 2002yCat.2237....0D
+Flux V : 5.20 [~] C 2002yCat.2237....0D
+Flux G : 5.1449 [0.0022] C 2018yCat.1345....0G
+Flux J : 5.13 [~] C 2002yCat.2237....0D
+Flux H : 5.17 [~] C 2002yCat.2237....0D
+Flux K : 5.21 [~] C 2002yCat.2237....0D
+Spectral type: A0V C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (37):
+   TIC 308086497                   PLX 2084                        IRAS 08389-7012               
+   AKARI-IRC-V1 J0839052-702312    ** DON 271A                     ** HJ 4134A                   
+   * tet Vol                       CCDM J08391-7023A               CEL 2768                      
+   CPC 21.1 1369                   CPD-69 946                      CSI-69 946 42                 
+   FK5 2683                        GC 11947                        GCRV 5736                     
+   GEN# +1.00074405                GSC 09198-02243                 HD 74405                      
+   HIC 42425                       HIP 42425                       HR 3460                       
+   IDS 08387-7002 A                N30 2028                        PPM 370022                    
+   ROT 1373                        SAO 256535                      SKY# 16542                    
+   TD1 12971                       TYC 9198-2243-1                 UBV 8439                      
+   UBV M 14641                     uvby98 100074405                PLX 2084.00                   
+   WDS J08391-7023A                2MASS J08390517-7023122         WEB 8161                      
+   Gaia DR2 5221638139729806592                                                                  
+
+Bibcodes  1850-2021 () (32):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2017AJ....154..115H  2016A&A...591A.118S
+  2015A&A...580A..23P  2015ApJ...804..146D  2014MNRAS.437.1216D  2012A&A...546A..61D
+  2012ApJS..199....8G  2012AstL...38..694G  2012MNRAS.427..343M  2010A&A...510A..54W
+  2008MNRAS.389..869E  2007A&A...475..677S  2007ApJ...661..944R  2006A&A...458..293P
+  2006AstL...32..759G  2002yCat.2237....0D  1998A&AS..129..431H  1998A&AS..130..455V
+  1998A&AS..132..155H  1995A&AS..114..269D  1995GCTP..C......0V  1993yCat.3135....0C
+  1991VeARI..33....1F  1985A&AS...60...99W  1978A&AS...32..409G  1977A&AS...27..443G
+  1975MSS...C01....0H  1973SAOSR.350....1D  1972MNRAS.160..155S  1953GCRV..C......0W
+
+Measures (distance:1  Fe_H:1  MK:2  PLX:4  PM:5  velocities:4  ):
+distance:1Fe_H:1MK:2PLX:4PM:5velocities:4
+
+Notes (0) :
+
+================================================================================
+

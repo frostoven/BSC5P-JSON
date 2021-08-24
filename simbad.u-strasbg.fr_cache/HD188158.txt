@@ -1,0 +1,47 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:33:38
+
+HD188158
+--------
+
+Object HD 188158  ---  *  ---  OID=@11594648   (@@-1,255)  ---  coobox=18993
+
+Coordinates(ICRS,ep=J2000,eq=2000): 19 55 05.1042724363  -33 02 46.518909360 (Opt ) A [0.0551 0.0397 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 19 51 53.0412073362  -33 10 43.104158761
+Coordinates(Gal,ep=J2000,eq=2000): 007.6616639948420  -26.9479328953455
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -16.653 5.372 [0.097 0.068 90] A 2018yCat.1345....0G
+Parallax: 3.8414 [0.0767] A 2018yCat.1345....0G
+Radial Velocity: 38.01 [0.64] A 2018yCat.1345....0G
+Redshift: 0.000127 [0.000002] A 2018yCat.1345....0G
+cz: 38.01 [0.64] A 2018yCat.1345....0G
+Flux B : 7.97 [~] E ~                  
+Flux V : 6.47 [~] E ~                  
+Flux G : 5.9051 [0.0009] C 2018yCat.1345....0G
+Flux J : 3.683 [0.294] D 2003yCat.2246....0C
+Flux H : 2.860 [0.264] D 2003yCat.2246....0C
+Flux K : 2.708 [0.300] E 2003yCat.2246....0C
+Spectral type: K2/3III D 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (21):
+   TIC 326024061                   CD-33 14560                     CPC 17 10846                  
+   CPD-33 5753                     GC 27559                        GEN# +1.00188158              
+   GSC 07443-01158                 HD 188158                       HIC 98012                     
+   HIP 98012                       HR 7585                         IRAS 19518-3310               
+   N30 4401                        PPM 299530                      SAO 211653                    
+   SKY# 37313                      TYC 7443-1158-1                 UBV 16935                     
+   2MASS J19550509-3302466         Gaia DR1 6747264635560135936    Gaia DR2 6747264639856067840  
+
+Bibcodes  1850-2021 () (12):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2012MNRAS.427..343M  2010Natur.466..339K
+  2005A&A...431..773R  2005A&A...433.1155M  1995AJ....109.2828T  1993yCat.3135....0C
+  1992IBVS.3768....1A  1992IBVS.3820....1H  1985A&AS...59...15A  1982MSS...C03....0H
+
+Measures (distance:1  MK:2  PLX:4  PM:3  velocities:2  ):
+distance:1MK:2PLX:4PM:3velocities:2
+
+Notes (0) :
+
+================================================================================
+

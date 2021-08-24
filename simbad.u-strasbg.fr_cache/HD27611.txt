@@ -1,0 +1,53 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:54:25
+
+HD27611
+-------
+
+Object HD 27611  ---  PM*  ---  OID=@710863   (@@16891,11)  ---  coobox=6228
+
+Coordinates(ICRS,ep=J2000,eq=2000): 04 21 27.0377449934  -00 05 53.424100387 (Opt ) A [0.1024 0.0633 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 04 18 53.5302112409  -00 12 50.060130406
+Coordinates(Gal,ep=J2000,eq=2000): 193.7477895945313  -32.8561519567553
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -20.728 -126.005 [0.217 0.108 90] A 2018yCat.1345....0G
+Parallax: 8.7627 [0.1158] A 2018yCat.1345....0G
+Radial Velocity: -28.67 [0.22] A 2018yCat.1345....0G
+Redshift: -0.000096 [0.000001] A 2018yCat.1345....0G
+cz: -28.67 [0.22] A 2018yCat.1345....0G
+Flux B : 7.191 [0.016] D 2000A&A...355L..27H
+Flux V : 5.854 [0.010] D 2000A&A...355L..27H
+Flux G : 5.3786 [0.0013] C 2018yCat.1345....0G
+Flux J : 3.816 [0.278] D 2003yCat.2246....0C
+Flux H : 3.021 [0.246] D 2003yCat.2246....0C
+Flux K : 2.866 [0.264] D 2003yCat.2246....0C
+Spectral type: K3III C 1999MSS...C05....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (31):
+   TIC 250199932                   PLX 962                         ADS 3152 A                    
+   AG-00 465                       BD-00 687                       CCDM J04214-0006A             
+   CSI-00 687 1                    GC 5280                         GCRV 26074                    
+   GEN# +1.00027611                GSC 04727-02098                 HD 27611                      
+   HIC 20341                       HIP 20341                       HR 1366                       
+   IDS 04163-0020                  IRC +00059                      PPM 175508                    
+   SAO 131140                      SKY# 6700                       TYC 4727-2098-1               
+   UBV 4214                        UBV M 10098                     YZ 90 948                     
+   uvby98 100027611                PLX 962.00                      WDS J04215-0006A              
+   2MASS J04212705-0005532         AKARI-IRC-V1 J0421270-000554    IRAS 04188-0012               
+   Gaia DR2 3254728523307785856                                                                  
+
+Bibcodes  1850-2021 () (19):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2017AJ....153...16S  2016ApJ...817...40F
+  2016MNRAS.460.3179W  2015A&A...580A..23P  2012A&A...546A..61D  2012MNRAS.427..343M
+  2006AstL...32..759G  2001A&A...367..297A  1999MSS...C05....0H  1995GCTP..C......0V
+  1993yCat.3135....0C  1989PASP..101...45E  1989PASP..101..366E  1985ApJS...59...95A
+  1972MNRAS.155..449G  1971ApJ...165..561J  1971SvA....14.1038Z            
+
+Measures (distance:1  Fe_H:1  MK:2  PLX:4  PM:3  velocities:4  ):
+distance:1Fe_H:1MK:2PLX:4PM:3velocities:4
+
+Notes (0) :
+
+================================================================================
+

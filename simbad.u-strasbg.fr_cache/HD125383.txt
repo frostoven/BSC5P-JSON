@@ -1,0 +1,50 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:34:28
+
+HD125383
+--------
+
+Object HR 5362  ---  **  ---  OID=@3454728   (@@63131,7)  ---  coobox=21788
+
+Coordinates(ICRS,ep=J2000,eq=2000): 14 20 09.70145  -43 03 31.8356 (Opt ) A [9.13 5.62 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 14 17 00.62399  -42 49 47.4903
+Coordinates(Gal,ep=J2000,eq=2000): 319.68857373  +16.90748520 
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: -10.26 7.72 [1.04 0.64 0] A 2007A&A...474..653V
+Parallax: 8.84 [0.78] A 2007A&A...474..653V
+Radial Velocity: -19.00 [0.4] A 2006AstL...32..759G
+Redshift: -0.000063 [0.000001] A 2006AstL...32..759G
+cz: -19.00 [0.40] A 2006AstL...32..759G
+Flux B : 6.48 [~] E ~                  
+Flux V : 5.56 [~] E ~                  
+Flux J : 4.035 [0.314] E 2003yCat.2246....0C
+Flux H : 3.510 [0.226] D 2003yCat.2246....0C
+Flux K : 3.463 [0.300] E 2003yCat.2246....0C
+Spectral type: G8III C 1978MSS...C02....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (22):
+   TIC 242534637                   CCDM J14202-4304AB              CD-42 9235                    
+   CPC 0 12204                     CPD-42 6626                     GC 19327                      
+   GEN# +1.00125383J               HD 125383                       HIC 70054                     
+   HIP 70054                       HR 5362                         IDS 14139-4236 AB             
+   PPM 319404                      SAO 224838                      SKY# 26152                    
+   TD1 17392                       UBV M 20116                     2MASS J14200968-4303317       
+   WDS J14202-4304AB               AKARI-IRC-V1 J1420096-430331    IRAS 14169-4249               
+   ** HJ 4672                                                                                    
+
+Bibcodes  1850-2021 () (15):
+  2019A&A...623A..72K  2014A&A...561A.126D  2012A&A...546A..61D  2012MNRAS.427..343M
+  2008MNRAS.389..869E  2006AstL...32..759G  1998A&AS..127..251H  1993yCat.3135....0C
+  1990A&AS...85..915D  1985A&AS...59...15A  1984AJ.....89.1887C  1984ApJS...55..657C
+  1983MNRAS.202..761H  1978MSS...C02....0H  1975MNSSA..34....7H            
+
+Measures (MK:2  PLX:2  PM:3  velocities:1  ):
+MK:2PLX:2PM:3velocities:1
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 70054 includes the components \object{CCDM J14202-4304AB}
+
+================================================================================
+

@@ -1,0 +1,56 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:48:33
+
+HD3924
+------
+
+Object HD 3924  ---  *  ---  OID=@132139   (@@4407,3)  ---  coobox=2148
+
+Coordinates(ICRS,ep=J2000,eq=2000): 00 42 31.0424546561  +58 45 12.286989411 (Opt ) A [0.0339 0.0297 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 00 39 37.5719967339  +58 28 46.704006199
+Coordinates(Gal,ep=J2000,eq=2000): 121.7723528349605  -04.0982486408615
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 29.341 -6.932 [0.061 0.051 90] A 2018yCat.1345....0G
+Parallax: 4.2545 [0.0468] A 2018yCat.1345....0G
+Radial Velocity: -3.00 [4.3] C 2006AstL...32..759G
+Redshift: -0.000010 [0.000014] C 2006AstL...32..759G
+cz: -3.00 [4.30] C 2006AstL...32..759G
+Flux B : 6.161 [0.014] D 2000A&A...355L..27H
+Flux V : 6.171 [0.009] D 2000A&A...355L..27H
+Flux G : 6.1464 [0.0004] C 2018yCat.1345....0G
+Flux J : 6.083 [0.030] C 2003yCat.2246....0C
+Flux H : 6.113 [0.038] C 2003yCat.2246....0C
+Flux K : 6.086 [0.021] C 2003yCat.2246....0C
+Spectral type: B9.5III C ~                  
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (29):
+   TIC 445108140                   2MASS J00423104+5845122         AG+58 81                      
+   BD+57 132                       GC 837                          GCRV 385                      
+   GEN# +1.00003924                GSC 03667-01046                 Glazar Cas1 1                 
+   HD 3924                         HIC 3334                        HIP 3334                      
+   HR 181                          N30 141                         PPM 25613                     
+   ROT 124                         SAO 21642                       SKY# 1108                     
+   TD1 384                         TYC 3667-1046-1                 UBV 548                       
+   UBV M 7574                      YZ 58 561                       [HFE83] 23                    
+   uvby98 100003924                ALS 16401                       Gaia DR1 425352704635850880   
+   WEB 590                         Gaia DR2 425352708938778368                                   
+
+Bibcodes  1850-2021 () (33):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2015A&A...580A..23P  2012A&A...546A..61D
+  2012ApJS..199....8G  2012AstL...38..694G  2012MNRAS.427..343M  2011MNRAS.410..190T
+  2011SerAJ.182...35D  2010A&A...510A..54W  2006AstL...32..759G  2005AJ....130.1652R
+  2003A&A...411..447L  2003AJ....125.2531R  2003ApJS..145..355G  2002ApJ...573..359A
+  1998A&AS..129..431H  1996A&AS..118..481B  1995A&AS..114..269D  1995Ap.....38..189O
+  1993Ap&SS.203...53H  1993yCat.3135....0C  1992A&AS...94..479D  1992AJ....104.2141E
+  1991AJ....102.2028E  1991AZh....68..942T  1985A&AS...60...99W  1984ApJS...55..597E
+  1983A&AS...53..223H  1977PASP...89..187E  1973AJ.....78..738C  1963ApJ...137..530C
+  1953GCRV..C......0W                                    
+
+Measures (distance:1  MK:3  PLX:4  PM:6  ROT:1  velocities:6  ):
+distance:1MK:3PLX:4PM:6ROT:1velocities:6
+
+Notes (0) :
+
+================================================================================
+

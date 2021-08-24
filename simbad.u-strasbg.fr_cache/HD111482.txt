@@ -1,0 +1,52 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:27:39
+
+HD111482
+--------
+
+Object * iot Oct  ---  **  ---  OID=@3290271   (@@69232,9)  ---  coobox=22176
+
+Coordinates(ICRS,ep=J2000,eq=2000): 12 54 58.80949  -85 07 24.1041 (Opt ) A [4.75 4.13 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 12 49 30.31764  -84 51 08.6339
+Coordinates(Gal,ep=J2000,eq=2000): 303.01326192  -22.25217410 
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: 67.20 24.76 [0.54 0.47 0] A 2007A&A...474..653V
+Parallax: 9.27 [0.46] A 2007A&A...474..653V
+Radial Velocity: 53.40 [0.74] A 2007AN....328..889K
+Redshift: 0.000178 [0.000002] A 2007AN....328..889K
+cz: 53.40 [0.74] A 2007AN....328..889K
+Flux G : 5.5603 [0.0201] C 2018yCat.1345....0G
+Flux R : 6.62 [0.21] E 2012yCat.1322....0Z
+Flux J : 3.882 [0.264] D 2003yCat.2246....0C
+Flux H : 3.228 [0.228] D 2003yCat.2246....0C
+Flux K : 3.142 [0.244] D 2003yCat.2246....0C
+Spectral type: K0III C 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (30):
+   TIC 383391443                   2MASS J12545873-8507240         * iot Oct                     
+   CCDM J12550-8507AB              CPC 22 1605                     CPD-84 407                    
+   FK5 919                         GC 17460                        GCRV 7700                     
+   GSC 09512-02121                 HD 111482                       HIC 63031                     
+   HIP 63031                       HR 4870                         IDS 12445-8435 AB             
+   IRAS 12494-8450                 N30 2964                        PPM 377511                    
+   SAO 258654                      SKY# 24005                      UBV 11525                     
+   UBV M 18697                     WDS J12550-8507AB               ** RST 2819                   
+   ** B 9020AB                     GEN# +1.00111482                UCAC4 025-005691              
+   WISE J125459.89-850725.4        Gaia DR2 5769608209294672768    WEB 11174                     
+
+Bibcodes  1850-2021 () (24):
+  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2009AJ....137.3358M
+  2008MNRAS.389..869E  2001A&A...365..222G  2000A&A...356..141F  1997RMxAA..33....3P
+  1995A&AS..114..269D  1993AJ....106..352H  1993yCat.3135....0C  1992A&AS...95..355C
+  1992ApJS...83..351H  1991A&AS...90..109C  1990AJ.....99..965M  1990PBeiO..16...18L
+  1987A&AS...67....1C  1981AJ.....86..875M  1980A&AS...39..197W  1980AcA....30..453G
+  1975MSS...C01....0H  1970ApJ...161..199E  1969MNRAS.144..333W  1953GCRV..C......0W
+
+Measures (MK:3  PLX:3  PM:5  velocities:5  ):
+MK:3PLX:3PM:5velocities:5
+
+Notes (0) :
+
+================================================================================
+

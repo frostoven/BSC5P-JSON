@@ -1,0 +1,55 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:38:08
+
+HD208741
+--------
+
+Object HD 208741  ---  PM*  ---  OID=@3320583   (@@72031,16)  ---  coobox=23696
+
+Coordinates(ICRS,ep=J2000,eq=2000): 22 03 03.8207807316  -76 07 06.440512961 (Opt ) A [0.0409 0.0538 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 21 58 13.9003357143  -76 21 32.421253215
+Coordinates(Gal,ep=J2000,eq=2000): 314.5415118024016  -36.9494638508109
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 25.246 -73.185 [0.086 0.100 90] A 2018yCat.1345....0G
+Parallax: 15.3619 [0.0505] A 2018yCat.1345....0G
+Radial Velocity: 11.68 [0.37] A 2018yCat.1345....0G
+Redshift: 0.000039 [0.000001] A 2018yCat.1345....0G
+cz: 11.68 [0.37] A 2018yCat.1345....0G
+Flux B : 6.328 [0.014] D 2000A&A...355L..27H
+Flux V : 5.926 [0.009] D 2000A&A...355L..27H
+Flux G : 5.8315 [0.0005] C 2018yCat.1345....0G
+Flux J : 5.221 [0.034] C 2003yCat.2246....0C
+Flux H : 5.08 [0.038] C 2003yCat.2246....0C
+Flux K : 5.001 [0.023] C 2003yCat.2246....0C
+Spectral type: F3/5III D 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (29):
+   TIC 290401720                   CCDM J22031-7607A               CPC 21.3 2721                 
+   CPD-76 1542                     CSI-76 1542 41                  FK5 3760                      
+   GC 30788                        GCRV 72648                      GEN# +1.00208741              
+   GSC 09475-02323                 HD 208741                       HIC 108849                    
+   HIP 108849                      HR 8380                         IDS 21533-7636 A              
+   N30 4850                        PPM 375229                      SAO 257993                    
+   IRAS 21582-7621                 AKARI-IRC-V1 J2203037-760707    SKY# 42003                    
+   TD1 28634                       TYC 9475-2323-1                 UBV 18786                     
+   UBV M 26025                     uvby98 100208741                WDS J22031-7607A              
+   2MASS J22030381-7607066         Gaia DR2 6358005362906955264                                  
+
+Bibcodes  1850-2021 () (29):
+  2020ApJS..247...11R  2019A&A...623A..72K  2019ApJS..241...12S  2019MNRAS.490.3158C
+  2017AJ....154..115H  2017MNRAS.469.3042N  2016A&A...591A.118S  2016ApJ...826..171G
+  2015A&A...580A..23P  2011A&A...530A.138C  2010A&A...515A.111S  2009A&A...501..941H
+  2006AstL...32..759G  2004A&A...418..989N  2003A&A...398.1121E  1998A&AS..127..277K
+  1998A&AS..129..431H  1993yCat.3135....0C  1991VeARI..33....1F  1986A&A...155..371H
+  1980A&A....85...93M  1978A&A....66..335H  1977A&AS...27..443G  1975MSS...C01....0H
+  1973PASP...85..542E  1972MNRAS.159..165S  1966MNRAS.131..467P  1958MNRAS.118..609B
+  1957MNRAS.117..449D                                    
+
+Measures (distance:1  Fe_H:2  MK:6  PLX:3  PM:5  velocities:4  ):
+distance:1Fe_H:2MK:6PLX:3PM:5velocities:4
+
+Notes (0) :
+
+================================================================================
+

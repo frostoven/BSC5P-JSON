@@ -1,0 +1,51 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:24:09
+
+HD200718
+--------
+
+Object * del Mic  ---  HB*  ---  OID=@1188943   (@@24483,14)  ---  coobox=8210
+
+Coordinates(ICRS,ep=J2000,eq=2000): 21 06 01.1360192001  -30 07 30.455640049 (Opt ) A [0.1679 0.1043 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 21 03 00.1871999164  -30 19 29.654051768
+Coordinates(Gal,ep=J2000,eq=2000): 015.3498939852575  -40.9461215854900
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 49.078 -68.365 [0.274 0.210 90] A 2018yCat.1345....0G
+Parallax: 12.0258 [0.2267] A 2018yCat.1345....0G
+Radial Velocity: 22.81 [0.48] A 2018yCat.1345....0G
+Redshift: 0.000076 [0.000002] A 2018yCat.1345....0G
+cz: 22.81 [0.48] A 2018yCat.1345....0G
+Flux B : 6.739 [0.015] D 2000A&A...355L..27H
+Flux V : 5.687 [0.010] D 2000A&A...355L..27H
+Flux G : 5.3973 [0.0011] C 2018yCat.1345....0G
+Flux J : 4.201 [0.276] D 2003yCat.2246....0C
+Flux H : 3.533 [0.216] C 2003yCat.2246....0C
+Flux K : 3.53 [0.216] C 2003yCat.2246....0C
+Spectral type: K0/1III D 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (24):
+   TIC 92708166                    * del Mic                       CD-30 18382                   
+   CPC 17 11523                    CPD-30 6427                     FK5 3683                      
+   GC 29453                        GEN# +1.00200718                GSC 07471-00848               
+   HD 200718                       HIC 104148                      HIP 104148                    
+   HR 8070                         PPM 300988                      SACS 463                      
+   SAO 212709                      SKY# 40111                      SRS 44533                     
+   TYC 7471-848-1                  UBV 18244                       IRAS 21030-3019               
+   AKARI-IRC-V1 J2106011-300731    2MASS J21060115-3007302         Gaia DR2 6788186538497052288  
+
+Bibcodes  1850-2021 () (24):
+  2021A&A...647A.157S  2019A&A...623A..72K  2019MNRAS.490.3158C  2016A&A...591A.118S
+  2016A&A...593A.133B  2012MNRAS.427..343M  2011A&A...536A..71J  2008MNRAS.389..869E
+  2007JHA....38..222W  2006AstL...32..759G  2000VeARI..37....1W  1998A&AS..127..251H
+  1995A&AS..109..501C  1994A&AS..106..441N  1994PBeiO..24...71L  1993AJ....106...80E
+  1993VeARI..34....1S  1993yCat.3135....0C  1986ApJS...62..147B  1985A&AS...59...15A
+  1985RMxAA..10..377M  1982MSS...C03....0H  1981SAAOC...6...10D  1980PASP...92..713B
+
+Measures (diameter:1  distance:1  Fe_H:1  MK:2  PLX:3  PM:3  ROT:1  velocities:3  ):
+diameter:1distance:1Fe_H:1MK:2PLX:3PM:3ROT:1velocities:3
+
+Notes (0) :
+
+================================================================================
+

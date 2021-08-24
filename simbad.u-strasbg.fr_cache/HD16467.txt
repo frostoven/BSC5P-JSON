@@ -1,0 +1,52 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:51:11
+
+HD16467
+-------
+
+Object HD 16467  ---  **  ---  OID=@1408668   (@@29164,4)  ---  coobox=11941
+
+Coordinates(ICRS,ep=J2000,eq=2000): 02 38 36.8027698829  +03 26 35.528001482 (Opt ) A [0.0483 0.0475 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 02 36 00.4776738951  +03 13 39.852023078
+Coordinates(Gal,ep=J2000,eq=2000): 167.3162639687395  -49.9616142670949
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: 32.621 7.453 [0.097 0.103 90] A 2018yCat.1345....0G
+Parallax: 7.6245 [0.0593] A 2018yCat.1345....0G
+Radial Velocity: 4.70 [0.7] A 2006AstL...32..759G
+Redshift: 0.000016 [0.000002] A 2006AstL...32..759G
+cz: 4.70 [0.70] A 2006AstL...32..759G
+Flux B : 7.240 [0.015] D 2000A&A...355L..27H
+Flux V : 6.237 [0.010] D 2000A&A...355L..27H
+Flux G : 5.9490 [0.0006] C 2018yCat.1345....0G
+Flux J : 4.915 [0.220] D 2003yCat.2246....0C
+Flux H : 4.273 [0.216] D 2003yCat.2246....0C
+Flux K : 4.083 [0.324] D 2003yCat.2246....0C
+Spectral type: K0III C 1999MSS...C05....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (29):
+   TIC 422971931                   2MASS J02383679+0326353         AG+03 300                     
+   AGKR 2311                       BD+02 406                       CCDM J02386+0327AB            
+   GC 3168                         GCRV 1493                       GSC 00049-01674               
+   HD 16467                        HIC 12318                       HIP 12318                     
+   HR 775                          IDS 02334+0301 AB               PPM 145770                    
+   SAO 110655                      SKY# 3937                       SRS 4547                      
+   UBV 2615                        YZ 3 733                        PLX 530.01                    
+   WDS J02386+0327AB               ** KUI 9                        AKARI-IRC-V1 J0238368+032635  
+   IRAS 02360+0313                 WEB 2526                        GEN# +1.00016467              
+   WISE J023836.83+032635.5        Gaia DR2 2503654874857069440                                  
+
+Bibcodes  1850-2021 () (20):
+  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2006AstL...32..759G
+  2000A&A...356..141F  1999A&AS..139..433D  1999MSS...C05....0H  1995A&AS..114..269D
+  1995GCTP..C......0V  1994AJ....107..594E  1994AJ....108.2338H  1993yCat.3135....0C
+  1989A&AS...77..125L  1989PASP..101...45E  1989PASP..101...54E  1986ApJS...62..147B
+  1981AJ.....86.1896H  1959JO.....42...17C  1955ApJ...122..222H  1953GCRV..C......0W
+
+Measures (distance:1  MK:2  PLX:4  PM:3  velocities:5  ):
+distance:1MK:2PLX:4PM:3velocities:5
+
+Notes (0) :
+
+================================================================================
+

@@ -1,0 +1,60 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:48:57
+
+HD5608
+------
+
+Object HD 5608  ---  SB*  ---  OID=@1531910   (@@32099,6)  ---  coobox=11720
+
+Coordinates(ICRS,ep=J2000,eq=2000): 00 58 14.2189985058  +33 57 03.183314539 (Opt ) A [0.0653 0.0405 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 00 55 29.3244913244  +33 40 55.344662363
+Coordinates(Gal,ep=J2000,eq=2000): 124.5424521808032  -28.8996011241000
+hierarchy counts: #parents=0, #children=1, #siblings=0
+Proper motions: 36.419 -71.265 [0.094 0.088 90] A 2018yCat.1345....0G
+Parallax: 17.1801 [0.0649] A 2018yCat.1345....0G
+Radial Velocity: -22.80 [0.14] A 2018yCat.1345....0G
+Redshift: -0.000076 [0.000000] A 2018yCat.1345....0G
+cz: -22.80 [0.14] A 2018yCat.1345....0G
+Flux B : 6.996 [0.015] D 2000A&A...355L..27H
+Flux V : 5.980 [0.010] D 2000A&A...355L..27H
+Flux G : 5.7116 [0.0012] C 2018yCat.1345....0G
+Flux J : 4.478 [0.256] D 2003yCat.2246....0C
+Flux H : 3.880 [0.244] D 2003yCat.2246....0C
+Flux K : 3.826 [0.372] E 2003yCat.2246....0C
+Spectral type: K0III D 1932MeUpp..54....1S
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (23):
+   TIC 53873088                    2MASS J00581422+3357031         SPOCS 2109                    
+   AG+33 102                       BD+33 140                       FK5 2061                      
+   GC 1159                         GCRV 549                        GEN# +1.00005608              
+   GSC 02285-00553                 HD 5608                         HIC 4552                      
+   HIP 4552                        HR 275                          IRAS 00554+3340               
+   PPM 65815                       SAO 54306                       SKY# 1483                     
+   TYC 2285-553-1                  UBV M 7809                      Gaia DR2 362706006713454208   
+   Gaia DR1 362706002418747648     WEB 824                                                       
+
+Bibcodes  1850-2021 () (49):
+  2020AJ....159..235L  2020ApJ...890...23L  2020ApJS..247...11R  2020MNRAS.496.5423M
+  2019A&A...623A..72K  2019AJ....157..149L  2019ApJ...876...23G  2019MNRAS.490.3158C
+  2018A&A...616A..33S  2018MNRAS.480L..48Y  2017A&A...603A..30S  2017AJ....153...16S
+  2017AJ....153..136S  2017AJ....153..208B  2017AJ....154..115H  2017MNRAS.472.1736R
+  2017MNRAS.472.4110S  2016A&A...585A...5B  2016A&A...591A.118S  2016ApJ...825..127R
+  2016ApJS..225...32B  2016MNRAS.457.2173G  2015A&A...574A..50J  2014ApJ...785...94L
+  2014PASJ...66...91T  2013A&A...551L...8P  2013A&A...552A.119S  2013A&A...556A.150S
+  2013A&A...557A..70M  2012A&A...546A..61D  2012MNRAS.427..343M  2012PASJ...64..135S
+  2010ApJ...725..875I  2008AJ....135..209M  2008PASJ...60..781T  2006AstL...32..759G
+  2005A&A...430..165F  2000VeARI..37....1W  1999A&AS..134..523T  1998A&AS..132..233X
+  1995A&AS..114..269D  1993VeARI..34....1S  1993yCat.3135....0C  1991ApJS...76..715T
+  1989ApJS...71..293B  1987A&AS...68..259H  1976A&AS...26..219M  1971AJ.....76..246H
+  1953GCRV..C......0W                                    
+
+Measures (diameter:1  distance:1  Fe_H:6  MK:2  PLX:4  PM:5  ROT:2  velocities:9  ):
+diameter:1distance:1Fe_H:6MK:2PLX:4PM:5ROT:2velocities:9
+
+Notes (1) :
+(S) 23-Oct-2012 - bc    ref:~    obj:HD 5608
+    Substellar companion \object{HD 5608b} detected, see also \exosun{HD 5608} in the \exoEncyclopedie.
+
+================================================================================
+

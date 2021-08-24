@@ -1,0 +1,59 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:10:13
+
+HD85622
+-------
+
+Object * m Vel  ---  SB*  ---  OID=@3043840   (@@63782,21)  ---  coobox=20593
+
+Coordinates(ICRS,ep=J2000,eq=2000): 09 51 40.6678152667  -46 32 51.432912741 (Opt ) A [0.1187 0.1286 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 09 49 44.6079448923  -46 18 44.816570759
+Coordinates(Gal,ep=J2000,eq=2000): 273.6988233228382  +05.8685465685578
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -24.784 9.843 [0.258 0.270 90] A 2018yCat.1345....0G
+Parallax: 4.3323 [0.1445] A 2018yCat.1345....0G
+Radial Velocity: 10.8 [0.9] E 1953GCRV..C......0W
+Redshift: 0.000036 [0.000003] E 1953GCRV..C......0W
+cz: 10.80 [0.90] E 1953GCRV..C......0W
+Flux U : 6.77 [~] C 2002yCat.2237....0D
+Flux B : 5.78 [~] C 2002yCat.2237....0D
+Flux V : 4.58 [~] C 2002yCat.2237....0D
+Flux G : 4.1634 [0.0028] C 2018yCat.1345....0G
+Flux R : 3.75 [~] C 2002yCat.2237....0D
+Flux I : 3.12 [~] C 2002yCat.2237....0D
+Flux J : 2.71 [~] C 2002yCat.2237....0D
+Flux H : 2.126 [0.250] D 2003yCat.2246....0C
+Flux K : 2.00 [~] C 2002yCat.2237....0D
+Spectral type: G6IIa C 1989ApJS...71..245K
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (30):
+   TIC 35168827                    PLX 2343                        SBC9 587                      
+   * m Vel                         CD-45 5508                      CPC 0 7885                    
+   CPD-45 4130                     GC 13587                        GCRV 6324                     
+   GEN# +1.00085622                GSC 08181-00868                 HD 85622                      
+   HIC 48374                       HIP 48374                       HR 3912                       
+   IRAS 09497-4618                 JP11 1880                       NSV 4658                      
+   PPM 314752                      SAO 221553                      SBC7 391                      
+   SKY# 19041                      TYC 8181-868-1                  UBV 9285                      
+   UBV M 15771                     uvby98 100085622                2MASS J09514067-4632513       
+   PLX 2343.00                     WEB 9023                        Gaia DR2 5411300287757211392  
+
+Bibcodes  1850-2021 () (34):
+  2019A&A...623A..72K  2019MNRAS.490.3158C  2015A&A...580A..23P  2012A&A...546A..61D
+  2012MNRAS.427..298H  2012MNRAS.427..343M  2011MNRAS.410..190T  2008MNRAS.389..869E
+  2006AstL...32..759G  2004A&A...424..727P  2002A&A...395...97D  2002MNRAS.331...45K
+  2002yCat.2237....0D  1998A&AS..127..251H  1998A&AS..129..431H  1998AJ....116.2423P
+  1997ApJS..112..557K  1995A&AS..114..269D  1995GCTP..C......0V  1993yCat.3135....0C
+  1991A&AS...87..541G  1989ApJS...71..245K  1989PASP..101...45E  1985AJ.....90..120H
+  1983A&AS...54...55O  1983AJ.....88.1187E  1980A&AS...42..311H  1978MSS...C02....0H
+  1978PDAO...15..121B  1976AJ.....81..225M  1974PASP...86..129E  1953GCRV..C......0W
+  1919ApJ....50..161L  1907ApJ....25...56W                        
+
+Measures (distance:1  IUE:3  MK:4  PLX:4  PM:4  V*:1  velocities:11  ):
+distance:1IUE:3MK:4PLX:4PM:4V*:1velocities:11
+
+Notes (0) :
+
+================================================================================
+

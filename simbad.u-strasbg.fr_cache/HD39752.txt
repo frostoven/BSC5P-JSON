@@ -1,0 +1,48 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:56:50
+
+HD39752
+-------
+
+Object HD 39752  ---  **  ---  OID=@849700   (@@12514,10)  ---  coobox=7134
+
+Coordinates(ICRS,ep=J2000,eq=2000): 05 52 47.71333  -38 31 33.5942 (Opt ) A [4.22 3.61 90] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 05 51 07.15811  -38 32 08.2597
+Coordinates(Gal,ep=J2000,eq=2000): 244.44622967  -27.40245387 
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -0.26 -11.82 [0.41 0.48 0] A 2007A&A...474..653V
+Parallax: 3.27 [0.47] A 2007A&A...474..653V
+Radial Velocity: 4.10 [0.4] A 2006AstL...32..759G
+Redshift: 0.000014 [0.000001] A 2006AstL...32..759G
+cz: 4.10 [0.40] A 2006AstL...32..759G
+Flux B : 7.890 [0.016] D 2000A&A...355L..27H
+Flux V : 6.749 [0.010] D 2000A&A...355L..27H
+Flux J : 5.059 [0.234] D 2003yCat.2246....0C
+Flux H : 4.374 [0.268] D 2003yCat.2246....0C
+Flux K : 4.152 [0.036] C 2003yCat.2246....0C
+Spectral type: K1III C 1982MSS...C03....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (21):
+   TIC 21728617                    2MASS J05524770-3831337         CCDM J05528-3832AB            
+   CD-38 2270                      CPC 18 2164                     CPD-38 728                    
+   GC 7412                         GEN# +1.00039752J               GSC 07598-00266               
+   HD 39752                        HIC 27787                       HIP 27787                     
+   HR 2055                         IDS 05494-3833 AB               IRAS 05511-3832               
+   PPM 281989                      SAO 196274                      SKY# 9712                     
+   TYC 7598-266-1                  WDS J05528-3832AB               ** I 16AB                     
+
+Bibcodes  1850-2021 () (11):
+  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2006AstL...32..759G
+  2000A&A...356..141F  1994AJ....107..594E  1993yCat.3135....0C  1989PASP..101...45E
+  1989PASP..101...54E  1985A&AS...59...15A  1982MSS...C03....0H            
+
+Measures (MK:2  PLX:2  PM:3  velocities:1  ):
+MK:2PLX:2PM:3velocities:1
+
+Notes (1) :
+(S) 01-Jan-2000 - com    ref:~    obj:~
+    HIC 27787 includes the components \object{CCDM J05528-3832AB}
+
+================================================================================
+

@@ -1,0 +1,53 @@
+C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:09:13
+
+HD83520
+-------
+
+Object HD 83520  ---  **  ---  OID=@3062571   (@@65392,5)  ---  coobox=20701
+
+Coordinates(ICRS,ep=J2000,eq=2000): 09 37 12.65194  -53 40 06.6340 (Opt ) A [7.90 3.42 89] 2007A&A...474..653V
+Coordinates(FK4,ep=B1950,eq=1950): 09 35 32.12510  -53 26 34.2048
+Coordinates(Gal,ep=J2000,eq=2000): 276.56060270  -01.05130582 
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: -24.62 -9.39 [0.39 0.90 0] A 2007A&A...474..653V
+Parallax: 13.98 [0.42] A 2007A&A...474..653V
+Radial Velocity: -13.30 [1.78] B 2007AN....328..889K
+Redshift: -0.000044 [0.000006] B 2007AN....328..889K
+cz: -13.30 [1.78] B 2007AN....328..889K
+Flux B : 5.592 [~] E ~                  
+Flux V : 5.467 [~] E ~                  
+Flux J : 5.160 [0.018] C 2003yCat.2246....0C
+Flux H : 5.123 [0.029] C 2003yCat.2246....0C
+Flux K : 5.053 [0.020] C 2003yCat.2246....0C
+Spectral type: A2/3V D 1975MSS...C01....0H
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (26):
+   TIC 280393898                   CCDM J09372-5340AB              CEL 3346                      
+   CPC 19 3550                     CPD-53 2646                     GC 13309                      
+   GCRV 6220                       GEN# +1.00083520J               GSC 08585-01849               
+   HD 83520                        HIC 47204                       HIP 47204                     
+   HR 3840                         IDS 09339-5313 AB               IRAS 09355-5326               
+   PPM 338134                      SAO 237149                      SKY# 18601                    
+   UBV 9177                        UBV M 15610                     [FWS69] IV-1                  
+   2MASS J09371266-5340064         WDS J09372-5340AB               ** SEE 115                    
+   uvby98 100083520                WEB 8880                                                      
+
+Bibcodes  1850-2021 () (30):
+  2017AJ....154..115H  2015ApJ...804..146D  2014A&A...567A..26L  2014MNRAS.437.1216D
+  2012A&A...546A..61D  2012MNRAS.427..343M  2011A&A...531A.143D  2008MNRAS.389..869E
+  2006AJ....131.1000H  2001AJ....121.1583H  2000A&A...356..141F  1998A&AS..129..431H
+  1997AJ....114.2117H  1996AJ....111.1681H  1995A&AS..114..269D  1993yCat.3135....0C
+  1991A&AS...90..565S  1990AJ.....99..965M  1983ApJS...52....7F  1982A&AS...50..115W
+  1977A&A....56..235H  1977A&AS...27..443G  1976PASP...88...52H  1975MSS...C01....0H
+  1974PASP...86..907H  1973SAOSR.350....1D  1972MNRAS.159..165S  1972MNRAS.160..155S
+  1969PASP...81..804F  1953GCRV..C......0W                        
+
+Measures (MK:2  PLX:2  PM:3  ROT:1  velocities:4  ):
+MK:2PLX:2PM:3ROT:1velocities:4
+
+Notes (0) :
+
+================================================================================
+
