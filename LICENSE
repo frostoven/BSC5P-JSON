@@ -2,7 +2,13 @@ Use of catalog data subject to [HEASARC](https://heasarc.gsfc.nasa.gov/) terms
 of use. Catalog data includes the following files:
 * bsc5p.json
 * bsc5p_min.json
+* bsc5p_extra.json
+* bsc5p_extra_min.json
 * Everything in the 'original' directory.
+
+Files in simbad.u-strasbg.fr_cache were obtained from the
+[SIMBAD Astronomical Database](http://simbad.u-strasbg.fr/simbad/)
+and are subject to their own respective licenses.
 
 The rest of this project falls under CC0 1.0 Universal below.
 
