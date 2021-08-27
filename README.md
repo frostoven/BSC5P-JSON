@@ -60,7 +60,7 @@ use.
 
 Scripts written to facilitate conversion released to public domain under CC0.
 
-# Acknowledgments
+## Acknowledgments
 This research has made use of the SIMBAD database, operated at CDS, Strasbourg, France.
 
 This research has made use of the VizieR catalogue access tool, CDS, Strasbourg, France (DOI : 10.26093/cds/vizier). The original description of the VizieR service was published in 2000, A&AS 143, 23.
