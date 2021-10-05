@@ -27,8 +27,10 @@ Fields saved as camel case to be JavaScript appropriate.
 * `catalogToJson.js` - Converts the original BSC5P catalog (stored in
   `original_bsc5p/catalog`) to JSON format.
 * `cacheBsc5pSimbadStarData.js` - Downloads cross-referenced information from
-  the simbad.u-strasbg.fr astronomical database (I'm very thankful to the
-  owners for providing this service, my side-projects would be virtually
+  the simbad.u-strasbg.fr astronomical database. Note that it's provided only
+  for the sake of completion, and you do not need to run this script as this
+  repo contains all downloaded files already. (As an aside, I'm very thankful
+  to the owners for providing this service, my side-projects would be virtually
   impossible feats without it).
 * `enrichStarData.js` - Parses the cached Simbad pages, reads `bsc5p_min.json`,
   extends the latter with the processed info, and then saves the changes as two
