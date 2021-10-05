@@ -8,7 +8,7 @@
 //
 // Requires Node.js > 10.
 // Usage:
-//  node crossRefSimbadData.js
+//  node enrichStarData.js
 
 const fs = require('fs');
 const BSC5P_JSON = require('./bsc5p_min.json');

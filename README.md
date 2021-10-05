@@ -1,8 +1,9 @@
 ## Bright Star Catalogue in JSON format
 
 Contains the complete BSC5P (Bright Star Catalog, 5th Edition) converted to
-JSON format. All original data is preserved. Acronyms avoided where possible
-to make things a tad more readable.
+JSON format. All original data is preserved (a massively reduced version can be
+found [here](https://github.com/aggregate1166877/Star-catalogs-for-video-games)).
+Acronyms avoided where possible to make things a tad more readable.
 
 This repo came into existence because of a lack of ready-made resources while
 working on the [Cosmosis game project](https://github.com/aggregate1166877/Cosmosis)
@@ -61,3 +62,8 @@ Caching query responses from Simbad subject to the
 use.
 
 Scripts written to facilitate conversion released to public domain under CC0.
+
+## Acknowledgments
+This research has made use of the SIMBAD database, operated at CDS, Strasbourg, France.
+
+This research has made use of the VizieR catalogue access tool, CDS, Strasbourg, France (DOI : 10.26093/cds/vizier). The original description of the VizieR service was published in 2000, A&AS 143, 23.
