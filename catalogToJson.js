@@ -235,8 +235,13 @@ lineReader.on('line', function (line) {
     const to = column[TO] - 1;
     const fieldName = column[FIELD_NAME];
 
+    let value = getStringRange(from, to, line).trim();
+    // The catalogue sometimes pads values. For example, instead of "33 Psc" it
+    // might contain "33    Psc". The following line removes excess padding.
+    value = value.split(' ').filter(Boolean).join(' ');
+
     // Save processed line:
-    jsonLine[fieldName] = getStringRange(from, to, line).trim();
+    jsonLine[fieldName] = value;
   }
   converted.push(jsonLine)
 });
