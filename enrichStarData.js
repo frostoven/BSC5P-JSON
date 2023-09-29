@@ -3,7 +3,7 @@
 // files. It relies on cacheSimbadStarData.js already having saved queried data
 // from https://simbad.u-strasbg.fr to ./simbad.u-strasbg.fr_cache
 //
-// Note this this will likely need adjustment as I've noticed issues with NGC
+// Note that this will likely need adjustment as I've noticed issues with NGC
 // cluster parallaxes.
 //
 // Requires Node.js > 10.
