@@ -1,37 +1,38 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:14:51
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:08:50
 
 HD187259
 --------
 
 Object * pi. Aql A  ---  *  ---  OID=@3554864   (@@77187,2)  ---  coobox=20043
 
-Coordinates(ICRS,ep=J2000,eq=2000): 19 48 42.0586930360  +11 48 57.220777628 (Opt ) A [0.0383 0.0370 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 19 46 20.6167230537  +11 41 24.558896738
-Coordinates(Gal,ep=J2000,eq=2000): 050.0777102969664  -07.0092607063273
+Coordinates(ICRS,ep=J2000,eq=2000): 19 48 42.0585539472  +11 48 57.224737836 (Opt ) A [0.0225 0.0197 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 19 46 20.6161469052  +11 41 24.576794670
+Coordinates(Gal,ep=J2000,eq=2000): 050.0777109769890  -07.0092596688483
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: 17.708 -9.613 [0.080 0.081 90] A 2018yCat.1345....0G
-Parallax: 6.5117 [0.0579] A 2018yCat.1345....0G
+Proper motions: 17.838 -9.891 [0.031 0.026 90] A 2020yCat.1350....0G
+Parallax: 6.3883 [0.0342] A 2020yCat.1350....0G
 Radial Velocity: 17.28 [0.20] A 2018yCat.1345....0G
 Redshift: 0.000058 [0.000001] A 2018yCat.1345....0G
 cz: 17.28 [0.20] A 2018yCat.1345....0G
 Flux B : 7.19 [0.01] D 2002A&A...384..180F
 Flux V : 6.23 [0.01] D 2002A&A...384..180F
-Flux G : 6.0136 [0.0009] C 2018yCat.1345....0G
+Flux G : 6.036328 [0.002828] C 2020yCat.1350....0G
 Spectral type: G8III C 2002ApJS..143..513G
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (9):
-   * pi. Aql A                     HD 187259                       ** STF 2583A                  
-   CCDM J19487+1149A               BD+11 3994A                     WDS J19487+1149A              
-   TYC 1066-3553-2                 uvby98 100187259                Gaia DR2 4304528687797449984  
+Identifiers (10):
+   Gaia DR3 4304528687797449984         * pi. Aql A                          HD 187259                          
+   ** STF 2583A                         CCDM J19487+1149A                    BD+11 3994A                        
+   WDS J19487+1149A                     TYC 1066-3553-2                      uvby98 100187259                   
+   Gaia DR2 4304528687797449984                                                                                 
 
-Bibcodes  1850-2021 () (5):
+Bibcodes  1850-2023 () (5):
   2017AJ....153...16S  2015A&A...580A..23P  1995A&AS..114..269D  1993yCat.3135....0C
   1989JApA...10..433G                                    
 
-Measures (distance:1  MK:1  PLX:1  PM:1  velocities:1  ):
-distance:1MK:1PLX:1PM:1velocities:1
+Measures (distance:2  MK:1  PLX:2  PM:2  velocities:1  ):
+distance:2MK:1PLX:2PM:2velocities:1
 
 Notes (0) :
 

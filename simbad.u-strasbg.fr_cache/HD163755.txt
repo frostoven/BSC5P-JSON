@@ -1,9 +1,9 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:59:07
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:40:12
 
 HD163755
 --------
 
-Object HD 163755  ---  *  ---  OID=@2419996   (@@54923,12)  ---  coobox=17134
+Object HD 163755  ---  s*r  ---  OID=@2419996   (@@54923,12)  ---  coobox=17134
 
 Coordinates(ICRS,ep=J2000,eq=2000): 17 59 05.281  -30 15 10.88 (Opt ) B [27 27 90] 2002A&A...384..180F
 Coordinates(FK4,ep=B1950,eq=1950): 17 55 52.528  -30 14 59.48 
@@ -21,14 +21,14 @@ Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
 Identifiers (16):
-   CCDM J17591-3015A               CD-30 15035A                    CSI-30 15035 21               
-   GC 24451                        GCRV 10405                      HD 163755                     
-   HR 6693                         IDS 17527-3015 A                NSV 9929                      
-   SKY# 32608                      UBV M 22491                     WDS J17591-3015A              
-   TYC 7378-3132-1                 ** PZ 6A                        PLX 4095.00A                  
-   WEB 14875                                                                                     
+   CCDM J17591-3015A                    CD-30 15035A                         CSI-30 15035 21                    
+   GC 24451                             GCRV 10405                           HD 163755                          
+   HR 6693                              IDS 17527-3015 A                     NSV 9929                           
+   SKY# 32608                           UBV M 22491                          WDS J17591-3015A                   
+   TYC 7378-3132-1                      ** PZ 6A                             PLX 4095.00A                       
+   WEB 14875                                                                                                    
 
-Bibcodes  1850-2021 () (47):
+Bibcodes  1850-2023 () (47):
   2018A&A...618A..67C  2016MNRAS.461.3296N  2014A&A...567A..26L  2013PASP..125.1087J
   2008MNRAS.389..869E  2008MNRAS.391.1629N  2004A&A...427..495L  2002A&A...383..137M
   2002yCat.2237....0D  2001MNRAS.323..663R  1998MNRAS.301.1083S  1997ApJS..112..557K

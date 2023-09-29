@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:53:14
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:34:33
 
 HD23474
 -------
@@ -25,19 +25,20 @@ Morphological type: ~ ~ ~
 Angular size: 0.0033  0.0   91 (Opt )  D 2001AJ....122.3466M
 
 Identifiers (22):
-   TIC 394678798                   2MASS J03363016-7819231         CPC 21.3 396                  
-   CPD-78 105                      FK5 2261                        GC 4400                       
-   GEN# +1.00023474                GSC 09367-00549                 HD 23474                      
-   HIC 16827                       HIP 16827                       HR 1154                       
-   IRAS 03383-7829                 PPM 368108                      SAO 256005                    
-   SKY# 5463                       TYC 9367-549-1                  UBV 3603                      
-   UBV M 9685                      WDS J03365-7819AB               ** HDS 457                    
-   Gaia DR2 4626518194064622208                                                                  
+   HIP 16827                            TIC 394678798                        2MASS J03363016-7819231            
+   CPC 21.3 396                         CPD-78 105                           FK5 2261                           
+   GC 4400                              GEN# +1.00023474                     GSC 09367-00549                    
+   HD 23474                             HIC 16827                            HR 1154                            
+   IRAS 03383-7829                      PPM 368108                           SAO 256005                         
+   SKY# 5463                            TYC 9367-549-1                       UBV 3603                           
+   UBV M 9685                           WDS J03365-7819AB                    ** HDS 457                         
+   Gaia DR2 4626518194064622208                                                                                 
 
-Bibcodes  1850-2021 () (11):
-  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2006AstL...32..759G
-  2002A&A...384..180F  1993yCat.3135....0C  1991VeARI..33....1F  1989PASP..101...45E
-  1989PASP..101..366E  1985A&AS...59...15A  1975MSS...C01....0H            
+Bibcodes  1850-2023 () (13):
+  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2007A&A...474..653V
+  2006AstL...32..759G  2002A&A...384..180F  1997A&A...323L..49P  1993yCat.3135....0C
+  1991VeARI..33....1F  1989PASP..101...45E  1989PASP..101..366E  1985A&AS...59...15A
+  1975MSS...C01....0H                                    
 
 Measures (MK:2  PLX:3  PM:4  velocities:2  ):
 MK:2PLX:3PM:4velocities:2

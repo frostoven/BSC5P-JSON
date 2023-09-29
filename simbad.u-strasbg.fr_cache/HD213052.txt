@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:40:25
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:42:15
 
 HD213052
 --------
@@ -17,7 +17,7 @@ cz: 24.90 [0.90] E 1953GCRV..C......0W
 Flux U : 4.03 [~] C 2002yCat.2237....0D
 Flux B : 4.79 [0.01] C 2002A&A...384..180F
 Flux V : 4.34 [0.01] C 2002A&A...384..180F
-Flux G : 4.1427 [0.0079] C 2018yCat.1345....0G
+Flux G : 4.202941 [0.003807] C 2020yCat.1350....0G
 Flux R : 3.27 [~] C 2002yCat.2237....0D
 Flux I : 3.04 [~] C 2002yCat.2237....0D
 Flux K : 3.10 [~] C 2002yCat.2237....0D
@@ -25,19 +25,19 @@ Spectral type: F2IV/V D 1999MSS...C05....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (29):
-   PLX 5435                        WDS J22288-0001A                * 55 Aqr A                    
-   * zet Aqr A                     * zet02 Aqr                     ADS 15971 A                   
-   BD-00 4365A                     CCDM J22288-0001A               CSI-00 4365 1                 
-   GC 31399                        GCRV 14121                      HD 213052                     
-   HR 8559                         IDS 22237-0032 A                NLTT 53956                    
-   RBS 1865                        ROT 3270                        SAO 146108                    
-   SKY# 42776                      WDS J22288-0001Aa,Ab            WDS J22288-0001Aa,Ac          
-   TYC 5226-1605-1                 ** EBE 1                        ** STF 2909A                  
-   ** TOK 201                      PMSC 22237-0032A                PLX 5435.00A                  
-   WEB 19864                       Gaia DR2 2678143182592080768                                  
+Identifiers (30):
+   Gaia DR3 2678143182592080768         PLX 5435                             WDS J22288-0001A                   
+   * 55 Aqr A                           * zet Aqr A                          * zet02 Aqr                        
+   ADS 15971 A                          BD-00 4365A                          CCDM J22288-0001A                  
+   CSI-00 4365 1                        GC 31399                             GCRV 14121                         
+   HD 213052                            HR 8559                              IDS 22237-0032 A                   
+   NLTT 53956                           RBS 1865                             ROT 3270                           
+   SAO 146108                           SKY# 42776                           WDS J22288-0001Aa,Ab               
+   WDS J22288-0001Aa,Ac                 TYC 5226-1605-1                      ** EBE 1                           
+   ** STF 2909A                         ** TOK 201                           PMSC 22237-0032A                   
+   PLX 5435.00A                         WEB 19864                            Gaia DR2 2678143182592080768       
 
-Bibcodes  1850-2021 () (120):
+Bibcodes  1850-2023 () (120):
   2021MNRAS.504.3730C  2017AJ....153...16S  2017ApJ...844..103T  2016ApJ...826..171G
   2016ApJ...831..151T  2013AJ....146...56M  2012A&A...546A..69M  2012AJ....143...42H
   2011A&A...530A.138C  2011AJ....141..157M  2011AJ....142...46M  2009ApJS..184..138H

@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:35:09
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:33:13
 
 HD206330
 --------
 
 Object * 75 Cyg  ---  **  ---  OID=@14747   (@@9892,11)  ---  coobox=134
 
-Coordinates(ICRS,ep=J2000,eq=2000): 21 40 11.1079466463  +43 16 25.816084713 (Opt ) A [0.1407 0.1510 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 21 38 13.1594415447  +43 02 46.205683913
-Coordinates(Gal,ep=J2000,eq=2000): 090.0041318171397  -07.0413496528315
+Coordinates(ICRS,ep=J2000,eq=2000): 21 40 11.1100359936  +43 16 25.815895860 (Opt ) A [0.0596 0.0608 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 21 38 13.1682095315  +43 02 46.204976914
+Coordinates(Gal,ep=J2000,eq=2000): 090.0041365548992  -07.0413539036477
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 62.366 15.488 [0.322 0.306 90] A 2018yCat.1345....0G
-Parallax: 7.5210 [0.1706] A 2018yCat.1345....0G
+Proper motions: 60.900 15.491 [0.082 0.077 90] A 2020yCat.1350....0G
+Parallax: 7.3395 [0.0832] A 2020yCat.1350....0G
 Radial Velocity: -29.25 [0.14] A 2018yCat.1345....0G
 Redshift: -0.000098 [0.000000] A 2018yCat.1345....0G
 cz: -29.25 [0.14] A 2018yCat.1345....0G
 Flux B : 6.682 [0.015] D 2000A&A...355L..27H
 Flux V : 5.086 [0.009] D 2000A&A...355L..27H
-Flux G : 4.2812 [0.0030] C 2018yCat.1345....0G
+Flux G : 4.358688 [0.002903] C 2020yCat.1350....0G
 Flux J : 2.138 [0.242] D 2003yCat.2246....0C
 Flux H : 1.226 [0.164] D 2003yCat.2246....0C
 Flux K : 1.083 [0.186] D 2003yCat.2246....0C
@@ -24,28 +24,29 @@ Spectral type: M1IIIab B 1989ApJS...71..245K
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (40):
-   TIC 190479087                   PLX 5230                        * 75 Cyg                      
-   AAVSO 2136+42                   ADS 15208 AB                    AG+43 2016                    
-   BD+42 4177                      CCDM J21401+4316AB              CSI+42 4177 1                 
-   CSV 102118                      DO 39909                        FK5 3730                      
-   GC 30338                        GCRV 13616                      GSC 03196-02204               
-   HD 206330                       HIC 106999                      HIP 106999                    
-   HR 8284                         IRAS 21382+4302                 IRC +40488                    
-   NSV 13834                       PPM 61846                       RAFGL 2788                    
-   SAO 51167                       SKY# 41308                      SV* ZI 2035                   
-   TYC 3196-2204-1                 UBV 18621                       UBV M 25867                   
-   [DS98] 308                      2MASS J21401111+4316260         PLX 5230.00                   
-   WDS J21402+4316AB               IDS 21363+4249                  ** AC 20                      
-   ** STT 4221AB                   WEB 19333                       Gaia DR2 1966944805097205120  
-   GEN# +1.00206330                                                                              
+Identifiers (41):
+   Gaia DR3 1966944805097205120         IDS 21363+4249 AB                    TIC 190479087                      
+   PLX 5230                             * 75 Cyg                             AAVSO 2136+42                      
+   ADS 15208 AB                         AG+43 2016                           BD+42 4177                         
+   CCDM J21401+4316AB                   CSI+42 4177 1                        CSV 102118                         
+   DO 39909                             FK5 3730                             GC 30338                           
+   GCRV 13616                           GSC 03196-02204                      HD 206330                          
+   HIC 106999                           HIP 106999                           HR 8284                            
+   IRAS 21382+4302                      IRC +40488                           NSV 13834                          
+   PPM 61846                            RAFGL 2788                           SAO 51167                          
+   SKY# 41308                           SV* ZI 2035                          TYC 3196-2204-1                    
+   UBV 18621                            UBV M 25867                          [DS98] 308                         
+   2MASS J21401111+4316260              PLX 5230.00                          WDS J21402+4316AB                  
+   ** AC 20                             ** STT 4221AB                        WEB 19333                          
+   Gaia DR2 1966944805097205120         GEN# +1.00206330                                                        
 
-Bibcodes  1850-2021 () (62):
-  2019A&A...623A..72K  2019A&A...631A.145D  2019MNRAS.490.3158C  2015PASP..127.1010W
-  2013AJ....146..148M  2010A&A...514A...2I  2010ApJS..190..203P  2009A&A...498..627F
-  2008JAVSO..36..127B  2008MNRAS.389..869E  2006AstL...32..759G  2005A&A...430..165F
-  2003A&A...397..997P  2003AJ....125.1480A  2003AJ....125.3265M  2003ApJ...599.1139F
-  1999ApJS..123..283M  1998KFNT...14c.274K  1998NewA....3..137D  1997ApJS..111..445W
+Bibcodes  1850-2023 () (66):
+  2021ApJS..254...42B  2020A&A...633A..34C  2019A&A...623A..72K  2019A&A...631A.145D
+  2019MNRAS.490.3158C  2015PASP..127.1010W  2013AJ....146..148M  2010A&A...514A...2I
+  2010ApJS..190..203P  2009A&A...498..627F  2008JAVSO..36..127B  2008MNRAS.389..869E
+  2007A&A...474..653V  2006AstL...32..759G  2005A&A...430..165F  2003A&A...397..997P
+  2003AJ....125.1480A  2003AJ....125.3265M  2003ApJ...599.1139F  1999ApJS..123..283M
+  1998KFNT...14c.274K  1998NewA....3..137D  1997A&A...323L..49P  1997ApJS..111..445W
   1997ApJS..112..557K  1996PASP..108..139P  1995A&AS..114..269D  1995ApJ...439..623S
   1995GCTP..C......0V  1995IBVS.4207....1M  1994A&AS..108..359G  1994PASP..106..611P
   1993yCat.3135....0C  1992AJ....104..275E  1991PPMtO..10..214Y  1991VeARI..33....1F
@@ -58,8 +59,8 @@ Bibcodes  1850-2021 () (62):
   1966MNRAS.133...99S  1966MNRAS.133..475A  1954AJ.....59..228E  1954AJ.....59..396B
   1953GCRV..C......0W  1926ApJ....64..225A                        
 
-Measures (distance:1  MK:4  PLX:4  PM:5  V*:1  velocities:10  ):
-distance:1MK:4PLX:4PM:5V*:1velocities:10
+Measures (distance:2  Fe_H:1  MK:4  PLX:5  PM:6  V*:1  velocities:10  ):
+distance:2Fe_H:1MK:4PLX:5PM:6V*:1velocities:10
 
 Notes (0) :
 

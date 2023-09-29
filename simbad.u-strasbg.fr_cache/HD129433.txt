@@ -1,54 +1,56 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:35:24
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:59:05
 
 HD129433
 --------
 
-Object * 4 Lib  ---  *  ---  OID=@2297848   (@@48159,12)  ---  coobox=16249
+Object * 4 Lib  ---  Be*  ---  OID=@2297848   (@@48159,12)  ---  coobox=16249
 
-Coordinates(ICRS,ep=J2000,eq=2000): 14 43 13.5512983361  -24 59 51.905204367 (Opt ) A [0.1276 0.0827 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 14 40 19.7508457572  -24 47 08.579473848
-Coordinates(Gal,ep=J2000,eq=2000): 332.7483373253211  +31.3228962744515
+Coordinates(ICRS,ep=J2000,eq=2000): 14 43 13.5512958192  -24 59 51.911632968 (Opt ) A [0.0587 0.0557 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 14 40 19.7509061414  -24 47 08.606355532
+Coordinates(Gal,ep=J2000,eq=2000): 332.7483362949545  +31.3228947206955
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -22.481 -9.307 [0.251 0.168 90] A 2018yCat.1345....0G
-Parallax: 6.4381 [0.1186] A 2018yCat.1345....0G
+Proper motions: -22.500 -8.898 [0.075 0.068 90] A 2020yCat.1350....0G
+Parallax: 6.904 [0.0601] A 2020yCat.1350....0G
 Radial Velocity: -4.2 [2] E 1953GCRV..C......0W
 Redshift: -0.000014 [0.000007] E 1953GCRV..C......0W
 cz: -4.20 [2.00] E 1953GCRV..C......0W
-Flux B : 5.72 [~] E ~                  
+Flux B : 5.69 [0.01] D 2000A&A...355L..27H
 Flux V : 5.73 [~] E ~                  
-Flux G : 5.6683 [0.0021] C 2018yCat.1345....0G
+Flux G : 5.683555 [0.002948] C 2020yCat.1350....0G
 Flux I : 5.82 [0.03] D 2007ApJ...665..512A
 Flux J : 5.623 [0.019] C 2003yCat.2246....0C
 Flux H : 5.609 [0.040] C 2003yCat.2246....0C
 Flux K : 5.573 [0.021] C 2003yCat.2246....0C
-Spectral type: B9.5V C 1988MSS...C04....0H
+Spectral type: A0IVe C 2018A&A...609A.108S
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (24):
-   TIC 58487                       * 4 Lib                         CD-24 11637                   
-   CPD-24 5364                     GC 19812                        GCRV 8549                     
-   GEN# +1.00129433                HD 129433                       HIC 71974                     
-   HIP 71974                       HR 5484                         PPM 263299                    
-   SAO 182795                      SKY# 26747                      TD1 17645                     
-   UBV 12814                       UBV M 20317                     YZ 114 10576                  
-   uvby98 100129433                2MASS J14431354-2459520         TYC 6750-1742-1               
-   WEB 12390                       Gaia DR2 6229718121452673408    * 53 Hya                      
+Identifiers (25):
+   HIP 71974                            Gaia DR3 6229718121452673408         TIC 58487                          
+   * 4 Lib                              CD-24 11637                          CPD-24 5364                        
+   GC 19812                             GCRV 8549                            GEN# +1.00129433                   
+   HD 129433                            HIC 71974                            HR 5484                            
+   PPM 263299                           SAO 182795                           SKY# 26747                         
+   TD1 17645                            UBV 12814                            UBV M 20317                        
+   YZ 114 10576                         uvby98 100129433                     2MASS J14431354-2459520            
+   TYC 6750-1742-1                      WEB 12390                            Gaia DR2 6229718121452673408       
+   * 53 Hya                                                                                                     
 
-Bibcodes  1850-2021 () (37):
-  2019A&A...623A..72K  2019MNRAS.483..299G  2019MNRAS.490.3158C  2018A&A...609A.108S
-  2016A&A...591A.118S  2016AJ....152...40G  2015A&A...580A..23P  2015MNRAS.449.3651M
-  2012A&A...537A.120Z  2012A&A...546A..61D  2012AstL...38..694G  2012MNRAS.427..343M
-  2008MNRAS.389..869E  2007A&A...463..671R  2007ApJ...665..512A  2006AstL...32..759G
-  2004AcA....54...87W  2003AJ....126..385C  2002ApJ...573..359A  2001A&A...372L..61M
-  1998A&AS..129..431H  1996A&AS..118..481B  1996ApJ...457..764D  1996PASP..108..833H
+Bibcodes  1850-2023 () (41):
+  2021ApJS..254...42B  2019A&A...623A..72K  2019MNRAS.483..299G  2019MNRAS.490.3158C
+  2018A&A...609A.108S  2018A&A...620A.172Z  2016A&A...591A.118S  2016AJ....152...40G
+  2015A&A...580A..23P  2015MNRAS.449.3651M  2012A&A...537A.120Z  2012A&A...546A..61D
+  2012AstL...38..694G  2012MNRAS.427..343M  2008MNRAS.389..869E  2007A&A...463..671R
+  2007A&A...474..653V  2007ApJ...665..512A  2006AstL...32..759G  2004AcA....54...87W
+  2003AJ....126..385C  2002ApJ...573..359A  2001A&A...372L..61M  1998A&AS..129..431H
+  1997A&A...323L..49P  1996A&AS..118..481B  1996ApJ...457..764D  1996PASP..108..833H
   1995A&AS..114..269D  1993Ap&SS.203...53H  1993PASP..105.1127G  1993yCat.3135....0C
   1992ApJS...82..117S  1991AJ....102..589S  1988MSS...C04....0H  1985A&AS...60...99W
   1977A&AS...27..443G  1977PASP...89..187E  1972MNRAS.160..155S  1963ApJ...137..530C
   1953GCRV..C......0W                                    
 
-Measures (distance:1  Fe_H:1  MK:2  PLX:3  PM:4  ROT:2  velocities:4  ):
-distance:1Fe_H:1MK:2PLX:3PM:4ROT:2velocities:4
+Measures (distance:2  Fe_H:2  MK:4  PLX:4  PM:5  ROT:3  velocities:4  ):
+distance:2Fe_H:2MK:4PLX:4PM:5ROT:3velocities:4
 
 Notes (0) :
 

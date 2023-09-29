@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST02:37:35
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:21:35
 
 HD98231
 -------
@@ -9,32 +9,33 @@ Coordinates(ICRS,ep=J2000,eq=2000): 11 18 10.901164  +31 31 44.97910 (Opt ) B [4
 Coordinates(FK4,ep=B1950,eq=1950): 11 15 31.212694  +31 48 38.90721
 Coordinates(Gal,ep=J2000,eq=2000): 195.107240177  +69.246100833
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: -453.7 -591.4 [4.4 4.1 90] B 2000A&A...355L..27H
+Proper motions: -453.7 -591.4 [4.4 4.1 90] B 2002A&A...384..180F
 Parallax: ~ [~] ~ ~                  
-Radial Velocity: -15.5 [0.9] E 1953GCRV..C......0W
-Redshift: -0.000052 [0.000003] E 1953GCRV..C......0W
-cz: -15.50 [0.90] E 1953GCRV..C......0W
+Radial Velocity: -26.78 [2.09] C 2022yCat.1355....0G
+Redshift: -0.000089 [0.000007] C 2022yCat.1355....0G
+cz: -26.78 [2.09] C 2022yCat.1355....0G
 Flux B : 4.79 [0.01] D 2002A&A...384..180F
 Flux V : 4.25 [0.01] D 2002A&A...384..180F
-Flux G : 4.0172 [0.0057] C 2018yCat.1345....0G
+Flux G : 4.127460 [0.003759] C 2022yCat.1355....0G
 Spectral type: F8.5:V C 1989ApJS...71..245K
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (28):
-   WDS J11182+3132A                * ksi UMa A                     * 53 UMa A                    
-   ADS 8119 A                      BD+32 2132A                     CCDM J11182+3132A             
-   CSI+32 2132 1                   GCRV 6920                       GJ 423 A                      
-   HD 98231                        HR 4375                         IDS 11128+3206 A              
-   LFT 790                         LHS 2390                        LTT 13045                     
-   NLTT 26920                      ROT 1680                        SBC7 428                      
-   TYC 2520-2634-1                 Zkh 153                         SBC9 668                      
-   ** STF 1523A                    PMSC 11128+3205A                PMSC 11128+3205Aab            
-   GJ 423 C                        Gaia DR2 756853643637996672     WEB 9947                      
-   LSPM J1118+3131A                                                                              
+Identifiers (29):
+   Gaia DR3 756853643638639104          WDS J11182+3132A                     * ksi UMa A                        
+   * 53 UMa A                           ADS 8119 A                           BD+32 2132A                        
+   CCDM J11182+3132A                    CSI+32 2132 1                        GCRV 6920                          
+   GJ 423 A                             HD 98231                             HR 4375                            
+   IDS 11128+3206 A                     LFT 790                              LHS 2390                           
+   LTT 13045                            NLTT 26920                           ROT 1680                           
+   SBC7 428                             TYC 2520-2634-1                      Zkh 153                            
+   SBC9 668                             ** STF 1523A                         PMSC 11128+3205A                   
+   PMSC 11128+3205Aab                   GJ 423 C                             Gaia DR2 756853643637996672        
+   WEB 9947                             LSPM J1118+3131A                                                        
 
-Bibcodes  1850-2021 () (305):
-  2021MNRAS.504.3730C  2020ApJS..247...11R  2019MNRAS.483.3510V  2018A&A...616A.108B
+Bibcodes  1850-2023 () (309):
+  2022A&A...659A.104M  2021A&A...650A.201R  2021MNRAS.504.3730C  2020ApJ...898...27S
+  2020ApJS..247...11R  2019MNRAS.483.3510V  2019MNRAS.488.3588Y  2018A&A...616A.108B
   2017ApJ...836..139F  2017ApJ...844..103T  2016A&A...591A.118S  2016ApJ...826..171G
   2016MNRAS.457..836E  2016MNRAS.459.1682F  2015A&A...574A...6A  2015ApJ...809..107F
   2015ApJS..216...24W  2015MNRAS.447..287S  2015MNRAS.449.3160R  2014A&A...561A..36W
@@ -112,8 +113,8 @@ Bibcodes  1850-2021 () (305):
   1950ZA.....27..182G  1931LicOB..15..109B  1918ApJ....47..289P  1917ApJ....46..313A
   1905AN....170..117N                                    
 
-Measures (Fe_H:8  herschel:2  ISO:1  IUE:3  MK:3  PM:3  ROT:2  velocities:9  ):
-Fe_H:8herschel:2ISO:1IUE:3MK:3PM:3ROT:2velocities:9
+Measures (Fe_H:8  herschel:2  ISO:1  IUE:3  MK:3  PM:3  ROT:2  velocities:10  ):
+Fe_H:8herschel:2ISO:1IUE:3MK:3PM:3ROT:2velocities:10
 
 Notes (1) :
 (S) 20-Nov-2013 - cl    ref:~    obj:GJ 423 A

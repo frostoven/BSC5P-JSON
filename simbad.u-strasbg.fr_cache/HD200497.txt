@@ -1,38 +1,38 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:23:53
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:25:47
 
 HD200497
 --------
 
 Object * 12 Aqr A  ---  **  ---  OID=@1340447   (@@90557,1)  ---  coobox=8516
 
-Coordinates(ICRS,ep=J2000,eq=2000): 21 04 04.7263858663  -05 49 23.076094277 (Opt ) A [0.5015 0.4481 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 21 01 26.0688694407  -06 01 20.111857702
-Coordinates(Gal,ep=J2000,eq=2000): 043.6630499964156  -32.0431843271771
+Coordinates(ICRS,ep=J2000,eq=2000): 21 04 04.7243913096  -05 49 23.014627536 (Opt ) A [0.2588 0.2232 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 21 01 26.0591318699  -06 01 19.860542688
+Coordinates(Gal,ep=J2000,eq=2000): 043.6630630496555  -32.0431689175618
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: 11.174 -3.435 [0.889 0.830 90] A 2018yCat.1345....0G
-Parallax: 10.0081 [0.5543] A 2018yCat.1345....0G
+Proper motions: 13.501 -7.222 [0.343 0.296 90] A 2020yCat.1350....0G
+Parallax: 5.4597 [0.3171] A 2020yCat.1350....0G
 Radial Velocity: 2.24 [0.18] A 2018yCat.1345....0G
 Redshift: 0.000007 [0.000001] A 2018yCat.1345....0G
 cz: 2.24 [0.18] A 2018yCat.1345....0G
 Flux B : 6.71 [0.01] C 2002A&A...384..180F
 Flux V : 5.80 [0.01] C 2002A&A...384..180F
-Flux G : 5.4572 [0.0026] C 2018yCat.1345....0G
+Flux G : 5.499823 [0.004130] C 2020yCat.1350....0G
 Flux R : 6.88 [0.42] E 2012yCat.1322....0Z
 Spectral type: K0/1III D 1999MSS...C05....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (22):
-   WDS J21041-0549Aa,Ab            * 12 Aqr A                      ADS 14592 A                   
-   BD-06 5664A                     CCDM J21041-0549A               CSI-06 5664 2                 
-   GC 29417                        GCRV 13234                      HD 200497                     
-   HR 8059                         PPM 204770                      SAO 145065                    
-   SKY# 40051                      WDS J21041-0549A                TYC 5204-1584-1               
-   ** MCA 66                       ** STF 2745A                    PMSC 20588-0613A              
-   PMSC 20588-0613Aab              WEB 18938                       UCAC4 421-136870              
-   Gaia DR2 6910418142353215104                                                                  
+Identifiers (23):
+   Gaia DR3 6910418142353215104         WDS J21041-0549Aa,Ab                 * 12 Aqr A                         
+   ADS 14592 A                          BD-06 5664A                          CCDM J21041-0549A                  
+   CSI-06 5664 2                        GC 29417                             GCRV 13234                         
+   HD 200497                            HR 8059                              PPM 204770                         
+   SAO 145065                           SKY# 40051                           WDS J21041-0549A                   
+   TYC 5204-1584-1                      ** MCA 66                            ** STF 2745A                       
+   PMSC 20588-0613A                     PMSC 20588-0613Aab                   WEB 18938                          
+   UCAC4 421-136870                     Gaia DR2 6910418142353215104                                            
 
-Bibcodes  1850-2021 () (47):
+Bibcodes  1850-2023 () (47):
   2015A&A...580A..23P  2014A&A...561A.126D  2014A&A...567A..26L  2013A&A...551L...8P
   2013AJ....146...56M  2012AJ....143..124M  2010PASP..122.1483T  2009AJ....137.3358M
   2008MNRAS.389..869E  2002A&A...382..118T  2000AJ....120.2638H  2000ApJS..130..201H
@@ -46,8 +46,8 @@ Bibcodes  1850-2021 () (47):
   1980BICDS..19...41H  1978A&AS...31..353V  1976PASP...88...95C  1969AJ.....74..764W
   1956MNRAS.116..248H  1953GCRV..C......0W  1950JO.....33..105M            
 
-Measures (distance:1  MK:5  PLX:1  PM:2  velocities:12  ):
-distance:1MK:5PLX:1PM:2velocities:12
+Measures (distance:2  MK:5  PLX:2  PM:3  velocities:12  ):
+distance:2MK:5PLX:2PM:3velocities:12
 
 Notes (0) :
 

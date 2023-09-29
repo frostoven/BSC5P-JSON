@@ -1,23 +1,23 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:19:19
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:23:22
 
 HD99945
 -------
 
 Object HD 99945  ---  PM*  ---  OID=@379166   (@@5271,12)  ---  coobox=3092
 
-Coordinates(ICRS,ep=J2000,eq=2000): 11 31 50.5342882667  +81 07 38.129034185 (Opt ) A [0.0455 0.0393 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 11 28 23.4464557675  +81 24 09.876177972
-Coordinates(Gal,ep=J2000,eq=2000): 126.6256003401866  +35.4226528688404
+Coordinates(ICRS,ep=J2000,eq=2000): 11 31 50.5332597888  +81 07 38.125032312 (Opt ) A [0.0189 0.0184 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 11 28 23.4417456746  +81 24 09.858833827
+Coordinates(Gal,ep=J2000,eq=2000): 126.6256016002547  +35.4226536551168
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -144.542 33.732 [0.090 0.083 90] A 2018yCat.1345....0G
-Parallax: 16.4615 [0.0408] A 2018yCat.1345....0G
+Proper motions: -144.377 33.998 [0.026 0.026 90] A 2020yCat.1350....0G
+Parallax: 16.5175 [0.0212] A 2020yCat.1350....0G
 Radial Velocity: 3.2 [2] E 1953GCRV..C......0W
 Redshift: 0.000011 [0.000007] E 1953GCRV..C......0W
 cz: 3.20 [2.00] E 1953GCRV..C......0W
 Flux U : 6.480 [0.010] C 1991A&AS...89..415O
 Flux B : 6.360 [0.007] C 1991A&AS...89..415O
 Flux V : 6.110 [0.009] C 1991A&AS...89..415O
-Flux G : 6.0703 [0.0005] C 2018yCat.1345....0G
+Flux G : 6.085317 [0.002773] C 2020yCat.1350....0G
 Flux J : 5.655 [0.026] C 2003yCat.2246....0C
 Flux H : 5.604 [0.018] C 2003yCat.2246....0C
 Flux K : 5.560 [0.021] C 2003yCat.2246....0C
@@ -25,35 +25,37 @@ Spectral type: kA2hF1mF0 D 1995ApJS...99..135A
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (31):
-   TIC 156168580                   2MASS J11315059+8107379         PLX 2656                      
-   LSPM J1131+8107                 ASCC 33631                      AG+81 339                     
-   BD+81 373                       FK5 3956                        GC 15795                      
-   GCRV 7010                       GEN# +1.00099945                GSC 04555-01515               
-   HD 99945                        HIC 56253                       HIP 56253                     
-   HR 4429                         N30 2697                        NSV 5230                      
-   PMC 90-93 1491                  PPM 1983                        SAO 1884                      
-   SKY# 21876                      TD1 15674                       TYC 4555-1515-1               
-   PLX 2656.00                     Gmb 1782                        Renson 28760                  
-   WISE J113149.95+810738.4        uvby98 100099945                WEB 10115                     
-   Gaia DR2 1133448230262547200                                                                  
+Identifiers (33):
+   HIP 56253                            Gaia DR3 1133448230262547200         WISEA J113149.96+810738.5          
+   TIC 156168580                        2MASS J11315059+8107379              PLX 2656                           
+   LSPM J1131+8107                      ASCC 33631                           AG+81 339                          
+   BD+81 373                            FK5 3956                             GC 15795                           
+   GCRV 7010                            GEN# +1.00099945                     GSC 04555-01515                    
+   HD 99945                             HIC 56253                            HR 4429                            
+   N30 2697                             NSV 5230                             PMC 90-93 1491                     
+   PPM 1983                             SAO 1884                             SKY# 21876                         
+   TD1 15674                            TYC 4555-1515-1                      PLX 2656.00                        
+   Gmb 1782                             Renson 28760                         WISE J113149.95+810738.4           
+   uvby98 100099945                     WEB 10115                            Gaia DR2 1133448230262547200       
 
-Bibcodes  1850-2021 () (48):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2017AJ....154..115H  2016ApJ...833..263V
-  2016ApJS..225...15C  2015A&A...580A..23P  2014ApJS..212...10P  2014MNRAS.437.1216D
-  2012A&A...546A..61D  2012ApJ...745..147R  2012MNRAS.427..343M  2009A&A...498..961R
+Bibcodes  1850-2023 () (53):
+  2021A&A...649A...6G  2021ApJS..254...42B  2021RAA....21...60L  2019A&A...623A..72K
+  2019MNRAS.490.3158C  2017AJ....154..115H  2016ApJ...833..263V  2016ApJS..225...15C
+  2015A&A...580A..23P  2014ApJS..212...10P  2014MNRAS.437.1216D  2012A&A...546A..61D
+  2012ApJ...745..147R  2012MNRAS.427..343M  2009A&A...498..961R  2007A&A...474..653V
   2007ApJ...660.1556R  2006AstL...32..759G  2005AJ....129.1483L  2000VeARI..37....1W
-  1998A&AS..129..431H  1998A&AS..132...93A  1997PNAOJ...5....1Y  1996A&AS..115..401J
-  1996BaltA...5...83S  1995A&AS..114..269D  1995ApJS...99..135A  1995GCTP..C......0V
-  1993yCat.3135....0C  1991A&AS...89..415O  1991A&AS...89..429R  1991VeARI..33....1F
-  1989Obs...109....5W  1989VilOB..84....9C  1985AISof...4...40D  1983A&AS...51..245N
-  1983A&AS...52..131O  1981A&A....93..155G  1981BICDS..21...26B  1980A&A....92..289H
-  1980IzKry..62...34D  1976PASP...88..402E  1974RMxAA...1..175M  1973A&AS...10..385H
-  1973AJ.....78..192W  1965JO.....48..211B  1960JO.....43..129B  1959JO.....42...45B
-  1957AJ.....62..343J  1953GCRV..C......0W  1949BAN....11...71D  1912ApJ....36..169P
+  1998A&AS..129..431H  1998A&AS..132...93A  1997A&A...323L..49P  1997PNAOJ...5....1Y
+  1996A&AS..115..401J  1996BaltA...5...83S  1995A&AS..114..269D  1995ApJS...99..135A
+  1995GCTP..C......0V  1993yCat.3135....0C  1991A&AS...89..415O  1991A&AS...89..429R
+  1991VeARI..33....1F  1989Obs...109....5W  1989VilOB..84....9C  1985AISof...4...40D
+  1983A&AS...51..245N  1983A&AS...52..131O  1981A&A....93..155G  1981BICDS..21...26B
+  1980A&A....92..289H  1980IzKry..62...34D  1976PASP...88..402E  1974RMxAA...1..175M
+  1973A&AS...10..385H  1973AJ.....78..192W  1965JO.....48..211B  1960JO.....43..129B
+  1959JO.....42...45B  1957AJ.....62..343J  1953GCRV..C......0W  1949BAN....11...71D
+  1912ApJ....36..169P                                    
 
-Measures (diameter:1  distance:1  herschel:2  MK:5  PLX:4  PM:7  V*:1  velocities:5  ):
-diameter:1distance:1herschel:2MK:5PLX:4PM:7V*:1velocities:5
+Measures (diameter:1  distance:2  herschel:2  MK:5  PLX:5  PM:8  V*:1  velocities:5  ):
+diameter:1distance:2herschel:2MK:5PLX:5PM:8V*:1velocities:5
 
 Notes (0) :
 

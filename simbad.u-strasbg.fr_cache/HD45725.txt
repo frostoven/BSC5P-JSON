@@ -1,42 +1,44 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:59:19
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST07:14:05
 
 HD45725
 -------
 
 Object * bet Mon A  ---  Be*  ---  OID=@6341820   (@@-1,255)  ---  coobox=7219
 
-Coordinates(ICRS,ep=J2000,eq=2000): 06 28 49.0688084600  -07 01 59.016107399 (Opt ) A [0.1992 0.2209 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 06 26 23.5133387839  -06 59 58.495353570
-Coordinates(Gal,ep=J2000,eq=2000): 216.6613780280594  -08.2139502444282
+Coordinates(ICRS,ep=J2000,eq=2000): 06 28 49.0704018024  -07 01 59.013827328 (Opt ) A [0.0843 0.0893 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 06 26 23.5199772304  -06 59 58.487643042
+Coordinates(Gal,ep=J2000,eq=2000): 216.6613804272034  -08.2139440656501
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: -5.015 -2.857 [0.389 0.466 90] A 2018yCat.1345....0G
-Parallax: 5.2153 [0.2539] A 2018yCat.1345....0G
+Proper motions: -6.518 -2.956 [0.117 0.109 90] A 2020yCat.1350....0G
+Parallax: 4.7209 [0.1133] A 2020yCat.1350....0G
 Radial Velocity: 20 [5] C 1979IAUS...30...57E
 Redshift: 0.000067 [0.000017] C 1979IAUS...30...57E
 cz: 20.00 [5.00] C 1979IAUS...30...57E
 Flux U : 3.87 [~] C 2002yCat.2237....0D
 Flux B : 4.50 [~] C 2002yCat.2237....0D
 Flux V : 4.60 [~] C 2002yCat.2237....0D
-Flux G : 4.5239 [0.0046] C 2018yCat.1345....0G
+Flux G : 4.539529 [0.003541] C 2020yCat.1350....0G
 Flux K : 4.03 [~] C 2002yCat.2237....0D
 Spectral type: B4Veshell C 1982ApJS...50...55S
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (29):
-   TYC 4797-1880-1                 * bet01 Mon                     BD-06 1574                    
-   CEL 1259                        EM* MWC 143                     GC 8412                       
-   GCRV 4137                       HD 45725                        HERZ 743                      
-   NSV 2977                        ROT 1045                        SAO 133316                    
-   SKY# 11157                      UBV 6464                        UBV M 12137                   
-   [JE82] 223                      HR 2356                         * 11 Mon A                    
-   * bet Mon A                     ADS 5107 A                      CCDM J06288-0702A             
-   CSI-06 1574 1                   GEN# +1.00045725A               WDS J06288-0702A              
-   V* bet Mon                      ** STF 919A                     PMSC 06240-0658A              
-   WEB 6150                        Gaia DR2 3006953165675574272                                  
+Identifiers (31):
+   Gaia DR3 3006953165675574272         TIC 709917565                        TYC 4797-1880-1                    
+   * bet01 Mon                          BD-06 1574                           CEL 1259                           
+   EM* MWC 143                          GC 8412                              GCRV 4137                          
+   HD 45725                             HERZ 743                             NSV 2977                           
+   ROT 1045                             SAO 133316                           SKY# 11157                         
+   UBV 6464                             UBV M 12137                          [JE82] 223                         
+   HR 2356                              * 11 Mon A                           * bet Mon A                        
+   ADS 5107 A                           CCDM J06288-0702A                    CSI-06 1574 1                      
+   GEN# +1.00045725A                    WDS J06288-0702A                     V* bet Mon                         
+   ** STF 919A                          PMSC 06240-0658A                     WEB 6150                           
+   Gaia DR2 3006953165675574272                                                                                 
 
-Bibcodes  1850-2021 () (241):
-  2021MNRAS.500.3926B  2019A&A...621A.123C  2019ApJ...885..147K  2019RAA....19...74V
+Bibcodes  1850-2023 () (245):
+  2022AJ....163..226L  2022MNRAS.511.4404S  2022MNRAS.516.4844V  2021MNRAS.500.3926B
+  2019A&A...621A.123C  2019ApJ...885..147K  2019RAA....19...74V  2018A&A...620A.172Z
   2018AJ....155...30B  2018ApJ...853..156W  2018MNRAS.474.5287A  2017A&A...601A..74K
   2017ApJ...842...48A  2017MNRAS.471.3398A  2016A&A...591A.118S  2016A&A...595A.132Z
   2016MNRAS.456....2W  2016MNRAS.463.1162C  2015A&A...580A..23P  2015ApJS..217...29B
@@ -98,8 +100,8 @@ Bibcodes  1850-2021 () (241):
   1930MmMtS...2....0R  1926ApJ....64....1F  1925ApJ....61..389M  1925ApJ....62..434S
   1895ApJ.....2..177C                                    
 
-Measures (distance:2  Fe_H:1  IUE:6  MK:7  PLX:1  PM:2  ROT:4  velocities:9  ):
-distance:2Fe_H:1IUE:6MK:7PLX:1PM:2ROT:4velocities:9
+Measures (distance:3  Fe_H:2  IUE:6  MK:8  PLX:2  PM:3  ROT:5  velocities:7  ):
+distance:3Fe_H:2IUE:6MK:8PLX:2PM:3ROT:5velocities:7
 
 Notes (0) :
 

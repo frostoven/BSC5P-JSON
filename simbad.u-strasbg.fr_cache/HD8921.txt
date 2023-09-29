@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:49:37
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:10:35
 
 HD8921
 ------
@@ -22,20 +22,21 @@ Spectral type: K3III C 1999MSS...C05....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (25):
-   TIC 299135660                   ADS 1162 AB                     BD-11 272                     
-   CCDM J01278-1054AB              GC 1769                         GR* 124                       
-   GSC 05274-01771                 HD 8921                         HIC 6822                      
-   HIP 6822                        HR 425                          IDS 01228-1125 AB             
-   IRAS 01252-1109                 PPM 210214                      SAO 147819                    
-   SKY# 2208                       SRS 3814                        UBV M 8203                    
-   YZC 11 309                      2MASS J01274652-1054058         WDS J01278-1054AB             
-   ** BU 399AB                     GEN# +1.00008921                UCAC4 396-001746              
-   WISE J012746.58-105405.3                                                                      
+Identifiers (26):
+   HIP 6822                             WISEA J012746.69-105405.7            TIC 299135660                      
+   ADS 1162 AB                          BD-11 272                            CCDM J01278-1054AB                 
+   GC 1769                              GR* 124                              GSC 05274-01771                    
+   HD 8921                              HIC 6822                             HR 425                             
+   IDS 01228-1125 AB                    IRAS 01252-1109                      PPM 210214                         
+   SAO 147819                           SKY# 2208                            SRS 3814                           
+   UBV M 8203                           YZC 11 309                           2MASS J01274652-1054058            
+   WDS J01278-1054AB                    ** BU 399AB                          GEN# +1.00008921                   
+   UCAC4 396-001746                     WISE J012746.58-105405.3                                                
 
-Bibcodes  1850-2021 () (17):
-  2019A&A...623A..72K  2012A&A...546A..61D  2000A&A...356..141F  2000PASP..112.1320S
-  1999MSS...C05....0H  1998A&AS..127..251H  1993yCat.3135....0C  1989PASP..101...45E
+Bibcodes  1850-2023 () (21):
+  2023AJ....165...70C  2021ApJS..254...42B  2019A&A...623A..72K  2012A&A...546A..61D
+  2007A&A...474..653V  2000A&A...356..141F  2000PASP..112.1320S  1999MSS...C05....0H
+  1998A&AS..127..251H  1997A&A...323L..49P  1993yCat.3135....0C  1989PASP..101...45E
   1989PASP..101..366E  1987A&AS...68..259H  1986ApJS...62..147B  1985ApJS...59...95A
   1980ApJS...44..111H  1980LowOB...8..157G  1980PASP...92..713B  1975LowOB...8....9G
   1967AJ.....72..957W                                    

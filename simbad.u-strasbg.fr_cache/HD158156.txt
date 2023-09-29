@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:54:08
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:33:22
 
 HD158156
 --------
@@ -8,14 +8,13 @@ Object HD 158156  ---  **  ---  OID=@2346945   (@@53486,0)  ---  coobox=17048
 Coordinates(ICRS,ep=J2000,eq=2000): 17 29 25.61554  -38 31 00.9203 (Opt ) A [7.91 5.01 90] 2007A&A...474..653V
 Coordinates(FK4,ep=B1950,eq=1950): 17 25 59.10876  -38 28 40.5301
 Coordinates(Gal,ep=J2000,eq=2000): 350.10839762  -02.29613662 
-hierarchy counts: #parents=0, #children=0, #siblings=0
+hierarchy counts: #parents=0, #children=2, #siblings=0
 Proper motions: 24.27 8.81 [0.90 0.57 0] A 2007A&A...474..653V
 Parallax: 8.51 [0.79] A 2007A&A...474..653V
 Radial Velocity: 7.70 [~] D 2007AN....328..889K
 Redshift: 0.000026 [~] D 2007AN....328..889K
 cz: 7.70 [~] D 2007AN....328..889K
-Flux B : 6.496 [0.015] D 2000A&A...355L..27H
-Flux V : 6.402 [0.010] D 2000A&A...355L..27H
+Flux G : 6.799346 [0.018505] C 2020yCat.1350....0G
 Flux J : 6.196 [0.020] C 2003yCat.2246....0C
 Flux H : 6.183 [0.040] C 2003yCat.2246....0C
 Flux K : 6.118 [0.020] C 2003yCat.2246....0C
@@ -23,34 +22,32 @@ Spectral type: A1V C 1982MSS...C03....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (31):
-   TIC 389069291                   CCDM J17294-3831AB              CD-38 11927                   
-   CPC 18 8749                     CPD-38 6862                     GC 23673                      
-   GCRV 67093                      GEN# +1.00158156J               GSC 07883-00469               
-   HD 158156                       HIC 85589                       HIP 85589                     
-   HR 6503                         IDS 17226-3826 AB               PPM 296399                    
-   SAO 208870                      SKY# 31566                      TD1 20463                     
-   TYC 7883-469-1                  UBV 14889                       UBV M 22199                   
-   [SC95] ZET 428                  [SC96] GC 82                    [SC96] Mis 482                
-   2MASS J17292563-3831010         WDS J17294-3831AB               UCAC2 15352000                
-   ** B 342                        ** B 342AB                      uvby98 100158156              
-   WEB 14447                                                                                     
+Identifiers (32):
+   HIP 85589                            Gaia DR3 5962029684873161088         WISE J172925.63-383100.9           
+   UCAC4 258-124019                     Gaia DR2 5962029684873161088         TIC 389069291                      
+   CCDM J17294-3831AB                   CD-38 11927                          CPC 18 8749                        
+   CPD-38 6862                          GC 23673                             GCRV 67093                         
+   GSC 07883-00469                      HD 158156                            HIC 85589                          
+   HR 6503                              IDS 17226-3826 AB                    PPM 296399                         
+   SAO 208870                           SKY# 31566                           TD1 20463                          
+   UBV 14889                            UBV M 22199                          [SC95] ZET 428                     
+   [SC96] GC 82                         [SC96] Mis 482                       2MASS J17292563-3831010            
+   WDS J17294-3831AB                    UCAC2 15352000                       ** B 342                           
+   uvby98 100158156                     WEB 14447                                                               
 
-Bibcodes  1850-2021 () (25):
+Bibcodes  1850-2023 () (27):
   2019A&A...623A..72K  2015A&A...580A..23P  2012A&A...546A..61D  2012MNRAS.427..343M
-  2010AJ....139..743T  2006AJ....131.1000H  2005MNRAS.363.1111C  2000A&A...356..141F
-  1998A&AS..129..431H  1996AJ....111..936H  1996ApJS..104..101S  1995A&AS..114..269D
-  1995ApJS...96..605S  1993AJ....106..352H  1993yCat.3135....0C  1990A&AS...85..915D
-  1990AJ.....99..965M  1985Afz....22...75R  1983A&AS...53..177A  1982MSS...C03....0H
-  1980A&AS...39..197W  1978A&AS...33...15C  1977A&AS...27..443G  1974PASP...86..907H
-  1973BamVe..10..106S                                    
+  2010AJ....139..743T  2007A&A...474..653V  2006AJ....131.1000H  2005MNRAS.363.1111C
+  2000A&A...356..141F  1998A&AS..129..431H  1997A&A...323L..49P  1996AJ....111..936H
+  1996ApJS..104..101S  1995A&AS..114..269D  1995ApJS...96..605S  1993AJ....106..352H
+  1993yCat.3135....0C  1990A&AS...85..915D  1990AJ.....99..965M  1985Afz....22...75R
+  1983A&AS...53..177A  1982MSS...C03....0H  1980A&AS...39..197W  1978A&AS...33...15C
+  1977A&AS...27..443G  1974PASP...86..907H  1973BamVe..10..106S            
 
 Measures (MK:3  PLX:2  PM:3  velocities:4  ):
 MK:3PLX:2PM:3velocities:4
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 85589 includes the components \object{CCDM J17294-3831AB}
+Notes (0) :
 
 ================================================================================
 

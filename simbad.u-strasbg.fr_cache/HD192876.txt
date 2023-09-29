@@ -1,23 +1,23 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:19:02
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:15:31
 
 HD192876
 --------
 
 Object * alf01 Cap  ---  **  ---  OID=@2577210   (@@61462,7)  ---  coobox=19345
 
-Coordinates(ICRS,ep=J2000,eq=2000): 20 17 38.8690959065  -12 30 29.571594020 (Opt ) A [0.1648 0.1157 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 20 14 52.6555115027  -12 39 51.127078630
-Coordinates(Gal,ep=J2000,eq=2000): 031.0886401180034  -24.7044003311149
+Coordinates(ICRS,ep=J2000,eq=2000): 20 17 38.8691281056  -12 30 29.563869708 (Opt ) A [0.1021 0.0642 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 20 14 52.6558649813  -12 39 51.090425320
+Coordinates(Gal,ep=J2000,eq=2000): 031.0886423293791  -24.7043995663094
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 21.800 2.222 [0.341 0.268 90] A 2018yCat.1345....0G
-Parallax: 3.7417 [0.1990] A 2018yCat.1345....0G
+Proper motions: 21.709 1.643 [0.131 0.080 90] A 2020yCat.1350....0G
+Parallax: 4.0157 [0.1072] A 2020yCat.1350....0G
 Radial Velocity: -25.79 [0.15] D 2015AstL...41..660U
 Redshift: -0.000086 [0.000001] D 2015AstL...41..660U
 cz: -25.79 [0.15] D 2015AstL...41..660U
 Flux U : 6.14 [~] C 2002yCat.2237....0D
 Flux B : 5.34 [~] C 2002yCat.2237....0D
 Flux V : 4.27 [~] C 2002yCat.2237....0D
-Flux G : 3.8688 [0.0035] C 2018yCat.1345....0G
+Flux G : 3.962830 [0.002879] C 2020yCat.1350....0G
 Flux R : 3.49 [~] C 2002yCat.2237....0D
 Flux I : 2.94 [~] C 2002yCat.2237....0D
 Flux J : 2.53 [~] C 2002yCat.2237....0D
@@ -27,34 +27,35 @@ Spectral type: G3Ib C 1988MSS...C04....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (44):
-   TIC 114499457                   PLX 4822                        * 5 Cap                       
-   * alf01 Cap                     ADS 13632 A                     BD-12 5683                    
-   CCDM J20176-1231A               CSI-12 5683 1                   FK5 1527                      
-   GC 28189                        GCRV 12659                      GSC 05748-02598               
-   HD 192876                       HIC 100027                      HIP 100027                    
-   HR 7747                         IRC -10534                      JP11 3205                     
-   N30 4482                        PMC 90-93 1083                  PPM 237206                    
-   ROT 2947                        SAO 163422                      SKY# 38289                    
-   TD1 26402                       TYC 5748-2598-1                 UBV 17550                     
-   UBV M 24682                     YZC 11 7151                     uvby98 100192876              
-   2MASS J20173888-1230295         PLX 4822.00                     IDS 20121-1249 E              
-   WDS J20176-1230Aa,Ab            AKARI-IRC-V1 J2017388-123028    IRAS 20148-1239               
-   WDS J20176-1230A                ** BU 295A                      ** HJ 607A                    
-   ** WZ 15                        NAME Prima Giedi                GEN# +1.00192876              
-   WEB 18009                       Gaia DR2 6880097807840983040                                  
+Identifiers (45):
+   Gaia DR3 6880097807842527232         TIC 114499457                        PLX 4822                           
+   * 5 Cap                              * alf01 Cap                          ADS 13632 A                        
+   BD-12 5683                           CCDM J20176-1231A                    CSI-12 5683 1                      
+   FK5 1527                             GC 28189                             GCRV 12659                         
+   GSC 05748-02598                      HD 192876                            HIC 100027                         
+   HIP 100027                           HR 7747                              IRC -10534                         
+   JP11 3205                            N30 4482                             PMC 90-93 1083                     
+   PPM 237206                           ROT 2947                             SAO 163422                         
+   SKY# 38289                           TD1 26402                            TYC 5748-2598-1                    
+   UBV 17550                            UBV M 24682                          YZC 11 7151                        
+   uvby98 100192876                     2MASS J20173888-1230295              PLX 4822.00                        
+   IDS 20121-1249 E                     WDS J20176-1230Aa,Ab                 AKARI-IRC-V1 J2017388-123028       
+   IRAS 20148-1239                      WDS J20176-1230A                     ** BU 295A                         
+   ** HJ 607A                           ** WZ 15                             NAME Prima Giedi                   
+   GEN# +1.00192876                     WEB 18009                            Gaia DR2 6880097807840983040       
 
-Bibcodes  1850-2021 () (132):
-  2020MNRAS.491..455B  2019A&A...623A..72K  2019MNRAS.483..299G  2016A&A...591A.118S
-  2015A&A...580A..23P  2015AstL...41..660U  2014A&A...567A..26L  2014AJ....147..137L
-  2013A&A...551L...8P  2012A&A...544A..31V  2012MNRAS.427..343M  2011MNRAS.410..190T
-  2011MNRAS.413.1200R  2011MNRAS.414..418P  2010A&A...516A..28V  2010A&A...516A..29V
-  2008MNRAS.389..869E  2007PASP..119..886E  2006A&A...449..655S  2006AstL...32..759G
-  2004A&A...416..641F  2004Ap.....47..305E  2004KFNT...20e.430B  2002A&A...390.1033V
-  2002A&A...395...97D  2002yCat.2237....0D  2001A&A...365..222G  2001A&A...367..371B
-  2001A&A...367..521P  2001AJ....121.2148G  2001AstL...27..156A  2000A&A...356..141F
-  2000A&A...361.1011P  1999A&AS..137..113V  1999KFNT...15c.215K  1998A&AS..129..431H
-  1998AJ....115..605L  1997A&A...323..429B  1997ApJS..112..557K  1997BaltA...6..499B
+Bibcodes  1850-2023 () (136):
+  2021ApJS..254...42B  2021MNRAS.504.3730C  2020MNRAS.491..455B  2019A&A...623A..72K
+  2019MNRAS.483..299G  2016A&A...591A.118S  2015A&A...580A..23P  2015AstL...41..660U
+  2014A&A...567A..26L  2014AJ....147..137L  2013A&A...551L...8P  2012A&A...544A..31V
+  2012MNRAS.427..343M  2011MNRAS.410..190T  2011MNRAS.413.1200R  2011MNRAS.414..418P
+  2010A&A...516A..28V  2010A&A...516A..29V  2008MNRAS.389..869E  2007A&A...474..653V
+  2007PASP..119..886E  2006A&A...449..655S  2006AstL...32..759G  2004A&A...416..641F
+  2004Ap.....47..305E  2004KFNT...20e.430B  2002A&A...390.1033V  2002A&A...395...97D
+  2002yCat.2237....0D  2001A&A...365..222G  2001A&A...367..371B  2001A&A...367..521P
+  2001AJ....121.2148G  2001AstL...27..156A  2000A&A...356..141F  2000A&A...361.1011P
+  1999A&AS..137..113V  1999KFNT...15c.215K  1998A&AS..129..431H  1998AJ....115..605L
+  1997A&A...323..429B  1997A&A...323L..49P  1997ApJS..112..557K  1997BaltA...6..499B
   1997PNAOJ...5....1Y  1996A&A...315..542A  1996BaltA...5..603A  1995A&AS..114..269D
   1995GCTP..C......0V  1994A&AS..107..385T  1994AJ....107..280H  1994PBeiO..24...71L
   1993AJ....106.2516A  1993AJ....106.2524M  1993yCat.3135....0C  1992A&A...259..600A
@@ -79,8 +80,8 @@ Bibcodes  1850-2021 () (132):
   1955ApJ...121..653S  1954ApJ...119..297H  1953ApJ...118...92M  1953GCRV..C......0W
   1952ApJ...115..292S  1951ApJ...113..304B  1950ApJ...112..362M  1919ApJ....50..161L
 
-Measures (distance:1  Fe_H:1  ISO:1  IUE:4  MK:16  PLX:4  PM:5  ROT:2  velocities:11  ):
-distance:1Fe_H:1ISO:1IUE:4MK:16PLX:4PM:5ROT:2velocities:11
+Measures (distance:2  Fe_H:1  ISO:1  IUE:4  MK:16  PLX:5  PM:6  ROT:2  velocities:11  ):
+distance:2Fe_H:1ISO:1IUE:4MK:16PLX:5PM:6ROT:2velocities:11
 
 Notes (0) :
 

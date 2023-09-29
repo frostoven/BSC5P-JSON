@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:39:37
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:40:29
 
 HD211539
 --------
 
 Object * ups Oct  ---  PM*  ---  OID=@3291133   (@@70307,2)  ---  coobox=23561
 
-Coordinates(ICRS,ep=J2000,eq=2000): 22 31 37.5145050142  -85 58 02.107583350 (Opt ) A [0.0404 0.0485 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 22 22 39.4239709393  -86 13 26.665899129
-Coordinates(Gal,ep=J2000,eq=2000): 305.6095775350141  -30.4080369292760
+Coordinates(ICRS,ep=J2000,eq=2000): 22 31 37.5151645344  -85 58 02.110440540 (Opt ) A [0.0310 0.0331 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 22 22 39.4267784463  -86 13 26.677438484
+Coordinates(Gal,ep=J2000,eq=2000): 305.6095768102306  -30.4080364034237
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -37.508 61.259 [0.083 0.090 90] A 2018yCat.1345....0G
-Parallax: 9.5762 [0.0474] A 2018yCat.1345....0G
+Proper motions: -37.556 61.431 [0.042 0.048 90] A 2020yCat.1350....0G
+Parallax: 9.5042 [0.0351] A 2020yCat.1350....0G
 Radial Velocity: 24.20 [0.13] A 2018yCat.1345....0G
 Redshift: 0.000081 [0.000000] A 2018yCat.1345....0G
 cz: 24.20 [0.13] A 2018yCat.1345....0G
 Flux B : 6.787 [0.015] D 2000A&A...355L..27H
 Flux V : 5.752 [0.009] D 2000A&A...355L..27H
-Flux G : 5.4606 [0.0011] C 2018yCat.1345....0G
+Flux G : 5.488357 [0.002797] C 2020yCat.1350....0G
 Flux J : 4.137 [0.276] D 2003yCat.2246....0C
 Flux H : 3.522 [0.274] D 2003yCat.2246....0C
 Flux K : 3.527 [0.278] D 2003yCat.2246....0C
@@ -24,26 +24,27 @@ Spectral type: K0III C 1975MSS...C01....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (23):
-   TIC 424995989                   2MASS J22313763-8558023         FK5 1670                      
-   * ups Oct                       CPC 22 2801                     CPD-86 406                    
-   GC 31327                        GCRV 73035                      GEN# +1.00211539              
-   GSC 09529-00952                 HD 211539                       HIC 111196                    
-   HIP 111196                      HR 8505                         IRAS 22226-8613               
-   N30 4938                        PPM 378733                      SAO 258932                    
-   SKY# 42862                      TYC 9529-952-1                  UBV 19077                     
-   UBV M 26297                     Gaia DR2 6343622857462769792                                  
+Identifiers (24):
+   Gaia DR3 6343622857462769792         TIC 424995989                        2MASS J22313763-8558023            
+   FK5 1670                             * ups Oct                            CPC 22 2801                        
+   CPD-86 406                           GC 31327                             GCRV 73035                         
+   GEN# +1.00211539                     GSC 09529-00952                      HD 211539                          
+   HIC 111196                           HIP 111196                           HR 8505                            
+   IRAS 22226-8613                      N30 4938                             PPM 378733                         
+   SAO 258932                           SKY# 42862                           TYC 9529-952-1                     
+   UBV 19077                            UBV M 26297                          Gaia DR2 6343622857462769792       
 
-Bibcodes  1850-2021 () (22):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2008MNRAS.389..869E  2005A&A...431..773R
-  2005A&A...433.1155M  2004ApJ...609..692P  2001A&A...365..222G  2001A&A...367..521P
-  1999VeARI..35....1W  1997RMxAA..33....3P  1996AJ....112.1595E  1993AJ....106...80E
+Bibcodes  1850-2023 () (26):
+  2022A&A...657A..87O  2021ApJS..254...42B  2019A&A...623A..72K  2019MNRAS.490.3158C
+  2008MNRAS.389..869E  2007A&A...474..653V  2005A&A...431..773R  2005A&A...433.1155M
+  2004ApJ...609..692P  2001A&A...365..222G  2001A&A...367..521P  1999VeARI..35....1W
+  1997A&A...323L..49P  1997RMxAA..33....3P  1996AJ....112.1595E  1993AJ....106...80E
   1993yCat.3135....0C  1992A&AS...95..355C  1991A&AS...90..109C  1990PBeiO..16...18L
   1989ApJ...346..303S  1981AJ.....86..875M  1981SAAOC...6...10D  1975MSS...C01....0H
   1968MmSAI..39..309C  1958MNRAS.118..609B                        
 
-Measures (distance:1  MK:3  PLX:3  PM:5  velocities:4  ):
-distance:1MK:3PLX:3PM:5velocities:4
+Measures (distance:2  Fe_H:1  MK:3  PLX:4  PM:6  velocities:3  ):
+distance:2Fe_H:1MK:3PLX:4PM:6velocities:3
 
 Notes (0) :
 

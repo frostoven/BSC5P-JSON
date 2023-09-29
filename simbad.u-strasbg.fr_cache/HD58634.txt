@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:50:54
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST08:57:02
 
 HD58634
 -------
 
 Object HD 58634  ---  *  ---  OID=@11632552   (@@-1,255)  ---  coobox=7903
 
-Coordinates(ICRS,ep=J2000,eq=2000): 07 24 47.0035534611  -37 17 22.865843133 (Opt ) A [0.0242 0.0321 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 07 23 00.7467948538  -37 11 25.377761861
-Coordinates(Gal,ep=J2000,eq=2000): 249.8674041317738  -09.9970897811433
+Coordinates(ICRS,ep=J2000,eq=2000): 07 24 47.0033480232  -37 17 22.871401368 (Opt ) A [0.0140 0.0176 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 07 23 00.7459484551  -37 11 25.401928230
+Coordinates(Gal,ep=J2000,eq=2000): 249.8674052239805  -09.9970910813765
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: -11.537 25.320 [0.049 0.053 90] A 2018yCat.1345....0G
-Parallax: 5.4168 [0.0343] A 2018yCat.1345....0G
+Proper motions: -11.381 25.691 [0.020 0.024 90] A 2020yCat.1350....0G
+Parallax: 5.5305 [0.0186] A 2020yCat.1350....0G
 Radial Velocity: ~ [~ ~ ] ~ ~                  
 Redshift: ~ [~ ~ ] ~ ~                  
 cz: ~ [~ ~ ] ~ ~                  
 Flux B : 7.11 [0.02] D 2002A&A...384..180F
 Flux V : 6.87 [0.01] D 2002A&A...384..180F
-Flux G : 6.8749 [0.0003] C 2018yCat.1345....0G
+Flux G : 6.891582 [0.002770] C 2020yCat.1350....0G
 Flux R : 6.95 [0.12] E 2012yCat.1322....0Z
 Flux J : 6.448 [0.021] C 2003yCat.2246....0C
 Flux H : 6.334 [0.026] C 2003yCat.2246....0C
@@ -25,23 +25,24 @@ Spectral type: A9IIIb C 1989ApJS...69..301G
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (16):
-   TIC 173139593                   TYC 7116-2738-1                 CCDM J07248-3717B             
-   CD-37 3549B                     CPC 18 3030                     CSI-37 3549 21                
-   GC 9912                         HD 58634                        HR 2842                       
-   IDS 07212-3706 B                SAO 197974                      WDS J07248-3717B              
-   Gaia DR2 5586147890974343296    UCAC4 264-016562                2MASS J07244700-3717228       
-   WISE J072447.00-371722.4                                                                      
+Identifiers (18):
+   Gaia DR3 5586147890974343296         WISEA J072446.99-371722.7            TIC 173139593                      
+   TYC 7116-2738-1                      CCDM J07248-3717B                    CD-37 3549B                        
+   CPC 18 3030                          CSI-37 3549 21                       GC 9912                            
+   HD 58634                             HR 2842                              IDS 07212-3706 B                   
+   SAO 197974                           WDS J07248-3717B                     Gaia DR2 5586147890974343296       
+   UCAC4 264-016562                     2MASS J07244700-3717228              WISE J072447.00-371722.4           
 
-Bibcodes  1850-2021 () (18):
-  2016A&A...591A.118S  2015A&A...580A..23P  2012A&A...537A.120Z  2012A&A...542A.116A
-  2007A&A...463..671R  2007A&A...472.1055S  2002A&A...393..897R  2000IBVS.4969....1A
-  1999IBVS.4659....1K  1998A&A...337..790A  1998A&AS..130..455V  1993yCat.3135....0C
-  1989ApJS...69..301G  1986A&A...155..371H  1984ApJS...55..657C  1983MNRAS.202..761H
-  1982MSS...C03....0H  1980BICDS..19...41H                        
+Bibcodes  1850-2023 () (21):
+  2022MNRAS.516.2080B  2020A&A...638A..59B  2018A&A...620A.172Z  2016A&A...591A.118S
+  2015A&A...580A..23P  2012A&A...537A.120Z  2012A&A...542A.116A  2007A&A...463..671R
+  2007A&A...472.1055S  2002A&A...393..897R  2000IBVS.4969....1A  1999IBVS.4659....1K
+  1998A&A...337..790A  1998A&AS..130..455V  1993yCat.3135....0C  1989ApJS...69..301G
+  1986A&A...155..371H  1984ApJS...55..657C  1983MNRAS.202..761H  1982MSS...C03....0H
+  1980BICDS..19...41H                                    
 
-Measures (distance:1  Fe_H:1  MK:2  PLX:1  PM:2  ROT:2  ):
-distance:1Fe_H:1MK:2PLX:1PM:2ROT:2
+Measures (distance:2  Fe_H:1  MK:2  PLX:2  PM:3  ROT:2  ):
+distance:2Fe_H:1MK:2PLX:2PM:3ROT:2
 
 Notes (0) :
 

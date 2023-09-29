@@ -1,23 +1,23 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:55:52
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:35:38
 
 HD160263
 --------
 
 Object HD 160263  ---  *  ---  OID=@3526425   (@@94085,23)  ---  coobox=22516
 
-Coordinates(ICRS,ep=J2000,eq=2000): 17 41 16.2422185479  -46 55 18.613101509 (Opt ) A [0.1027 0.0825 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 17 37 31.2632812390  -46 53 48.181017494
-Coordinates(Gal,ep=J2000,eq=2000): 344.1305733752780  -08.6183283327341
-hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 10.51 -7.52 [0.43 0.36 0] A 2007A&A...474..653V
-Parallax: 4.5427 [0.1132] A 2018yCat.1345....0G
+Coordinates(ICRS,ep=J2000,eq=2000): 17 41 16.2430825872  -46 55 18.611215428 (Opt ) A [0.0452 0.0371 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 17 37 31.2657537630  -46 53 48.055457560
+Coordinates(Gal,ep=J2000,eq=2000): 344.1305751063012  -08.6183301743355
+hierarchy counts: #parents=1, #children=0, #siblings=0
+Proper motions: 10.198 -9.997 [0.058 0.040 90] A 2020yCat.1350....0G
+Parallax: 4.5829 [0.0567] A 2020yCat.1350....0G
 Radial Velocity: -5.20 [0.6] A 2006AstL...32..759G
 Redshift: -0.000017 [0.000002] A 2006AstL...32..759G
 cz: -5.20 [0.60] A 2006AstL...32..759G
 Flux U : 5.72 [~] C 2002yCat.2237....0D
 Flux B : 5.78 [~] C 2002yCat.2237....0D
 Flux V : 5.79 [~] C 2002yCat.2237....0D
-Flux G : 5.7541 [0.0010] C 2018yCat.1345....0G
+Flux G : 5.767831 [0.002804] C 2020yCat.1350....0G
 Flux J : 5.716 [0.024] C 2003yCat.2246....0C
 Flux H : 5.738 [0.031] C 2003yCat.2246....0C
 Flux K : 5.701 [0.017] C 2003yCat.2246....0C
@@ -25,35 +25,38 @@ Spectral type: A0V C 1978MSS...C02....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (27):
-   TIC 31123761                    CD-46 11747                     CEL 4551                      
-   CPC 0 16540                     CPD-46 8819                     FK5 3404                      
-   GC 23951                        GEN# +1.00160263                GSC 08347-01817               
-   HD 160263                       HIC 86552                       HIP 86552                     
-   HR 6572                         N30 3931                        PPM 323264                    
-   SAO 228279                      SKY# 31952                      TD1 20754                     
-   TYC 8347-1817-1                 UBV 15011                       UBV M 22311                   
-   [CS62] E7 49                    [SC95] ZET 498                  [SC96] Mis 600                
-   uvby98 100160263                2MASS J17411624-4655186         Gaia DR2 5948821316066353152  
+Identifiers (28):
+   HIP 86552                            Gaia DR3 5948821316066353152         TIC 31123761                       
+   CD-46 11747                          CEL 4551                             CPC 0 16540                        
+   CPD-46 8819                          FK5 3404                             GC 23951                           
+   GEN# +1.00160263                     GSC 08347-01817                      HD 160263                          
+   HIC 86552                            HR 6572                              N30 3931                           
+   PPM 323264                           SAO 228279                           SKY# 31952                         
+   TD1 20754                            TYC 8347-1817-1                      UBV 15011                          
+   UBV M 22311                          [CS62] E7 49                         [SC95] ZET 498                     
+   [SC96] Mis 600                       uvby98 100160263                     2MASS J17411624-4655186            
+   Gaia DR2 5948821316066353152                                                                                 
 
-Bibcodes  1850-2021 () (54):
-  2019A&A...623A..72K  2019A&A...623A.135B  2019MNRAS.490.3158C  2017ApJ...838...20M
-  2016A&A...591A.118S  2016MNRAS.462L..61K  2015A&A...580A..23P  2015ApJ...807...64Q
-  2015ApJ...810..161R  2015MNRAS.449.3651M  2014A&A...568L..13W  2012A&A...537A.120Z
-  2012A&A...542A.116A  2012A&A...546A..61D  2012AstL...38..694G  2012MNRAS.427..343M
-  2008A&A...492..841R  2008MNRAS.389..869E  2007A&A...463..671R  2006AstL...32..759G
-  2003A&A...410..565A  2002A&A...381..105R  2002A&A...393..897R  2002yCat.2237....0D
-  1999A&AS..135..503G  1999A&AS..137..273G  1998A&AS..129..431H  1996ApJS..104..101S
-  1995ApJS...96..605S  1993yCat.3135....0C  1992ApJS...82..117S  1992MNRAS.255..308K
-  1991VeARI..33....1F  1990A&AS...85..915D  1990MNRAS.242....1C  1990SAAOC..14...55C
-  1989SAAOC..13....1M  1989SAAOC..13...15C  1987SAAOC..11...93C  1984ApJS...55..597E
-  1983SAAOC...7...36C  1980MNSSA..39...22C  1980SAAOC...1..149M  1978A&AS...33...15C
-  1978MSS...C02....0H  1977A&AS...27..443G  1977PASP...89..187E  1977PASP...89..205E
-  1976MmRAS..81...25C  1974MNSSA..33..149C  1973SAOSR.350....1D  1971ApJS...23..421H
-  1962RGOB...49....3C  1950MNRAS.110..531C                        
+Bibcodes  1850-2023 () (61):
+  2021ApJS..254...42B  2021MNRAS.503.3279S  2020A&A...633A..99C  2020A&A...640A...1C
+  2019A&A...623A..72K  2019A&A...623A.135B  2019MNRAS.490.3158C  2018A&A...620A.172Z
+  2017ApJ...838...20M  2016A&A...591A.118S  2016MNRAS.462L..61K  2015A&A...580A..23P
+  2015ApJ...807...64Q  2015ApJ...810..161R  2015MNRAS.449.3651M  2014A&A...568L..13W
+  2012A&A...537A.120Z  2012A&A...542A.116A  2012A&A...546A..61D  2012AstL...38..694G
+  2012MNRAS.427..343M  2008A&A...492..841R  2008MNRAS.389..869E  2007A&A...463..671R
+  2007A&A...474..653V  2006AstL...32..759G  2003A&A...410..565A  2002A&A...381..105R
+  2002A&A...393..897R  2002yCat.2237....0D  1999A&AS..135..503G  1999A&AS..137..273G
+  1998A&AS..129..431H  1997A&A...323L..49P  1996ApJS..104..101S  1995ApJS...96..605S
+  1993yCat.3135....0C  1992ApJS...82..117S  1992MNRAS.255..308K  1991VeARI..33....1F
+  1990A&AS...85..915D  1990MNRAS.242....1C  1990SAAOC..14...55C  1989SAAOC..13....1M
+  1989SAAOC..13...15C  1987SAAOC..11...93C  1984ApJS...55..597E  1983SAAOC...7...36C
+  1980MNSSA..39...22C  1980SAAOC...1..149M  1978A&AS...33...15C  1978MSS...C02....0H
+  1977A&AS...27..443G  1977PASP...89..187E  1977PASP...89..205E  1976MmRAS..81...25C
+  1974MNSSA..33..149C  1973SAOSR.350....1D  1971ApJS...23..421H  1962RGOB...49....3C
+  1950MNRAS.110..531C                                    
 
-Measures (distance:1  Fe_H:1  MK:2  PLX:3  PM:5  ROT:2  velocities:1  ):
-distance:1Fe_H:1MK:2PLX:3PM:5ROT:2velocities:1
+Measures (distance:2  Fe_H:1  MK:2  PLX:4  PM:6  ROT:2  velocities:1  ):
+distance:2Fe_H:1MK:2PLX:4PM:6ROT:2velocities:1
 
 Notes (0) :
 

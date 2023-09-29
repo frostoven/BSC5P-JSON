@@ -1,53 +1,62 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:46:55
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:24:52
 
 HD151771
 --------
 
-Object HD 151771  ---  **  ---  OID=@2343548   (@@52099,17)  ---  coobox=16922
+Object HD 151771A  ---  *  ---  OID=@5620511   (@@-1,255)  ---  coobox=16922
 
-Coordinates(ICRS,ep=J2000,eq=2000): 16 51 00.03416  -37 30 52.2420 (Opt ) A [6.32 5.36 90] 2007A&A...474..653V
-Coordinates(FK4,ep=B1950,eq=1950): 16 47 37.47264  -37 25 47.2745
-Coordinates(Gal,ep=J2000,eq=2000): 346.41868893  +04.38499445 
-hierarchy counts: #parents=0, #children=2, #siblings=0
-Proper motions: -5.72 -12.45 [0.72 0.61 0] A 2007A&A...474..653V
-Parallax: 2.93 [0.60] A 2007A&A...474..653V
-Radial Velocity: -14.00 [2.8] C 2006AstL...32..759G
-Redshift: -0.000047 [0.000009] C 2006AstL...32..759G
-cz: -14.00 [2.80] C 2006AstL...32..759G
-Flux 
-Spectral type: B8II-III+B9.5V C 1984ApJS...55..657C
+Coordinates(ICRS,ep=J2000,eq=2000): 16 51 00.0337895325  -37 30 52.240634996 (Opt ) A [0.0397 0.0242 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 16 47 37.4734588467  -37 25 47.280256329
+Coordinates(Gal,ep=J2000,eq=2000): 346.4186884296501  +04.3849956404629
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -6.005 -12.309 [0.054 0.042 90] A 2020yCat.1350....0G
+Parallax: 3.4996 [0.0460] A 2020yCat.1350....0G
+Radial Velocity: -10.50 [2.17] C 2022yCat.1355....0G
+Redshift: -0.000035 [0.000007] C 2022yCat.1355....0G
+cz: -10.50 [2.17] C 2022yCat.1355....0G
+Flux B : 6.30 [0.01] D 2002A&A...384..180F
+Flux V : 6.22 [0.01] D 2002A&A...384..180F
+Flux G : 6.186251 [0.002769] C 2022yCat.1355....0G
+Flux I : 8.86 [0.06] C 2005yCat.2263....0D
+Flux J : 5.854 [0.020] C 2003yCat.2246....0C
+Flux H : 5.868 [0.059] C 2003yCat.2246....0C
+Flux K : 5.774 [0.018] C 2003yCat.2246....0C
+Spectral type: B8II-III C 1984ApJS...55..657C
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (26):
-   CD-37 11023                     CPC 18 8332                     CPD-37 6755                   
-   CSI-37 11023 21                 GC 22658                        GCRV 66533                    
-   GEN# +1.00151771J               GSC 07868-00448                 HD 151771                     
-   HIC 82453                       HIP 82453                       HR 6244                       
-   PPM 295545                      SAO 208089                      SKY# 30330                    
-   TD1 19573                       UBV M 21696                     [SC95] ZET 159                
-   [SC96] Mis 159                  ALS 20045                       NSV 20788                     
-   WDS J16510-3731AB               CCDM J16510-3731AB              ** HJ 4889                    
-   uvby98 100151771                WEB 13919                                                     
+Identifiers (38):
+   HIP 82453                            Gaia DR3 5971527094516942720         Gaia DR2 5971527094516942720       
+   WEB 13919                            uvby98 100151771                     NSV 20788                          
+   ALS 20045                            [SC96] Mis 159                       [SC95] ZET 159                     
+   UBV M 21696                          TD1 19573                            SKY# 30330                         
+   SAO 208089                           PPM 295545                           HR 6244                            
+   HIC 82453                            HD 151771                            GSC 07868-00448                    
+   GCRV 66533                           GC 22658                             CSI-37 11023 21                    
+   CPD-37 6755                          CPC 18 8332                          CD-37 11023                        
+   GEN# +1.00151771                     WISEA J165100.04-373052.4            TIC 337250361                      
+   CCDM J16510-3731A                    IDS 16442-3720 A                     TYC 7868-448-1                     
+   WDS J16510-3731A                     Renson 42940                         CD-37 11023A                       
+   ** HJ 4889A                          HD 151771A                           WISE J165100.02-373052.3           
+   2MASS J16510003-3730522              DENIS J165100.0-373052                                                  
 
-Bibcodes  1850-2021 () (38):
-  2019A&A...623A..72K  2019AstBu..74...66G  2012A&A...546A..61D  2012MNRAS.427..343M
-  2011MNRAS.410..190T  2006AstL...32..759G  2005AJ....130.1652R  2005MNRAS.363.1111C
+Bibcodes  1850-2023 () (44):
+  2021ApJS..254...42B  2019A&A...623A..72K  2019AstBu..74...66G  2015A&A...580A..23P
+  2012A&A...546A..61D  2012MNRAS.427..343M  2011MNRAS.410..190T  2009A&A...498..961R
+  2007A&A...474..653V  2006AstL...32..759G  2005AJ....130.1652R  2005MNRAS.363.1111C
   2004yCat.2250....0S  2003AJ....125.2531R  1998A&A...336..953G  1998A&AS..129..431H
-  1996A&AS..118..481B  1996ApJS..104..101S  1995A&AS..114..269D  1995A&AS..114..487J
-  1995ApJS...96..605S  1994BSAO...38..152G  1993A&AS..102...79S  1993yCat.3135....0C
-  1991A&AS...87..481M  1990A&AS...85..915D  1989A&AS...78..325N  1987A&AS...71..539M
-  1985A&AS...59..449T  1985A&AS...60...99W  1984A&A...132..291H  1984A&AS...58..387N
-  1984ApJS...55..657C  1983AcA....33...89S  1983MNRAS.202..761H  1982MSS...C03....0H
-  1980IBVS.1755....1R  1977A&AS...27..443G  1975MNSSA..34....7H  1970MmRAS..72..233H
-  1965JO.....48..211B  1960PASP...72..500J                        
+  1997A&A...323L..49P  1996A&AS..118..481B  1996ApJS..104..101S  1995A&AS..114..269D
+  1995A&AS..114..487J  1995ApJS...96..605S  1994BSAO...38..152G  1993A&AS..102...79S
+  1993yCat.3135....0C  1991A&AS...87..481M  1991A&AS...89..429R  1990A&AS...85..915D
+  1989A&AS...78..325N  1987A&AS...71..539M  1985A&AS...59..449T  1985A&AS...60...99W
+  1984A&A...132..291H  1984A&AS...58..387N  1984ApJS...55..657C  1983AcA....33...89S
+  1983MNRAS.202..761H  1982MSS...C03....0H  1980IBVS.1755....1R  1977A&AS...27..443G
+  1975MNSSA..34....7H  1970MmRAS..72..233H  1965JO.....48..211B  1960PASP...72..500J
 
-Measures (MK:4  PLX:2  PM:3  velocities:4  ):
-MK:4PLX:2PM:3velocities:4
+Measures (distance:2  MK:3  PLX:4  PM:5  velocities:5  ):
+distance:2MK:3PLX:4PM:5velocities:5
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 82453 includes the components \object{CCDM J16510-3731A} and \object{CCDM J16510-3731B}
+Notes (0) :
 
 ================================================================================
 

@@ -1,46 +1,52 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:20:31
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:25:18
 
 HD101154
 --------
 
-Object HD 101154  ---  **  ---  OID=@1849104   (@@37971,19)  ---  coobox=14674
+Object HD 101154  ---  *  ---  OID=@1849104   (@@37971,19)  ---  coobox=14674
 
-Coordinates(ICRS,ep=J2000,eq=2000): 11 38 24.06876  -02 26 09.2495 (Opt ) A [5.28 3.52 90] 2007A&A...474..653V
-Coordinates(FK4,ep=B1950,eq=1950): 11 35 50.71038  -02 09 32.7315
-Coordinates(Gal,ep=J2000,eq=2000): 269.29302143  +55.59177314 
-hierarchy counts: #parents=0, #children=2, #siblings=0
-Proper motions: -37.98 14.55 [0.60 0.40 0] A 2007A&A...474..653V
-Parallax: 8.57 [0.65] A 2007A&A...474..653V
-Radial Velocity: -13.30 [1.5] B 2006AstL...32..759G
-Redshift: -0.000044 [0.000005] B 2006AstL...32..759G
-cz: -13.30 [1.50] B 2006AstL...32..759G
-Flux B : 7.43 [~] E ~                  
-Flux V : 6.28 [~] E ~                  
-Flux J : 4.59 [0.30] D 2003yCat.2246....0C
-Flux H : 3.81 [0.27] D 2003yCat.2246....0C
-Flux K : 3.77 [0.29] D 2003yCat.2246....0C
+Coordinates(ICRS,ep=J2000,eq=2000): 11 38 24.0687790754  -02 26 09.254096080 (Opt ) A [0.0226 0.0249 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 11 35 50.7116353855  -02 09 32.712116011
+Coordinates(Gal,ep=J2000,eq=2000): 269.2930226738513  +55.5917720509208
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -38.352 14.069 [0.029 0.024 90] A 2020yCat.1350....0G
+Parallax: 8.3853 [0.0317] A 2020yCat.1350....0G
+Radial Velocity: -12.06 [0.13] A 2022yCat.1355....0G
+Redshift: -0.000040 [0.000000] A 2022yCat.1355....0G
+cz: -12.06 [0.13] A 2022yCat.1355....0G
+Flux B : 7.46 [0.02] D 2002A&A...384..180F
+Flux V : 6.29 [0.01] D 2002A&A...384..180F
+Flux G : 5.968605 [0.002774] C 2022yCat.1355....0G
+Flux J : 4.591 [0.298] D 2003yCat.2246....0C
+Flux H : 3.814 [0.274] D 2003yCat.2246....0C
+Flux K : 3.774 [0.292] D 2003yCat.2246....0C
 Spectral type: K1III C 1999MSS...C05....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (24):
-   TIC 49455402                    HR 4484                         AG-02 681                     
-   BD-01 2546                      GC 15967                        GCRV 7070                     
-   GEN# +1.00101154J               GSC 04930-00548                 HD 101154                     
-   HIC 56775                       HIP 56775                       PMC 90-93 6082                
-   PPM 178555                      SAO 138314                      SKY# 22044                    
-   UBV 10501                       YZ 92 3285                      WDS J11384-0226AB             
-   AKARI-IRC-V1 J1138240-022608    IRAS 11358-0209                 2MASS J11382406-0226092       
-   WISE J113824.04-022609.0        uvby98 100101154                WEB 10216                     
+Identifiers (35):
+   HIP 56775                            UCAC4 438-054871                     Gaia DR3 3792964341554252288       
+   Gaia DR2 3792964341554252288         ** STF 1560A                         HD 101154A                         
+   WDS J11384-0226A                     TYC 4930-548-1                       IDS 11333-0153 A                   
+   CSI-01 2546 1                        CCDM J11384-0226A                    ADS 8247 A                         
+   GEN# +1.00101154                     WISEA J113824.01-022608.6            TIC 49455402                       
+   HR 4484                              AG-02 681                            BD-01 2546                         
+   GC 15967                             GCRV 7070                            GSC 04930-00548                    
+   HD 101154                            HIC 56775                            PMC 90-93 6082                     
+   PPM 178555                           SAO 138314                           SKY# 22044                         
+   UBV 10501                            YZ 92 3285                           AKARI-IRC-V1 J1138240-022608       
+   IRAS 11358-0209                      2MASS J11382406-0226092              WISE J113824.04-022609.0           
+   uvby98 100101154                     WEB 10216                                                               
 
-Bibcodes  1850-2021 () (13):
-  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2006AstL...32..759G
-  1999MSS...C05....0H  1998A&AS..127..251H  1997PNAOJ...5....1Y  1995A&AS..114..269D
-  1993yCat.3135....0C  1986ApJS...62..147B  1981ApJS...45..437A  1970ApJS...19..387A
-  1953GCRV..C......0W                                    
+Bibcodes  1850-2023 () (18):
+  2023AJ....165...70C  2021ApJS..254...42B  2019A&A...623A..72K  2015A&A...580A..23P
+  2012A&A...546A..61D  2012MNRAS.427..343M  2007A&A...474..653V  2006AstL...32..759G
+  1999MSS...C05....0H  1998A&AS..127..251H  1997A&A...323L..49P  1997PNAOJ...5....1Y
+  1995A&AS..114..269D  1993yCat.3135....0C  1986ApJS...62..147B  1981ApJS...45..437A
+  1970ApJS...19..387A  1953GCRV..C......0W                        
 
-Measures (MK:2  PLX:2  PM:2  velocities:4  ):
-MK:2PLX:2PM:2velocities:4
+Measures (distance:2  MK:2  PLX:4  PM:4  velocities:5  ):
+distance:2MK:2PLX:4PM:4velocities:5
 
 Notes (0) :
 

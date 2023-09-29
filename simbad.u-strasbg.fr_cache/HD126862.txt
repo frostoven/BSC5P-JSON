@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:34:49
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:56:34
 
 HD126862
 --------
@@ -22,24 +22,25 @@ Spectral type: K1III C 1975MSS...C01....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (26):
-   TIC 446727999                   CPC 21 3224                     CPD-67 2595                   
-   CSI-67 2595 41                  GC 19540                        GEN# +1.00126862              
-   GSC 09257-01946                 HD 126862                       HIC 71002                     
-   HIP 71002                       HR 5408                         IDS 14229-6716 A              
-   PPM 360811                      SAO 252767                      SKY# 26445                    
-   UBV 12669                       UBV M 20194                     WDS J14313-6743Aa,Ab          
-   2MASS J14311646-6743018         WISE J143116.47-674301.7        WDS J14313-6743A              
-   ** HDO 231A                     ** HDS 2051                     CCDM J14313-6743AC            
-   IRAS 14270-6729                 UCAC4 112-086333                                              
+Identifiers (27):
+   HIP 71002                            WISEA J143116.45-674302.6            TIC 446727999                      
+   CPC 21 3224                          CPD-67 2595                          CSI-67 2595 41                     
+   GC 19540                             GEN# +1.00126862                     GSC 09257-01946                    
+   HD 126862                            HIC 71002                            HR 5408                            
+   IDS 14229-6716 A                     PPM 360811                           SAO 252767                         
+   SKY# 26445                           UBV 12669                            UBV M 20194                        
+   WDS J14313-6743Aa,Ab                 2MASS J14311646-6743018              WISE J143116.47-674301.7           
+   WDS J14313-6743A                     ** HDO 231A                          ** HDS 2051                        
+   CCDM J14313-6743AC                   IRAS 14270-6729                      UCAC4 112-086333                   
 
-Bibcodes  1850-2021 () (12):
-  2019A&A...623A..72K  2017AJ....154..115H  2012A&A...546A..61D  2012MNRAS.427..343M
-  2008MNRAS.389..869E  2006AstL...32..759G  2000A&A...356..141F  1993yCat.3135....0C
+Bibcodes  1850-2023 () (16):
+  2021ApJS..254...42B  2020A&A...633A..34C  2019A&A...623A..72K  2017AJ....154..115H
+  2012A&A...546A..61D  2012MNRAS.427..343M  2008MNRAS.389..869E  2007A&A...474..653V
+  2006AstL...32..759G  2000A&A...356..141F  1997A&A...323L..49P  1993yCat.3135....0C
   1989IBVS.3407....1C  1985A&AS...59...15A  1975MSS...C01....0H  1950AJ.....55....9S
 
-Measures (MK:2  PLX:2  PM:3  velocities:1  ):
-MK:2PLX:2PM:3velocities:1
+Measures (Fe_H:1  MK:2  PLX:2  PM:3  velocities:1  ):
+Fe_H:1MK:2PLX:2PM:3velocities:1
 
 Notes (0) :
 

@@ -1,49 +1,51 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:37:07
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:04:17
 
 HD134444
 --------
 
 Object HD 134444  ---  *  ---  OID=@3472797   (@@63908,1)  ---  coobox=21953
 
-Coordinates(ICRS,ep=J2000,eq=2000): 15 11 34.80285  -45 16 38.8426 (Opt ) A [6.05 5.88 90] 2007A&A...474..653V
-Coordinates(FK4,ep=B1950,eq=1950): 15 08 11.54122  -45 05 21.9733
-Coordinates(Gal,ep=J2000,eq=2000): 327.22260667  +10.88240513 
+Coordinates(ICRS,ep=J2000,eq=2000): 15 11 34.8031160937  -45 16 38.857491173 (Opt ) A [0.0205 0.0188 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 15 08 11.5416866539  -45 05 21.914661218
+Coordinates(Gal,ep=J2000,eq=2000): 327.2226051409605  +10.8824011843603
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -15.28 15.97 [0.67 0.69 0] A 2007A&A...474..653V
-Parallax: 6.39 [0.64] A 2007A&A...474..653V
-Radial Velocity: -3.90 [0.4] A 2006AstL...32..759G
-Redshift: -0.000013 [0.000001] A 2006AstL...32..759G
-cz: -3.90 [0.40] A 2006AstL...32..759G
-Flux B : 7.481 [0.016] D 2000A&A...355L..27H
-Flux V : 6.409 [0.010] D 2000A&A...355L..27H
+Proper motions: -15.317 14.498 [0.035 0.030 90] A 2020yCat.1350....0G
+Parallax: 6.5215 [0.0281] A 2020yCat.1350....0G
+Radial Velocity: -3.45 [0.13] A 2022yCat.1355....0G
+Redshift: -0.000012 [0.000000] A 2022yCat.1355....0G
+cz: -3.45 [0.13] A 2022yCat.1355....0G
+Flux B : 7.48 [0.02] D 2002A&A...384..180F
+Flux V : 6.41 [0.01] D 2002A&A...384..180F
+Flux G : 6.194861 [0.002765] C 2022yCat.1355....0G
 Flux J : 4.880 [0.268] D 2003yCat.2246....0C
 Flux H : 4.199 [0.226] D 2003yCat.2246....0C
-Flux K : 4.106 [0.350] E 2003yCat.2246....0C
+Flux K : 4.106 [0.350] D 2003yCat.2246....0C
 Spectral type: K1III C 1978MSS...C02....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (22):
-   TIC 161052108                   CCDM J15116-4517AB              CD-44 9922                    
-   CPC 0 13029                     CPD-44 7220                     GC 20405                      
-   GEN# +1.00134444J               GSC 08294-03157                 HD 134444                     
-   HIC 74336                       HIP 74336                       HR 5642                       
-   IDS 15048-4454 AB               IRAS 15081-4505                 PPM 320320                    
-   SAO 225517                      SKY# 27519                      TYC 8294-3157-1               
-   UBV M 20585                     2MASS J15113481-4516388         WDS J15116-4517AB             
-   ** B 1267AB                                                                                   
+Identifiers (28):
+   HIP 74336                            ** DUN 178A                          WISE J151134.78-451638.5           
+   UCAC4 224-088748                     Gaia DR3 5904208906640444928         Gaia DR2 5904208906640444928       
+   CCDM J15116-4517A                    ** B 1267A                           WDS J15116-4517A                   
+   IDS 15048-4454 A                     HD 134444A                           GEN# +1.00134444                   
+   TIC 161052108                        CD-44 9922                           CPC 0 13029                        
+   CPD-44 7220                          GC 20405                             GSC 08294-03157                    
+   HD 134444                            HIC 74336                            HR 5642                            
+   IRAS 15081-4505                      PPM 320320                           SAO 225517                         
+   SKY# 27519                           TYC 8294-3157-1                      UBV M 20585                        
+   2MASS J15113481-4516388                                                                                      
 
-Bibcodes  1850-2021 () (11):
-  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2006AstL...32..759G
-  2000A&A...356..141F  1993yCat.3135....0C  1990A&AS...85..915D  1985A&AS...59...15A
-  1979A&A....71...55D  1978MSS...C02....0H  1968PASP...80..749L            
+Bibcodes  1850-2023 () (14):
+  2021ApJS..254...42B  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M
+  2007A&A...474..653V  2006AstL...32..759G  2000A&A...356..141F  1997A&A...323L..49P
+  1993yCat.3135....0C  1990A&AS...85..915D  1985A&AS...59...15A  1979A&A....71...55D
+  1978MSS...C02....0H  1968PASP...80..749L                        
 
-Measures (MK:2  PLX:2  PM:3  velocities:1  ):
-MK:2PLX:2PM:3velocities:1
+Measures (distance:2  MK:2  PLX:4  PM:5  velocities:2  ):
+distance:2MK:2PLX:4PM:5velocities:2
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 74336 includes the components \object{CCDM J15116-4517AB}
+Notes (0) :
 
 ================================================================================
 

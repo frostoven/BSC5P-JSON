@@ -1,43 +1,43 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:23:51
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:25:45
 
 HD200496
 --------
 
 Object * 12 Aqr B  ---  *  ---  OID=@1340268   (@@27591,21)  ---  coobox=8516
 
-Coordinates(ICRS,ep=J2000,eq=2000): 21 04 04.6767682126  -05 49 25.377186498 (Opt ) A [0.0626 0.0523 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 21 01 26.0135084715  -06 01 22.309896149
-Coordinates(Gal,ep=J2000,eq=2000): 043.6622714781431  -32.0433083752440
+Coordinates(ICRS,ep=J2000,eq=2000): 21 04 04.6768135992  -05 49 25.379574456 (Opt ) A [0.0523 0.0339 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 21 01 26.0136423287  -06 01 22.318841010
+Coordinates(Gal,ep=J2000,eq=2000): 043.6622708961615  -32.0433088569395
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: 12.732 -5.440 [0.121 0.093 90] A 2018yCat.1345....0G
-Parallax: 5.4454 [0.0762] A 2018yCat.1345....0G
+Proper motions: 12.705 -5.309 [0.069 0.043 90] A 2020yCat.1350....0G
+Parallax: 5.5929 [0.0598] A 2020yCat.1350....0G
 Radial Velocity: ~ [~ ~ ] ~ ~                  
 Redshift: ~ [~ ~ ] ~ ~                  
 cz: ~ [~ ~ ] ~ ~                  
 Flux B : 7.66 [0.02] C 2002A&A...384..180F
 Flux V : 7.50 [0.01] C 2002A&A...384..180F
-Flux G : 7.5394 [0.0032] C 2018yCat.1345....0G
+Flux G : 7.560403 [0.002978] C 2020yCat.1350....0G
 Spectral type: A3V C 1999MSS...C05....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (16):
-   * 12 Aqr B                      ADS 14592 B                     BD-06 5664B                   
-   CCDM J21041-0549B               CSI-06 5664 1                   GC 29416                      
-   HD 200496                       HR 8058                         SAO 145064                    
-   UBV M 25398                     WDS J21041-0549B                TYC 5204-1584-2               
-   ** STF 2745B                    PMSC 20588-0613B                UCAC4 421-136869              
-   Gaia DR2 6910418146641915648                                                                  
+Identifiers (17):
+   Gaia DR3 6910418146641915648         * 12 Aqr B                           ADS 14592 B                        
+   BD-06 5664B                          CCDM J21041-0549B                    CSI-06 5664 1                      
+   GC 29416                             HD 200496                            HR 8058                            
+   SAO 145064                           UBV M 25398                          WDS J21041-0549B                   
+   TYC 5204-1584-2                      ** STF 2745B                         PMSC 20588-0613B                   
+   UCAC4 421-136869                     Gaia DR2 6910418146641915648                                            
 
-Bibcodes  1850-2021 () (18):
+Bibcodes  1850-2023 () (18):
   2013AJ....146...56M  2012AJ....143..124M  2009AJ....137.3358M  2008MNRAS.389..869E
   1999MSS...C05....0H  1997A&AS..124...75T  1995ApJS...99..135A  1994A&AS..107..385T
   1993yCat.3135....0C  1987AJ.....93..183M  1985AbaOB..59...83B  1980BICDS..19...41H
   1978A&AS...31..353V  1976PASP...88...95C  1969AJ.....74..764W  1956MNRAS.116..248H
   1951AnAp...14...85B  1950JO.....33..105M                        
 
-Measures (distance:1  MK:3  PLX:1  PM:2  ROT:1  ):
-distance:1MK:3PLX:1PM:2ROT:1
+Measures (distance:2  MK:3  PLX:2  PM:3  ROT:1  ):
+distance:2MK:3PLX:2PM:3ROT:1
 
 Notes (0) :
 

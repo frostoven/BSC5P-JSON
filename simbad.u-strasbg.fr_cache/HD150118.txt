@@ -1,35 +1,36 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:46:21
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:22:58
 
 HD150118
 --------
 
 Object * 17 Dra B  ---  *  ---  OID=@399269   (@@10129,18)  ---  coobox=1132
 
-Coordinates(ICRS,ep=J2000,eq=2000): 16 36 14.0608620128  +52 55 27.086523950 (Opt ) A [0.1043 0.1269 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 16 35 03.0098447338  +53 01 26.002800948
-Coordinates(Gal,ep=J2000,eq=2000): 080.9704429371276  +41.4745864125859
+Coordinates(ICRS,ep=J2000,eq=2000): 16 36 14.0599423944  +52 55 27.086087100 (Opt ) A [0.1174 0.1313 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 16 35 03.0059836614  +53 01 26.000376494
+Coordinates(Gal,ep=J2000,eq=2000): 080.9704432715422  +41.4745887122087
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: -16.071 31.432 [0.235 0.250 90] A 2018yCat.1345....0G
-Parallax: 7.4360 [0.1104] A 2018yCat.1345....0G
+Proper motions: -15.541 31.477 [0.169 0.209 90] A 2020yCat.1350....0G
+Parallax: 7.5244 [0.1225] A 2020yCat.1350....0G
 Radial Velocity: -18.0 [~] D 1938ApJ....88...34C
 Redshift: -0.000060 [~] D 1938ApJ....88...34C
 cz: -18.00 [~] D 1938ApJ....88...34C
 Flux B : 6.459 [0.009] D 2000A&A...355L..27H
 Flux V : 6.413 [0.005] D 2000A&A...355L..27H
-Flux G : 6.4651 [0.0007] C 2018yCat.1345....0G
+Flux G : 6.482943 [0.002793] C 2020yCat.1350....0G
 Spectral type: A1Vnn C 1969AJ.....74..375C
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (18):
-   * 17 Dra B                      ADS 10129 B                     BD+53 1876B                   
-   CCDM J16362+5255B               CSI+53 1876 4                   GCRV 66394                    
-   GCRV 9561                       HD 150118                       HR 6186                       
-   ROT 2368                        WDS J16362+5255B                ** STF 2078B                  
-   PMSC 16339+5308B                ** STF 4030B                    TYC 3879-2960-1               
-   UCAC4 715-055009                WEB 13739                       Gaia DR2 1425769747447125760  
+Identifiers (19):
+   Gaia DR3 1425769747447125760         * 17 Dra B                           ADS 10129 B                        
+   BD+53 1876B                          CCDM J16362+5255B                    CSI+53 1876 4                      
+   GCRV 66394                           GCRV 9561                            HD 150118                          
+   HR 6186                              ROT 2368                             WDS J16362+5255B                   
+   ** STF 2078B                         PMSC 16339+5308B                     ** STF 4030B                       
+   TYC 3879-2960-1                      UCAC4 715-055009                     WEB 13739                          
+   Gaia DR2 1425769747447125760                                                                                 
 
-Bibcodes  1850-2021 () (35):
+Bibcodes  1850-2023 () (35):
   2011AJ....142...46M  2008MNRAS.389..869E  2007A&A...463..671R  2007A&A...475..677S
   2007AJ....134.1671M  2002A&A...393..897R  2000A&A...359..977B  1999A&A...341..795B
   1999AJ....117..548H  1998A&AS..132..155H  1997A&AS..124...75T  1995A&AS..114..269D
@@ -40,8 +41,8 @@ Bibcodes  1850-2021 () (35):
   1964ApJ...139.1105T  1964JO.....47...27H  1963AJ.....68...57V  1961SvA.....5..578K
   1953GCRV..C......0W  1951JO.....34...21D  1950JO.....33..105M            
 
-Measures (distance:1  MK:3  PLX:1  PM:1  ROT:5  velocities:3  ):
-distance:1MK:3PLX:1PM:1ROT:5velocities:3
+Measures (distance:2  MK:3  PLX:2  PM:2  ROT:5  velocities:3  ):
+distance:2MK:3PLX:2PM:2ROT:5velocities:3
 
 Notes (0) :
 

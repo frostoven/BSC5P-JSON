@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:53:16
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:35:00
 
 HD23697
 -------
@@ -24,25 +24,26 @@ Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
 Identifiers (22):
-   TIC 197880592                   CD-54 723                       CPC 19 1154                   
-   CPD-54 589                      CSI-54 589 41                   GC 4510                       
-   GEN# +1.00023697J               HD 23697                        HIC 17464                     
-   HIP 17464                       HR 1168                         N30 770                       
-   PPM 332917                      SAO 233252                      SKY# 5673                     
-   UBV 3649                        WDS J03446-5416AB               IDS 03420-5435                
-   ** HJ 3592                      2MASS J03443389-5416264         AKARI-IRC-V1 J0344339-541625  
-   IRAS 03432-5425                                                                               
+   HIP 17464                            IDS 03420-5435 AB                    GEN# +1.00023697                   
+   TIC 197880592                        CD-54 723                            CPC 19 1154                        
+   CPD-54 589                           CSI-54 589 41                        GC 4510                            
+   HD 23697                             HIC 17464                            HR 1168                            
+   N30 770                              PPM 332917                           SAO 233252                         
+   SKY# 5673                            UBV 3649                             WDS J03446-5416AB                  
+   ** HJ 3592                           2MASS J03443389-5416264              AKARI-IRC-V1 J0344339-541625       
+   IRAS 03432-5425                                                                                              
 
-Bibcodes  1850-2021 () (23):
-  2019A&A...623A..72K  2017AJ....154..115H  2012A&A...546A..61D  2012MNRAS.427..343M
-  2006AstL...32..759G  1999A&AS..134...87J  1999ApJ...518..859K  1994A&AS..107..235J
+Bibcodes  1850-2023 () (27):
+  2021ApJS..254...42B  2020A&A...633A..34C  2019A&A...623A..72K  2017AJ....154..115H
+  2012A&A...546A..61D  2012MNRAS.427..343M  2007A&A...474..653V  2006AstL...32..759G
+  1999A&AS..134...87J  1999ApJ...518..859K  1997A&A...323L..49P  1994A&AS..107..235J
   1994AJ....107..594E  1993yCat.3135....0C  1991A&AS...88...63P  1990ApJ...348..253M
   1989ApJS...71..245K  1989BICDS..36...27G  1989PASP..101...45E  1989PASP..101...54E
   1988BICDS..35...37K  1985A&AS...59...15A  1984AJ.....89.1887C  1984ApJS...55..657C
   1983MNRAS.202..761H  1975MNSSA..34....7H  1975MSS...C01....0H            
 
-Measures (MK:3  PLX:2  PM:2  velocities:1  ):
-MK:3PLX:2PM:2velocities:1
+Measures (Fe_H:1  MK:3  PLX:2  PM:2  velocities:1  ):
+Fe_H:1MK:3PLX:2PM:2velocities:1
 
 Notes (0) :
 

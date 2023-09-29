@@ -1,23 +1,23 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:22:22
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:23:21
 
 HD198667
 --------
 
 Object * 5 Aqr  ---  V*  ---  OID=@2619683   (@@62762,4)  ---  coobox=19436
 
-Coordinates(ICRS,ep=J2000,eq=2000): 20 52 08.6936565020  -05 30 25.424125077 (Opt ) A [0.1178 0.1069 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 20 49 30.0971302229  -05 41 44.942986575
-Coordinates(Gal,ep=J2000,eq=2000): 042.3505425293719  -29.2791250821612
+Coordinates(ICRS,ep=J2000,eq=2000): 20 52 08.6938321800  -05 30 25.409470932 (Opt ) A [0.0669 0.0364 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 20 49 30.0954004079  -05 41 44.912839521
+Coordinates(Gal,ep=J2000,eq=2000): 042.3505470393190  -29.2791238070449
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 0.70 -5.52 [0.38 0.23 0] A 2007A&A...474..653V
-Parallax: 3.9834 [0.1385] A 2018yCat.1345....0G
+Proper motions: 1.271 -5.828 [0.089 0.068 90] A 2020yCat.1350....0G
+Parallax: 4.1831 [0.0861] A 2020yCat.1350....0G
 Radial Velocity: -2.10 [1.2] B 2006AstL...32..759G
 Redshift: -0.000007 [0.000004] B 2006AstL...32..759G
 cz: -2.10 [1.20] B 2006AstL...32..759G
 Flux U : 5.2 [~] D 2003AJ....125.2531R
 Flux B : 5.460 [0.014] D 2000A&A...355L..27H
 Flux V : 5.554 [0.009] D 2000A&A...355L..27H
-Flux G : 5.5146 [0.0011] C 2018yCat.1345....0G
+Flux G : 5.527545 [0.002812] C 2020yCat.1350....0G
 Flux J : 5.631 [0.021] C 2003yCat.2246....0C
 Flux H : 5.677 [0.017] C 2003yCat.2246....0C
 Flux K : 5.658 [0.020] C 2003yCat.2246....0C
@@ -25,27 +25,29 @@ Spectral type: B9III C 1999MSS...C05....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (33):
-   TIC 248725944                   PLX 4987                        * 5 Aqr                       
-   BD-06 5606                      CSV 102037                      GC 29094                      
-   GCRV 13089                      GEN# +1.00198667                GSC 05186-02126               
-   HD 198667                       HGAM 956                        HIC 103005                    
-   HIP 103005                      HR 7985                         NSV 13360                     
-   PPM 204547                      ROT 3047                        SAO 144889                    
-   SKY# 39610                      SV* ZI 1958                     TD1 27362                     
-   TYC 5186-2126-1                 UBV 18050                       UBV M 25220                   
-   YZ 95 7472                      YZ 0 4424                       uvby98 100198667              
-   2MASS J20520870-0530252         ALS 16594                       PLX 4987.00                   
-   Renson 55300                    WEB 18696                       Gaia DR2 6913301306649511808  
+Identifiers (34):
+   Gaia DR3 6913301306649511808         TIC 248725944                        PLX 4987                           
+   * 5 Aqr                              BD-06 5606                           CSV 102037                         
+   GC 29094                             GCRV 13089                           GEN# +1.00198667                   
+   GSC 05186-02126                      HD 198667                            HGAM 956                           
+   HIC 103005                           HIP 103005                           HR 7985                            
+   NSV 13360                            PPM 204547                           ROT 3047                           
+   SAO 144889                           SKY# 39610                           SV* ZI 1958                        
+   TD1 27362                            TYC 5186-2126-1                      UBV 18050                          
+   UBV M 25220                          YZ 95 7472                           YZ 0 4424                          
+   uvby98 100198667                     2MASS J20520870-0530252              ALS 16594                          
+   PLX 4987.00                          Renson 55300                         WEB 18696                          
+   Gaia DR2 6913301306649511808                                                                                 
 
-Bibcodes  1850-2021 () (61):
-  2021MNRAS.504.3758P  2019A&A...623A..72K  2019MNRAS.483..299G  2019MNRAS.490.3158C
-  2018PASJ...70...91T  2017AJ....153...16S  2016A&A...591A.118S  2015A&A...580A..23P
-  2014PASJ...66...23T  2012AJ....143...28F  2012AstL...38..694G  2012MNRAS.427..343M
-  2011MNRAS.410..190T  2010A&A...515A.111S  2010A&A...516A..29V  2009A&A...498..961R
-  2008MNRAS.389..869E  2006AstL...32..759G  2005AJ....130.1652R  2004IAUS..224....1A
-  2003AJ....125.2531R  2002A&A...392.1031A  2002ApJ...573..359A  1999MSS...C05....0H
-  1998A&AS..129..431H  1997A&AS..124..299C  1996A&AS..118..481B  1996MNRAS.281..522C
+Bibcodes  1850-2023 () (65):
+  2021ApJS..254...42B  2021MNRAS.504.3758P  2019A&A...623A..72K  2019MNRAS.483..299G
+  2019MNRAS.490.3158C  2018A&A...620A.172Z  2018PASJ...70...91T  2017AJ....153...16S
+  2016A&A...591A.118S  2015A&A...580A..23P  2014PASJ...66...23T  2012AJ....143...28F
+  2012AstL...38..694G  2012MNRAS.427..343M  2011MNRAS.410..190T  2010A&A...515A.111S
+  2010A&A...516A..29V  2009A&A...498..961R  2008MNRAS.389..869E  2007A&A...474..653V
+  2006AstL...32..759G  2005AJ....130.1652R  2004IAUS..224....1A  2003AJ....125.2531R
+  2002A&A...392.1031A  2002ApJ...573..359A  1999MSS...C05....0H  1998A&AS..129..431H
+  1997A&A...323L..49P  1997A&AS..124..299C  1996A&AS..118..481B  1996MNRAS.281..522C
   1995A&AS..114..269D  1995GCTP..C......0V  1994ApJS...95..163S  1993Ap&SS.203...53H
   1993yCat.3135....0C  1992A&AS...95..273C  1991A&AS...89..429R  1988A&A...206..357R
   1986A&A...155..371H  1986A&AS...64..173A  1985IAUS..111..423A  1984A&AS...55..479A
@@ -56,8 +58,8 @@ Bibcodes  1850-2021 () (61):
   1963ApJ...137..530C  1958MNRAS.118...65E  1957AJ.....62..280C  1953GCRV..C......0W
   1926ApJ....64....1F                                    
 
-Measures (distance:1  Fe_H:2  IUE:1  MK:3  PLX:3  PM:4  ROT:2  V*:1  velocities:6  ):
-distance:1Fe_H:2IUE:1MK:3PLX:3PM:4ROT:2V*:1velocities:6
+Measures (distance:2  Fe_H:2  IUE:1  MK:3  PLX:4  PM:5  ROT:2  V*:1  velocities:6  ):
+distance:2Fe_H:2IUE:1MK:3PLX:4PM:5ROT:2V*:1velocities:6
 
 Notes (0) :
 

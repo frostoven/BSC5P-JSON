@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:40:24
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:42:13
 
 HD213051
 --------
@@ -16,22 +16,23 @@ Redshift: 0.000096 [0.000007] E 1953GCRV..C......0W
 cz: 28.90 [2.00] E 1953GCRV..C......0W
 Flux B : 4.89 [0.01] C 2002A&A...384..180F
 Flux V : 4.49 [0.01] C 2002A&A...384..180F
-Flux G : 4.3509 [0.0053] C 2018yCat.1345....0G
+Flux G : 4.421150 [0.003446] C 2020yCat.1350....0G
 Spectral type: F2IV/V D 1999MSS...C05....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (24):
-   * 55 Aqr B                      * zet Aqr B                     * zet01 Aqr                   
-   ADS 15971 B                     BD-00 4365B                     CCDM J22288-0001B             
-   CSI-00 4365 2                   GC 31398                        GCRV 14120                    
-   HD 213051                       HR 8558                         IDS 22237-0032 B              
-   IRC +00518                      NLTT 53957                      ROT 3269                      
-   SKY# 42775                      WDS J22288-0001B                TYC 5226-1605-2               
-   ** STF 2909B                    PMSC 22237-0032B                PMSC 22237-0032Bab            
-   PLX 5435.00B                    WEB 19863                       Gaia DR2 2678143182591522048  
+Identifiers (25):
+   Gaia DR3 2678143182591522048         * 55 Aqr B                           * zet Aqr B                        
+   * zet01 Aqr                          ADS 15971 B                          BD-00 4365B                        
+   CCDM J22288-0001B                    CSI-00 4365 2                        GC 31398                           
+   GCRV 14120                           HD 213051                            HR 8558                            
+   IDS 22237-0032 B                     IRC +00518                           NLTT 53957                         
+   ROT 3269                             SKY# 42775                           WDS J22288-0001B                   
+   TYC 5226-1605-2                      ** STF 2909B                         PMSC 22237-0032B                   
+   PMSC 22237-0032Bab                   PLX 5435.00B                         WEB 19863                          
+   Gaia DR2 2678143182591522048                                                                                 
 
-Bibcodes  1850-2021 () (131):
+Bibcodes  1850-2023 () (131):
   2021MNRAS.504.3730C  2017ApJ...844..103T  2016ApJ...826..171G  2016ApJ...831..151T
   2015A&A...580A..23P  2013A&A...551L...8P  2013AJ....146...56M  2012A&A...542A.116A
   2012A&A...546A..69M  2011A&A...530A.138C  2011AJ....141..157M  2011AJ....142...46M

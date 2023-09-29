@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:15:22
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:15:49
 
 HD93102
 -------
@@ -25,27 +25,27 @@ Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
 Identifiers (25):
-   TIC 374364375                   * 36 Sex                        AG+02 1414                    
-   AGKR 9645                       BD+03 2408                      GC 14789                      
-   GCRV 6689                       GEN# +1.00093102                GSC 00254-00756               
-   HD 93102                        HIC 52584                       HIP 52584                     
-   HR 4201                         PMC 90-93 3248                  PPM 157147                    
-   SAO 118473                      SKY# 20591                      SRS 9886                      
-   TYC 254-756-1                   UBV 9874                        UBV M 16478                   
-   YZ 2 4118                       2MASS J10450948+0229164         WEB 9580                      
-   Gaia DR2 3809266869178231936                                                                  
+   HIP 52584                            TIC 374364375                        * 36 Sex                           
+   AG+02 1414                           AGKR 9645                            BD+03 2408                         
+   GC 14789                             GCRV 6689                            GEN# +1.00093102                   
+   GSC 00254-00756                      HD 93102                             HIC 52584                          
+   HR 4201                              PMC 90-93 3248                       PPM 157147                         
+   SAO 118473                           SKY# 20591                           SRS 9886                           
+   TYC 254-756-1                        UBV 9874                             UBV M 16478                        
+   YZ 2 4118                            2MASS J10450948+0229164              WEB 9580                           
+   Gaia DR2 3809266869178231936                                                                                 
 
-Bibcodes  1850-2021 () (26):
+Bibcodes  1850-2023 () (28):
   2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D  2012MNRAS.427..343M
-  2010PASP..122..701J  2006AstL...32..759G  2005A&A...430..165F  2000A&A...363..239D
-  1999A&AS..134..523T  1999A&AS..139..433D  1999MSS...C05....0H  1997PNAOJ...5....1Y
-  1995A&AS..114..269D  1994PASP..106..611P  1993A&A...268..511S  1993yCat.3135....0C
-  1991ApJS...76..715T  1989ApJS...71..293B  1989PASP..101...45E  1985ApJS...59...33P
-  1984PASP...96..105H  1984SAAOC...8...69C  1979PASP...91..507C  1978AN....299..243B
-  1970ApJS...19..387A  1953GCRV..C......0W                        
+  2010PASP..122..701J  2007A&A...474..653V  2006AstL...32..759G  2005A&A...430..165F
+  2000A&A...363..239D  1999A&AS..134..523T  1999A&AS..139..433D  1999MSS...C05....0H
+  1997A&A...323L..49P  1997PNAOJ...5....1Y  1995A&AS..114..269D  1994PASP..106..611P
+  1993A&A...268..511S  1993yCat.3135....0C  1991ApJS...76..715T  1989ApJS...71..293B
+  1989PASP..101...45E  1985ApJS...59...33P  1984PASP...96..105H  1984SAAOC...8...69C
+  1979PASP...91..507C  1978AN....299..243B  1970ApJS...19..387A  1953GCRV..C......0W
 
-Measures (MK:2  PLX:2  PM:5  velocities:7  ):
-MK:2PLX:2PM:5velocities:7
+Measures (MK:2  PLX:2  PM:5  velocities:6  ):
+MK:2PLX:2PM:5velocities:6
 
 Notes (0) :
 

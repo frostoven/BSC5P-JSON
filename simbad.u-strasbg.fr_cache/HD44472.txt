@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:58:35
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST07:11:45
 
 HD44472
 -------
@@ -21,29 +21,28 @@ Spectral type: A4V C ~
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (20):
-   AG+70 279                       BD+70 401                       GC 8293                       
-   GCRV 4086                       HD 44472                        HIC 30794                     
-   HIP 30794                       HR 2285                         N30 1389                      
-   PPM 6311                        ROT 1024                        SAO 5861                      
-   SKY# 11126                      TD1 6874                        ** STT 136                    
-   ADS 5039 AB                     CCDM J06282+7032AB              WDS J06282+7032AB             
-   IDS 06168+7035 AB               WEB 6138                                                      
+Identifiers (21):
+   HIP 30794                            WISEA J062814.60+703207.4            AG+70 279                          
+   BD+70 401                            GC 8293                              GCRV 4086                          
+   HD 44472                             HIC 30794                            HR 2285                            
+   N30 1389                             PPM 6311                             ROT 1024                           
+   SAO 5861                             SKY# 11126                           TD1 6874                           
+   ** STT 136                           ADS 5039 AB                          CCDM J06282+7032AB                 
+   WDS J06282+7032AB                    IDS 06168+7035 AB                    WEB 6138                           
 
-Bibcodes  1850-2021 () (24):
-  2019A&A...623A..72K  2017AJ....153...16S  2016A&A...591A.118S  2015ApJS..216...33F
-  2014ApJS..212...10P  2012A&A...537A.120Z  2012A&A...546A..61D  2012ApJS..199....8G
-  2012MNRAS.427..343M  2010A&A...510A..54W  2007A&A...463..671R  2006AstL...32..759G
-  2002A&A...393..897R  2002ApJS..142...79M  1999A&A...346..785S  1995A&AS..114..269D
-  1995ApJS...99..135A  1994ApJ...437..638W  1993yCat.3135....0C  1991A&AS...89..415O
-  1990A&A...240..487L  1989VilOB..84....9C  1961ApJS....6....1K  1953GCRV..C......0W
+Bibcodes  1850-2023 () (27):
+  2021ApJS..254...42B  2019A&A...623A..72K  2017AJ....153...16S  2016A&A...591A.118S
+  2015ApJS..216...33F  2014ApJS..212...10P  2012A&A...537A.120Z  2012A&A...546A..61D
+  2012ApJS..199....8G  2012MNRAS.427..343M  2010A&A...510A..54W  2007A&A...463..671R
+  2007A&A...474..653V  2006AstL...32..759G  2002A&A...393..897R  2002ApJS..142...79M
+  1999A&A...346..785S  1997A&A...323L..49P  1995A&AS..114..269D  1995ApJS...99..135A
+  1994ApJ...437..638W  1993yCat.3135....0C  1991A&AS...89..415O  1990A&A...240..487L
+  1989VilOB..84....9C  1961ApJS....6....1K  1953GCRV..C......0W            
 
 Measures (Fe_H:1  MK:3  PLX:2  PM:5  ROT:4  velocities:6  ):
 Fe_H:1MK:3PLX:2PM:5ROT:4velocities:6
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 30794 includes the components \object{CCDM J06282+7032 A} and \object{CCDM J06282+7032 B}
+Notes (0) :
 
 ================================================================================
 

@@ -1,21 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:53:02
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:32:35
 
 HD22322
 -------
 
 Object HD 22322  ---  *  ---  OID=@668235   (@@12413,0)  ---  coobox=6812
 
-Coordinates(ICRS,ep=J2000,eq=2000): 03 34 33.58863  -31 52 29.2776 (Opt ) A [4.92 3.77 90] 2007A&A...474..653V
-Coordinates(FK4,ep=B1950,eq=1950): 03 32 33.24756  -32 02 27.1545
-Coordinates(Gal,ep=J2000,eq=2000): 230.60772317  -54.39796840 
+Coordinates(ICRS,ep=J2000,eq=2000): 03 34 33.5895074141  -31 52 29.285955392 (Opt ) A [0.0138 0.0161 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 03 32 33.2438692493  -32 02 27.113315064
+Coordinates(Gal,ep=J2000,eq=2000): 230.6077274297592  -54.3979654377956
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 15.05 -0.39 [0.43 0.56 0] A 2007A&A...474..653V
-Parallax: 2.83 [0.56] A 2007A&A...474..653V
-Radial Velocity: 14.30 [0.4] A 2006AstL...32..759G
-Redshift: 0.000048 [0.000001] A 2006AstL...32..759G
-cz: 14.30 [0.40] A 2006AstL...32..759G
-Flux B : 7.899 [0.015] D 2000A&A...355L..27H
-Flux V : 6.422 [0.009] D 2000A&A...355L..27H
+Proper motions: 16.208 -1.384 [0.018 0.021 90] A 2020yCat.1350....0G
+Parallax: 2.8972 [0.0210] A 2020yCat.1350....0G
+Radial Velocity: 14.86 [0.12] A 2022yCat.1355....0G
+Redshift: 0.000050 [0.000000] A 2022yCat.1355....0G
+cz: 14.86 [0.12] A 2022yCat.1355....0G
+Flux B : 7.90 [0.02] D 2002A&A...384..180F
+Flux V : 6.43 [0.01] D 2002A&A...384..180F
+Flux G : 5.938673 [0.002768] C 2022yCat.1355....0G
 Flux J : 4.130 [0.278] D 2003yCat.2246....0C
 Flux H : 3.306 [0.254] D 2003yCat.2246....0C
 Flux K : 3.147 [0.262] D 2003yCat.2246....0C
@@ -23,27 +24,28 @@ Spectral type: K3III C 1982MSS...C03....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (23):
-   TIC 142977105                   2MASS J03343359-3152292         CCDM J03346-3152AB            
-   CD-32 1358                      CPC 17 1266                     CPD-32 388                    
-   GC 4281                         GEN# +1.00022322J               GSC 07021-00076               
-   HD 22322                        HIC 16672                       HIP 16672                     
-   HR 1095                         IDS 03306-3213 AB               IRAS 03325-3202               
-   N30 734                         PPM 279176                      SAO 194379                    
-   SKY# 5409                       TYC 7021-76-1                   UBV 3435                      
-   WDS J03346-3152AB               ** B 53AB                                                     
+Identifiers (28):
+   HIP 16672                            WISE J033433.55-315229.7             UCAC4 291-003678                   
+   Gaia DR3 5055405107026636928         Gaia DR2 5055405107026636928         CCDM J03346-3152A                  
+   WDS J03346-3152A                     ** B 53A                             IDS 03306-3213 A                   
+   HD 22322A                            GEN# +1.00022322                     TIC 142977105                      
+   2MASS J03343359-3152292              CD-32 1358                           CPC 17 1266                        
+   CPD-32 388                           GC 4281                              GSC 07021-00076                    
+   HD 22322                             HIC 16672                            HR 1095                            
+   IRAS 03325-3202                      N30 734                              PPM 279176                         
+   SAO 194379                           SKY# 5409                            TYC 7021-76-1                      
+   UBV 3435                                                                                                     
 
-Bibcodes  1850-2021 () (10):
-  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2006AstL...32..759G
-  2000A&A...356..141F  1993yCat.3135....0C  1991MNRAS.248..112W  1989PASP..101...45E
-  1985A&AS...59...15A  1982MSS...C03....0H                        
+Bibcodes  1850-2023 () (13):
+  2021ApJS..254...42B  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M
+  2007A&A...474..653V  2006AstL...32..759G  2000A&A...356..141F  1997A&A...323L..49P
+  1993yCat.3135....0C  1991MNRAS.248..112W  1989PASP..101...45E  1985A&AS...59...15A
+  1982MSS...C03....0H                                    
 
-Measures (MK:2  PLX:2  PM:2  velocities:1  ):
-MK:2PLX:2PM:2velocities:1
+Measures (distance:2  MK:2  PLX:4  PM:4  velocities:2  ):
+distance:2MK:2PLX:4PM:4velocities:2
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 16672 includes the components \object{CCDM J03346-3152AB}
+Notes (0) :
 
 ================================================================================
 

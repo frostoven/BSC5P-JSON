@@ -1,23 +1,23 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST02:33:16
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST07:00:10
 
 HD37479
 -------
 
 Object * sig Ori E  ---  Y*O  ---  OID=@826990   (@@17010,0)  ---  coobox=6482
 
-Coordinates(ICRS,ep=J2000,eq=2000): 05 38 47.2050001416  -02 35 40.514907495 (Opt ) A [0.0818 0.0899 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 05 36 16.4926235592  -02 37 18.640837863
-Coordinates(Gal,ep=J2000,eq=2000): 206.8161822411934  -17.3244681699539
-hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: 1.281 -0.622 [0.149 0.140 90] A 2018yCat.1345....0G
-Parallax: 2.2801 [0.0955] A 2018yCat.1345....0G
-Radial Velocity: 32.660 [1.074] B 2019AJ....157..196K
-Redshift: 0.000109 [0.000004] B 2019AJ....157..196K
-cz: 32.66 [1.07] B 2019AJ....157..196K
+Coordinates(ICRS,ep=J2000,eq=2000): 05 38 47.2050040320  -02 35 40.521424812 (Opt ) A [0.0548 0.0516 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 05 36 16.4926262835  -02 37 18.668205490
+Coordinates(Gal,ep=J2000,eq=2000): 206.8161839289527  -17.3244689956337
+hierarchy counts: #parents=2, #children=0, #siblings=0
+Proper motions: 1.284 -0.205 [0.063 0.059 90] A 2020yCat.1350....0G
+Parallax: 2.3077 [0.0647] A 2020yCat.1350....0G
+Radial Velocity: 26.150400 [0.059467] A 2020AJ....160..120J
+Redshift: 0.000087 [0.000000] A 2020AJ....160..120J
+cz: 26.15 [0.06] A 2020AJ....160..120J
 Flux U : 5.66 [~] C 2002yCat.2237....0D
 Flux B : 6.38 [0.01] B 2014ApJ...794...36H
 Flux V : 6.46 [0.01] B 2014ApJ...794...36H
-Flux G : 6.6370 [0.0022] C 2018yCat.1345....0G
+Flux G : 6.647533 [0.003083] C 2020yCat.1350....0G
 Flux R : 6.84 [~] C 2002yCat.2237....0D
 Flux I : 7.08 [~] C 2002yCat.2237....0D
 Flux J : 6.974 [0.026] C 2003yCat.2246....0C
@@ -27,29 +27,40 @@ Spectral type: B2IV-Vp_He C 1977PASP...89..797A
 Morphological type: ~ ~ ~
 Angular size: 0.0050 0.000 303 (Opt )  D 2001AJ....122.3466M
 
-Identifiers (39):
-   TIC 11286209                    [FPS2006] NX 84                 Mayrit 41062                  
-   2MASS J05384719-0235405         Mayrit 42062                    [SSC2008] 23                  
-   TYC 4771-1194-1                 GSC 04771-01194                 * sig Ori E                   
-   ADS 4241 E                      ALS 8475                        BD-02 1327                    
-   CCDM J05387-0236E               GC 7034                         GCRV 3489                     
-   GEN# +1.00037479A               HD 37479                        HR 1932                       
-   LS VI -02 3                     PPM 188304                      SAO 132408                    
-   SKY# 9180                       UBV 5703                        UBV M 11312                   
-   V* V1030 Ori                    WH 414                          YZ 92 1712                    
-   [HHM2007] 724                   1E 0536.2-0237                  WDS J05387-0236E              
-   [W96] rJ053847-0235             ** STF 762E                     Renson 10080                  
-   PMSC 05337-0239E                ** RAS 22                       WDS J05387-0236Ea,Eb          
-   GBS-VLA J053847.19-023540.3     WEB 5234                        Gaia DR2 3216486478101981056  
+Identifiers (41):
+   AP J05384719-0235405                 Gaia DR3 3216486478101981056         TIC 11286209                       
+   [FPS2006] NX 84                      Mayrit 41062                         2MASS J05384719-0235405            
+   Mayrit 42062                         [SSC2008] 23                         TYC 4771-1194-1                    
+   GSC 04771-01194                      * sig Ori E                          ADS 4241 E                         
+   ALS 8475                             BD-02 1327                           CCDM J05387-0236E                  
+   GC 7034                              GCRV 3489                            GEN# +1.00037479A                  
+   HD 37479                             HR 1932                              LS VI -02 3                        
+   PPM 188304                           SAO 132408                           SKY# 9180                          
+   UBV 5703                             UBV M 11312                          V* V1030 Ori                       
+   WH 414                               YZ 92 1712                           [HHM2007] 724                      
+   1E 0536.2-0237                       WDS J05387-0236E                     [W96] rJ053847-0235                
+   ** STF 762E                          Renson 10080                         PMSC 05337-0239E                   
+   ** RAS 22                            WDS J05387-0236Ea,Eb                 GBS-VLA J053847.19-023540.3        
+   WEB 5234                             Gaia DR2 3216486478101981056                                            
 
-Bibcodes  1850-2021 () (411):
-  2021A&A...646A..19T  2021MNRAS.504.3203S  2020A&A...639A..81B  2020MNRAS.492.1199M
-  2020MNRAS.493..518K  2020MNRAS.493.2140K  2020MNRAS.493.3293B  2020MNRAS.493.4657L
-  2020MNRAS.499.5366O  2020MNRAS.499.5379S  2020PASP..132b4201P  2020RAA....20..108R
-  2019A&A...621A..47K  2019A&A...623L...7H  2019A&A...629A.114C  2019AJ....157..196K
-  2019AstBu..74...66G  2019MNRAS.482.3950S  2019MNRAS.485.1508S  2019MNRAS.486.5558S
-  2019MNRAS.487..304D  2019MNRAS.487.5922G  2019MNRAS.489L.102D  2019MNRAS.490..274S
-  2019MNRAS.490.3158C  2018A&A...616L..15X  2018AJ....156...84K  2018AstBu..73..178R
+Bibcodes  1850-2023 () (451):
+  2023A&A...672A..31O  2023MNRAS.520.3947U  2023MNRAS.521.2874R  2023RAA....23a5002S
+  2022A&A...657A..60S  2022A&A...657A.131M  2022A&A...659A..37K  2022A&A...666A..26B
+  2022A&A...668A.159M  2022AJ....163..226L  2022ApJ...924L..10J  2022ApJ...925....2G
+  2022ApJ...925...75P  2022ApJ...925..125D  2022ApJ...935...99B  2022ApJ...935..145P
+  2022MNRAS.511.3228M  2022MNRAS.511.4815B  2022MNRAS.512.1944G  2022MNRAS.513.1429S
+  2022MNRAS.515..998S  2022MNRAS.515.5523L  2022MNRAS.516.2812C  2022MNRAS.517.2028K
+  2022MNRAS.517.5756D  2021A&A...645L...8X  2021A&A...646A..19T  2021A&A...647A..19T
+  2021A&A...652A..31B  2021A&A...652A.120I  2021ApJ...921....9D  2021AstBu..76...39R
+  2021MNRAS.504.3203S  2021MNRAS.507.1283S  2021MNRAS.507.1979L  2021MNRAS.507.3400C
+  2020A&A...635A..45C  2020A&A...639A..81B  2020A&A...640A...1C  2020AJ....160..120J
+  2020AstBu..75..294R  2020MNRAS.492.1199M  2020MNRAS.493..518K  2020MNRAS.493.2140K
+  2020MNRAS.493.2339M  2020MNRAS.493.3293B  2020MNRAS.493.4657L  2020MNRAS.499.5366O
+  2020MNRAS.499.5379S  2020PASP..132b4201P  2020RAA....20..108R  2019A&A...621A..47K
+  2019A&A...623L...7H  2019A&A...629A.114C  2019AJ....157..196K  2019AstBu..74...66G
+  2019MNRAS.482.3950S  2019MNRAS.485.1508S  2019MNRAS.486.5558S  2019MNRAS.487..304D
+  2019MNRAS.487.5922G  2019MNRAS.489L.102D  2019MNRAS.490..274S  2019MNRAS.490.3158C
+  2018A&A...616L..15X  2018A&A...620A.172Z  2018AJ....156...84K  2018AstBu..73..178R
   2018MNRAS.473.3367O  2018MNRAS.474.3090O  2018MNRAS.475..839S  2018MNRAS.475.5144S
   2018MNRAS.475L..25V  2018MNRAS.475L.122J  2018MNRAS.476..562L  2018MNRAS.478.2777B
   2017A&A...597A..22S  2017A&A...597A..58K  2017A&A...597L...6C  2017A&A...602A..92P
@@ -147,8 +158,8 @@ Bibcodes  1850-2021 () (411):
   1962AnAp...25....1B  1961ApJS....6....1K  1959ApJ...130..338W  1959JO.....42...94D
   1959SvA.....3..123A  1958ApJ...127..237G  1953GCRV..C......0W            
 
-Measures (distance:2  Fe_H:2  IUE:62  MK:8  PLX:1  PM:2  ROT:6  velocities:6  ):
-distance:2Fe_H:2IUE:62MK:8PLX:1PM:2ROT:6velocities:6
+Measures (distance:3  Fe_H:3  IUE:62  MK:10  PLX:2  PM:3  ROT:7  V*:1  velocities:9  ):
+distance:3Fe_H:3IUE:62MK:10PLX:2PM:3ROT:7V*:1velocities:9
 
 Notes (0) :
 

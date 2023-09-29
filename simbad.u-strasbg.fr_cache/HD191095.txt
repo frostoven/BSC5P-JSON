@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:17:57
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:13:41
 
 HD191095
 --------
@@ -8,12 +8,13 @@ Object HD 191095  ---  **  ---  OID=@3449978   (@@72692,7)  ---  coobox=23986
 Coordinates(ICRS,ep=J2000,eq=2000): 20 11 07.42627  -57 31 27.2630 (Opt ) A [7.46 6.84 90] 2007A&A...474..653V
 Coordinates(FK4,ep=B1950,eq=1950): 20 07 04.54764  -57 40 20.8075
 Coordinates(Gal,ep=J2000,eq=2000): 340.03584416  -33.19586716 
-hierarchy counts: #parents=0, #children=0, #siblings=0
+hierarchy counts: #parents=0, #children=2, #siblings=0
 Proper motions: 10.58 -34.89 [0.85 0.78 0] A 2007A&A...474..653V
 Parallax: 6.25 [0.78] A 2007A&A...474..653V
 Radial Velocity: -7.30 [2.2] C 2007AN....328..889K
 Redshift: -0.000024 [0.000007] C 2007AN....328..889K
 cz: -7.30 [2.20] C 2007AN....328..889K
+Flux G : 6.564278 [0.008729] C 2020yCat.1350....0G
 Flux R : 7.63 [0.29] E 2012yCat.1322....0Z
 Flux J : 6.266 [0.026] C 2003yCat.2246....0C
 Flux H : 6.243 [0.024] C 2003yCat.2246....0C
@@ -22,28 +23,31 @@ Spectral type: A1V C 1975MSS...C01....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (27):
-   TIC 355542556                   CCDM J20111-5731AB              CD-57 7888                    
-   CPC 20 6405                     CPD-57 9622                     GC 27966                      
-   GSC 08784-01295                 HD 191095                       HIC 99453                     
-   HIP 99453                       HR 7691                         IDS 20030-5749 AB             
-   PPM 348323                      SAO 246470                      SKY# 37999                    
-   TD1 26080                       UBV 17294                       UBV M 24520                   
-   2MASS J20110741-5731272         WDS J20111-5731AB               ** HDO 295AB                  
-   uvby98 100191095                PMSC 20030-5749                 RAVE J201107.4-573127         
-   GEN# +1.00191095                UCAC4 163-211670                WISE J201107.42-573127.4      
+Identifiers (30):
+   HIP 99453                            Gaia DR3 6444646501219089408         ** HDO 295                         
+   Gaia DR2 6444646501219089408         WISEA J201107.43-573127.5            TIC 355542556                      
+   CCDM J20111-5731AB                   CD-57 7888                           CPC 20 6405                        
+   CPD-57 9622                          GC 27966                             GSC 08784-01295                    
+   HD 191095                            HIC 99453                            HR 7691                            
+   IDS 20030-5749 AB                    PPM 348323                           SAO 246470                         
+   SKY# 37999                           TD1 26080                            UBV 17294                          
+   UBV M 24520                          2MASS J20110741-5731272              WDS J20111-5731AB                  
+   uvby98 100191095                     PMSC 20030-5749                      RAVE J201107.4-573127              
+   GEN# +1.00191095                     UCAC4 163-211670                     WISE J201107.42-573127.4           
 
-Bibcodes  1850-2021 () (27):
-  2019A&A...623A..72K  2016A&A...591A.118S  2015A&A...580A..23P  2012A&A...537A.120Z
-  2012ApJS..199....8G  2012MNRAS.427..343M  2011ApJ...728..104S  2011MNRAS.414.2602D
-  2010A&A...510A..54W  2010AJ....139..743T  2001A&A...373..625P  2000A&A...356..141F
-  1998A&AS..129..431H  1997A&AS..124...75T  1996A&AS..118..481B  1996AJ....111..936H
-  1993yCat.3135....0C  1990Afz....32....1T  1987AJ.....94..771D  1983A&AS...53..177A
-  1982ApJS...49..469P  1981ApJ...246..879F  1978PASP...90..587H  1977A&AS...27..443G
-  1977A&AS...29..309A  1977A&AS...29..313O  1975MSS...C01....0H            
+Bibcodes  1850-2023 () (34):
+  2023AJ....165..221A  2020AJ....160....7T  2020AJ....160...83S  2019A&A...623A..72K
+  2017AJ....153...75K  2016A&A...591A.118S  2015A&A...580A..23P  2013AJ....146..134K
+  2012A&A...537A.120Z  2012ApJS..199....8G  2012MNRAS.427..343M  2011ApJ...728..104S
+  2011MNRAS.414.2602D  2010A&A...510A..54W  2010AJ....139..743T  2007A&A...474..653V
+  2001A&A...373..625P  2000A&A...356..141F  1998A&AS..129..431H  1997A&A...323L..49P
+  1997A&AS..124...75T  1996A&AS..118..481B  1996AJ....111..936H  1993yCat.3135....0C
+  1990Afz....32....1T  1987AJ.....94..771D  1983A&AS...53..177A  1982ApJS...49..469P
+  1981ApJ...246..879F  1978PASP...90..587H  1977A&AS...27..443G  1977A&AS...29..309A
+  1977A&AS...29..313O  1975MSS...C01....0H                        
 
-Measures (distance:1  Fe_H:2  MK:2  PLX:2  PM:3  velocities:2  ):
-distance:1Fe_H:2MK:2PLX:2PM:3velocities:2
+Measures (distance:1  Fe_H:4  MK:2  PLX:3  PM:4  velocities:3  ):
+distance:1Fe_H:4MK:2PLX:3PM:4velocities:3
 
 Notes (0) :
 

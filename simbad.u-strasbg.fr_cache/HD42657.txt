@@ -1,22 +1,23 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:57:37
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST07:09:03
 
 HD42657
 -------
 
-Object V* V638 Mon  ---  a2*  ---  OID=@878489   (@@16638,17)  ---  coobox=7182
+Object HD 42657  ---  a2*  ---  OID=@878489   (@@16638,17)  ---  coobox=7182
 
-Coordinates(ICRS,ep=J2000,eq=2000): 06 11 43.71590  -04 39 55.5746 (Opt ) A [6.94 6.06 90] 2007A&A...474..653V
-Coordinates(FK4,ep=B1950,eq=1950): 06 09 15.44228  -04 39 09.6364
-Coordinates(Gal,ep=J2000,eq=2000): 212.58401930  -10.95354952 
-hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: -6.95 -2.37 [0.79 0.69 0] A 2007A&A...474..653V
-Parallax: 5.68 [0.69] A 2007A&A...474..653V
-Radial Velocity: 23.30 [3.5] C 2007AN....328..889K
-Redshift: 0.000078 [0.000012] C 2007AN....328..889K
-cz: 23.30 [3.50] C 2007AN....328..889K
+Coordinates(ICRS,ep=J2000,eq=2000): 06 11 43.7171543332  -04 39 55.602985022 (Opt ) A [0.1065 0.1259 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 06 09 15.4560982178  -04 39 09.487172835
+Coordinates(Gal,ep=J2000,eq=2000): 212.5840288490890  -10.9535484376271
+hierarchy counts: #parents=1, #children=2, #siblings=0
+Proper motions: -10.722 -5.902 [0.147 0.169 90] A 2020yCat.1350....0G
+Parallax: 3.4777 [0.1560] A 2020yCat.1350....0G
+Radial Velocity: 30.07 [3.52] C 2022yCat.1355....0G
+Redshift: 0.000100 [0.000012] C 2022yCat.1355....0G
+cz: 30.07 [3.52] C 2022yCat.1355....0G
 Flux U : 5.73 [~] C 2002yCat.2237....0D
 Flux B : 6.10 [~] C 2002yCat.2237....0D
 Flux V : 6.18 [~] C 2002yCat.2237....0D
+Flux G : 6.363591 [0.003026] C 2022yCat.1355....0G
 Flux J : 6.269 [0.021] C 2003yCat.2246....0C
 Flux H : 6.338 [0.023] C 2003yCat.2246....0C
 Flux K : 6.326 [0.026] C 2003yCat.2246....0C
@@ -24,25 +25,27 @@ Spectral type: B8II/III D 1999MSS...C05....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (29):
-   TIC 299563305                   2MASS J06114371-0439556         ADS 4799 AB                   
-   BD-04 1393                      CCDM J06117-0440AB              CEL 1117                      
-   GC 7894                         GCRV 57182                      GEN# +1.00042657J             
-   GSC 04791-02695                 HD 42657                        HIC 29401                     
-   HIP 29401                       HR 2202                         IDS 06068-0439 AB             
-   PPM 188896                      SAO 132941                      SKY# 10431                    
-   TD1 6331                        TYC 4791-2695-1                 UBV 6242                      
-   V* V638 Mon                     YZ 94 1963                      [SC93b] 601                   
-   uvby98 100042657 ABV            WDS J06117-0440AB               ** AC 3AB                     
-   Renson 11400                    BD-04 1393A                                                   
+Identifiers (31):
+   HIP 29401                            ** AC 3                              uvby98 100042657                   
+   WISE J061143.70-043955.7             UCAC4 427-013103                     Gaia DR3 3021354775132548736       
+   Gaia DR2 3021354775132548736         GEN# +1.00042657                     TIC 299563305                      
+   2MASS J06114371-0439556              ADS 4799 AB                          BD-04 1393                         
+   CCDM J06117-0440AB                   CEL 1117                             GC 7894                            
+   GCRV 57182                           GSC 04791-02695                      HD 42657                           
+   HIC 29401                            HR 2202                              IDS 06068-0439 AB                  
+   PPM 188896                           SAO 132941                           SKY# 10431                         
+   TD1 6331                             UBV 6242                             V* V638 Mon                        
+   YZ 94 1963                           [SC93b] 601                          WDS J06117-0440AB                  
+   Renson 11400                                                                                                 
 
-Bibcodes  1850-2021 () (56):
-  2019A&A...623A..72K  2017MNRAS.468.2745N  2016A&A...591A.118S  2015A&A...580A..23P
-  2015A&A...584A..26B  2012A&A...537A.120Z  2012A&A...546A..61D  2012MNRAS.427..343M
-  2011A&A...525A..97M  2010A&A...522A..85S  2010ApJ...722..605H  2009A&A...498..961R
-  2005AJ....129..809S  2002ApJ...573..359A  2002yCat.2237....0D  2000A&A...356..141F
-  1999MSS...C05....0H  1998A&A...336..953G  1998A&AS..127..421C  1998A&AS..129..431H
-  1998A&AS..130..455V  1998A&AS..132...93A  1998A&AS..132..237A  1996A&AS..118..481B
+Bibcodes  1850-2023 () (60):
+  2021ApJS..254...42B  2019A&A...623A..72K  2018A&A...620A.172Z  2017MNRAS.468.2745N
+  2016A&A...591A.118S  2015A&A...580A..23P  2015A&A...584A..26B  2012A&A...537A.120Z
+  2012A&A...546A..61D  2012MNRAS.427..343M  2011A&A...525A..97M  2010A&A...522A..85S
+  2010ApJ...722..605H  2009A&A...498..961R  2007A&A...474..653V  2005AJ....129..809S
+  2002ApJ...573..359A  2002yCat.2237....0D  2000A&A...356..141F  1999MSS...C05....0H
+  1998A&A...336..953G  1998A&AS..127..421C  1998A&AS..129..431H  1998A&AS..130..455V
+  1998A&AS..132...93A  1998A&AS..132..237A  1997A&A...323L..49P  1996A&AS..118..481B
   1994BSAO...38..152G  1993ApJS...89..259S  1993yCat.3135....0C  1991A&AS...89..429R
   1989A&AS...78..325N  1986AISAO..21...21L  1984A&AS...55..371C  1984A&AS...58..387N
   1983A&AS...53...91G  1982A&A...114...23H  1981A&AS...44...23R  1981A&AS...44..137S
@@ -52,12 +55,10 @@ Bibcodes  1850-2021 () (56):
   1974ApJ...194...65W  1973AJ.....78..738C  1973SAOSR.350....1D  1970MmRAS..72..233H
   1968PASP...80..453C  1963ApJ...137..530C  1957JO.....40..165B  1951AnAp...14...85B
 
-Measures (Fe_H:3  MK:2  PLX:2  PM:2  ROT:2  velocities:4  ):
-Fe_H:3MK:2PLX:2PM:2ROT:2velocities:4
+Measures (distance:2  Fe_H:3  MK:2  PLX:4  PM:4  ROT:2  velocities:5  ):
+distance:2Fe_H:3MK:2PLX:4PM:4ROT:2velocities:5
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 29401 includes the components \object{CCDM J06117-0440AB}
+Notes (0) :
 
 ================================================================================
 

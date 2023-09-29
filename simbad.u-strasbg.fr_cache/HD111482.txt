@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:27:39
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:38:49
 
 HD111482
 --------
@@ -23,28 +23,30 @@ Spectral type: K0III C 1975MSS...C01....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (30):
-   TIC 383391443                   2MASS J12545873-8507240         * iot Oct                     
-   CCDM J12550-8507AB              CPC 22 1605                     CPD-84 407                    
-   FK5 919                         GC 17460                        GCRV 7700                     
-   GSC 09512-02121                 HD 111482                       HIC 63031                     
-   HIP 63031                       HR 4870                         IDS 12445-8435 AB             
-   IRAS 12494-8450                 N30 2964                        PPM 377511                    
-   SAO 258654                      SKY# 24005                      UBV 11525                     
-   UBV M 18697                     WDS J12550-8507AB               ** RST 2819                   
-   ** B 9020AB                     GEN# +1.00111482                UCAC4 025-005691              
-   WISE J125459.89-850725.4        Gaia DR2 5769608209294672768    WEB 11174                     
+Identifiers (31):
+   HIP 63031                            WISEA J125459.15-850723.9            TIC 383391443                      
+   2MASS J12545873-8507240              * iot Oct                            CCDM J12550-8507AB                 
+   CPC 22 1605                          CPD-84 407                           FK5 919                            
+   GC 17460                             GCRV 7700                            GSC 09512-02121                    
+   HD 111482                            HIC 63031                            HR 4870                            
+   IDS 12445-8435 AB                    IRAS 12494-8450                      N30 2964                           
+   PPM 377511                           SAO 258654                           SKY# 24005                         
+   UBV 11525                            UBV M 18697                          WDS J12550-8507AB                  
+   ** RST 2819                          ** B 9020AB                          GEN# +1.00111482                   
+   UCAC4 025-005691                     WISE J125459.89-850725.4             Gaia DR2 5769608209294672768       
+   WEB 11174                                                                                                    
 
-Bibcodes  1850-2021 () (24):
-  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2009AJ....137.3358M
-  2008MNRAS.389..869E  2001A&A...365..222G  2000A&A...356..141F  1997RMxAA..33....3P
-  1995A&AS..114..269D  1993AJ....106..352H  1993yCat.3135....0C  1992A&AS...95..355C
-  1992ApJS...83..351H  1991A&AS...90..109C  1990AJ.....99..965M  1990PBeiO..16...18L
-  1987A&AS...67....1C  1981AJ.....86..875M  1980A&AS...39..197W  1980AcA....30..453G
-  1975MSS...C01....0H  1970ApJ...161..199E  1969MNRAS.144..333W  1953GCRV..C......0W
+Bibcodes  1850-2023 () (27):
+  2020A&A...633A..34C  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M
+  2009AJ....137.3358M  2008MNRAS.389..869E  2007A&A...474..653V  2001A&A...365..222G
+  2000A&A...356..141F  1997A&A...323L..49P  1997RMxAA..33....3P  1995A&AS..114..269D
+  1993AJ....106..352H  1993yCat.3135....0C  1992A&AS...95..355C  1992ApJS...83..351H
+  1991A&AS...90..109C  1990AJ.....99..965M  1990PBeiO..16...18L  1987A&AS...67....1C
+  1981AJ.....86..875M  1980A&AS...39..197W  1980AcA....30..453G  1975MSS...C01....0H
+  1970ApJ...161..199E  1969MNRAS.144..333W  1953GCRV..C......0W            
 
-Measures (MK:3  PLX:3  PM:5  velocities:5  ):
-MK:3PLX:3PM:5velocities:5
+Measures (Fe_H:1  MK:3  PLX:3  PM:5  velocities:5  ):
+Fe_H:1MK:3PLX:3PM:5velocities:5
 
 Notes (0) :
 

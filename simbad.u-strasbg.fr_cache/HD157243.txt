@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:53:12
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:31:58
 
 HD157243
 --------
@@ -26,24 +26,25 @@ Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
 Identifiers (31):
-   TIC 217774047                   CD-44 11669                     CEL 4509                      
-   CPC 0 16121                     CPD-44 8431                     GC 23503                      
-   GCRV 10039                      GEN# +1.00157243                GSC 07895-05293               
-   HD 157243                       HIC 85162                       HIP 85162                     
-   HR 6460                         N30 3874                        PPM 322908                    
-   ROT 2440                        SAO 227911                      SKY# 31404                    
-   TD1 20320                       TYC 7895-5293-1                 UBV 14804                     
-   UBV M 22141                     [B10] 4404                      [CS62] E7 47                  
-   [SC95] ZET 394                  [SC96] Mis 425                  uvby98 100157243              
-   2MASS J17241309-4409452         ALS 15047                       WEB 14381                     
-   Gaia DR2 5953243727973804672                                                                  
+   HIP 85162                            TIC 217774047                        CD-44 11669                        
+   CEL 4509                             CPC 0 16121                          CPD-44 8431                        
+   GC 23503                             GCRV 10039                           GEN# +1.00157243                   
+   GSC 07895-05293                      HD 157243                            HIC 85162                          
+   HR 6460                              N30 3874                             PPM 322908                         
+   ROT 2440                             SAO 227911                           SKY# 31404                         
+   TD1 20320                            TYC 7895-5293-1                      UBV 14804                          
+   UBV M 22141                          [B10] 4404                           [CS62] E7 47                       
+   [SC95] ZET 394                       [SC96] Mis 425                       uvby98 100157243                   
+   2MASS J17241309-4409452              ALS 15047                            WEB 14381                          
+   Gaia DR2 5953243727973804672                                                                                 
 
-Bibcodes  1850-2021 () (60):
-  2019A&A...623A..72K  2019MNRAS.483..299G  2019MNRAS.490.3158C  2016A&A...585A..12B
-  2015A&A...580A..23P  2012A&A...546A..61D  2012ApJS..199....8G  2012AstL...38..694G
-  2012MNRAS.427..343M  2011MNRAS.410..190T  2010A&A...510A..54W  2008MNRAS.389..869E
-  2006AstL...32..759G  2005AJ....130.1652R  2003A&A...403..605W  2003A&A...411..447L
-  2003AJ....125.2531R  2001A&A...367..521P  1998A&AS..129..431H  1998JRASC..92..134W
+Bibcodes  1850-2023 () (64):
+  2021ApJS..254...42B  2019A&A...623A..72K  2019MNRAS.483..299G  2019MNRAS.490.3158C
+  2018A&A...620A.172Z  2016A&A...585A..12B  2015A&A...580A..23P  2012A&A...546A..61D
+  2012ApJS..199....8G  2012AstL...38..694G  2012MNRAS.427..343M  2011MNRAS.410..190T
+  2010A&A...510A..54W  2008MNRAS.389..869E  2007A&A...474..653V  2006AstL...32..759G
+  2005AJ....130.1652R  2003A&A...403..605W  2003A&A...411..447L  2003AJ....125.2531R
+  2001A&A...367..521P  1998A&AS..129..431H  1998JRASC..92..134W  1997A&A...323L..49P
   1996A&AS..118..481B  1996ApJS..104..101S  1996MNRAS.281..522C  1995A&AS..114..269D
   1995ApJS...96..605S  1993Ap&SS.203...53H  1993SAAOC..15...30C  1993yCat.3135....0C
   1992ApJS...82..117S  1992MNRAS.255..308K  1990A&AS...85..915D  1990SAAOC..14...55C
@@ -55,8 +56,8 @@ Bibcodes  1850-2021 () (60):
   1966ZA.....64..116P  1963ApJ...138..617C  1962RGOB...49....3C  1960MNRAS.121..263B
   1957MNRAS.117..449D  1953GCRV..C......0W  1950MNRAS.110..531C  1914ApJ....40...43K
 
-Measures (distance:1  MK:6  PLX:3  PM:5  velocities:6  ):
-distance:1MK:6PLX:3PM:5velocities:6
+Measures (distance:1  MK:6  PLX:3  PM:5  velocities:4  ):
+distance:1MK:6PLX:3PM:5velocities:4
 
 Notes (0) :
 

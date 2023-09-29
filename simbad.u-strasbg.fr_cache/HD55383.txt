@@ -1,23 +1,23 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:49:37
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST07:25:53
 
 HD55383
 -------
 
 Object * 51 Gem  ---  LP*  ---  OID=@953997   (@@19816,0)  ---  coobox=5723
 
-Coordinates(ICRS,ep=J2000,eq=2000): 07 13 22.2750859120  +16 09 32.289016337 (Opt ) A [0.2236 0.2030 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 07 10 30.0261481939  +16 14 43.810862626
-Coordinates(Gal,ep=J2000,eq=2000): 200.7823013619513  +12.0394960540707
+Coordinates(ICRS,ep=J2000,eq=2000): 07 13 22.2758350560  +16 09 32.271188148 (Opt ) A [0.2300 0.2229 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 07 10 30.0293753892  +16 14 43.731607633
+Coordinates(Gal,ep=J2000,eq=2000): 200.7823072474380  +12.0394966720057
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 13.433 -42.680 [0.430 0.370 90] A 2018yCat.1345....0G
-Parallax: 5.5716 [0.2460] A 2018yCat.1345....0G
+Proper motions: 12.727 -41.447 [0.234 0.206 90] A 2020yCat.1350....0G
+Parallax: 5.031 [0.2653] A 2020yCat.1350....0G
 Radial Velocity: -9.00 [0.7] A 2006AstL...32..759G
 Redshift: -0.000030 [0.000002] A 2006AstL...32..759G
 cz: -9.00 [0.70] A 2006AstL...32..759G
 Flux U : 8.48 [~] C 2002yCat.2237....0D
 Flux B : 6.66 [~] C 2002yCat.2237....0D
 Flux V : 5.00 [~] C 2002yCat.2237....0D
-Flux G : 3.6893 [0.0057] C 2018yCat.1345....0G
+Flux G : 3.803366 [0.006193] C 2020yCat.1350....0G
 Flux J : 0.93 [~] C 2002yCat.2237....0D
 Flux H : 0.01 [~] C 2002yCat.2237....0D
 Flux K : -0.21 [~] C 2002yCat.2237....0D
@@ -25,29 +25,30 @@ Spectral type: M4III D ~
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (38):
-   TIC 440755032                   2MASS J07132227+1609322         PLX 1684                      
-   * 51 Gem                        AAVSO 0707+16                   AG+16 741                     
-   BD+16 1417                      BDS 3893 A                      CCDM J07134+1610A             
-   CSI+16 1417 1                   FK5 1188                        GC 9551                       
-   GCRV 4757                       GEN# +1.00055383                GSC 01346-01397               
-   HD 55383                        HIC 34909                       HIP 34909                     
-   HR 2717                         IDS 07076+1620 A                IRAS 07104+1614               
-   IRC +20175                      N30 1586                        PMC 90-93 803                 
-   PPM 123710                      RAFGL 1086                      SAO 96638                     
-   SKY# 13025                      SRS 31188                       TYC 1346-1397-1               
-   UBV 21342                       UBV M 12996                     V* BQ Gem                     
-   YZ 16 2695                      PLX 1684.00                     WDS J07134+1610A              
-   WEB 6978                        Gaia DR2 3360277997442776576                                  
+Identifiers (39):
+   HIP 34909                            Gaia DR3 3360277997443303424         TIC 440755032                      
+   2MASS J07132227+1609322              PLX 1684                             * 51 Gem                           
+   AAVSO 0707+16                        AG+16 741                            BD+16 1417                         
+   BDS 3893 A                           CCDM J07134+1610A                    CSI+16 1417 1                      
+   FK5 1188                             GC 9551                              GCRV 4757                          
+   GEN# +1.00055383                     GSC 01346-01397                      HD 55383                           
+   HIC 34909                            HR 2717                              IDS 07076+1620 A                   
+   IRAS 07104+1614                      IRC +20175                           N30 1586                           
+   PMC 90-93 803                        PPM 123710                           RAFGL 1086                         
+   SAO 96638                            SKY# 13025                           SRS 31188                          
+   TYC 1346-1397-1                      UBV 21342                            UBV M 12996                        
+   V* BQ Gem                            YZ 16 2695                           PLX 1684.00                        
+   WDS J07134+1610A                     WEB 6978                             Gaia DR2 3360277997442776576       
 
-Bibcodes  1850-2021 () (92):
-  2019A&A...623A..72K  2018MNRAS.481.4984M  2014A&A...567A..26L  2013ApJ...770..124K
-  2012A&A...546A..61D  2012MNRAS.427..343M  2011MNRAS.410..190T  2010A&A...514A...2I
-  2010AJ....140..293B  2010ApJS..190..203P  2010JBAA..120..135T  2009BAVSM.202....1H
-  2009OEJV...97....1H  2008MNRAS.389..869E  2006AstL...32..759G  2005A&A...430..165F
-  2005AJ....130.2262R  2002MNRAS.331...45K  2002yCat.2237....0D  2001A&A...365..222G
-  2001A&A...367..521P  2001A&A...374..968M  1999A&A...351..533L  1999A&A...351..644L
-  1999A&AS..140...55B  1999ApJS..123..283M  1998ApJS..119..141S  1997AJ....114..850S
+Bibcodes  1850-2023 () (96):
+  2021ApJS..254...42B  2020AN....341..908B  2019A&A...623A..72K  2018MNRAS.481.4984M
+  2014A&A...567A..26L  2013ApJ...770..124K  2012A&A...546A..61D  2012MNRAS.427..343M
+  2011MNRAS.410..190T  2010A&A...514A...2I  2010AJ....140..293B  2010ApJS..190..203P
+  2010JBAA..120..135T  2009BAVSM.202....1H  2009OEJV...97....1H  2008MNRAS.389..869E
+  2007A&A...474..653V  2006AstL...32..759G  2005A&A...430..165F  2005AJ....130.2262R
+  2002MNRAS.331...45K  2002yCat.2237....0D  2001A&A...365..222G  2001A&A...367..521P
+  2001A&A...374..968M  1999A&A...351..533L  1999A&A...351..644L  1999A&AS..140...55B
+  1999ApJS..123..283M  1998ApJS..119..141S  1997A&A...323L..49P  1997AJ....114..850S
   1997ApJS..112..557K  1997PNAOJ...5....1Y  1996ARep...40..693T  1996ApJ...463..766O
   1996IBVS.4289....1W  1995A&AS..109..501C  1995A&AS..114..269D  1995AJ....109.1797E
   1995GCTP..C......0V  1994A&AS..103..427K  1994PASP..106..611P  1993yCat.3135....0C
@@ -65,8 +66,8 @@ Bibcodes  1850-2021 () (92):
   1964ApJS....9..141S  1962ApJ...136...21M  1962JO.....45..257P  1962ZA.....55..166N
   1960AnAp...23....1L  1953GCRV..C......0W  1950JO.....33...76P  1926ApJ....64..225A
 
-Measures (distance:1  MK:1  PLX:4  PM:6  V*:1  velocities:7  ):
-distance:1MK:1PLX:4PM:6V*:1velocities:7
+Measures (distance:2  MK:2  PLX:6  PM:7  V*:1  velocities:7  ):
+distance:2MK:2PLX:6PM:7V*:1velocities:7
 
 Notes (0) :
 

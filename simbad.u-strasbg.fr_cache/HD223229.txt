@@ -1,22 +1,23 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:46:58
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST14:26:49
 
 HD223229
 --------
 
 Object HD 223229  ---  V*  ---  OID=@6113   (@@5713,0)  ---  coobox=675
 
-Coordinates(ICRS,ep=J2000,eq=2000): 23 47 33.04940  +46 49 57.2178 (Opt ) A [3.96 3.08 90] 2007A&A...474..653V
-Coordinates(FK4,ep=B1950,eq=1950): 23 45 03.51181  +46 33 17.3079
-Coordinates(Gal,ep=J2000,eq=2000): 111.71244290  -14.64271681 
+Coordinates(ICRS,ep=J2000,eq=2000): 23 47 33.0491881873  +46 49 57.221688449 (Opt ) A [0.0524 0.0400 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 23 45 03.5131588910  +46 33 17.272073066
+Coordinates(Gal,ep=J2000,eq=2000): 111.7124425860183  -14.6427156120113
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 1.03 -6.64 [0.35 0.45 0] A 2007A&A...474..653V
-Parallax: 3.13 [0.57] A 2007A&A...474..653V
+Proper motions: 0.708 -5.845 [0.059 0.050 90] A 2020yCat.1350....0G
+Parallax: 1.9698 [0.0761] A 2020yCat.1350....0G
 Radial Velocity: -9.30 [2.2] C 2006AstL...32..759G
 Redshift: -0.000031 [0.000007] C 2006AstL...32..759G
 cz: -9.30 [2.20] C 2006AstL...32..759G
 Flux U : 5.25 [~] D 2003AJ....125.2531R
-Flux B : 5.996 [0.014] D 2000A&A...355L..27H
-Flux V : 6.134 [0.009] D 2000A&A...355L..27H
+Flux B : 5.99 [0.01] D 2002A&A...384..180F
+Flux V : 6.13 [0.01] D 2002A&A...384..180F
+Flux G : 6.163486 [0.002826] C 2022yCat.1355....0G
 Flux J : 6.305 [0.020] C 2003yCat.2246....0C
 Flux H : 6.413 [0.018] C 2003yCat.2246....0C
 Flux K : 6.434 [0.017] C 2003yCat.2246....0C
@@ -24,24 +25,27 @@ Spectral type: B3IV C ~
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (30):
-   TIC 177167710                   ADS 17006 AB                    AG+46 2195                    
-   BD+46 4169                      CCDM J23476+4650AB              CSV 103134                    
-   GC 33021                        GCRV 14897                      GEN# +1.00223229J             
-   GSC 03638-00013                 HD 223229                       HGAM 1148                     
-   HIC 117340                      HIP 117340                      HR 9011                       
-   IDS 23426+4617 AB               NSV 14709                       PMC 90-93 4689                
-   PPM 64658                       SAO 53374                       SKY# 44927                    
-   TD1 30086                       TYC 3638-13-1                   UBV M 27248                   
-   2MASS J23473305+4649572         ALS 17330                       WDS J23476+4650AB             
-   ** BU 995AB                     uvby98 100223229                WEB 20673                     
+Identifiers (35):
+   WISE J234733.03+464957.1             UCAC4 685-131803                     Gaia DR3 1939381285534581504       
+   Gaia DR2 1939381285534581504         ADS 17006 A                          WDS J23476+4650A                   
+   IDS 23426+4617 A                     ** BU 995A                           CCDM J23476+4650A                  
+   HD 223229A                           GEN# +1.00223229                     TIC 177167710                      
+   AG+46 2195                           BD+46 4169                           CSV 103134                         
+   GC 33021                             GCRV 14897                           GSC 03638-00013                    
+   HD 223229                            HGAM 1148                            HIC 117340                         
+   HIP 117340                           HR 9011                              NSV 14709                          
+   PMC 90-93 4689                       PPM 64658                            SAO 53374                          
+   SKY# 44927                           TD1 30086                            TYC 3638-13-1                      
+   UBV M 27248                          2MASS J23473305+4649572              ALS 17330                          
+   uvby98 100223229                     WEB 20673                                                               
 
-Bibcodes  1850-2021 () (55):
-  2019A&A...623A..72K  2019A&A...631A.145D  2017PASJ...69...48S  2015A&A...580A..23P
-  2012ApJS..199....8G  2011MNRAS.410..190T  2010A&A...510A..54W  2010AN....331..349H
-  2010PASJ...62.1239T  2006AstL...32..759G  2006MNRAS.367.1170S  2005AJ....129..809S
-  2005AJ....130.1652R  2003A&A...411..447L  2003AJ....125.2531R  2003ApJS..145..355G
-  2002ApJ...573..359A  2001A&A...366..868D  2000A&A...356..141F  1998A&AS..129..431H
+Bibcodes  1850-2023 () (59):
+  2022A&A...657A..62K  2021ApJS..254...42B  2019A&A...623A..72K  2019A&A...631A.145D
+  2017PASJ...69...48S  2015A&A...580A..23P  2012ApJS..199....8G  2011MNRAS.410..190T
+  2010A&A...510A..54W  2010AN....331..349H  2010PASJ...62.1239T  2007A&A...474..653V
+  2006AstL...32..759G  2006MNRAS.367.1170S  2005AJ....129..809S  2005AJ....130.1652R
+  2003A&A...411..447L  2003AJ....125.2531R  2003ApJS..145..355G  2002ApJ...573..359A
+  2001A&A...366..868D  2000A&A...356..141F  1998A&AS..129..431H  1997A&A...323L..49P
   1997A&AS..125...75P  1997PNAOJ...5....1Y  1996A&AS..118..481B  1995A&AS..114..269D
   1994A&AS..104..121H  1994JRASC..88..155E  1993Ap&SS.203...53H  1993yCat.3135....0C
   1991BAICz..42....1H  1990A&AS...83..251D  1990ApJS...74..551A  1989A&AS...80...73G
@@ -52,12 +56,10 @@ Bibcodes  1850-2021 () (55):
   1963AJ.....68...57V  1961JO.....44..158H  1960AJ.....65..156W  1957JO.....40..113C
   1956AJ.....61...90M  1953GCRV..C......0W  1952AJ.....57..227W            
 
-Measures (IUE:1  MK:3  PLX:2  PM:4  ROT:1  V*:1  velocities:4  ):
-IUE:1MK:3PLX:2PM:4ROT:1V*:1velocities:4
+Measures (distance:1  IUE:1  MK:3  PLX:4  PM:6  ROT:1  V*:1  velocities:4  ):
+distance:1IUE:1MK:3PLX:4PM:6ROT:1V*:1velocities:4
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 117340 includes the components \object{CCDM J23476+4650AB}
+Notes (0) :
 
 ================================================================================
 

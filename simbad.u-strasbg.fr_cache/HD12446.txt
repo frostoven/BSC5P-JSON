@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:50:27
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:16:10
 
 HD12446
 -------
@@ -22,14 +22,14 @@ Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
 Identifiers (17):
-   * alf Psc B                     * 113 Psc B                     ADS 1615 B                    
-   BD+02 317B                      CCDM J02020+0246B               CSI+02 317 2                  
-   CSV 100159                      GCRV 1120                       HD 12446                      
-   HR 595                          WDS J02020+0246B                TYC 40-1338-2                 
-   Renson 3170                     PMSC 01569+0217B                PMSC 01569+0217Bab            
-   WEB 1992                        Gaia DR2 2517584003554093696                                  
+   * alf Psc B                          * 113 Psc B                          ADS 1615 B                         
+   BD+02 317B                           CCDM J02020+0246B                    CSI+02 317 2                       
+   CSV 100159                           GCRV 1120                            HD 12446                           
+   HR 595                               WDS J02020+0246B                     TYC 40-1338-2                      
+   Renson 3170                          PMSC 01569+0217B                     PMSC 01569+0217Bab                 
+   WEB 1992                             Gaia DR2 2517584003554093696                                            
 
-Bibcodes  1850-2021 () (98):
+Bibcodes  1850-2023 () (98):
   2019MNRAS.483.2300S  2019MNRAS.483.3127S  2017AJ....153...16S  2017AJ....153..218C
   2017MNRAS.468.2745N  2016A&A...589A..83G  2013AJ....146...56M  2012A&A...546A..69M
   2012MNRAS.420..757W  2011AJ....141..157M  2011AJ....142...46M  2009A&A...498..961R
@@ -56,10 +56,12 @@ Bibcodes  1850-2021 () (98):
   1950AJ.....55..138J  1950JO.....33....1B  1950JO.....33..105M  1926ApJ....64..262D
   1918ApJ....47..289P  1913ApJ....38..502L                        
 
-Measures (MK:5  ROT:2  velocities:7  ):
-MK:5ROT:2velocities:7
+Measures (Fe_H:1  MK:5  ROT:3  velocities:7  ):
+Fe_H:1MK:5ROT:3velocities:7
 
-Notes (0) :
+Notes (1) :
+(S) 19-Aug-2023 - cl    ref:~    obj:* alf Psc B
+    Not recovered in Gaia DR3
 
 ================================================================================
 

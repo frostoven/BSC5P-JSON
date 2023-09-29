@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:26:33
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:37:08
 
 HD110318
 --------
 
 Object HD 110318  ---  SB*  ---  OID=@1970568   (@@40920,1)  ---  coobox=15511
 
-Coordinates(ICRS,ep=J2000,eq=2000): 12 41 16.2289348135  -13 00 53.546920046 (Opt ) A [0.1320 0.0873 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 12 38 40.2748051685  -12 44 26.549453115
-Coordinates(Gal,ep=J2000,eq=2000): 299.0949049405951  +49.7811093850677
+Coordinates(ICRS,ep=J2000,eq=2000): 12 41 16.2277173792  -13 00 53.529499296 (Opt ) A [0.1059 0.0694 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 12 38 40.2698270292  -12 44 26.477420027
+Coordinates(Gal,ep=J2000,eq=2000): 299.0948968426919  +49.7811139130053
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: -132.987 1.966 [0.236 0.159 90] A 2018yCat.1345....0G
-Parallax: 13.0520 [0.1616] A 2018yCat.1345....0G
+Proper motions: -131.885 0.875 [0.166 0.113 90] A 2020yCat.1350....0G
+Parallax: 13.8949 [0.1634] A 2020yCat.1350....0G
 Radial Velocity: -11.1 [0.9] E 1953GCRV..C......0W
 Redshift: -0.000037 [0.000003] E 1953GCRV..C......0W
 cz: -11.10 [0.90] E 1953GCRV..C......0W
 Flux B : 6.28 [0.01] D 2000A&A...355L..27H
 Flux V : 5.822 [0.010] D 2000A&A...355L..27H
-Flux G : 5.7368 [0.0006] C 2018yCat.1345....0G
+Flux G : 5.752677 [0.002794] C 2020yCat.1350....0G
 Flux J : 4.12 [10.00] E 2003yCat.2246....0C
 Flux H : 3.81 [0.63] E 2003yCat.2246....0C
 Flux K : 4.630 [0.020] C 2003yCat.2246....0C
@@ -24,16 +24,17 @@ Spectral type: F5V C 1981ApJS...45..437A
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (20):
-   TIC 181862541                   ADS 8627 A                      BD-12 3676A                   
-   CSI-12 3676 2                   GC 17260                        GCRV 7617                     
-   HD 110318                       HR 4822                         PPM 226198                    
-   SAO 157448                      SBC7 471                        SBC9 735                      
-   CCDM J12413-1301A               2MASS J12411615-1300524         TYC 5534-1488-2               
-   WDS J12413-1301A                PMSC 12361-1228A                PMSC 12361-1228Aab            
-   WEB 11006                       Gaia DR2 3528976341368899712                                  
+Identifiers (22):
+   WISE J124116.14-130053.3             Gaia DR3 3528976341368899712         TIC 181862541                      
+   ADS 8627 A                           BD-12 3676A                          CSI-12 3676 2                      
+   GC 17260                             GCRV 7617                            HD 110318                          
+   HR 4822                              PPM 226198                           SAO 157448                         
+   SBC7 471                             SBC9 735                             CCDM J12413-1301A                  
+   2MASS J12411615-1300524              TYC 5534-1488-2                      WDS J12413-1301A                   
+   PMSC 12361-1228A                     PMSC 12361-1228Aab                   WEB 11006                          
+   Gaia DR2 3528976341368899712                                                                                 
 
-Bibcodes  1850-2021 () (63):
+Bibcodes  1850-2023 () (63):
   2020ApJS..247...11R  2016ApJ...826..171G  2015A&A...580A..23P  2015AJ....149....8T
   2013AJ....146..146F  2011A&A...530A.138C  2011AJ....142...46M  2009AJ....138..664Z
   2009ApJS..180..117A  2008AJ....135..209M  2008MNRAS.389..869E  2008MNRAS.389..925T
@@ -51,8 +52,8 @@ Bibcodes  1850-2021 () (63):
   1970VA.....12..367E  1964JO.....47...27H  1959AJ.....64..219S  1957JO.....40...93W
   1955ApJ...121..337S  1955JO.....38..252G  1953GCRV..C......0W            
 
-Measures (distance:1  MK:2  PLX:1  PM:2  ROT:1  velocities:8  ):
-distance:1MK:2PLX:1PM:2ROT:1velocities:8
+Measures (distance:2  MK:2  PLX:2  PM:3  ROT:1  velocities:7  ):
+distance:2MK:2PLX:2PM:3ROT:1velocities:7
 
 Notes (1) :
 (S) 03-Sep-2010 - ep    ref:~    obj:TYC 5534-1488-2

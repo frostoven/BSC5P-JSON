@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:22:18
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:29:36
 
 HD104625
 --------
 
 Object HD 104625  ---  *  ---  OID=@1891814   (@@39230,23)  ---  coobox=15394
 
-Coordinates(ICRS,ep=J2000,eq=2000): 12 02 51.6607182154  -07 41 01.050521410 (Opt ) A [0.0626 0.0545 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 12 00 17.9477109673  -07 24 19.513325524
-Coordinates(Gal,ep=J2000,eq=2000): 282.5377142392298  +53.2537330359700
+Coordinates(ICRS,ep=J2000,eq=2000): 12 02 51.6608813856  -07 41 01.054374648 (Opt ) A [0.0423 0.0263 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 12 00 17.9483849228  -07 24 19.530029085
+Coordinates(Gal,ep=J2000,eq=2000): 282.5377158687422  +53.2537322302472
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -30.469 14.122 [0.146 0.106 90] A 2018yCat.1345....0G
-Parallax: 4.1829 [0.0710] A 2018yCat.1345....0G
+Proper motions: -30.621 14.379 [0.063 0.036 90] A 2020yCat.1350....0G
+Parallax: 4.2143 [0.0527] A 2020yCat.1350....0G
 Radial Velocity: -8.62 [0.15] A 2018yCat.1345....0G
 Redshift: -0.000029 [0.000001] A 2018yCat.1345....0G
 cz: -8.62 [0.15] A 2018yCat.1345....0G
 Flux B : 7.735 [0.017] D 2000A&A...355L..27H
 Flux V : 6.225 [0.010] D 2000A&A...355L..27H
-Flux G : 5.6603 [0.0011] C 2018yCat.1345....0G
+Flux G : 5.681846 [0.002787] C 2020yCat.1350....0G
 Flux J : 3.777 [0.308] E 2003yCat.2246....0C
 Flux H : 2.939 [0.216] D 2003yCat.2246....0C
 Flux K : 2.788 [0.276] D 2003yCat.2246....0C
@@ -24,22 +24,23 @@ Spectral type: K4III C 1999MSS...C05....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (22):
-   TIC 152775187                   BD-06 3499                      GC 16458                      
-   GCRV 62929                      GEN# +1.00104625                GSC 05518-00127               
-   HD 104625                       HERZ 1575                       HIC 58741                     
-   HIP 58741                       HR 4598                         IRAS 12003-0724               
-   IRC -10261                      PPM 195089                      SAO 138551                    
-   SKY# 22631                      TYC 5518-127-1                  UBV 10798                     
-   UBV M 17660                     YZ 97 4455                      2MASS J12025166-0741009       
-   Gaia DR2 3594718615495997184                                                                  
+Identifiers (23):
+   HIP 58741                            Gaia DR3 3594718615495997184         TIC 152775187                      
+   BD-06 3499                           GC 16458                             GCRV 62929                         
+   GEN# +1.00104625                     GSC 05518-00127                      HD 104625                          
+   HERZ 1575                            HIC 58741                            HR 4598                            
+   IRAS 12003-0724                      IRC -10261                           PPM 195089                         
+   SAO 138551                           SKY# 22631                           TYC 5518-127-1                     
+   UBV 10798                            UBV M 17660                          YZ 97 4455                         
+   2MASS J12025166-0741009              Gaia DR2 3594718615495997184                                            
 
-Bibcodes  1850-2021 () (7):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D  1999MSS...C05....0H
-  1993yCat.3135....0C  1989PASP..101...45E  1959PASP...71..539W            
+Bibcodes  1850-2023 () (10):
+  2021ApJS..254...42B  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D
+  2007A&A...474..653V  1999MSS...C05....0H  1997A&A...323L..49P  1993yCat.3135....0C
+  1989PASP..101...45E  1959PASP...71..539W                        
 
-Measures (distance:1  MK:2  PLX:3  PM:4  velocities:3  ):
-distance:1MK:2PLX:3PM:4velocities:3
+Measures (distance:2  MK:2  PLX:4  PM:5  velocities:3  ):
+distance:2MK:2PLX:4PM:5velocities:3
 
 Notes (0) :
 

@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:55:07
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:47:58
 
 HD31139
 -------
@@ -25,22 +25,23 @@ Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
 Identifiers (32):
-   TIC 459962673                   2MASS J04532277+0230298         PLX 1093                      
-   * 5 Ori                         AG+02 500                       BD+02 800                     
-   CSV 100421                      DO 898                          GC 5961                       
-   GCRV 2882                       GEN# +1.00031139                GSC 00089-02557               
-   HD 31139                        HIC 22730                       HIP 22730                     
-   HR 1562                         IRAS 04507+0225                 IRC +00064                    
-   NSV 1755                        PPM 148121                      RAFGL 647                     
-   SAO 112179                      SKY# 7615                       TYC 89-2557-1                 
-   UBV 4704                        UBV M 10421                     YPAC 360                      
-   YZ 2 1459                       SV* ZI 321                      PLX 1093.00                   
-   WEB 4398                        Gaia DR2 3232279416444894976                                  
+   HIP 22730                            TIC 459962673                        2MASS J04532277+0230298            
+   PLX 1093                             * 5 Ori                              AG+02 500                          
+   BD+02 800                            CSV 100421                           DO 898                             
+   GC 5961                              GCRV 2882                            GEN# +1.00031139                   
+   GSC 00089-02557                      HD 31139                             HIC 22730                          
+   HR 1562                              IRAS 04507+0225                      IRC +00064                         
+   NSV 1755                             PPM 148121                           RAFGL 647                          
+   SAO 112179                           SKY# 7615                            TYC 89-2557-1                      
+   UBV 4704                             UBV M 10421                          YPAC 360                           
+   YZ 2 1459                            SV* ZI 321                           PLX 1093.00                        
+   WEB 4398                             Gaia DR2 3232279416444894976                                            
 
-Bibcodes  1850-2021 () (34):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D  2012MNRAS.422.1250L
-  2012MNRAS.427..343M  2010A&A...514A...2I  2008MNRAS.389..869E  2006AstL...32..759G
-  2005A&A...430..165F  2003A&A...397..997P  2002ApJS..142...79M  1999MSS...C05....0H
+Bibcodes  1850-2023 () (38):
+  2022AJ....163..131M  2021ApJS..254...42B  2019A&A...623A..72K  2019MNRAS.490.3158C
+  2012A&A...546A..61D  2012MNRAS.422.1250L  2012MNRAS.427..343M  2010A&A...514A...2I
+  2008MNRAS.389..869E  2007A&A...474..653V  2006AstL...32..759G  2005A&A...430..165F
+  2003A&A...397..997P  2002ApJS..142...79M  1999MSS...C05....0H  1997A&A...323L..49P
   1997ApJS..112..557K  1996A&AS..118..239H  1995A&AS..114..269D  1995GCTP..C......0V
   1994A&AS..105..311F  1993yCat.3135....0C  1992A&AS...92....1G  1992AJ....104..275E
   1990ApJ...348..253M  1985AbaOB..59...83B  1984PASP...96..354G  1979PZP.....3..579P
@@ -48,8 +49,8 @@ Bibcodes  1850-2021 () (34):
   1967ApJ...147..587M  1967ApJS...14..307E  1966MNRAS.133..475A  1965JO.....48...45M
   1953GCRV..C......0W  1926ApJ....64..225A                        
 
-Measures (distance:1  MK:2  PLX:4  PM:3  V*:1  velocities:7  ):
-distance:1MK:2PLX:4PM:3V*:1velocities:7
+Measures (distance:1  MK:2  PLX:4  PM:3  V*:1  velocities:6  ):
+distance:1MK:2PLX:4PM:3V*:1velocities:6
 
 Notes (0) :
 

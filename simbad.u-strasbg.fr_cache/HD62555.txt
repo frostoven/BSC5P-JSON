@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:53:31
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST09:33:51
 
 HD62555
 -------
 
 Object HD 62555  ---  *  ---  OID=@1013035   (@@13817,14)  ---  coobox=7950
 
-Coordinates(ICRS,ep=J2000,eq=2000): 07 43 39.1105483717  -25 30 13.791477291 (Opt ) A [0.0265 0.0314 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 07 41 34.0458515503  -25 23 00.047743322
-Coordinates(Gal,ep=J2000,eq=2000): 241.3700556934908  -00.8541913888225
+Coordinates(ICRS,ep=J2000,eq=2000): 07 43 39.1104221352  -25 30 13.793657904 (Opt ) A [0.0119 0.0160 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 07 41 34.0453120693  -25 23 00.057659592
+Coordinates(Gal,ep=J2000,eq=2000): 241.3700559822489  -00.8541921022026
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -3.657 2.708 [0.068 0.063 90] A 2018yCat.1345....0G
-Parallax: 0.7186 [0.0434] A 2018yCat.1345....0G
+Proper motions: -3.544 2.862 [0.016 0.022 90] A 2020yCat.1350....0G
+Parallax: 0.888 [0.0218] A 2020yCat.1350....0G
 Radial Velocity: 27.20 [0.4] A 2006AstL...32..759G
 Redshift: 0.000091 [0.000001] A 2006AstL...32..759G
 cz: 27.20 [0.40] A 2006AstL...32..759G
 Flux B : 6.612 [0.014] D 2000A&A...355L..27H
 Flux V : 6.552 [0.009] D 2000A&A...355L..27H
-Flux G : 6.5018 [0.0003] C 2018yCat.1345....0G
+Flux G : 6.520776 [0.002766] C 2020yCat.1350....0G
 Flux J : 6.219 [0.024] C 2003yCat.2246....0C
 Flux H : 6.222 [0.027] C 2003yCat.2246....0C
 Flux K : 6.138 [0.026] C 2003yCat.2246....0C
@@ -24,29 +24,29 @@ Spectral type: A3III C 1988MSS...C04....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (27):
-   TIC 126355015                   CCDM J07437-2530A               CD-25 4966                    
-   CPD-25 2747                     CSI-25 4966 21                  CSI-25 4966 23                
-   GC 10413                        GEN# +1.00062555J               GSC 06544-04212               
-   HD 62555                        HIC 37660                       HIP 37660                     
-   HR 2992                         IDS 07395-2516 A                PPM 253048                    
-   SAO 174395                      SKY# 14282                      SRS 7918                      
-   TD1 10878                       TYC 6544-4212-1                 UBV 7424                      
-   YZ 115 5394                     2MASS J07433911-2530136         WDS J07437-2530A              
-   uvby98 100062555                Gaia DR1 5614014081167007360    Gaia DR2 5614014085479411968  
+Identifiers (28):
+   HIP 37660                            Gaia DR3 5614014085479411968         GEN# +1.00062555                   
+   TIC 126355015                        CCDM J07437-2530A                    CD-25 4966                         
+   CPD-25 2747                          CSI-25 4966 21                       CSI-25 4966 23                     
+   GC 10413                             GSC 06544-04212                      HD 62555                           
+   HIC 37660                            HR 2992                              IDS 07395-2516 A                   
+   PPM 253048                           SAO 174395                           SKY# 14282                         
+   SRS 7918                             TD1 10878                            TYC 6544-4212-1                    
+   UBV 7424                             YZ 115 5394                          2MASS J07433911-2530136            
+   WDS J07437-2530A                     uvby98 100062555                     Gaia DR1 5614014081167007360       
+   Gaia DR2 5614014085479411968                                                                                 
 
-Bibcodes  1850-2021 () (15):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2015A&A...580A..23P  2012A&A...546A..61D
-  2012MNRAS.427..343M  2006AstL...32..759G  2002A&A...381..105R  2002A&A...393..897R
-  1999A&AS..135..503G  1998A&AS..129..431H  1995A&AS..109..501C  1995ApJS...99..135A
-  1993yCat.3135....0C  1988MSS...C04....0H  1977A&AS...27..443G            
+Bibcodes  1850-2023 () (18):
+  2021ApJS..254...42B  2019A&A...623A..72K  2019MNRAS.490.3158C  2015A&A...580A..23P
+  2012A&A...546A..61D  2012MNRAS.427..343M  2007A&A...474..653V  2006AstL...32..759G
+  2002A&A...381..105R  2002A&A...393..897R  1999A&AS..135..503G  1998A&AS..129..431H
+  1997A&A...323L..49P  1995A&AS..109..501C  1995ApJS...99..135A  1993yCat.3135....0C
+  1988MSS...C04....0H  1977A&AS...27..443G                        
 
-Measures (distance:1  MK:2  PLX:4  PM:3  ROT:2  velocities:1  ):
-distance:1MK:2PLX:4PM:3ROT:2velocities:1
+Measures (distance:2  MK:2  PLX:5  PM:4  ROT:2  velocities:1  ):
+distance:2MK:2PLX:5PM:4ROT:2velocities:1
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 37660 includes the components \object{CCDM J07437-2530 A} and \object{CCDM J07437-2530 B}
+Notes (0) :
 
 ================================================================================
 

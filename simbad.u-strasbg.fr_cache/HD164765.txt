@@ -1,37 +1,38 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:59:55
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:41:33
 
 HD164765
 --------
 
 Object * tau Oph A  ---  SB*  ---  OID=@2610023   (@@55302,12)  ---  coobox=18756
 
-Coordinates(ICRS,ep=J2000,eq=2000): 18 03 04.9191157545  -08 10 49.269274718 (Opt ) A [0.3068 0.2184 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 18 00 21.4913694248  -08 10 54.908189451
-Coordinates(Gal,ep=J2000,eq=2000): 020.0607027197961  +06.8697359271511
+Coordinates(ICRS,ep=J2000,eq=2000): 18 03 04.9185025992  -08 10 49.268567928 (Opt ) A [0.1187 0.0990 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 18 00 21.4888580024  -08 10 54.904947952
+Coordinates(Gal,ep=J2000,eq=2000): 020.0607016671571  +06.8697382382708
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: 12.090 -37.650 [0.460 0.449 90] A 2018yCat.1345....0G
-Parallax: 18.6241 [0.3354] A 2018yCat.1345....0G
+Proper motions: 12.654 -37.697 [0.136 0.104 90] A 2020yCat.1350....0G
+Parallax: 18.1881 [0.1551] A 2020yCat.1350....0G
 Radial Velocity: -40.2 [2] E 1953GCRV..C......0W
 Redshift: -0.000134 [0.000007] E 1953GCRV..C......0W
 cz: -40.20 [2.00] E 1953GCRV..C......0W
 Flux B : 5.70 [0.01] C 2002A&A...384..180F
 Flux V : 5.27 [0.01] C 2002A&A...384..180F
-Flux G : 5.0951 [0.0027] C 2018yCat.1345....0G
+Flux G : 5.126288 [0.003009] C 2020yCat.1350....0G
 Spectral type: F2IV C 1999MSS...C05....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (24):
-   PLX 4122                        SBC9 2558                       * 69 Oph A                    
-   * tau Oph A                     ADS 11005 A                     BD-08 4549A                   
-   CCDM J18031-0811A               CSI-08 4549 2                   GC 24565                      
-   GCRV 10479                      GJ 700.1 A                      HD 164765                     
-   HERZ 14729                      HR 6734                         IDS 17576-0811 A              
-   ROT 2528                        WDS J18031-0811A                GJ 9612 A                     
-   TYC 5675-662-1                  ** STF 2262A                    PMSC 17576-0810A              
-   PMSC 17576-0810Aab              PLX 4122.00                     Gaia DR2 4170583776094715520  
+Identifiers (25):
+   Gaia DR3 4170583776094715520         PLX 4122                             SBC9 2558                          
+   * 69 Oph A                           * tau Oph A                          ADS 11005 A                        
+   BD-08 4549A                          CCDM J18031-0811A                    CSI-08 4549 2                      
+   GC 24565                             GCRV 10479                           GJ 700.1 A                         
+   HD 164765                            HERZ 14729                           HR 6734                            
+   IDS 17576-0811 A                     ROT 2528                             WDS J18031-0811A                   
+   GJ 9612 A                            TYC 5675-662-1                       ** STF 2262A                       
+   PMSC 17576-0810A                     PMSC 17576-0810Aab                   PLX 4122.00                        
+   Gaia DR2 4170583776094715520                                                                                 
 
-Bibcodes  1850-2021 () (80):
+Bibcodes  1850-2023 () (80):
   2016A&A...591A.118S  2016ApJ...826..171G  2015A&A...580A..23P  2013AJ....146...56M
   2012A&A...546A..69M  2012AJ....143..124M  2011A&A...530A.138C  2011AJ....141..157M
   2011AJ....142...46M  2010A&A...515A.111S  2009MNRAS.398.2069S  2008MNRAS.389..869E
@@ -53,8 +54,8 @@ Bibcodes  1850-2021 () (80):
   1956AJ.....61..405E  1956MNRAS.116..248H  1955JO.....38..221M  1953GCRV..C......0W
   1953JO.....36...61M  1951AnAp...14...85B  1951JO.....34...68G  1950JO.....33....1B
 
-Measures (distance:1  Fe_H:3  MK:2  PLX:2  PM:2  ROT:1  velocities:4  ):
-distance:1Fe_H:3MK:2PLX:2PM:2ROT:1velocities:4
+Measures (distance:2  Fe_H:3  MK:2  PLX:3  PM:3  ROT:1  velocities:4  ):
+distance:2Fe_H:3MK:2PLX:3PM:3ROT:1velocities:4
 
 Notes (0) :
 

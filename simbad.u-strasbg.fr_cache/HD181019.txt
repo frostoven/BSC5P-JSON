@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:11:17
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:01:27
 
 HD181019
 --------
 
 Object HD 181019  ---  *  ---  OID=@3402107   (@@71205,21)  ---  coobox=23670
 
-Coordinates(ICRS,ep=J2000,eq=2000): 19 24 05.4713362899  -68 22 15.896935158 (Opt ) A [0.0383 0.0638 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 19 18 53.4396959403  -68 28 04.757874087
-Coordinates(Gal,ep=J2000,eq=2000): 327.3552095761639  -28.0640922848241
+Coordinates(ICRS,ep=J2000,eq=2000): 19 24 05.4773651376  -68 22 15.912546924 (Opt ) A [0.0517 0.0928 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 19 18 53.4652450281  -68 28 04.825532417
+Coordinates(Gal,ep=J2000,eq=2000): 327.3552052714600  -28.0641017773917
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -16.788 -2.057 [0.098 0.132 90] A 2018yCat.1345....0G
-Parallax: 3.7604 [0.0870] A 2018yCat.1345....0G
+Proper motions: -18.951 -1.051 [0.081 0.128 90] A 2020yCat.1350....0G
+Parallax: 4.3845 [0.1448] A 2020yCat.1350....0G
 Radial Velocity: -20.10 [0.4] A 2006AstL...32..759G
 Redshift: -0.000067 [0.000001] A 2006AstL...32..759G
 cz: -20.10 [0.40] A 2006AstL...32..759G
 Flux B : 7.579 [0.015] D 2000A&A...355L..27H
 Flux V : 6.336 [0.009] D 2000A&A...355L..27H
-Flux G : 5.9389 [0.0005] C 2018yCat.1345....0G
+Flux G : 5.954780 [0.002764] C 2020yCat.1350....0G
 Flux J : 4.190 [0.232] D 2003yCat.2246....0C
 Flux H : 3.387 [0.206] D 2003yCat.2246....0C
 Flux K : 3.307 [0.272] D 2003yCat.2246....0C
@@ -24,22 +24,24 @@ Spectral type: K2III C 1975MSS...C01....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (21):
-   TIC 410397673                   CD-68 2073                      CPC 21.1 3740                 
-   CPD-68 3218                     GC 26698                        GEN# +1.00181019              
-   GSC 09305-01583                 HD 181019                       HIC 95369                     
-   HIP 95369                       HR 7320                         IRAS 19188-6828               
-   N30 4288                        PPM 363962                      SAO 254551                    
-   SKY# 36096                      TYC 9305-1583-1                 UBV 16332                     
-   UBV M 23655                     2MASS J19240550-6822159         Gaia DR2 6421685468618119808  
+Identifiers (22):
+   HIP 95369                            Gaia DR3 6421685468618119808         TIC 410397673                      
+   CD-68 2073                           CPC 21.1 3740                        CPD-68 3218                        
+   GC 26698                             GEN# +1.00181019                     GSC 09305-01583                    
+   HD 181019                            HIC 95369                            HR 7320                            
+   IRAS 19188-6828                      N30 4288                             PPM 363962                         
+   SAO 254551                           SKY# 36096                           TYC 9305-1583-1                    
+   UBV 16332                            UBV M 23655                          2MASS J19240550-6822159            
+   Gaia DR2 6421685468618119808                                                                                 
 
-Bibcodes  1850-2021 () (12):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2018A&A...616A..68G  2015A&A...576A..64B
-  2012MNRAS.427..343M  2006AstL...32..759G  2005A&A...431..773R  2005A&A...433.1155M
+Bibcodes  1850-2023 () (16):
+  2021ApJS..254...42B  2020ApJ...905...38R  2019A&A...623A..72K  2019MNRAS.490.3158C
+  2018A&A...616A..68G  2015A&A...576A..64B  2012MNRAS.427..343M  2007A&A...474..653V
+  2006AstL...32..759G  2005A&A...431..773R  2005A&A...433.1155M  1997A&A...323L..49P
   1993yCat.3135....0C  1985A&AS...59...15A  1975ApJ...202..563S  1975MSS...C01....0H
 
-Measures (distance:1  MK:2  PLX:3  PM:5  velocities:2  ):
-distance:1MK:2PLX:3PM:5velocities:2
+Measures (distance:2  MK:2  PLX:4  PM:6  velocities:2  ):
+distance:2MK:2PLX:4PM:6velocities:2
 
 Notes (0) :
 

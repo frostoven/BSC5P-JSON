@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:55:41
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:53:23
 
 HD34347
 -------
 
 Object HD 34347  ---  *  ---  OID=@2998212   (@@71902,18)  ---  coobox=22585
 
-Coordinates(ICRS,ep=J2000,eq=2000): 05 13 53.3337372473  -52 01 50.717667095 (Opt ) A [0.0680 0.0774 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 05 12 43.5396169157  -52 05 12.957723521
-Coordinates(Gal,ep=J2000,eq=2000): 259.2032426779115  -35.8423620081256
+Coordinates(ICRS,ep=J2000,eq=2000): 05 13 53.3337790872  -52 01 50.716402824 (Opt ) A [0.0297 0.0287 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 05 12 43.5397632573  -52 05 12.952898669
+Coordinates(Gal,ep=J2000,eq=2000): 259.2032422432183  -35.8423619048440
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -0.146 -13.766 [0.139 0.153 90] A 2018yCat.1345....0G
-Parallax: 5.0296 [0.0684] A 2018yCat.1345....0G
+Proper motions: -0.166 -13.837 [0.040 0.037 90] A 2020yCat.1350....0G
+Parallax: 4.9863 [0.0289] A 2020yCat.1350....0G
 Radial Velocity: 35.02 [0.16] A 2018yCat.1345....0G
 Redshift: 0.000117 [0.000001] A 2018yCat.1345....0G
 cz: 35.02 [0.16] A 2018yCat.1345....0G
 Flux B : 7.424 [0.015] D 2000A&A...355L..27H
 Flux V : 6.023 [0.010] D 2000A&A...355L..27H
-Flux G : 5.5449 [0.0019] C 2018yCat.1345....0G
+Flux G : 5.571080 [0.002812] C 2020yCat.1350....0G
 Flux J : 3.917 [0.292] D 2003yCat.2246....0C
 Flux H : 3.091 [0.232] D 2003yCat.2246....0C
 Flux K : 2.908 [0.256] D 2003yCat.2246....0C
@@ -24,22 +24,23 @@ Spectral type: K3III C 1978MSS...C02....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (19):
-   TIC 219405754                   2MASS J05135333-5201507         CPC 19 1676                   
-   CPD-52 677                      GC 6423                         GEN# +1.00034347              
-   GSC 08084-01569                 HD 34347                        HIC 24384                     
-   HIP 24384                       HR 1727                         IRAS 05127-5205               
-   PPM 334166                      SAO 233886                      SKY# 8240                     
-   TYC 8084-1569-1                 UBV 5037                        UBV M 10780                   
-   Gaia DR2 4772771932256631808                                                                  
+Identifiers (20):
+   HIP 24384                            Gaia DR3 4772771932256631808         TIC 219405754                      
+   2MASS J05135333-5201507              CPC 19 1676                          CPD-52 677                         
+   GC 6423                              GEN# +1.00034347                     GSC 08084-01569                    
+   HD 34347                             HIC 24384                            HR 1727                            
+   IRAS 05127-5205                      PPM 334166                           SAO 233886                         
+   SKY# 8240                            TYC 8084-1569-1                      UBV 5037                           
+   UBV M 10780                          Gaia DR2 4772771932256631808                                            
 
-Bibcodes  1850-2021 () (11):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D  2012MNRAS.427..343M
-  2006AstL...32..759G  1993yCat.3135....0C  1989PASP..101...45E  1989PASP..101..366E
-  1985A&AS...59...15A  1978MSS...C02....0H  1970ApJ...161..199E            
+Bibcodes  1850-2023 () (14):
+  2021ApJS..254...42B  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D
+  2012MNRAS.427..343M  2007A&A...474..653V  2006AstL...32..759G  1997A&A...323L..49P
+  1993yCat.3135....0C  1989PASP..101...45E  1989PASP..101..366E  1985A&AS...59...15A
+  1978MSS...C02....0H  1970ApJ...161..199E                        
 
-Measures (distance:1  MK:2  PLX:3  PM:4  velocities:2  ):
-distance:1MK:2PLX:3PM:4velocities:2
+Measures (distance:2  MK:2  PLX:4  PM:5  velocities:2  ):
+distance:2MK:2PLX:4PM:5velocities:2
 
 Notes (0) :
 

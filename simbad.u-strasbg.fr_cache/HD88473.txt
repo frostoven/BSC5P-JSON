@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:11:29
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:08:54
 
 HD88473
 -------
@@ -8,14 +8,13 @@ Object HD 88473  ---  **  ---  OID=@3207794   (@@67615,1)  ---  coobox=21320
 Coordinates(ICRS,ep=J2000,eq=2000): 10 09 30.17029  -68 40 58.0205 (Opt ) A [6.69 3.78 90] 2007A&A...474..653V
 Coordinates(FK4,ep=B1950,eq=1950): 10 08 15.91535  -68 26 12.0559
 Coordinates(Gal,ep=J2000,eq=2000): 289.05260130  -10.29441319 
-hierarchy counts: #parents=0, #children=0, #siblings=0
+hierarchy counts: #parents=0, #children=2, #siblings=0
 Proper motions: -17.89 20.27 [0.76 0.43 0] A 2007A&A...474..653V
 Parallax: 4.78 [0.43] A 2007A&A...474..653V
 Radial Velocity: 10.30 [1.1] B 2007AN....328..889K
 Redshift: 0.000034 [0.000004] B 2007AN....328..889K
 cz: 10.30 [1.10] B 2007AN....328..889K
-Flux B : 5.887 [0.014] D 2000A&A...355L..27H
-Flux V : 5.874 [0.009] D 2000A&A...355L..27H
+Flux G : 6.501482 [0.004116] C 2020yCat.1350....0G
 Flux J : 5.730 [0.021] C 2003yCat.2246....0C
 Flux H : 5.733 [0.038] C 2003yCat.2246....0C
 Flux K : 5.697 [0.018] C 2003yCat.2246....0C
@@ -23,30 +22,30 @@ Spectral type: A0IV C 1975MSS...C01....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (24):
-   TIC 372813812                   CCDM J10095-6841AB              CD-68 739                     
-   CPC 21.1 1693                   CPD-68 1034                     CSI-68 1034 41                
-   GC 13986                        GEN# +1.00088473J               GSC 09210-03439               
-   HD 88473                        HIC 49764                       HIP 49764                     
-   HR 4002                         IDS 10070-6812 AB               PPM 357801                    
-   SAO 250844                      SKY# 19554                      TD1 14636                     
-   TYC 9210-3439-1                 UBV 9486                        2MASS J10093022-6840581       
-   WDS J10095-6841AB               ** I 13AB                       uvby98 100088473              
+Identifiers (26):
+   HIP 49764                            Gaia DR3 5244534885272428160         WISE J100930.18-684057.9           
+   UCAC4 107-027206                     GEN# +1.00088473                     ** I 13                            
+   TIC 372813812                        CCDM J10095-6841AB                   CD-68 739                          
+   CPC 21.1 1693                        CPD-68 1034                          CSI-68 1034 41                     
+   GC 13986                             GSC 09210-03439                      HD 88473                           
+   HIC 49764                            HR 4002                              IDS 10070-6812 AB                  
+   PPM 357801                           SAO 250844                           SKY# 19554                         
+   TD1 14636                            UBV 9486                             2MASS J10093022-6840581            
+   WDS J10095-6841AB                    uvby98 100088473                                                        
 
-Bibcodes  1850-2021 () (24):
+Bibcodes  1850-2023 () (26):
   2019MNRAS.483..299G  2015A&A...580A..23P  2012A&A...546A..61D  2012MNRAS.427..343M
-  2008MNRAS.389..869E  2006AJ....131.1000H  2001AJ....121.1583H  2000A&A...356..141F
-  1998A&AS..129..431H  1997AJ....114.2117H  1993yCat.3135....0C  1992A&AS...92..533B
-  1991A&AS...90..565S  1990A&AS...85..915D  1990AJ.....99..965M  1987MNRAS.227..213S
-  1980A&AS...39..167K  1977A&AS...27..443G  1977PASP...89..187E  1977PASP...89..205E
-  1976PASP...88...52H  1975MSS...C01....0H  1975PASP...87..945H  1950MNRAS.110..455H
+  2008MNRAS.389..869E  2007A&A...474..653V  2006AJ....131.1000H  2001AJ....121.1583H
+  2000A&A...356..141F  1998A&AS..129..431H  1997A&A...323L..49P  1997AJ....114.2117H
+  1993yCat.3135....0C  1992A&AS...92..533B  1991A&AS...90..565S  1990A&AS...85..915D
+  1990AJ.....99..965M  1987MNRAS.227..213S  1980A&AS...39..167K  1977A&AS...27..443G
+  1977PASP...89..187E  1977PASP...89..205E  1976PASP...88...52H  1975MSS...C01....0H
+  1975PASP...87..945H  1950MNRAS.110..455H                        
 
 Measures (MK:2  PLX:2  PM:2  velocities:1  ):
 MK:2PLX:2PM:2velocities:1
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 49764 includes the components \object{CCDM J10095-6841AB}
+Notes (0) :
 
 ================================================================================
 

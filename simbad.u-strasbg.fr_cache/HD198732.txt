@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:22:25
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:23:29
 
 HD198732
 --------
@@ -22,23 +22,24 @@ Spectral type: K0III C 1988MSS...C04....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (25):
-   ADS 14380 AB                    CCDM J20530-2347AB              CD-24 16328                   
-   CPD-24 7105                     GC 29116                        GCRV 13098                    
-   GSC 06922-01266                 HD 198732                       HIC 103071                    
-   HIP 103071                      HR 7989                         IRAS 20500-2358               
-   PPM 271757                      SAO 189801                      SKY# 39634                    
-   UBV M 25226                     2MASS J20530114-2346593         WDS J20530-2347AB             
-   IDS 20472-2409                  ** HJ 3003                      WEB 18710                     
-   TIC 77116701                    GEN# +1.00198732                UCAC4 332-208225              
-   WISE J205301.19-234700.2                                                                      
+Identifiers (26):
+   IDS 20472-2409 AB                    WISEA J205301.21-234700.1            ADS 14380 AB                       
+   CCDM J20530-2347AB                   CD-24 16328                          CPD-24 7105                        
+   GC 29116                             GCRV 13098                           GSC 06922-01266                    
+   HD 198732                            HIC 103071                           HIP 103071                         
+   HR 7989                              IRAS 20500-2358                      PPM 271757                         
+   SAO 189801                           SKY# 39634                           UBV M 25226                        
+   2MASS J20530114-2346593              WDS J20530-2347AB                    ** HJ 3003                         
+   WEB 18710                            TIC 77116701                         GEN# +1.00198732                   
+   UCAC4 332-208225                     WISE J205301.19-234700.2                                                
 
-Bibcodes  1850-2021 () (19):
-  2020ApJ...889L..34S  2019A&A...623A..72K  2017AJ....154..115H  2016PASP..128f4202S
-  2012MNRAS.427..343M  2006AstL...32..759G  2000A&A...356..141F  2000AJ....120.2638H
-  1995A&AS..114..269D  1993yCat.3135....0C  1988MSS...C04....0H  1984ApJS...55..657C
-  1983MNRAS.202..761H  1982A&AS...50..115W  1980PASP...92..493C  1977PASP...89..582H
-  1975MNSSA..34....7H  1957JO.....40...93W  1953GCRV..C......0W            
+Bibcodes  1850-2023 () (22):
+  2021ApJS..254...42B  2020ApJ...889L..34S  2019A&A...623A..72K  2017AJ....154..115H
+  2016PASP..128f4202S  2012MNRAS.427..343M  2007A&A...474..653V  2006AstL...32..759G
+  2000A&A...356..141F  2000AJ....120.2638H  1997A&A...323L..49P  1995A&AS..114..269D
+  1993yCat.3135....0C  1988MSS...C04....0H  1984ApJS...55..657C  1983MNRAS.202..761H
+  1982A&AS...50..115W  1980PASP...92..493C  1977PASP...89..582H  1975MNSSA..34....7H
+  1957JO.....40...93W  1953GCRV..C......0W                        
 
 Measures (MK:2  PLX:2  PM:3  velocities:4  ):
 MK:2PLX:2PM:3velocities:4

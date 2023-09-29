@@ -1,13 +1,13 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:46:47
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:37:03
 
 HD25007
 -------
 
 Object HD 25007  ---  *  ---  OID=@7812022   (@@-1,255)  ---  coobox=2418
 
-Coordinates(ICRS,ep=J2000,eq=2000): 04 10 02.737  +80 41 55.22 (Opt ) B [3 3 90] 2002A&A...384..180F
-Coordinates(FK4,ep=B1950,eq=1950): 04 01 33.615  +80 33 56.34 
-Coordinates(Gal,ep=J2000,eq=2000): 130.509116  +20.907391     
+Coordinates(ICRS,ep=J2000,eq=2000): 04 10 02.737330  +80 41 55.22035 (Opt ) B [12 13 90] 2002A&A...384..180F
+Coordinates(FK4,ep=B1950,eq=1950): 04 01 33.615248  +80 33 56.34396
+Coordinates(Gal,ep=J2000,eq=2000): 130.509116451  +20.907390796
 hierarchy counts: #parents=1, #children=0, #siblings=0
 Proper motions: -15.0 1.0 [1.0 1.1 90] C 2002A&A...384..180F
 Parallax: ~ [~] ~ ~                  
@@ -21,12 +21,13 @@ Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
 Identifiers (6):
-   HD 25007                        TYC 4522-1564-1                 ** STF 460A                   
-   WDS J04100+8042A                CCDM J04100+8042A               WEB 3733                      
+   HD 25007                             TYC 4522-1564-1                      ** STF 460A                        
+   WDS J04100+8042A                     CCDM J04100+8042A                    WEB 3733                           
 
-Bibcodes  1850-2021 () (8):
-  2016A&A...591A.118S  2015A&A...580A..23P  2013AJ....146...56M  2012A&A...546A..69M
-  2011AJ....141..157M  2004AJ....128.3012M  1995A&AS..114..269D  1993yCat.3135....0C
+Bibcodes  1850-2023 () (9):
+  2020AJ....160...52M  2016A&A...591A.118S  2015A&A...580A..23P  2013AJ....146...56M
+  2012A&A...546A..69M  2011AJ....141..157M  2004AJ....128.3012M  1995A&AS..114..269D
+  1993yCat.3135....0C                                    
 
 Measures (Fe_H:1  MK:2  velocities:1  ):
 Fe_H:1MK:2velocities:1

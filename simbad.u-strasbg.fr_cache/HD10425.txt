@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:50:01
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:12:45
 
 HD10425
 -------
 
 Object * 44 Cas  ---  *  ---  OID=@168544   (@@3636,3)  ---  coobox=2258
 
-Coordinates(ICRS,ep=J2000,eq=2000): 01 43 19.7565378853  +60 33 04.798448424 (Opt ) A [0.0539 0.0608 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 01 39 55.4055234232  +60 18 00.337734240
-Coordinates(Gal,ep=J2000,eq=2000): 129.2712293214262  -01.6801449850931
+Coordinates(ICRS,ep=J2000,eq=2000): 01 43 19.7566701600  +60 33 04.796911692 (Opt ) A [0.0232 0.0290 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 01 39 55.4061360377  +60 18 00.331316508
+Coordinates(Gal,ep=J2000,eq=2000): 129.2712296723979  -01.6801453491886
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 13.182 -11.943 [0.083 0.115 90] A 2018yCat.1345....0G
-Parallax: 3.3670 [0.0855] A 2018yCat.1345....0G
+Proper motions: 13.111 -11.845 [0.031 0.032 90] A 2020yCat.1350....0G
+Parallax: 3.5725 [0.0474] A 2020yCat.1350....0G
 Radial Velocity: -30.50 [3.6] C 2006AstL...32..759G
 Redshift: -0.000102 [0.000012] C 2006AstL...32..759G
 cz: -30.50 [3.60] C 2006AstL...32..759G
 Flux B : 5.76 [~] E ~                  
 Flux V : 5.76 [~] E ~                  
-Flux G : 5.7433 [0.0005] C 2018yCat.1345....0G
+Flux G : 5.762020 [0.002788] C 2020yCat.1350....0G
 Flux J : 5.630 [0.018] C 2003yCat.2246....0C
 Flux H : 5.649 [0.026] C 2003yCat.2246....0C
 Flux K : 5.663 [0.023] C 2003yCat.2246....0C
@@ -24,34 +24,35 @@ Spectral type: B8IIIn C ~
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (35):
-   TIC 372627311                   2MASS J01431974+6033049         * 44 Cas                      
-   AG+60 193                       BD+59 307                       CSI+59 307 1                  
-   GC 2086                         GCRV 961                        GEN# +1.10010425              
-   GSC 04032-01676                 HD 10425                        HIC 8046                      
-   HIP 8046                        HR 491                          PPM 13204                     
-   ROT 242                         SAO 11941                       SKY# 2582                     
-   TD1 973                         TYC 4032-1676-1                 UBV 1734                      
-   UBV M 8366                      YZ 60 1492                      [HFE83] 96                    
-   ALS 16406                       uvby98 100010425                Gaia DR1 509717682078118144   
-   WEB 1722                        Gaia DR2 509717686388338816     CCDM J01433+6033A             
-   ADS 1344 A                      GEN# +1.00010425                WDS J01433+6033A              
-   ** BU 1103A                     IDS 01366+6003 A                                              
+Identifiers (36):
+   HIP 8046                             Gaia DR3 509717686388338816          TIC 372627311                      
+   2MASS J01431974+6033049              * 44 Cas                             AG+60 193                          
+   BD+59 307                            CSI+59 307 1                         GC 2086                            
+   GCRV 961                             GEN# +1.10010425                     GSC 04032-01676                    
+   HD 10425                             HIC 8046                             HR 491                             
+   PPM 13204                            ROT 242                              SAO 11941                          
+   SKY# 2582                            TD1 973                              TYC 4032-1676-1                    
+   UBV 1734                             UBV M 8366                           YZ 60 1492                         
+   [HFE83] 96                           ALS 16406                            uvby98 100010425                   
+   Gaia DR1 509717682078118144          WEB 1722                             Gaia DR2 509717686388338816        
+   CCDM J01433+6033A                    ADS 1344 A                           GEN# +1.00010425                   
+   WDS J01433+6033A                     ** BU 1103A                          IDS 01366+6003 A                   
 
-Bibcodes  1850-2021 () (38):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2018ApJ...860..109G  2017AJ....153...16S
-  2015A&A...580A..23P  2012A&A...546A..61D  2012ApJS..199....8G  2012AstL...38..694G
-  2012MNRAS.427..343M  2011MNRAS.410..190T  2011MNRAS.413.1200R  2010A&A...510A..54W
-  2008MNRAS.389..869E  2006AstL...32..759G  2005AJ....129..809S  2005AJ....129.2420M
+Bibcodes  1850-2023 () (43):
+  2022A&A...657A..62K  2021ApJS..254...42B  2019A&A...623A..72K  2019MNRAS.490.3158C
+  2018A&A...620A.172Z  2018ApJ...860..109G  2017AJ....153...16S  2015A&A...580A..23P
+  2012A&A...546A..61D  2012ApJS..199....8G  2012AstL...38..694G  2012MNRAS.427..343M
+  2011MNRAS.410..190T  2011MNRAS.413.1200R  2010A&A...510A..54W  2008MNRAS.389..869E
+  2007A&A...474..653V  2006AstL...32..759G  2005AJ....129..809S  2005AJ....129.2420M
   2005AJ....130.1652R  2003A&A...411..447L  2003AJ....125.2531R  2003ApJS..145..355G
   2002ApJ...573..359A  1999A&AS..134..359G  1998A&AS..129..431H  1998PAZh...24..307S
-  1996A&AS..118..481B  1995A&AS..114..269D  1993Ap&SS.203...53H  1993yCat.3135....0C
-  1989PBeiO..14...12L  1985A&AS...60...99W  1983A&AS...53..223H  1982AN....303..105G
-  1979PASP...91..180M  1973AJ.....78..738C  1970MmRAS..72..233H  1963ApJ...137..530C
-  1961ApJS....6....1K  1953GCRV..C......0W                        
+  1997A&A...323L..49P  1996A&AS..118..481B  1995A&AS..114..269D  1993Ap&SS.203...53H
+  1993yCat.3135....0C  1989PBeiO..14...12L  1985A&AS...60...99W  1983A&AS...53..223H
+  1982AN....303..105G  1979PASP...91..180M  1973AJ.....78..738C  1970MmRAS..72..233H
+  1963ApJ...137..530C  1961ApJS....6....1K  1953GCRV..C......0W            
 
-Measures (distance:1  MK:3  PLX:4  PM:3  ROT:1  velocities:7  ):
-distance:1MK:3PLX:4PM:3ROT:1velocities:7
+Measures (distance:2  MK:3  PLX:5  PM:4  ROT:1  velocities:7  ):
+distance:2MK:3PLX:5PM:4ROT:1velocities:7
 
 Notes (0) :
 

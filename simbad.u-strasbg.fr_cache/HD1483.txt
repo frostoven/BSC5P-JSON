@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST15:06:41
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST05:58:59
 
 HD1483
 ------
 
 Object HD 1483  ---  *  ---  OID=@1152229   (@@23662,2)  ---  coobox=10251
 
-Coordinates(ICRS,ep=J2000,eq=2000): 00 18 42.5606184639  -43 14 08.049877636 (Opt ) A [0.0300 0.0284 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 00 16 13.3788522387  -43 30 47.690847864
-Coordinates(Gal,ep=J2000,eq=2000): 323.1975549903785  -72.5814542310110
+Coordinates(ICRS,ep=J2000,eq=2000): 00 18 42.5609037192  -43 14 08.048643504 (Opt ) A [0.0168 0.0175 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 00 16 13.3799842738  -43 30 47.685107525
+Coordinates(Gal,ep=J2000,eq=2000): 323.1975528539824  -72.5814549080208
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 48.878 0.835 [0.046 0.050 90] A 2018yCat.1345....0G
-Parallax: 7.3177 [0.0392] A 2018yCat.1345....0G
+Proper motions: 48.694 0.745 [0.024 0.028 90] A 2020yCat.1350....0G
+Parallax: 7.3296 [0.0269] A 2020yCat.1350....0G
 Radial Velocity: 12.48 [0.14] A 2018yCat.1345....0G
 Redshift: 0.000042 [0.000000] A 2018yCat.1345....0G
 cz: 12.48 [0.14] A 2018yCat.1345....0G
 Flux B : 7.541 [0.015] D 2000A&A...355L..27H
 Flux V : 6.328 [0.010] D 2000A&A...355L..27H
-Flux G : 5.9548 [0.0006] C 2018yCat.1345....0G
+Flux G : 5.971808 [0.002772] C 2020yCat.1350....0G
 Flux J : 4.063 [0.244] D 2003yCat.2246....0C
 Flux H : 3.375 [0.202] D 2003yCat.2246....0C
 Flux K : 3.315 [0.270] D 2003yCat.2246....0C
@@ -24,22 +24,24 @@ Spectral type: K2III C 1978MSS...C02....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (21):
-   TIC 7146534                     2MASS J00184258-4314078         CD-43 64                      
-   CPC 0 115                       CPD-43 23                       GC 381                        
-   GEN# +1.00001483                GSC 07530-00078                 HD 1483                       
-   HIC 1502                        HIP 1502                        HR 73                         
-   N30 52                          PPM 304767                      SAO 215047                    
-   SKY# 553                        TYC 7530-78-1                   UBV 227                       
-   UBV M 7299                      Gaia DR1 4991914594059739904    Gaia DR2 4991914594059739904  
+Identifiers (22):
+   HIP 1502                             Gaia DR3 4991914594059739904         TIC 7146534                        
+   2MASS J00184258-4314078              CD-43 64                             CPC 0 115                          
+   CPD-43 23                            GC 381                               GEN# +1.00001483                   
+   GSC 07530-00078                      HD 1483                              HIC 1502                           
+   HR 73                                N30 52                               PPM 304767                         
+   SAO 215047                           SKY# 553                             TYC 7530-78-1                      
+   UBV 227                              UBV M 7299                           Gaia DR1 4991914594059739904       
+   Gaia DR2 4991914594059739904                                                                                 
 
-Bibcodes  1850-2021 () (11):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D  2012MNRAS.427..343M
-  2006AstL...32..759G  1993yCat.3135....0C  1989PASP..101...45E  1989PASP..101...54E
+Bibcodes  1850-2023 () (15):
+  2021ApJS..254...42B  2020A&A...633A..34C  2019A&A...623A..72K  2019MNRAS.490.3158C
+  2012A&A...546A..61D  2012MNRAS.427..343M  2007A&A...474..653V  2006AstL...32..759G
+  1997A&A...323L..49P  1993yCat.3135....0C  1989PASP..101...45E  1989PASP..101...54E
   1986A&AS...64..487K  1985A&AS...59...15A  1978MSS...C02....0H            
 
-Measures (distance:1  MK:2  PLX:4  PM:5  velocities:2  ):
-distance:1MK:2PLX:4PM:5velocities:2
+Measures (distance:2  Fe_H:1  MK:2  PLX:5  PM:6  velocities:2  ):
+distance:2Fe_H:1MK:2PLX:5PM:6velocities:2
 
 Notes (0) :
 

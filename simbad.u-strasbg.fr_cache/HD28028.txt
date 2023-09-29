@@ -1,23 +1,23 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:54:34
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:42:25
 
 HD28028
 -------
 
 Object * 43 Eri  ---  PM*  ---  OID=@714141   (@@12458,6)  ---  coobox=6870
 
-Coordinates(ICRS,ep=J2000,eq=2000): 04 24 02.2089715734  -34 01 00.650471506 (Opt ) A [0.3009 0.2878 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 04 22 09.4241102331  -34 07 54.468657923
-Coordinates(Gal,ep=J2000,eq=2000): 235.1725608397103  -44.2271080212340
+Coordinates(ICRS,ep=J2000,eq=2000): 04 24 02.2063343712  -34 01 00.658242588 (Opt ) A [0.0870 0.0976 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 04 22 09.4126735442  -34 07 54.503936079
+Coordinates(Gal,ep=J2000,eq=2000): 235.1725624260581  -44.2271173122033
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 65.384 47.954 [0.688 0.646 90] A 2018yCat.1345....0G
-Parallax: 11.9771 [0.3433] A 2018yCat.1345....0G
+Proper motions: 67.572 48.489 [0.122 0.135 90] A 2020yCat.1350....0G
+Parallax: 11.127 [0.1189] A 2020yCat.1350....0G
 Radial Velocity: 24.10 [0.7] A 2006AstL...32..759G
 Redshift: 0.000080 [0.000002] A 2006AstL...32..759G
 cz: 24.10 [0.70] A 2006AstL...32..759G
 Flux U : 7.25 [~] C 2002yCat.2237....0D
 Flux B : 5.45 [~] C 2002yCat.2237....0D
 Flux V : 3.96 [~] C 2002yCat.2237....0D
-Flux G : 3.2924 [0.0047] C 2018yCat.1345....0G
+Flux G : 3.400128 [0.002962] C 2020yCat.1350....0G
 Flux R : 2.79 [~] C 2002yCat.2237....0D
 Flux I : 1.96 [~] C 2002yCat.2237....0D
 Flux J : 1.45 [~] C 2002yCat.2237....0D
@@ -27,41 +27,42 @@ Spectral type: K3.5III C 1989ApJS...71..245K
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (34):
-   TIC 170590816                   2MASS J04240221-3401006         PLX 978                       
-   * 43 Eri                        * ups03 Eri                     CD-34 1664                    
-   CPC 17 1619                     CPD-34 482                      FK5 1121                      
-   GC 5349                         GCRV 2564                       GEN# +1.00028028              
-   GSC 07041-01605                 HD 28028                        HIC 20535                     
-   HIP 20535                       HR 1393                         IRAS 04221-3407               
-   JP11 887                        N30 913                         PMC 90-93 746                 
-   PPM 280171                      RAFGL 579                       SACS 95                       
-   SAO 194984                      SKY# 6770                       SRS 31121                     
-   TYC 7041-1605-1                 UBV 4269                        UBV M 10130                   
-   PLX 978.00                      NAME Beemim                     WEB 3928                      
-   Gaia DR2 4871775051596978944                                                                  
+Identifiers (35):
+   HIP 20535                            Gaia DR3 4871775051598300160         TIC 170590816                      
+   2MASS J04240221-3401006              PLX 978                              * 43 Eri                           
+   * ups03 Eri                          CD-34 1664                           CPC 17 1619                        
+   CPD-34 482                           FK5 1121                             GC 5349                            
+   GCRV 2564                            GEN# +1.00028028                     GSC 07041-01605                    
+   HD 28028                             HIC 20535                            HR 1393                            
+   IRAS 04221-3407                      JP11 887                             N30 913                            
+   PMC 90-93 746                        PPM 280171                           RAFGL 579                          
+   SACS 95                              SAO 194984                           SKY# 6770                          
+   SRS 31121                            TYC 7041-1605-1                      UBV 4269                           
+   UBV M 10130                          PLX 978.00                           NAME Beemim                        
+   WEB 3928                             Gaia DR2 4871775051596978944                                            
 
-Bibcodes  1850-2021 () (66):
+Bibcodes  1850-2023 () (72):
+  2021ApJS..254...42B  2021MNRAS.504.3730C  2020A&A...633A..34C  2020A&A...636A..74T
   2019A&A...623A..72K  2019ApJ...880...49H  2019MNRAS.490.3158C  2017AJ....154..115H
   2016A&A...591A.118S  2015AJ....150...88L  2014A&A...567A..26L  2012A&A...544A..31V
   2012A&A...546A..61D  2012MNRAS.427..343M  2011A&A...530A..93V  2010A&A...515A.111S
-  2010ApJS..190..203P  2008MNRAS.389..869E  2006AstL...32..759G  2002yCat.2237....0D
-  2001A&A...365..222G  2001A&A...367..521P  2001A&A...373..159C  1999A&AS..134..523T
-  1999AJ....117.1864C  1999ApJ...518..859K  1999VeARI..35....1W  1997A&AS..124..299C
-  1997ApJS..112..557K  1997PNAOJ...5....1Y  1996BaltA...5..603A  1995A&AS..109..501C
-  1995A&AS..114..269D  1995GCTP..C......0V  1994A&AS..105..311F  1994A&AS..106..441N
-  1994PBeiO..24...71L  1993yCat.3135....0C  1992A&AS...95..355C  1991ApJS...77..607V
-  1990ApJS...74.1075M  1990MNRAS.247..227F  1990PBeiO..16...18L  1990RMxAA..21..286H
-  1989A&AS...78..511P  1989ApJS...71..245K  1985AJ.....90.1870I  1985AbaOB..59...83B
-  1985RMxAA..10..377M  1984IzKry..69...71N  1984MNRAS.208..447L  1983IzKry..67...13B
-  1982MSS...C03....0H  1980AcA....30..453G  1979PASP...91..507C  1978A&AS...31..159B
-  1976A&AS...25...55C  1976ApJ...205..823W  1973PASP...85..379E  1970ApJ...161..199E
-  1970VA.....12..367E  1969ApJ...158..225E  1969MNRAS.144..333W  1966ApJ...146..587L
-  1966JO.....49..387L  1965BOTT....4...33I  1960MNRAS.120..448E  1960MNRAS.120..540E
-  1953GCRV..C......0W  1919ApJ....50..161L                        
+  2010ApJS..190..203P  2008MNRAS.389..869E  2007A&A...474..653V  2006AstL...32..759G
+  2002yCat.2237....0D  2001A&A...365..222G  2001A&A...367..521P  2001A&A...373..159C
+  1999A&AS..134..523T  1999AJ....117.1864C  1999ApJ...518..859K  1999VeARI..35....1W
+  1997A&A...323L..49P  1997A&AS..124..299C  1997ApJS..112..557K  1997PNAOJ...5....1Y
+  1996BaltA...5..603A  1995A&AS..109..501C  1995A&AS..114..269D  1995GCTP..C......0V
+  1994A&AS..105..311F  1994A&AS..106..441N  1994PBeiO..24...71L  1993yCat.3135....0C
+  1992A&AS...95..355C  1991ApJS...77..607V  1990ApJS...74.1075M  1990MNRAS.247..227F
+  1990PBeiO..16...18L  1990RMxAA..21..286H  1989A&AS...78..511P  1989ApJS...71..245K
+  1985AJ.....90.1870I  1985AbaOB..59...83B  1985RMxAA..10..377M  1984IzKry..69...71N
+  1984MNRAS.208..447L  1983IzKry..67...13B  1982MSS...C03....0H  1980AcA....30..453G
+  1979PASP...91..507C  1978A&AS...31..159B  1976A&AS...25...55C  1976ApJ...205..823W
+  1973PASP...85..379E  1970ApJ...161..199E  1970VA.....12..367E  1969ApJ...158..225E
+  1969MNRAS.144..333W  1966ApJ...146..587L  1966JO.....49..387L  1965BOTT....4...33I
+  1960MNRAS.120..448E  1960MNRAS.120..540E  1953GCRV..C......0W  1919ApJ....50..161L
 
-Measures (distance:1  Fe_H:3  MK:5  PLX:3  PM:5  velocities:10  ):
-distance:1Fe_H:3MK:5PLX:3PM:5velocities:10
+Measures (distance:2  Fe_H:4  MK:5  PLX:4  PM:6  velocities:10  ):
+distance:2Fe_H:4MK:5PLX:4PM:6velocities:10
 
 Notes (0) :
 

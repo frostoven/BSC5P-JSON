@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:07:23
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST09:59:06
 
 HD80773
 -------
@@ -14,27 +14,27 @@ Parallax: 3.81 [0.73] A 2007A&A...474..653V
 Radial Velocity: 22.40 [3.5] C 2006AstL...32..759G
 Redshift: 0.000075 [0.000012] C 2006AstL...32..759G
 cz: 22.40 [3.50] C 2006AstL...32..759G
-Flux B : 6.82 [~] E ~                  
-Flux V : 6.82 [~] E ~                  
+Flux 
 Spectral type: A0V C 1982MSS...C03....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (16):
-   CPC 17 4457                     CSI-31 7162 21                  GCRV 60595                    
-   HD 80773                        HIC 45837                       HIP 45837                     
-   HR 3715                         N30 2223                        PPM 286345                    
-   SKY# 18039                      TD1 13835                       WDS J09207-3146AB             
-   uvby98 100080773                ** HJ 4200                      CCDM J09207-3146AB            
-   WEB 8691                                                                                      
+Identifiers (17):
+   HIP 45837                            WISE J092044.39-314536.4             CPC 17 4457                        
+   CSI-31 7162 21                       GCRV 60595                           HD 80773                           
+   HIC 45837                            HR 3715                              N30 2223                           
+   PPM 286345                           SKY# 18039                           TD1 13835                          
+   WDS J09207-3146AB                    uvby98 100080773                     ** HJ 4200                         
+   CCDM J09207-3146AB                   WEB 8691                                                                
 
-Bibcodes  1850-2021 () (22):
-  2019A&A...623A..72K  2016A&A...591A.118S  2012A&A...537A.120Z  2012A&A...546A..61D
-  2012MNRAS.427..343M  2006AstL...32..759G  2001A&A...373..625P  1998A&AS..129..431H
-  1996A&AS..118..481B  1995A&AS..114..269D  1993yCat.3135....0C  1987MNRAS.227..213S
-  1984ApJ...285..195C  1984ApJS...55..657C  1983A&AS...52..471A  1983MNRAS.202..761H
-  1982MSS...C03....0H  1980BICDS..19...41H  1977A&AS...27..443G  1975MNSSA..34....7H
-  1969MNRAS.144...31B  1965MNRAS.130..281B                        
+Bibcodes  1850-2023 () (25):
+  2021ApJS..254...42B  2019A&A...623A..72K  2016A&A...591A.118S  2012A&A...537A.120Z
+  2012A&A...546A..61D  2012MNRAS.427..343M  2007A&A...474..653V  2006AstL...32..759G
+  2001A&A...373..625P  1998A&AS..129..431H  1997A&A...323L..49P  1996A&AS..118..481B
+  1995A&AS..114..269D  1993yCat.3135....0C  1987MNRAS.227..213S  1984ApJ...285..195C
+  1984ApJS...55..657C  1983A&AS...52..471A  1983MNRAS.202..761H  1982MSS...C03....0H
+  1980BICDS..19...41H  1977A&AS...27..443G  1975MNSSA..34....7H  1969MNRAS.144...31B
+  1965MNRAS.130..281B                                    
 
 Measures (Fe_H:1  MK:3  PLX:2  PM:4  velocities:4  ):
 Fe_H:1MK:3PLX:2PM:4velocities:4

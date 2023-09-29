@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:03:41
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST09:50:55
 
 HD74772
 -------
 
 Object * d Vel  ---  *  ---  OID=@2990332   (@@64256,4)  ---  coobox=20536
 
-Coordinates(ICRS,ep=J2000,eq=2000): 08 44 23.9453925159  -42 38 57.393304135 (Opt ) A [0.2622 0.2770 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 08 42 36.7061859107  -42 28 02.365441067
-Coordinates(Gal,ep=J2000,eq=2000): 262.5434097629479  +00.0460657992323
+Coordinates(ICRS,ep=J2000,eq=2000): 08 44 23.9470741416  -42 38 57.398847432 (Opt ) A [0.0811 0.0836 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 08 42 36.7130116623  -42 28 02.389957745
+Coordinates(Gal,ep=J2000,eq=2000): 262.5434141690324  +00.0460688841743
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -22.641 19.137 [0.551 0.531 90] A 2018yCat.1345....0G
-Parallax: 15.7791 [0.3148] A 2018yCat.1345....0G
+Proper motions: -23.778 19.524 [0.107 0.130 90] A 2020yCat.1350....0G
+Parallax: 14.0387 [0.105] A 2020yCat.1350....0G
 Radial Velocity: -1.84 [0.14] A 2018yCat.1345....0G
 Redshift: -0.000006 [0.000000] A 2018yCat.1345....0G
 cz: -1.84 [0.14] A 2018yCat.1345....0G
 Flux B : 4.917 [0.014] D 2000A&A...355L..27H
 Flux V : 4.046 [0.009] D 2000A&A...355L..27H
-Flux G : 3.7252 [0.0028] C 2018yCat.1345....0G
+Flux G : 3.825603 [0.003006] C 2020yCat.1350....0G
 Flux J : 2.67 [0.27] D 2003yCat.2246....0C
 Flux H : 2.21 [0.26] D 2003yCat.2246....0C
 Flux K : 2.14 [0.24] D 2003yCat.2246....0C
@@ -24,29 +24,31 @@ Spectral type: G6III C 1989ApJS...71..245K
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (36):
-   TIC 430595941                   Cl* Trumpler 10 STOCK 5         PLX 2092                      
-   * d Vel                         CCDM J08444-4239A               CD-42 4569                    
-   CPC 0 6434                      CPD-42 2878                     CSI-42 4569 21                
-   GC 12050                        GCRV 5777                       GJ 9276                       
-   GJ 321.1                        GSC 07683-02233                 HD 74772                      
-   HIC 42884                       HIP 42884                       HR 3477                       
-   IDS 08408-4217 A                JP11 4506                       PPM 313500                    
-   SAO 220371                      SKY# 16770                      TD1 13030                     
-   TYC 7683-2233-1                 UBV 8492                        UBV M 40192                   
-   Cl* Trumpler 10 L 1             Cl Trumpler 10 1                PLX 2092.00                   
-   WDS J08444-4239A                2MASS J08442396-4238572         AKARI-IRC-V1 J0844239-423857  
-   IRAS 08426-4228                 WEB 8286                        Gaia DR2 5524834518402672896  
+Identifiers (37):
+   HIP 42884                            Gaia DR3 5524834518404115840         TIC 430595941                      
+   Cl* Trumpler 10 STOCK 5              PLX 2092                             * d Vel                            
+   CCDM J08444-4239A                    CD-42 4569                           CPC 0 6434                         
+   CPD-42 2878                          CSI-42 4569 21                       GC 12050                           
+   GCRV 5777                            GJ 9276                              GJ 321.1                           
+   GSC 07683-02233                      HD 74772                             HIC 42884                          
+   HR 3477                              IDS 08408-4217 A                     JP11 4506                          
+   PPM 313500                           SAO 220371                           SKY# 16770                         
+   TD1 13030                            TYC 7683-2233-1                      UBV 8492                           
+   UBV M 40192                          Cl* Trumpler 10 L 1                  Cl Trumpler 10 1                   
+   PLX 2092.00                          WDS J08444-4239A                     2MASS J08442396-4238572            
+   AKARI-IRC-V1 J0844239-423857         IRAS 08426-4228                      WEB 8286                           
+   Gaia DR2 5524834518402672896                                                                                 
 
-Bibcodes  1850-2021 () (74):
-  2021PASP..133a4401Y  2020AJ....160..225K  2019A&A...623A..72K  2019ApJ...875...99K
-  2019MNRAS.490.3158C  2017AJ....154..115H  2016A&A...591A.118S  2015MNRAS.448.2749A
-  2015MNRAS.450.1900A  2014A&A...565A..88S  2012A&A...544A..31V  2012A&A...546A..61D
-  2012MNRAS.427..343M  2011A&A...530A..93V  2010A&A...515A.111S  2010PASP..122..885S
-  2008MNRAS.389..869E  2006AstL...32..759G  2005A&A...431..773R  2003A&A...401..997P
-  2003A&A...409..251M  2001A&A...367..521P  2001A&A...373..159C  2000A&AS..146..251B
-  1999A&A...352..217G  1999A&A...352..495M  1999A&AS..139..433D  1999Obs...119..272G
-  1998A&AS..127..251H  1998ApJ...508..370F  1997A&AS..124..299C  1997ApJS..112..557K
+Bibcodes  1850-2023 () (78):
+  2022A&A...657A..87O  2021ApJS..254...42B  2021PASP..133a4401Y  2020AJ....160..225K
+  2019A&A...623A..72K  2019ApJ...875...99K  2019MNRAS.490.3158C  2017AJ....154..115H
+  2016A&A...591A.118S  2015MNRAS.448.2749A  2015MNRAS.450.1900A  2014A&A...565A..88S
+  2012A&A...544A..31V  2012A&A...546A..61D  2012MNRAS.427..343M  2011A&A...530A..93V
+  2010A&A...515A.111S  2010PASP..122..885S  2008MNRAS.389..869E  2007A&A...474..653V
+  2006AstL...32..759G  2005A&A...431..773R  2003A&A...401..997P  2003A&A...409..251M
+  2001A&A...367..521P  2001A&A...373..159C  2000A&AS..146..251B  1999A&A...352..217G
+  1999A&A...352..495M  1999A&AS..139..433D  1999Obs...119..272G  1998A&AS..127..251H
+  1998ApJ...508..370F  1997A&A...323L..49P  1997A&AS..124..299C  1997ApJS..112..557K
   1995A&A...302..745D  1995A&AS..109..177W  1995A&AS..114..269D  1995GCTP..C......0V
   1994Ap&SS.218....1M  1994ApJ...432..701M  1993AJ....106...80E  1993ApJ...417..157B
   1993yCat.3135....0C  1992MNRAS.254....1B  1992MNRAS.256..535J  1991ApJ...368..264A
@@ -59,8 +61,8 @@ Bibcodes  1850-2021 () (74):
   1965BOTT....4...33I  1962ArA.....3...65L  1960ArA.....2..379L  1959ArA.....2..379L
   1953GCRV..C......0W  1919ApJ....50..161L                        
 
-Measures (distance:1  Fe_H:4  IUE:3  MK:3  PLX:4  PM:4  velocities:9  ):
-distance:1Fe_H:4IUE:3MK:3PLX:4PM:4velocities:9
+Measures (distance:2  Fe_H:9  IUE:3  MK:3  PLX:5  PM:5  velocities:9  ):
+distance:2Fe_H:9IUE:3MK:3PLX:5PM:5velocities:9
 
 Notes (0) :
 

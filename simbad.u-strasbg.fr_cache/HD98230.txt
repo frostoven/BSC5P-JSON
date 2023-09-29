@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST02:37:33
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:21:33
 
 HD98230
 -------
@@ -16,28 +16,29 @@ Redshift: -0.000053 [0.000003] E 1953GCRV..C......0W
 cz: -15.90 [0.90] E 1953GCRV..C......0W
 Flux B : 5.41 [0.01] D 2002A&A...384..180F
 Flux V : 4.77 [0.01] D 2002A&A...384..180F
-Flux G : 4.5943 [0.0025] C 2018yCat.1345....0G
+Flux G : 4.640213 [0.004550] C 2022yCat.1355....0G
 Flux R : 4.4 [~] D 2005AJ....129.1483L
 Spectral type: G2V C 1989ApJS...71..245K
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (34):
-   CABS 92                         * 53 UMa B                      * ksi UMa B                   
-   ADS 8119 B                      BD+32 2132B                     CCABS 76                      
-   CCDM J11182+3132B               CSI+32 2132 2                   GCRV 6921                     
-   GJ 423 B                        HD 98230                        HR 4374                       
-   IDS 11128+3206 B                LFT 791                         LHS 2391                      
-   LTT 13046                       NLTT 26921                      ROT 1679                      
-   SBC7 427                        TYC 2520-2634-2                 UBV M 16961                   
-   Zkh 154                         WDS J11182+3132B                WDS J11182+3132Ba,Bb          
-   SBC9 667                        ** CHR 178                      ** STF 1523B                  
-   PMSC 11128+3205B                PMSC 11128+3205Bab              GJ 423 D                      
-   Gaia DR2 756853643637996160     WEB 9945                        WEB 9946                      
-   LSPM J1118+3131B                                                                              
+Identifiers (35):
+   Gaia DR3 756853643637996160          CABS 92                              * 53 UMa B                         
+   * ksi UMa B                          ADS 8119 B                           BD+32 2132B                        
+   CCABS 76                             CCDM J11182+3132B                    CSI+32 2132 2                      
+   GCRV 6921                            GJ 423 B                             HD 98230                           
+   HR 4374                              IDS 11128+3206 B                     LFT 791                            
+   LHS 2391                             LTT 13046                            NLTT 26921                         
+   ROT 1679                             SBC7 427                             TYC 2520-2634-2                    
+   UBV M 16961                          Zkh 154                              WDS J11182+3132B                   
+   WDS J11182+3132Ba,Bb                 SBC9 667                             ** CHR 178                         
+   ** STF 1523B                         PMSC 11128+3205B                     PMSC 11128+3205Bab                 
+   GJ 423 D                             Gaia DR2 756853643637996160          WEB 9945                           
+   WEB 9946                             LSPM J1118+3131B                                                        
 
-Bibcodes  1850-2021 () (331):
-  2021MNRAS.504.3730C  2020ApJS..247...11R  2019A&A...631A.125K  2019AJ....158..101M
+Bibcodes  1850-2023 () (335):
+  2022A&A...659A...3S  2022A&A...659A.104M  2021A&A...650A.201R  2021MNRAS.504.3730C
+  2020ApJ...898...27S  2020ApJS..247...11R  2019A&A...631A.125K  2019AJ....158..101M
   2018A&A...616A.108B  2017AJ....153...21L  2017ApJ...844..103T  2017ApJ...848...58M
   2016A&A...591A.118S  2016ApJ...826..171G  2016MNRAS.459.1682F  2015A&A...580A..23P
   2014A&A...561A..36W  2013A&A...551L...8P  2013AJ....145...84W  2013AJ....146...56M
@@ -121,8 +122,8 @@ Bibcodes  1850-2021 () (331):
   1950ApJ...112..554R  1950JO.....33....1B  1950JO.....33..105M  1931LicOB..15..109B
   1918ApJ....47..289P  1917ApJ....46..313A  1905AN....170..117N            
 
-Measures (distance:1  Fe_H:8  herschel:2  IUE:1  MK:17  PLX:1  PM:4  ROT:4  velocities:9  ):
-distance:1Fe_H:8herschel:2IUE:1MK:17PLX:1PM:4ROT:4velocities:9
+Measures (distance:1  Fe_H:8  herschel:2  IUE:1  MK:17  PLX:1  PM:4  ROT:4  velocities:7  ):
+distance:1Fe_H:8herschel:2IUE:1MK:17PLX:1PM:4ROT:4velocities:7
 
 Notes (1) :
 (S) 20-Nov-2013 - cl    ref:~    obj:HR 4374

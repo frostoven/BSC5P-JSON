@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:55:50
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:54:40
 
 HD35046
 -------
 
 Object HD 35046  ---  *  ---  OID=@790355   (@@12756,4)  ---  coobox=7104
 
-Coordinates(ICRS,ep=J2000,eq=2000): 05 20 20.7093798559  -34 41 55.858069408 (Opt ) A [0.0203 0.0226 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 05 18 32.5416836175  -34 44 52.378224816
-Coordinates(Gal,ep=J2000,eq=2000): 238.4285733952932  -32.8749639669410
+Coordinates(ICRS,ep=J2000,eq=2000): 05 20 20.7094879104  -34 41 55.858488288 (Opt ) A [0.0223 0.0254 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 05 18 32.5425606213  -34 44 52.348380204
+Coordinates(Gal,ep=J2000,eq=2000): 238.4285736244789  -32.8749636300362
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 4.371 -0.597 [0.031 0.041 90] A 2016A&A...595A...2G
-Parallax: 6.3368 [0.0247] A 2018yCat.1345....0G
+Proper motions: 4.178 -1.201 [0.027 0.032 90] A 2020yCat.1350....0G
+Parallax: 6.4454 [0.0285] A 2020yCat.1350....0G
 Radial Velocity: -6.00 [0.6] A 2006AstL...32..759G
 Redshift: -0.000020 [0.000002] A 2006AstL...32..759G
 cz: -6.00 [0.60] A 2006AstL...32..759G
 Flux B : 6.657 [0.014] D 2000A&A...355L..27H
 Flux V : 6.336 [0.010] D 2000A&A...355L..27H
-Flux G : 6.2515 [0.0003] C 2018yCat.1345....0G
+Flux G : 6.269843 [0.002767] C 2020yCat.1350....0G
 Flux J : 5.692 [0.018] C 2003yCat.2246....0C
 Flux H : 5.559 [0.051] C 2003yCat.2246....0C
 Flux K : 5.517 [0.046] C 2003yCat.2246....0C
@@ -24,25 +24,26 @@ Spectral type: F0/2IV D 1982MSS...C03....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (23):
-   TIC 78011495                    2MASS J05202070-3441558         CD-34 2198                    
-   CPC 17 2099                     CPD-34 644                      GC 6565                       
-   GEN# +1.00035046                GSC 07051-02304                 HD 35046                      
-   HIC 24909                       HIP 24909                       HR 1766                       
-   N30 1146                        PPM 281333                      SAO 195763                    
-   SKY# 8446                       TD1 4479                        TYC 7051-2304-1               
-   UBV 5100                        UBV M 10876                     uvby98 100035046              
-   Gaia DR1 4822765038048247680    Gaia DR2 4822765042344772736                                  
+Identifiers (24):
+   HIP 24909                            Gaia DR3 4822765042344772736         TIC 78011495                       
+   2MASS J05202070-3441558              CD-34 2198                           CPC 17 2099                        
+   CPD-34 644                           GC 6565                              GEN# +1.00035046                   
+   GSC 07051-02304                      HD 35046                             HIC 24909                          
+   HR 1766                              N30 1146                             PPM 281333                         
+   SAO 195763                           SKY# 8446                            TD1 4479                           
+   TYC 7051-2304-1                      UBV 5100                             UBV M 10876                        
+   uvby98 100035046                     Gaia DR1 4822765038048247680         Gaia DR2 4822765042344772736       
 
-Bibcodes  1850-2021 () (19):
-  2020ApJS..247...11R  2019A&A...623A..72K  2019MNRAS.490.3158C  2017MNRAS.469.3042N
-  2015A&A...580A..23P  2012A&A...546A..61D  2012MNRAS.427..343M  2011MNRAS.411..435B
-  2006AstL...32..759G  2000A&A...354..112M  1999A&AS..135..503G  1998A&AS..129..431H
+Bibcodes  1850-2023 () (23):
+  2021ApJS..254...42B  2020ApJS..247...11R  2019A&A...623A..72K  2019MNRAS.490.3158C
+  2018A&A...620A.172Z  2017MNRAS.469.3042N  2015A&A...580A..23P  2012A&A...546A..61D
+  2012MNRAS.427..343M  2011MNRAS.411..435B  2007A&A...474..653V  2006AstL...32..759G
+  2000A&A...354..112M  1999A&AS..135..503G  1998A&AS..129..431H  1997A&A...323L..49P
   1996A&A...312..855M  1995AJ....109.2828T  1993yCat.3135....0C  1992AJ....104..821M
   1987MNRAS.227..213S  1982MSS...C03....0H  1977A&AS...27..443G            
 
-Measures (distance:1  MK:2  PLX:4  PM:5  velocities:1  ):
-distance:1MK:2PLX:4PM:5velocities:1
+Measures (distance:2  MK:2  PLX:5  PM:6  velocities:1  ):
+distance:2MK:2PLX:5PM:6velocities:1
 
 Notes (0) :
 

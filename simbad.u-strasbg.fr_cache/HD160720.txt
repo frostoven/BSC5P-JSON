@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:56:27
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:36:16
 
 HD160720
 --------
 
-Object HR 6586  ---  **  ---  OID=@3464601   (@@69135,16)  ---  coobox=22461
+Object HD 160720  ---  **  ---  OID=@3464601   (@@69135,16)  ---  coobox=22461
 
-Coordinates(ICRS,ep=J2000,eq=2000): 17 44 55.8640485611  -57 32 43.945824556 (Opt ) A [0.0583 0.0803 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 17 40 37.2183491346  -57 31 27.990402833
-Coordinates(Gal,ep=J2000,eq=2000): 334.9907179070478  -14.3657708631629
+Coordinates(ICRS,ep=J2000,eq=2000): 17 44 55.8646231368  -57 32 43.944881532 (Opt ) A [0.0211 0.0219 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 17 40 37.2207909069  -57 31 27.985937335
+Coordinates(Gal,ep=J2000,eq=2000): 334.9907187742497  -14.3657718698372
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 19.241 -12.306 [0.101 0.127 90] A 2018yCat.1345....0G
-Parallax: 7.3794 [0.0843] A 2018yCat.1345....0G
+Proper motions: 18.941 -12.380 [0.022 0.024 90] A 2020yCat.1350....0G
+Parallax: 7.5998 [0.0335] A 2020yCat.1350....0G
 Radial Velocity: -5.55 [0.13] A 2018yCat.1345....0G
 Redshift: -0.000019 [0.000000] A 2018yCat.1345....0G
 cz: -5.55 [0.13] A 2018yCat.1345....0G
 Flux B : 6.880 [0.015] D 2000A&A...355L..27H
 Flux V : 5.964 [0.009] D 2000A&A...355L..27H
-Flux G : 5.7209 [0.0009] C 2018yCat.1345....0G
+Flux G : 5.738480 [0.002783] C 2020yCat.1350....0G
 Flux J : 4.690 [0.278] D 2003yCat.2246....0C
 Flux H : 4.048 [0.228] D 2003yCat.2246....0C
 Flux K : 3.963 [0.252] D 2003yCat.2246....0C
@@ -24,29 +24,28 @@ Spectral type: G8III C 1975MSS...C01....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (26):
-   TIC 74984562                    CCDM J17449-5733AP              CD-57 6986                    
-   CPC 20 5682                     CPD-57 8703                     CSI-57 8703 41                
-   GC 24034                        GEN# +1.00160720J               GSC 08737-01518               
-   HD 160720                       HIC 86871                       HIP 86871                     
-   HR 6586                         IDS 17363-5730 A                PPM 346273                    
-   SAO 244989                      SKY# 32089                      TYC 8737-1518-1               
-   2MASS J17445587-5732439         WDS J17449-5733Aa,Ab            AKARI-IRC-V1 J1744558-573244  
-   IRAS 17406-5731                 ** HDO 277A                     ** HLN 44                     
-   WDS J17449-5733A                Gaia DR2 5918288122976930816                                  
+Identifiers (27):
+   HIP 86871                            Gaia DR3 5918288122976930816         GEN# +1.00160720                   
+   TIC 74984562                         CCDM J17449-5733AP                   CD-57 6986                         
+   CPC 20 5682                          CPD-57 8703                          CSI-57 8703 41                     
+   GC 24034                             GSC 08737-01518                      HD 160720                          
+   HIC 86871                            HR 6586                              IDS 17363-5730 A                   
+   PPM 346273                           SAO 244989                           SKY# 32089                         
+   TYC 8737-1518-1                      2MASS J17445587-5732439              WDS J17449-5733Aa,Ab               
+   AKARI-IRC-V1 J1744558-573244         IRAS 17406-5731                      ** HDO 277A                        
+   ** HLN 44                            WDS J17449-5733A                     Gaia DR2 5918288122976930816       
 
-Bibcodes  1850-2021 () (14):
+Bibcodes  1850-2023 () (20):
+  2022A&A...657A..87O  2021ApJS..254...42B  2020A&A...636A..74T  2020AJ....160....7T
   2019A&A...623A..72K  2019ApJ...880...49H  2019MNRAS.490.3158C  2016A&A...591A.118S
   2015MNRAS.448.2749A  2015MNRAS.450.1900A  2012A&A...546A..61D  2012MNRAS.427..343M
-  2010AJ....139..743T  2006AstL...32..759G  1993yCat.3135....0C  1985A&AS...59...15A
-  1982A&A...105..120H  1975MSS...C01....0H                        
+  2010AJ....139..743T  2007A&A...474..653V  2006AstL...32..759G  1997A&A...323L..49P
+  1993yCat.3135....0C  1985A&AS...59...15A  1982A&A...105..120H  1975MSS...C01....0H
 
-Measures (distance:1  Fe_H:1  MK:2  PLX:3  PM:4  velocities:2  ):
-distance:1Fe_H:1MK:2PLX:3PM:4velocities:2
+Measures (distance:2  Fe_H:5  MK:2  PLX:4  PM:5  velocities:2  ):
+distance:2Fe_H:5MK:2PLX:4PM:5velocities:2
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 86871 includes the components \object{CCDM J17449-5733 AP}
+Notes (0) :
 
 ================================================================================
 

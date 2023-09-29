@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:00:13
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST09:45:04
 
 HD71129
 -------
@@ -21,16 +21,16 @@ Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
 Identifiers (7):
-   * eps Car A                     HD 71129                        ** HDS 1190A                  
-   WDS J08225-5931A                CCDM J08225-5931A               TYC 8579-2692-1               
-   WEB 7952                                                                                      
+   * eps Car A                          HD 71129                             ** HDS 1190A                       
+   WDS J08225-5931A                     CCDM J08225-5931A                    TYC 8579-2692-1                    
+   WEB 7952                                                                                                     
 
-Bibcodes  1850-2021 () (5):
-  2021PASP..133a4401Y  2020A&A...639A...7J  1995A&AS..114..269D  1993yCat.3135....0C
-  1975MSS...C01....0H                                    
+Bibcodes  1850-2023 () (6):
+  2021PASP..133a4401Y  2020A&A...633A..34C  2020A&A...639A...7J  1995A&AS..114..269D
+  1993yCat.3135....0C  1975MSS...C01....0H                        
 
-Measures (MK:3  velocities:1  ):
-MK:3velocities:1
+Measures (Fe_H:1  MK:3  velocities:1  ):
+Fe_H:1MK:3velocities:1
 
 Notes (0) :
 

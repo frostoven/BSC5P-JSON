@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:17:16
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:12:55
 
 HD190306
 --------
@@ -8,14 +8,13 @@ Object HD 190306  ---  **  ---  OID=@2355579   (@@61027,2)  ---  coobox=19001
 Coordinates(ICRS,ep=J2000,eq=2000): 20 05 32.02893  -32 59 59.4098 (Opt ) A [7.55 4.13 90] 2007A&A...474..653V
 Coordinates(FK4,ep=B1950,eq=1950): 20 02 20.91260  -33 08 35.1002
 Coordinates(Gal,ep=J2000,eq=2000): 008.38294900  -29.04395585 
-hierarchy counts: #parents=0, #children=0, #siblings=0
+hierarchy counts: #parents=0, #children=2, #siblings=0
 Proper motions: 7.60 -7.16 [0.86 0.47 0] A 2007A&A...474..653V
 Parallax: 3.82 [0.60] A 2007A&A...474..653V
 Radial Velocity: -18.3 [2] E 1953GCRV..C......0W
 Redshift: -0.000061 [0.000007] E 1953GCRV..C......0W
 cz: -18.30 [2.00] E 1953GCRV..C......0W
-Flux B : 6.45 [~] E ~                  
-Flux V : 6.53 [~] E ~                  
+Flux G : 6.661506 [0.006073] C 2022yCat.1355....0G
 Flux J : 6.575 [0.020] C 2003yCat.2246....0C
 Flux H : 6.641 [0.027] C 2003yCat.2246....0C
 Flux K : 6.643 [0.023] C 2003yCat.2246....0C
@@ -23,29 +22,28 @@ Spectral type: B4III C 1982MSS...C03....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (24):
-   TIC 439440472                   CCDM J20055-3300AB              CD-33 14700                   
-   CPC 17 10944                    CPD-33 5786                     CSI-33 14700 21               
-   GC 27851                        GCRV 12440                      GEN# +1.00190306J             
-   HD 190306                       HIC 98960                       HIP 98960                     
-   HR 7668                         IDS 19592-3317 AB               PPM 299765                    
-   SAO 211798                      SKY# 37752                      TD1 25965                     
-   2MASS J20053205-3259594         WDS J20055-3300AB               TYC 7444-1639-1               
-   ** SEE 404AB                    uvby98 100190306                WEB 17569                     
+Identifiers (26):
+   HIP 98960                            UCAC4 286-214925                     Gaia DR3 6700584839340358272       
+   GSC 07444-01639                      GEN# +1.00190306                     TIC 439440472                      
+   CCDM J20055-3300AB                   CD-33 14700                          CPC 17 10944                       
+   CPD-33 5786                          CSI-33 14700 21                      GC 27851                           
+   GCRV 12440                           HD 190306                            HIC 98960                          
+   HR 7668                              IDS 19592-3317 AB                    PPM 299765                         
+   SAO 211798                           SKY# 37752                           TD1 25965                          
+   2MASS J20053205-3259594              WDS J20055-3300AB                    ** SEE 404AB                       
+   uvby98 100190306                     WEB 17569                                                               
 
-Bibcodes  1850-2021 () (18):
+Bibcodes  1850-2023 () (20):
   2019A&A...623A..72K  2015A&A...580A..23P  2014A&A...565A.117C  2012MNRAS.427..343M
-  2011MNRAS.410..190T  2006AstL...32..759G  2000A&A...356..141F  1998A&AS..129..431H
-  1996A&AS..118..481B  1996AJ....111..936H  1995A&AS..114..269D  1993AJ....106..352H
-  1993PASP..105.1127G  1993yCat.3135....0C  1989A&AS...80..127F  1982MSS...C03....0H
-  1977A&AS...27..443G  1953GCRV..C......0W                        
+  2011MNRAS.410..190T  2007A&A...474..653V  2006AstL...32..759G  2000A&A...356..141F
+  1998A&AS..129..431H  1997A&A...323L..49P  1996A&AS..118..481B  1996AJ....111..936H
+  1995A&AS..114..269D  1993AJ....106..352H  1993PASP..105.1127G  1993yCat.3135....0C
+  1989A&AS...80..127F  1982MSS...C03....0H  1977A&AS...27..443G  1953GCRV..C......0W
 
 Measures (MK:2  PLX:2  PM:3  velocities:4  ):
 MK:2PLX:2PM:3velocities:4
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 98960 includes the components \object{CCDM J20055-3300AB}
+Notes (0) :
 
 ================================================================================
 

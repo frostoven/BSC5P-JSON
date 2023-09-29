@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:47:08
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:41:43
 
 HD27657
 -------
@@ -20,15 +20,16 @@ Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
 Identifiers (12):
-   CCDM J04177-6315AB              CD-63 143                       CPD-63 316                    
-   CSI-63 316 43                   HIC 20020                       HIP 20020                     
-   IDS 04166-6330 AB               WDS J04177-6315AB               ** RMK 3AB                    
-   * tet Ret                       HD 27657                        HR 1372                       
+   HIP 20020                            CCDM J04177-6315AB                   CD-63 143                          
+   CPD-63 316                           CSI-63 316 43                        HIC 20020                          
+   IDS 04166-6330 AB                    WDS J04177-6315AB                    ** RMK 3AB                         
+   * tet Ret                            HD 27657                             HR 1372                            
 
-Bibcodes  1850-2021 () (12):
-  2019A&A...623A..72K  2019ApJ...872L...9P  2019MNRAS.485.3457B  2019MNRAS.490.4040A
-  2012A&A...546A..61D  2012MNRAS.427..343M  2006A&A...447..971V  2006MNRAS.372.1509O
-  2005A&A...442..597V  2005MNRAS.364L..71V  2001A&A...374..132L  1993yCat.3135....0C
+Bibcodes  1850-2023 () (16):
+  2021ApJS..254...42B  2020AJ....160..284M  2019A&A...623A..72K  2019ApJ...872L...9P
+  2019MNRAS.485.3457B  2019MNRAS.490.4040A  2012A&A...546A..61D  2012MNRAS.427..343M
+  2007A&A...474..653V  2006A&A...447..971V  2006MNRAS.372.1509O  2005A&A...442..597V
+  2005MNRAS.364L..71V  2001A&A...374..132L  1997A&A...323L..49P  1993yCat.3135....0C
 
 Measures (MK:1  PLX:2  PM:2  velocities:2  ):
 MK:1PLX:2PM:2velocities:2

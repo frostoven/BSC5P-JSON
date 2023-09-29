@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:00:52
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST09:46:05
 
 HD71665
 -------
 
 Object HD 71665  ---  *  ---  OID=@1096021   (@@15769,12)  ---  coobox=7534
 
-Coordinates(ICRS,ep=J2000,eq=2000): 08 28 19.7881588588  -08 48 58.612692046 (Opt ) A [0.0295 0.0224 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 08 25 54.2210804291  -08 38 56.476372926
-Coordinates(Gal,ep=J2000,eq=2000): 232.5535901116419  +16.9148775229683
+Coordinates(ICRS,ep=J2000,eq=2000): 08 28 19.7882057712  -08 48 58.614871860 (Opt ) A [0.0202 0.0179 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 08 25 54.2212748709  -08 38 56.486041462
+Coordinates(Gal,ep=J2000,eq=2000): 232.5535907554321  +16.9148773662359
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 14.586 -41.560 [0.060 0.039 90] A 2018yCat.1345....0G
-Parallax: 4.4839 [0.0334] A 2018yCat.1345....0G
+Proper motions: 14.543 -41.410 [0.026 0.028 90] A 2020yCat.1350....0G
+Parallax: 4.5208 [0.0233] A 2020yCat.1350....0G
 Radial Velocity: 11.14 [0.16] A 2018yCat.1345....0G
 Redshift: 0.000037 [0.000001] A 2018yCat.1345....0G
 cz: 11.14 [0.16] A 2018yCat.1345....0G
 Flux B : 7.63 [~] E ~                  
 Flux V : 6.43 [~] E ~                  
-Flux G : 6.0758 [0.0004] C 2018yCat.1345....0G
+Flux G : 6.091677 [0.002765] C 2020yCat.1350....0G
 Flux J : 4.515 [0.222] D 2003yCat.2246....0C
 Flux H : 3.804 [0.228] D 2003yCat.2246....0C
 Flux K : 3.676 [0.238] D 2003yCat.2246....0C
@@ -24,23 +24,24 @@ Spectral type: K1III C 1999MSS...C05....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (21):
-   TIC 50896383                    BD-08 2374                      GC 11585                      
-   GEN# +1.00071665                GSC 05428-02617                 HD 71665                      
-   HERZ 13016                      HIC 41547                       HIP 41547                     
-   HR 3338                         IRAS 08258-0838                 PPM 191380                    
-   SAO 135956                      SKY# 16126                      TYC 5428-2617-1               
-   UBV 8079                        UBV M 14354                     YZ 98 3266                    
-   2MASS J08281979-0848586         Gaia DR1 5752943972406982784    Gaia DR2 5752943976703360128  
+Identifiers (22):
+   HIP 41547                            Gaia DR3 5752943976703360128         TIC 50896383                       
+   BD-08 2374                           GC 11585                             GEN# +1.00071665                   
+   GSC 05428-02617                      HD 71665                             HERZ 13016                         
+   HIC 41547                            HR 3338                              IRAS 08258-0838                    
+   PPM 191380                           SAO 135956                           SKY# 16126                         
+   TYC 5428-2617-1                      UBV 8079                             UBV M 14354                        
+   YZ 98 3266                           2MASS J08281979-0848586              Gaia DR1 5752943972406982784       
+   Gaia DR2 5752943976703360128                                                                                 
 
-Bibcodes  1850-2021 () (13):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D  2012MNRAS.427..343M
-  2006AstL...32..759G  1999MSS...C05....0H  1993A&AS..102..655C  1993AJ....106...80E
-  1993yCat.3135....0C  1989PASP..101...45E  1989PASP..101..366E  1986ApJS...62..147B
-  1985A&AS...59...15A                                    
+Bibcodes  1850-2023 () (16):
+  2021ApJS..254...42B  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D
+  2012MNRAS.427..343M  2007A&A...474..653V  2006AstL...32..759G  1999MSS...C05....0H
+  1997A&A...323L..49P  1993A&AS..102..655C  1993AJ....106...80E  1993yCat.3135....0C
+  1989PASP..101...45E  1989PASP..101..366E  1986ApJS...62..147B  1985A&AS...59...15A
 
-Measures (distance:1  MK:2  PLX:4  PM:4  velocities:2  ):
-distance:1MK:2PLX:4PM:4velocities:2
+Measures (distance:2  MK:2  PLX:5  PM:5  velocities:2  ):
+distance:2MK:2PLX:5PM:5velocities:2
 
 Notes (0) :
 

@@ -1,40 +1,42 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:48:43
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:04:13
 
 HD4758
 ------
 
-Object * 65 Psc A  ---  *  ---  OID=@1503409   (@@31231,7)  ---  coobox=11664
+Object * 65 Psc A  ---  PM*  ---  OID=@1503409   (@@31231,7)  ---  coobox=11664
 
-Coordinates(ICRS,ep=J2000,eq=2000): 00 49 53.167  +27 42 37.10 (Opt ) B [23 23 90] 2000A&A...355L..27H
-Coordinates(FK4,ep=B1950,eq=1950): 00 47 12.073  +27 26 17.37 
-Coordinates(Gal,ep=J2000,eq=2000): 122.511820  -35.160176     
+Coordinates(ICRS,ep=J2000,eq=2000): 00 49 53.1664217465  +27 42 37.037441270 (Opt ) A [0.0257 0.0232 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 00 47 11.7439805257  +27 26 17.769129078
+Coordinates(Gal,ep=J2000,eq=2000): 122.5118169371483  -35.1601935893916
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: ~ ~ [~ ~ ] ~ ~
-Parallax: 10.3 [9.3] E 1995GCTP..C......0V
+Proper motions: 87.542 -9.244 [0.029 0.026 90] A 2020yCat.1350....0G
+Parallax: 11.2529 [0.0344] A 2020yCat.1350....0G
 Radial Velocity: 6.8 [2] E 1953GCRV..C......0W
 Redshift: 0.000023 [0.000007] E 1953GCRV..C......0W
 cz: 6.80 [2.00] E 1953GCRV..C......0W
-Flux B : 6.638 [0.015] D 2000A&A...355L..27H
-Flux V : 6.293 [0.010] D 2000A&A...355L..27H
+Flux B : 6.64 [0.01] D 2002A&A...384..180F
+Flux V : 6.29 [0.01] D 2002A&A...384..180F
+Flux G : 6.237961 [0.002778] C 2022yCat.1355....0G
 Flux R : 6.27 [~] D 2009yCat.1315....0Z
 Flux J : 5.187 [0.019] C 2003yCat.2246....0C
-Flux H : 5.07 [0.04] C 2003yCat.2246....0C
+Flux H : 5.068 [0.036] C 2003yCat.2246....0C
 Flux K : 5.009 [0.017] C 2003yCat.2246....0C
 Spectral type: F5III C ~                  
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (23):
-   TIC 13863427                    * 65 Psc A                      ADS 683 A                     
-   AG+27 96                        BD+26 131A                      CSI+26 131 2                  
-   GC 993                          GCRV 463                        HD 4758                       
-   HR 231                          ROT 6605                        SAO 74296                     
-   WDS J00499+2743B                Renson 1240                     TYC 1745-2184-1               
-   UCAC3 236-4692                  2MASS J00495313+2742371         GSC 01745-02184               
-   uvby98 100004758                GEN# +1.00004758                PLX 164                       
-   PLX 164.00A                     WEB 692                                                       
+Identifiers (25):
+   Gaia DR3 2809005372903102080         WISE J004953.23+274237.2             TIC 13863427                       
+   * 65 Psc A                           ADS 683 A                            AG+27 96                           
+   BD+26 131A                           CSI+26 131 2                         GC 993                             
+   GCRV 463                             HD 4758                              HR 231                             
+   ROT 6605                             SAO 74296                            WDS J00499+2743B                   
+   Renson 1240                          TYC 1745-2184-1                      UCAC3 236-4692                     
+   2MASS J00495313+2742371              GSC 01745-02184                      uvby98 100004758                   
+   GEN# +1.00004758                     PLX 164                              PLX 164.00A                        
+   WEB 692                                                                                                      
 
-Bibcodes  1850-2021 () (49):
+Bibcodes  1850-2023 () (49):
   2020ApJS..247...11R  2018A&A...616A.108B  2015A&A...580A..23P  2015AJ....150...88L
   2013AJ....146...56M  2011A&A...530A.138C  2011AJ....142...46M  2009A&A...498..961R
   2008MNRAS.389..869E  2006A&A...453..717J  2004AJ....128.3012M  2002A&A...393..897R
@@ -49,8 +51,8 @@ Bibcodes  1850-2021 () (49):
   1954JO.....37...37C  1953GCRV..C......0W  1952JO.....35..101C  1951JO.....34...21D
   1951JO.....34...25P                                    
 
-Measures (MK:2  PLX:1  PM:2  ROT:3  velocities:4  ):
-MK:2PLX:1PM:2ROT:3velocities:4
+Measures (distance:1  MK:2  PLX:2  PM:3  ROT:3  velocities:4  ):
+distance:1MK:2PLX:2PM:3ROT:3velocities:4
 
 Notes (0) :
 

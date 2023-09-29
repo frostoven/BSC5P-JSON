@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:48:22
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:00:13
 
 HD2507
 ------
 
 Object HD 2507  ---  *  ---  OID=@1544940   (@@32334,7)  ---  coobox=11622
 
-Coordinates(ICRS,ep=J2000,eq=2000): 00 28 56.6628711461  +36 53 58.897776715 (Opt ) A [0.0367 0.0436 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 00 26 16.9213183938  +36 37 24.301172908
-Coordinates(Gal,ep=J2000,eq=2000): 117.9407217008362  -25.7539647170390
+Coordinates(ICRS,ep=J2000,eq=2000): 00 28 56.6629229880  +36 53 58.896016764 (Opt ) A [0.0233 0.0164 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 00 26 16.9215947389  +36 37 24.294415332
+Coordinates(Gal,ep=J2000,eq=2000): 117.9407218391680  -25.7539652203429
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -4.403 -4.231 [0.076 0.108 90] A 2018yCat.1345....0G
-Parallax: 5.4101 [0.0610] A 2018yCat.1345....0G
+Proper motions: -4.457 -4.131 [0.024 0.019 90] A 2020yCat.1350....0G
+Parallax: 5.4234 [0.029] A 2020yCat.1350....0G
 Radial Velocity: 12.74 [0.18] A 2018yCat.1345....0G
 Redshift: 0.000042 [0.000001] A 2018yCat.1345....0G
 cz: 12.74 [0.18] A 2018yCat.1345....0G
 Flux B : 7.196 [0.015] D 2000A&A...355L..27H
 Flux V : 6.273 [0.010] D 2000A&A...355L..27H
-Flux G : 6.0338 [0.0006] C 2018yCat.1345....0G
+Flux G : 6.050480 [0.002770] C 2020yCat.1350....0G
 Flux J : 4.989 [0.232] D 2003yCat.2246....0C
 Flux H : 4.454 [0.208] D 2003yCat.2246....0C
 Flux K : 4.179 [0.029] C 2003yCat.2246....0C
@@ -24,23 +24,25 @@ Spectral type: G5III D ~
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (21):
-   TIC 115479332                   2MASS J00285667+3653591         AG+36 38                      
-   BD+36 66                        GC 563                          GCRV 258                      
-   GEN# +1.00002507                GSC 02274-00795                 HD 2507                       
-   HIC 2270                        HIP 2270                        HR 110                        
-   IRAS 00262+3637                 PPM 65357                       SAO 53928                     
-   SKY# 793                        TYC 2274-795-1                  UBV M 7401                    
-   Gaia DR1 366461556181138560     WEB 422                         Gaia DR2 366461560476811264   
+Identifiers (22):
+   HIP 2270                             Gaia DR3 366461560476811264          TIC 115479332                      
+   2MASS J00285667+3653591              AG+36 38                             BD+36 66                           
+   GC 563                               GCRV 258                             GEN# +1.00002507                   
+   GSC 02274-00795                      HD 2507                              HIC 2270                           
+   HR 110                               IRAS 00262+3637                      PPM 65357                          
+   SAO 53928                            SKY# 793                             TYC 2274-795-1                     
+   UBV M 7401                           Gaia DR1 366461556181138560          WEB 422                            
+   Gaia DR2 366461560476811264                                                                                  
 
-Bibcodes  1850-2021 () (16):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D  2012MNRAS.427..343M
-  2008ApJS..176..276V  2006AstL...32..759G  1999A&AS..139..433D  1999AJ....118.2378V
-  1995A&AS..114..269D  1993yCat.3135....0C  1989ApJ...347.1021G  1987A&AS...68..259H
-  1987Ap&SS.139...83J  1981AJ.....86.1896H  1979PASP...91...83C  1953GCRV..C......0W
+Bibcodes  1850-2023 () (19):
+  2021ApJS..254...42B  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D
+  2012MNRAS.427..343M  2008ApJS..176..276V  2007A&A...474..653V  2006AstL...32..759G
+  1999A&AS..139..433D  1999AJ....118.2378V  1997A&A...323L..49P  1995A&AS..114..269D
+  1993yCat.3135....0C  1989ApJ...347.1021G  1987A&AS...68..259H  1987Ap&SS.139...83J
+  1981AJ.....86.1896H  1979PASP...91...83C  1953GCRV..C......0W            
 
-Measures (distance:1  MK:1  PLX:4  PM:5  velocities:5  ):
-distance:1MK:1PLX:4PM:5velocities:5
+Measures (distance:2  MK:1  PLX:5  PM:6  velocities:5  ):
+distance:2MK:1PLX:5PM:6velocities:5
 
 Notes (0) :
 

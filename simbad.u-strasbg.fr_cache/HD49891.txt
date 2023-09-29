@@ -1,21 +1,19 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:47:46
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST07:19:42
 
 HD49891
 -------
 
-Object CCDM J06497-2405AB  ---  **  ---  OID=@931519   (@@14080,4)  ---  coobox=7746
+Object HD 49891  ---  **  ---  OID=@931519   (@@14080,4)  ---  coobox=7746
 
 Coordinates(ICRS,ep=J2000,eq=2000): 06 49 44.00154  -24 04 33.8440 (Opt ) A [5.10 3.43 90] 2007A&A...474..653V
 Coordinates(FK4,ep=B1950,eq=1950): 06 47 39.41056  -24 01 01.8263
 Coordinates(Gal,ep=J2000,eq=2000): 234.45046971  -11.07312122 
-hierarchy counts: #parents=0, #children=0, #siblings=0
+hierarchy counts: #parents=0, #children=2, #siblings=0
 Proper motions: 0.12 -14.17 [0.39 0.58 0] A 2007A&A...474..653V
 Parallax: 4.07 [0.70] A 2007A&A...474..653V
-Radial Velocity: -1.70 [1.1] B 2006AstL...32..759G
-Redshift: -0.000006 [0.000004] B 2006AstL...32..759G
-cz: -1.70 [1.10] B 2006AstL...32..759G
-Flux B : 6.37 [~] E ~                  
-Flux V : 6.33 [~] E ~                  
+Radial Velocity: 8.941670 [0.170205] A 2020AJ....160..120J
+Redshift: 0.000030 [0.000001] A 2020AJ....160..120J
+cz: 8.94 [0.17] A 2020AJ....160..120J
 Flux J : 6.188 [0.021] C 2003yCat.2246....0C
 Flux H : 6.185 [0.020] C 2003yCat.2246....0C
 Flux K : 6.149 [0.026] C 2003yCat.2246....0C
@@ -23,30 +21,31 @@ Spectral type: A0/1V D 1988MSS...C04....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (23):
-   TIC 173042832                   2MASS J06494399-2404341         ADS 5498 AB                   
-   CCDM J06497-2405AB              CD-23 4438                      CEL 1398                      
-   CPD-23 1519                     CSI-23 4438 21                  GC 8939                       
-   GEN# +1.00049891J               HD 49891                        HIC 32744                     
-   HIP 32744                       HR 2528                         IDS 06456-2358 AB             
-   PPM 251063                      SAO 172389                      SKY# 12049                    
-   UBV M 12488                     WDS J06497-2405AB               ** BU 324AB                   
-   uvby98 100049891                Gaia DR1 2922212735070622592                                  
+Identifiers (28):
+   HIP 32744                            AP J06494399-2404341                 GSC 06521-03595                    
+   WISE J064943.98-240434.2             UCAC4 330-016361                     GEN# +1.00049891                   
+   ** S 537AB                           ** BU 324                            TIC 173042832                      
+   2MASS J06494399-2404341              ADS 5498 AB                          CCDM J06497-2405AB                 
+   CD-23 4438                           CEL 1398                             CPD-23 1519                        
+   CSI-23 4438 21                       GC 8939                              HD 49891                           
+   HIC 32744                            HR 2528                              IDS 06456-2358 AB                  
+   PPM 251063                           SAO 172389                           SKY# 12049                         
+   UBV M 12488                          WDS J06497-2405AB                    uvby98 100049891                   
+   Gaia DR1 2922212735070622592                                                                                 
 
-Bibcodes  1850-2021 () (24):
-  2019A&A...623A..72K  2018A&A...609A.116R  2018AJ....155..149B  2017AJ....153..257O
-  2016A&A...591A.118S  2012A&A...537A.120Z  2012A&A...546A..61D  2012ApJS..199....8G
-  2012MNRAS.427..343M  2010A&A...510A..54W  2007A&A...463..671R  2006AstL...32..759G
-  2003A&A...411..447L  2002A&A...393..897R  2001A&A...373..625P  2000A&A...356..141F
-  2000AJ....119.3084H  1998A&AS..129..431H  1995ApJS...99..135A  1993yCat.3135....0C
+Bibcodes  1850-2023 () (28):
+  2021ApJS..254...42B  2020AJ....160..120J  2019A&A...623A..72K  2018A&A...609A.116R
+  2018AJ....155..149B  2017AJ....153..257O  2016A&A...591A.118S  2012A&A...537A.120Z
+  2012A&A...546A..61D  2012ApJS..199....8G  2012MNRAS.427..343M  2010A&A...510A..54W
+  2007A&A...463..671R  2007A&A...474..653V  2006AstL...32..759G  2003A&A...411..447L
+  2002A&A...393..897R  2001A&A...373..625P  2000A&A...356..141F  2000AJ....119.3084H
+  1998A&AS..129..431H  1997A&A...323L..49P  1995ApJS...99..135A  1993yCat.3135....0C
   1988MSS...C04....0H  1977A&AS...27..443G  1976ApJS...30...97D  1973SAOSR.350....1D
 
-Measures (Fe_H:2  MK:2  PLX:2  PM:3  ROT:3  velocities:1  ):
-Fe_H:2MK:2PLX:2PM:3ROT:3velocities:1
+Measures (Fe_H:3  MK:2  PLX:2  PM:3  ROT:4  velocities:2  ):
+Fe_H:3MK:2PLX:2PM:3ROT:4velocities:2
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 32744 includes the components \object{CCDM J06497-2405AB}
+Notes (0) :
 
 ================================================================================
 

@@ -1,22 +1,23 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:57:43
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:38:03
 
 HD161833
 --------
 
 Object HD 161833  ---  **  ---  OID=@2747202   (@@54090,0)  ---  coobox=18162
 
-Coordinates(ICRS,ep=J2000,eq=2000): 17 47 08.04670  +17 41 49.2493 (Opt ) A [6.06 4.22 90] 2007A&A...474..653V
-Coordinates(FK4,ep=B1950,eq=1950): 17 44 55.51505  +17 42 50.8342
-Coordinates(Gal,ep=J2000,eq=2000): 042.25286156  +21.92525579 
-hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 11.76 -11.25 [0.69 0.48 0] A 2007A&A...474..653V
-Parallax: 6.99 [0.61] A 2007A&A...474..653V
+Coordinates(ICRS,ep=J2000,eq=2000): 17 47 08.0461052401  +17 41 49.283524056 (Opt ) A [0.0869 0.1013 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 17 44 55.5189735286  +17 42 50.896175370
+Coordinates(Gal,ep=J2000,eq=2000): 042.2528700335674  +21.9252616456278
+hierarchy counts: #parents=0, #children=2, #siblings=0
+Proper motions: 10.476 -11.810 [0.124 0.134 90] A 2020yCat.1350....0G
+Parallax: 7.6358 [0.1370] A 2020yCat.1350....0G
 Radial Velocity: 3.00 [3.2] C 2006AstL...32..759G
 Redshift: 0.000010 [0.000011] C 2006AstL...32..759G
 cz: 3.00 [3.20] C 2006AstL...32..759G
 Flux U : 5.650 [0.010] C 1991A&AS...89..415O
 Flux B : 5.640 [0.007] C 1991A&AS...89..415O
 Flux V : 5.610 [0.009] C 1991A&AS...89..415O
+Flux G : 5.878662 [0.003007] C 2020yCat.1350....0G
 Flux J : 5.463 [0.018] C 2003yCat.2246....0C
 Flux H : 5.499 [0.018] C 2003yCat.2246....0C
 Flux K : 5.452 [0.020] C 2003yCat.2246....0C
@@ -24,26 +25,28 @@ Spectral type: A1V C ~
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (30):
-   TIC 44260670                    ADS 10795 AB                    AG+17 1763                    
-   BD+17 3334                      CCDM J17471+1742AB              GC 24150                      
-   GCRV 10291                      GEN# +1.00161833J               GSC 01556-01341               
-   HD 161833                       HIC 87044                       HIP 87044                     
-   HR 6627                         IDS 17427+1744 AB               N30 3957                      
-   PPM 133825                      ROT 2490                        SAO 103106                    
-   SKY# 32153                      TD1 20999                       TYC 1556-1341-1               
-   UBV 15142                       YPAC 571                        YZ 17 6436                    
-   2MASS J17470804+1741491         WDS J17471+1742AB               ** STF 2215                   
-   ** STF 2215AB                   uvby98 100161833                WEB 14683                     
+Identifiers (32):
+   HIP 87044                            Gaia DR3 4550988754628474624         UCAC4 539-064896                   
+   Gaia DR2 4550988750326340608         WISE J174708.04+174149.1             GEN# +1.00161833                   
+   TIC 44260670                         ADS 10795 AB                         AG+17 1763                         
+   BD+17 3334                           CCDM J17471+1742AB                   GC 24150                           
+   GCRV 10291                           GSC 01556-01341                      HD 161833                          
+   HIC 87044                            HR 6627                              IDS 17427+1744 AB                  
+   N30 3957                             PPM 133825                           ROT 2490                           
+   SAO 103106                           SKY# 32153                           TD1 20999                          
+   UBV 15142                            YPAC 571                             YZ 17 6436                         
+   2MASS J17470804+1741491              WDS J17471+1742AB                    ** STF 2215                        
+   uvby98 100161833                     WEB 14683                                                               
 
-Bibcodes  1850-2021 () (71):
-  2019A&A...623A..72K  2016A&A...591A.118S  2015A&A...580A..23P  2012A&A...537A.120Z
-  2012A&A...546A..61D  2012A&A...546A..69M  2012MNRAS.427..343M  2011AJ....141..157M
-  2010SerAJ.180...71C  2009AJ....138..813H  2008MNRAS.389..869E  2007A&A...463..671R
-  2006AstL...32..759G  2006MNRAS.367.1170S  2006SerAJ.173...73C  2005ApJ...629..507A
-  2004ApJ...616..562A  2002A&A...393..897R  2002BaltA..11..153B  2001A&A...367..297A
-  2001A&A...373..625P  2000A&A...356..141F  2000AJ....119.3084H  1999AJ....117.2511G
-  1998A&AS..129..431H  1998A&AS..132..237A  1997AJ....114.1623F  1997AJ....114.1639H
+Bibcodes  1850-2023 () (75):
+  2021ApJS..254...42B  2019A&A...623A..72K  2018A&A...620A.172Z  2016A&A...591A.118S
+  2015A&A...580A..23P  2012A&A...537A.120Z  2012A&A...546A..61D  2012A&A...546A..69M
+  2012MNRAS.427..343M  2011AJ....141..157M  2010SerAJ.180...71C  2009AJ....138..813H
+  2008MNRAS.389..869E  2007A&A...463..671R  2007A&A...474..653V  2006AstL...32..759G
+  2006MNRAS.367.1170S  2006SerAJ.173...73C  2005ApJ...629..507A  2004ApJ...616..562A
+  2002A&A...393..897R  2002BaltA..11..153B  2001A&A...367..297A  2001A&A...373..625P
+  2000A&A...356..141F  2000AJ....119.3084H  1999AJ....117.2511G  1998A&AS..129..431H
+  1998A&AS..132..237A  1997A&A...323L..49P  1997AJ....114.1623F  1997AJ....114.1639H
   1997ApJS..111..289D  1996A&AS..115...59T  1996A&AS..118..239H  1996AJ....111..393A
   1995A&AS..114..269D  1995ApJS...99..135A  1995BOBeo.151...45P  1994AJ....108.2299H
   1994PASP..106..992H  1993yCat.3135....0C  1991A&AS...89..415O  1990SoSAO..65....5B
@@ -56,12 +59,10 @@ Bibcodes  1850-2021 () (71):
   1956JO.....39..181M  1956JO.....39..198C  1955JO.....38..238C  1953GCRV..C......0W
   1951AnAp...14...85B  1951BAN....11..365F  1951JO.....34...25P            
 
-Measures (Fe_H:1  MK:4  PLX:2  PM:5  ROT:4  velocities:6  ):
-Fe_H:1MK:4PLX:2PM:5ROT:4velocities:6
+Measures (distance:2  Fe_H:1  MK:4  PLX:4  PM:7  ROT:4  velocities:6  ):
+distance:2Fe_H:1MK:4PLX:4PM:7ROT:4velocities:6
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 87044 includes the components \object{CCDM J17471+1742AB}
+Notes (0) :
 
 ================================================================================
 

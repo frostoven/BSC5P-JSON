@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:38:58
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:38:39
 
 HD210354
 --------
 
 Object * pi.01 Peg  ---  PM*  ---  OID=@1526342   (@@31614,8)  ---  coobox=9697
 
-Coordinates(ICRS,ep=J2000,eq=2000): 22 09 13.6189347692  +33 10 20.477751505 (Opt ) A [0.0772 0.0988 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 22 07 00.4254878657  +32 55 39.096314953
-Coordinates(Gal,ep=J2000,eq=2000): 087.9241495627009  -18.4525690803702
+Coordinates(ICRS,ep=J2000,eq=2000): 22 09 13.6250956656  +33 10 20.477239752 (Opt ) A [0.0776 0.1008 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 22 07 00.4518759208  +32 55 39.090146595
+Coordinates(Gal,ep=J2000,eq=2000): 087.9241674205941  -18.4525822996801
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -48.117 -73.408 [0.200 0.207 90] A 2018yCat.1345....0G
-Parallax: 10.2111 [0.1137] A 2018yCat.1345....0G
+Proper motions: -53.215 -73.313 [0.097 0.126 90] A 2020yCat.1350....0G
+Parallax: 11.2851 [0.1384] A 2020yCat.1350....0G
 Radial Velocity: -6.98 [0.90] A 2018yCat.1345....0G
 Redshift: -0.000023 [0.000003] A 2018yCat.1345....0G
 cz: -6.98 [0.90] A 2018yCat.1345....0G
 Flux B : 6.562 [0.014] D 2000A&A...355L..27H
 Flux V : 5.582 [0.009] D 2000A&A...355L..27H
-Flux G : 5.2733 [0.0018] C 2018yCat.1345....0G
+Flux G : 5.309195 [0.002796] C 2020yCat.1350....0G
 Flux J : 4.119 [0.328] E 2003yCat.2246....0C
 Flux H : 3.550 [0.262] D 2003yCat.2246....0C
 Flux K : 3.169 [0.370] E 2003yCat.2246....0C
@@ -24,26 +24,27 @@ Spectral type: G6III: D 1990ApJS...74.1075M
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (35):
-   TIC 162459565                   PLX 5360                        * 27 Peg                      
-   * pi.01 Peg                     ADS 15672 A                     AG+32 2183                    
-   BD+32 4349                      CCDM J22092+3310A               CSI+32 4349 1                 
-   FK5 833                         GC 30995                        GCRV 13922                    
-   GEN# +1.00210354                GSC 02724-02355                 HD 210354                     
-   HIC 109352                      HIP 109352                      HR 8449                       
-   IDS 22048+3241                  N30 4882                        PMC 90-93 583                 
-   PPM 87450                       SAO 72064                       IRAS 22069+3255               
-   AKARI-IRC-V1 J2209135+331020    SKY# 42212                      TYC 2724-2355-1               
-   UBV 18938                       UBV M 26169                     [HFE83] 1485                  
-   2MASS J22091364+3310203         PLX 5360.00                     WDS J22092+3310A              
-   WEB 19649                       Gaia DR2 1899240933502898944                                  
+Identifiers (36):
+   Gaia DR3 1899240933502898944         IDS 22048+3241 A                     TIC 162459565                      
+   PLX 5360                             * 27 Peg                             * pi.01 Peg                        
+   ADS 15672 A                          AG+32 2183                           BD+32 4349                         
+   CCDM J22092+3310A                    CSI+32 4349 1                        FK5 833                            
+   GC 30995                             GCRV 13922                           GEN# +1.00210354                   
+   GSC 02724-02355                      HD 210354                            HIC 109352                         
+   HIP 109352                           HR 8449                              N30 4882                           
+   PMC 90-93 583                        PPM 87450                            SAO 72064                          
+   IRAS 22069+3255                      AKARI-IRC-V1 J2209135+331020         SKY# 42212                         
+   TYC 2724-2355-1                      UBV 18938                            UBV M 26169                        
+   [HFE83] 1485                         2MASS J22091364+3310203              PLX 5360.00                        
+   WDS J22092+3310A                     WEB 19649                            Gaia DR2 1899240933502898944       
 
-Bibcodes  1850-2021 () (49):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2017AJ....153...16S  2017AJ....154..115H
-  2016A&A...591A.118S  2015AJ....150...66P  2014ApJ...785...94L  2014PASJ...66...91T
-  2010A&A...515A.111S  2008A&A...480...91S  2008AJ....135..209M  2008MNRAS.389..869E
-  2008PASJ...60..781T  2007A&A...464..377F  2006AstL...32..759G  2005AJ....129.2420M
-  2001A&A...365..222G  2001A&A...373..159C  1999A&AS..134..523T  1999A&AS..137..269M
+Bibcodes  1850-2023 () (53):
+  2023AJ....165...70C  2021ApJS..254...42B  2019A&A...623A..72K  2019MNRAS.490.3158C
+  2017AJ....153...16S  2017AJ....154..115H  2016A&A...591A.118S  2015AJ....150...66P
+  2014ApJ...785...94L  2014PASJ...66...91T  2010A&A...515A.111S  2008A&A...480...91S
+  2008AJ....135..209M  2008MNRAS.389..869E  2008PASJ...60..781T  2007A&A...464..377F
+  2007A&A...474..653V  2006AstL...32..759G  2005AJ....129.2420M  2001A&A...365..222G
+  2001A&A...373..159C  1999A&AS..134..523T  1999A&AS..137..269M  1997A&A...323L..49P
   1997A&AS..124..299C  1997AJ....114..850S  1997BaltA...6..499B  1997PNAOJ...5....1Y
   1995A&AS..114..269D  1995GCTP..C......0V  1994AJ....107..280H  1993yCat.3135....0C
   1992A&AS...95..355C  1992PPMtO..11..184X  1991ApJS...76..715T  1990ApJ...348..253M
@@ -53,8 +54,8 @@ Bibcodes  1850-2021 () (49):
   1966MNRAS.133..475A  1961ApJS....6....1K  1954AJ.....59..228E  1953GCRV..C......0W
   1951AnAp...14...54T                                    
 
-Measures (distance:1  Fe_H:6  MK:1  PLX:4  PM:6  ROT:1  velocities:7  ):
-distance:1Fe_H:6MK:1PLX:4PM:6ROT:1velocities:7
+Measures (distance:2  Fe_H:6  MK:1  PLX:5  PM:7  ROT:1  velocities:7  ):
+distance:2Fe_H:6MK:1PLX:5PM:7ROT:1velocities:7
 
 Notes (0) :
 

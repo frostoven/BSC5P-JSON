@@ -1,31 +1,31 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:51:04
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST08:57:36
 
 HD59067
 -------
 
 Object HD 59067  ---  *  ---  OID=@9121154   (@@-1,255)  ---  coobox=7381
 
-Coordinates(ICRS,ep=J2000,eq=2000): 07 27 51.661  -11 33 24.94 (Opt ) B [12 12 90] 2000A&A...355L..27H
-Coordinates(FK4,ep=B1950,eq=1950): 07 25 30.584  -11 27 14.74 
-Coordinates(Gal,ep=J2000,eq=2000): 227.366402  +02.673211     
+Coordinates(ICRS,ep=J2000,eq=2000): 07 27 51.659816  -11 33 24.72410 (Opt ) B [15 15 90] 2002A&A...384..180F
+Coordinates(FK4,ep=B1950,eq=1950): 07 25 30.583171  -11 27 14.52357
+Coordinates(Gal,ep=J2000,eq=2000): 227.366346520  +02.673234769
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: -5.9 -2.4 [1.0 1.0 90] B 2000A&A...355L..27H
+Proper motions: -5.9 -2.4 [1.0 1.0 90] B 2002A&A...384..180F
 Parallax: ~ [~] ~ ~                  
 Radial Velocity: 14.6 [~] E 1995A&AS..114..269D
 Redshift: 0.000049 [~] E 1995A&AS..114..269D
 cz: 14.60 [~] E 1995A&AS..114..269D
-Flux B : 6.554 [0.014] D 2000A&A...355L..27H
-Flux V : 5.924 [0.009] D 2000A&A...355L..27H
+Flux B : 7.10 [0.01] D 2002A&A...384..180F
+Flux V : 6.11 [0.01] D 2002A&A...384..180F
 Spectral type: G2V C 1999MSS...C05....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
 Identifiers (7):
-   HD 59067                        CCDM J07279-1133A               ** BU 332A                    
-   BD-11 1951A                     WDS J07279-1133A                TYC 5404-4372-1               
-   WEB 7221                                                                                      
+   HD 59067                             CCDM J07279-1133A                    ** BU 332A                         
+   BD-11 1951A                          WDS J07279-1133A                     TYC 5404-4372-1                    
+   WEB 7221                                                                                                     
 
-Bibcodes  1850-2021 () (6):
+Bibcodes  1850-2023 () (6):
   2020RNAAS...4...12P  2016A&A...591A.118S  2015A&A...580A..23P  1999MSS...C05....0H
   1995A&AS..114..269D  1993yCat.3135....0C                        
 

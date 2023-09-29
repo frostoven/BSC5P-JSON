@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:23:40
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:25:29
 
 HD200245
 --------
@@ -8,39 +8,42 @@ Object HD 200245  ---  **  ---  OID=@1203185   (@@24482,0)  ---  coobox=8212
 Coordinates(ICRS,ep=J2000,eq=2000): 21 03 10.18945  -27 43 53.7323 (Opt ) A [9.92 7.46 90] 2007A&A...474..653V
 Coordinates(FK4,ep=B1950,eq=1950): 21 00 11.51552  -27 55 45.9235
 Coordinates(Gal,ep=J2000,eq=2000): 018.24513512  -39.82580010 
-hierarchy counts: #parents=0, #children=0, #siblings=0
+hierarchy counts: #parents=0, #children=2, #siblings=0
 Proper motions: 35.66 -35.72 [1.13 0.85 0] A 2007A&A...474..653V
 Parallax: 3.42 [0.82] A 2007A&A...474..653V
 Radial Velocity: -30.20 [0.2] A 2007AN....328..889K
 Redshift: -0.000101 [0.000001] A 2007AN....328..889K
 cz: -30.20 [0.20] A 2007AN....328..889K
-Flux B : 7.200 [0.016] D 2000A&A...355L..27H
-Flux V : 6.259 [0.010] D 2000A&A...355L..27H
+Flux B : 7.20 [0.02] D 2002A&A...384..180F
+Flux V : 6.26 [0.01] D 2002A&A...384..180F
+Flux G : 6.155763 [0.005191] C 2020yCat.1350....0G
 Flux J : 4.917 [0.208] D 2003yCat.2246....0C
-Flux H : 4.335 [0.076] C 2003yCat.2246....0C
-Flux K : 4.159 [0.036] C 2003yCat.2246....0C
+Flux H : 4.335 [0.076] E 2003yCat.2246....0C
+Flux K : 4.159 [0.036] E 2003yCat.2246....0C
 Spectral type: K0III C 1982MSS...C03....0H
 Morphological type: ~ ~ ~
-Angular size: 0.0050  0.0  295 (Opt )  D 2001AJ....122.3466M
+Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (23):
-   TIC 29753609                    ADS 14565 AB                    CCDM J21032-2744AB            
-   CD-28 17077                     CPD-28 7375                     GC 29372                      
-   GEN# +1.00200245J               GSC 06931-00553                 HD 200245                     
-   HIC 103902                      HIP 103902                      HR 8050                       
-   IDS 20572-2807 AB               IRAS 21001-2755                 PPM 271972                    
-   SAO 189966                      SKY# 40020                      TYC 6931-553-1                
-   UBV M 25371                     YZ 117 13860                    2MASS J21031018-2743537       
-   WDS J21032-2744AB               ** SEE 435                                                    
+Identifiers (26):
+   Gaia DR3 6801284127165143296         WISE J210310.20-274353.9             UCAC4 312-254644                   
+   GEN# +1.00200245                     TIC 29753609                         ADS 14565 AB                       
+   CCDM J21032-2744AB                   CD-28 17077                          CPD-28 7375                        
+   GC 29372                             GSC 06931-00553                      HD 200245                          
+   HIC 103902                           HIP 103902                           HR 8050                            
+   IDS 20572-2807 AB                    IRAS 21001-2755                      PPM 271972                         
+   SAO 189966                           SKY# 40020                           TYC 6931-553-1                     
+   UBV M 25371                          YZ 117 13860                         2MASS J21031018-2743537            
+   WDS J21032-2744AB                    ** SEE 435                                                              
 
-Bibcodes  1850-2021 () (14):
-  2019A&A...623A..72K  2012MNRAS.427..343M  2010AJ....139..743T  2002A&A...384..180F
-  1996AJ....111..936H  1993yCat.3135....0C  1990AJ.....99..965M  1987A&AS...68..259H
-  1987AJ.....93..688M  1985A&AS...59...15A  1984PASP...96..105H  1982ApJS...48..273M
-  1982MSS...C03....0H  1981SAAOC...6...10D                        
+Bibcodes  1850-2023 () (17):
+  2021ApJS..254...42B  2019A&A...623A..72K  2012MNRAS.427..343M  2010AJ....139..743T
+  2007A&A...474..653V  2002A&A...384..180F  1997A&A...323L..49P  1996AJ....111..936H
+  1993yCat.3135....0C  1990AJ.....99..965M  1987A&AS...68..259H  1987AJ.....93..688M
+  1985A&AS...59...15A  1984PASP...96..105H  1982ApJS...48..273M  1982MSS...C03....0H
+  1981SAAOC...6...10D                                    
 
-Measures (MK:2  PLX:2  PM:3  velocities:1  ):
-MK:2PLX:2PM:3velocities:1
+Measures (MK:2  PLX:2  PM:4  velocities:1  ):
+MK:2PLX:2PM:4velocities:1
 
 Notes (0) :
 

@@ -1,57 +1,64 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:55:48
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:54:27
 
 HD34880
 -------
 
-Object HD 34880  ---  **  ---  OID=@786578   (@@16355,13)  ---  coobox=6474
+Object HD 34880  ---  SB*  ---  OID=@8587169   (@@-1,255)  ---  coobox=6474
 
-Coordinates(ICRS,ep=J2000,eq=2000): 05 20 26.40760  -05 22 03.1015 (Opt ) A [8.63 6.86 90] 2007A&A...474..653V
-Coordinates(FK4,ep=B1950,eq=1950): 05 17 58.88557  -05 25 00.3581
-Coordinates(Gal,ep=J2000,eq=2000): 207.19121440  -22.66271967 
-hierarchy counts: #parents=0, #children=2, #siblings=0
-Proper motions: -2.56 -4.81 [0.98 0.78 0] A 2007A&A...474..653V
-Parallax: 3.55 [1.28] A 2007A&A...474..653V
-Radial Velocity: 20.80 [1.1] B 2006AstL...32..759G
-Redshift: 0.000069 [0.000004] B 2006AstL...32..759G
-cz: 20.80 [1.10] B 2006AstL...32..759G
+Coordinates(ICRS,ep=J2000,eq=2000): 05 20 26.4073556606  -05 22 03.093419327 (Opt ) A [0.0754 0.0573 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 05 17 58.8886216269  -05 25 00.437774426
+Coordinates(Gal,ep=J2000,eq=2000): 207.1912117224419  -22.6627195528538
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -3.539 -3.050 [0.103 0.069 90] A 2020yCat.1350....0G
+Parallax: 3.3183 [0.0914] A 2020yCat.1350....0G
+Radial Velocity: 27.92 [1.53] B 2022yCat.1355....0G
+Redshift: 0.000093 [0.000005] B 2022yCat.1355....0G
+cz: 27.92 [1.53] B 2022yCat.1355....0G
 Flux U : 6 [~] D 2003AJ....125.2531R
-Flux B : 6.364 [~] E ~                  
-Flux V : 6.412 [~] E ~                  
+Flux B : 6.37 [0.01] D 2002A&A...384..180F
+Flux V : 6.42 [0.01] D 2002A&A...384..180F
+Flux G : 6.484241 [0.002816] C 2022yCat.1355....0G
+Flux J : 6.390 [0.024] C 2003yCat.2246....0C
+Flux H : 6.467 [0.038] C 2003yCat.2246....0C
+Flux K : 6.433 [0.020] C 2003yCat.2246....0C
 Spectral type: B8II C 1999MSS...C05....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (29):
-   BD-05 1225                      CEL 632                         CSI-05 1225 3                 
-   CSI-05 1225 1                   GC 6547                         GCRV 56072                    
-   GEN# +1.00034880J               GSC 04760-01404                 HD 34880                      
-   HIC 24925                       HIP 24925                       HR 1759                       
-   PPM 187964                      SAO 132004                      SKY# 8450                     
-   TD1 4439                        UBV 5086                        UBV M 10857                   
-   YZ 95 1507                      ALS 16416                       Renson 8910                   
-   WISE J052026.38-052203.0        ** BU 189                       ADS 3926 AB                   
-   IDS 05155-0528 AB               CCDM J05204-0522AB              WDS J05204-0522AB             
-   uvby98 100034880                WEB 4827                                                      
+Identifiers (41):
+   HIP 24925                            UCAC4 424-009222                     Gaia DR3 3210022964638861824       
+   Gaia DR2 3210022964638861824         ADS 3926 A                           IDS 05155-0528 A                   
+   WEB 4827                             uvby98 100034880                     WISE J052026.38-052203.0           
+   Renson 8910                          ALS 16416                            YZ 95 1507                         
+   UBV M 10857                          UBV 5086                             TD1 4439                           
+   SKY# 8450                            SAO 132004                           PPM 187964                         
+   HR 1759                              HIC 24925                            HD 34880                           
+   GSC 04760-01404                      GCRV 56072                           GC 6547                            
+   CSI-05 1225 1                        CSI-05 1225 3                        CEL 632                            
+   BD-05 1225                           WISEA J052026.39-052203.0            GEN# +1.00034880                   
+   LAMOST J052026.10-052212.2           TIC 4069670                          TYC 4760-1404-1                    
+   BD-05 1225A                          CCDM J05204-0522A                    WDS J05204-0522A                   
+   ** BU 189A                           HD 34880A                            WDS J05204-0522Aa,Ab               
+   ** HDS 702                           2MASS J05202641-0522030                                                 
 
-Bibcodes  1850-2021 () (42):
-  2019A&A...623A..72K  2013AstBu..68..300R  2012A&A...546A..61D  2012MNRAS.427..343M
-  2011A&A...525A..97M  2011MNRAS.410..190T  2010A&A...522A..85S  2009A&A...498..961R
+Bibcodes  1850-2023 () (47):
+  2021ApJS..254...42B  2020A&A...643A.122S  2019A&A...623A..72K  2015A&A...580A..23P
+  2013AstBu..68..300R  2012A&A...546A..61D  2012MNRAS.427..343M  2011A&A...525A..97M
+  2011MNRAS.410..190T  2010A&A...522A..85S  2009A&A...498..961R  2007A&A...474..653V
   2006AstL...32..759G  2005AJ....129..809S  2005AJ....130.1652R  2003AJ....125.2531R
   2002ApJ...573..359A  2000A&A...356..141F  1999MSS...C05....0H  1998A&AS..129..431H
-  1998A&AS..130..455V  1998A&AS..132...93A  1996A&AS..118..481B  1995A&AS..114..269D
-  1994BSAO...38..152G  1993PASP..105.1127G  1993yCat.3135....0C  1991A&AS...89..429R
-  1990A&AS...85..915D  1984A&AS...57...55S  1984A&AS...58..387N  1984ApJ...280..213T
-  1983A&AS...52..471A  1982A&A...114...23H  1981A&AS...44..137S  1980A&A....81..142J
-  1979PASJ...31..473T  1978ApJS...37..371W  1977A&AS...27..443G  1977PASP...89..187E
-  1974A&A....36...99A  1974ApJ...194...65W  1973AJ.....78..738C  1973SAOSR.350....1D
-  1970MmRAS..72..233H  1963ApJ...137..530C                        
+  1998A&AS..130..455V  1998A&AS..132...93A  1997A&A...323L..49P  1996A&AS..118..481B
+  1995A&AS..114..269D  1994BSAO...38..152G  1993PASP..105.1127G  1993yCat.3135....0C
+  1991A&AS...89..429R  1990A&AS...85..915D  1984A&AS...57...55S  1984A&AS...58..387N
+  1984ApJ...280..213T  1983A&AS...52..471A  1982A&A...114...23H  1981A&AS...44..137S
+  1980A&A....81..142J  1979PASJ...31..473T  1978ApJS...37..371W  1977A&AS...27..443G
+  1977PASP...89..187E  1974A&A....36...99A  1974ApJ...194...65W  1973AJ.....78..738C
+  1973SAOSR.350....1D  1970MmRAS..72..233H  1963ApJ...137..530C            
 
-Measures (MK:4  PLX:2  PM:3  ROT:1  velocities:4  ):
-MK:4PLX:2PM:3ROT:1velocities:4
+Measures (distance:1  MK:4  PLX:4  PM:5  ROT:1  V*:1  velocities:5  ):
+distance:1MK:4PLX:4PM:5ROT:1V*:1velocities:5
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 24925 includes the components \object{CCDM J05204-0522 A} and \object{CCDM J05204-0522 B}
+Notes (0) :
 
 ================================================================================
 

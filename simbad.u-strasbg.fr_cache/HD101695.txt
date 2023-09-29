@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:20:59
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:26:10
 
 HD101695
 --------
 
 Object HD 101695  ---  PM*  ---  OID=@1854691   (@@38084,20)  ---  coobox=14840
 
-Coordinates(ICRS,ep=J2000,eq=2000): 11 42 03.5281805836  -20 17 39.003080840 (Opt ) A [0.0340 0.0202 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 11 39 31.8599757965  -20 00 57.455638107
-Coordinates(Gal,ep=J2000,eq=2000): 281.6248805527298  +39.6897832135802
+Coordinates(ICRS,ep=J2000,eq=2000): 11 42 03.5281173672  -20 17 39.006878352 (Opt ) A [0.0231 0.0150 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 11 39 31.8596932510  -20 00 57.472137158
+Coordinates(Gal,ep=J2000,eq=2000): 281.6248807240205  +39.6897821382203
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -8.706 -54.566 [0.076 0.043 90] A 2018yCat.1345....0G
-Parallax: 13.2872 [0.0444] A 2018yCat.1345....0G
+Proper motions: -8.644 -54.312 [0.034 0.020 90] A 2020yCat.1350....0G
+Parallax: 13.2265 [0.0311] A 2020yCat.1350....0G
 Radial Velocity: -12.81 [0.12] A 2018yCat.1345....0G
 Redshift: -0.000043 [0.000000] A 2018yCat.1345....0G
 cz: -12.81 [0.12] A 2018yCat.1345....0G
 Flux B : 7.164 [0.015] D 2000A&A...355L..27H
 Flux V : 6.200 [0.010] D 2000A&A...355L..27H
-Flux G : 5.9399 [0.0004] C 2018yCat.1345....0G
+Flux G : 5.958887 [0.002766] C 2020yCat.1350....0G
 Flux J : 4.866 [0.262] D 2003yCat.2246....0C
 Flux H : 4.191 [0.266] D 2003yCat.2246....0C
 Flux K : 3.964 [0.036] C 2003yCat.2246....0C
@@ -24,23 +24,24 @@ Spectral type: G8IV C 1988MSS...C04....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (20):
-   TIC 219701594                   BD-19 3326                      CPD-19 4923                   
-   GC 16069                        GEN# +1.00101695                GSC 06092-00233               
-   HD 101695                       HIC 57079                       HIP 57079                     
-   HR 4506                         IRAS 11395-2000                 PPM 259339                    
-   SAO 180117                      SKY# 22150                      SRS 10517                     
-   TYC 6092-233-1                  UBV 10555                       YZ 110 5111                   
-   2MASS J11420352-2017390         Gaia DR2 3543279991215013120                                  
+Identifiers (21):
+   HIP 57079                            Gaia DR3 3543279991215013120         TIC 219701594                      
+   BD-19 3326                           CPD-19 4923                          GC 16069                           
+   GEN# +1.00101695                     GSC 06092-00233                      HD 101695                          
+   HIC 57079                            HR 4506                              IRAS 11395-2000                    
+   PPM 259339                           SAO 180117                           SKY# 22150                         
+   SRS 10517                            TYC 6092-233-1                       UBV 10555                          
+   YZ 110 5111                          2MASS J11420352-2017390              Gaia DR2 3543279991215013120       
 
-Bibcodes  1850-2021 () (15):
-  2019A&A...623A..72K  2019A&A...629A..80H  2019MNRAS.490.3158C  2017AJ....154..115H
-  2012A&A...546A..61D  2012MNRAS.427..343M  2006AstL...32..759G  1994AJ....107..594E
+Bibcodes  1850-2023 () (19):
+  2021ApJS..254...42B  2020A&A...633A..34C  2019A&A...623A..72K  2019A&A...629A..80H
+  2019MNRAS.490.3158C  2017AJ....154..115H  2012A&A...546A..61D  2012MNRAS.427..343M
+  2007A&A...474..653V  2006AstL...32..759G  1997A&A...323L..49P  1994AJ....107..594E
   1993yCat.3135....0C  1989PASP..101...45E  1989PASP..101...54E  1988MSS...C04....0H
   1986ApJS...62..147B  1985A&AS...59...15A  1981PASP...93..765B            
 
-Measures (distance:1  Fe_H:1  MK:2  PLX:3  PM:3  ROT:1  velocities:2  ):
-distance:1Fe_H:1MK:2PLX:3PM:3ROT:1velocities:2
+Measures (distance:2  Fe_H:2  MK:2  PLX:4  PM:4  ROT:1  velocities:2  ):
+distance:2Fe_H:2MK:2PLX:4PM:4ROT:1velocities:2
 
 Notes (0) :
 

@@ -1,21 +1,21 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST23:49:10
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST07:24:13
 
 HD53704
 -------
 
-Object * C Pup  ---  **  ---  OID=@950292   (@@11962,0)  ---  coobox=7917
+Object * C Pup  ---  SB*  ---  OID=@950292   (@@11962,0)  ---  coobox=7917
 
-Coordinates(ICRS,ep=J2000,eq=2000): 07 04 02.7940656  -42 20 14.206459 (Opt ) A [0.20 0.25 90] 2007A&A...474..653V
-Coordinates(FK4,ep=B1950,eq=1950): 07 02 27.6432718  -42 15 44.687502
-Coordinates(Gal,ep=J2000,eq=2000): 252.8688803488  -15.7194443442
+Coordinates(ICRS,ep=J2000,eq=2000): 07 04 02.7926484400  -42 20 14.232086067 (Opt ) A [0.1720 0.1750 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 07 02 27.6425913341  -42 15 44.815188163
+Coordinates(Gal,ep=J2000,eq=2000): 252.8688854328415  -15.7194511099801
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -17.46 71.63 [0.21 0.33 90] A 2007A&A...474..653V
-Parallax: 9.36 [0.26] A 2007A&A...474..653V
+Proper motions: -17.607 73.670 [0.222 0.232 90] A 2020yCat.1350....0G
+Parallax: 10.7379 [0.1917] A 2020yCat.1350....0G
 Radial Velocity: 27.9 [2] E 1953GCRV..C......0W
 Redshift: 0.000093 [0.000007] E 1953GCRV..C......0W
 cz: 27.90 [2.00] E 1953GCRV..C......0W
-Flux B : 5.400 [0.014] D 2000A&A...355L..27H
-Flux V : 5.191 [0.009] D 2000A&A...355L..27H
+Flux B : 5.40 [0.01] D 2002A&A...384..180F
+Flux V : 5.19 [0.01] D 2002A&A...384..180F
 Flux G : 5.1169 [0.0024] C 2018yCat.1345....0G
 Flux J : 4.848 [0.021] C 2003yCat.2246....0C
 Flux H : 4.862 [0.036] C 2003yCat.2246....0C
@@ -24,26 +24,28 @@ Spectral type: A3mA3-F0 C 1978MSS...C02....0H
 Morphological type: ~ ~ ~
 Angular size: 0.0067  0.0   39 (Opt )  D 2001AJ....122.3466M
 
-Identifiers (38):
-   TIC 130646723                   2MASS J07040282-4220144         PLX 1661                      
-   * C Pup                         CD-42 2929                      CEL 1556                      
-   CPC 0 4148                      CPD-42 1190                     FK5 1184                      
-   GC 9342                         GCRV 4652                       GEN# +1.00053704              
-   GSC 07637-02648                 HD 53704                        HIC 34081                     
-   HIP 34081                       HR 2666                         IRAS 07024-4215               
-   JP11 1487                       N30 1544                        PPM 311424                    
-   ROT 1140                        SACS 154                        SAO 218424                    
-   SKY# 12673                      TD1 9072                        TYC 7637-2648-1               
-   UBV 6954                        UBV M 12846                     uvby98 100053704              
-   PLX 1661.00                     Renson 14750                    ** HDS 985                    
-   WDS J07040-4220AB               CCDM J07040-4220AB              WEB 6830                      
-   Gaia DR2 5562659161507580800    * 59 Pup                                                      
+Identifiers (41):
+   HIP 34081                            Gaia DR3 5562659161507580800         UCAC4 239-012207                   
+   WISE J070402.78-422013.4             TIC 130646723                        2MASS J07040282-4220144            
+   PLX 1661                             * C Pup                              CD-42 2929                         
+   CEL 1556                             CPC 0 4148                           CPD-42 1190                        
+   FK5 1184                             GC 9342                              GCRV 4652                          
+   GEN# +1.00053704                     GSC 07637-02648                      HD 53704                           
+   HIC 34081                            HR 2666                              IRAS 07024-4215                    
+   JP11 1487                            N30 1544                             PPM 311424                         
+   ROT 1140                             SACS 154                             SAO 218424                         
+   SKY# 12673                           TD1 9072                             TYC 7637-2648-1                    
+   UBV 6954                             UBV M 12846                          uvby98 100053704                   
+   PLX 1661.00                          Renson 14750                         ** HDS 985                         
+   WDS J07040-4220AB                    CCDM J07040-4220AB                   WEB 6830                           
+   Gaia DR2 5562659161507580800         * 59 Pup                                                                
 
-Bibcodes  1850-2021 () (61):
-  2019A&A...623A..72K  2017AJ....154..115H  2015A&A...580A..23P  2012A&A...546A..61D
-  2012MNRAS.427..343M  2009A&A...498..961R  2008MNRAS.389..869E  2006AJ....131.3008H
-  2006AstL...32..759G  2005Ap.....48....9P  2003A&A...402..253S  2002A&A...384..180F
-  2001A&A...365..222G  1998A&AS..129..431H  1998A&AS..130..455V  1998AJ....116..284E
+Bibcodes  1850-2023 () (65):
+  2021ApJS..254...42B  2020A&A...638A..59B  2019A&A...623A..72K  2017AJ....154..115H
+  2015A&A...580A..23P  2012A&A...546A..61D  2012MNRAS.427..343M  2009A&A...498..961R
+  2008MNRAS.389..869E  2007A&A...474..653V  2006AJ....131.3008H  2006AstL...32..759G
+  2005Ap.....48....9P  2003A&A...402..253S  2002A&A...384..180F  2001A&A...365..222G
+  1998A&AS..129..431H  1998A&AS..130..455V  1998AJ....116..284E  1997A&A...323L..49P
   1997RMxAA..33....3P  1996AJ....111.1615E  1995A&AS..109..177W  1995A&AS..114..269D
   1995GCTP..C......0V  1994A&AS..106..441N  1994PBeiO..24...71L  1993yCat.3135....0C
   1992A&AS...95..355C  1991A&A...246..153L  1991A&AS...89..429R  1990PBeiO..16...18L
@@ -57,8 +59,8 @@ Bibcodes  1850-2021 () (61):
   1968PASP...80..578B  1966JO.....49..387L  1965JO.....48..211B  1960MNRAS.120..540E
   1953GCRV..C......0W                                    
 
-Measures (distance:1  MK:4  PLX:4  PM:5  velocities:5  ):
-distance:1MK:4PLX:4PM:5velocities:5
+Measures (distance:2  MK:4  PLX:5  PM:6  V*:1  velocities:3  ):
+distance:2MK:4PLX:5PM:6V*:1velocities:3
 
 Notes (0) :
 

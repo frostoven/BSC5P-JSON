@@ -1,39 +1,40 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:16:01
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:17:52
 
 HD94650
 -------
 
 Object CD-70 756A  ---  *  ---  OID=@11633216   (@@-1,255)  ---  coobox=21325
 
-Coordinates(ICRS,ep=J2000,eq=2000): 10 53 42.0810033644  -70 43 13.192143527 (Opt ) A [0.0567 0.0690 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 10 52 03.3748122140  -70 27 13.273484374
-Coordinates(Gal,ep=J2000,eq=2000): 293.4471461389213  -10.0487589255614
+Coordinates(ICRS,ep=J2000,eq=2000): 10 53 42.0812577312  -70 43 13.208905416 (Opt ) A [0.0266 0.0294 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 10 52 03.3758796733  -70 27 13.343574295
+Coordinates(Gal,ep=J2000,eq=2000): 293.4471485576660  -10.0487629416956
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: -27.821 -1.399 [0.114 0.143 90] A 2018yCat.1345....0G
-Parallax: 4.0939 [0.0666] A 2018yCat.1345....0G
+Proper motions: -27.897 -0.332 [0.036 0.042 90] A 2020yCat.1350....0G
+Parallax: 4.3341 [0.0308] A 2020yCat.1350....0G
 Radial Velocity: -7.0 [~] E 1995A&AS..114..269D
 Redshift: -0.000023 [~] E 1995A&AS..114..269D
 cz: -7.00 [~] E 1995A&AS..114..269D
 Flux B : 6.35 [0.01] D 2002A&A...384..180F
 Flux V : 6.39 [0.01] D 2002A&A...384..180F
-Flux G : 6.3911 [0.0008] C 2018yCat.1345....0G
+Flux G : 6.417048 [0.002823] C 2020yCat.1350....0G
 Spectral type: B6V C 1975MSS...C01....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (9):
-   TYC 9216-2218-1                 CCDM J10537-7043A               HD 94650                      
-   IDS 10504-7011 A                WDS J10537-7043A                ** HJ 4383A                   
-   WEB 9677                        CD-70 756A                      Gaia DR2 5231171970702032640  
+Identifiers (10):
+   Gaia DR3 5231171970702032640         TYC 9216-2218-1                      CCDM J10537-7043A                  
+   HD 94650                             IDS 10504-7011 A                     WDS J10537-7043A                   
+   ** HJ 4383A                          WEB 9677                             CD-70 756A                         
+   Gaia DR2 5231171970702032640                                                                                 
 
-Bibcodes  1850-2021 () (14):
-  2016A&A...591A.118S  2015A&A...580A..23P  2012A&A...537A.120Z  2012MNRAS.424.1925C
-  2008MNRAS.389..869E  1997A&A...319..811B  1995A&AS..114..269D  1993AJ....106..352H
-  1993yCat.3135....0C  1992ApJS...82..117S  1983A&AS...52..471A  1983MNRAS.202..753W
-  1983MNRAS.202..761H  1975MSS...C01....0H                        
+Bibcodes  1850-2023 () (15):
+  2018A&A...620A.172Z  2016A&A...591A.118S  2015A&A...580A..23P  2012A&A...537A.120Z
+  2012MNRAS.424.1925C  2008MNRAS.389..869E  1997A&A...319..811B  1995A&AS..114..269D
+  1993AJ....106..352H  1993yCat.3135....0C  1992ApJS...82..117S  1983A&AS...52..471A
+  1983MNRAS.202..753W  1983MNRAS.202..761H  1975MSS...C01....0H            
 
-Measures (distance:1  Fe_H:1  MK:2  PLX:1  PM:1  velocities:1  ):
-distance:1Fe_H:1MK:2PLX:1PM:1velocities:1
+Measures (distance:2  Fe_H:1  MK:2  PLX:2  PM:2  velocities:1  ):
+distance:2Fe_H:1MK:2PLX:2PM:2velocities:1
 
 Notes (0) :
 

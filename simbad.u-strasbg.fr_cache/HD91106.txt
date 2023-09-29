@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:14:02
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:13:13
 
 HD91106
 -------
@@ -23,27 +23,27 @@ Spectral type: K4III C 1999MSS...C05....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (26):
-   TIC 56608356                    ADS 7808 AB                     BD-06 3173                    
-   CCDM J10310-0738AB              CSI-06 3173 1                   GC 14442                      
-   GCRV 6590                       HD 91106                        HIC 51490                     
-   HIP 51490                       HR 4122                         IDS 10260-0707                
-   IRC -10241                      PPM 193503                      SAO 137614                    
-   SKY# 20184                      SRS 9738                        UBV 9690                      
-   YZ 97 4005                      2MASS J10305877-0738152         WDS J10310-0738AB             
-   ** STF 1441AB                   WEB 9396                        GEN# +1.00091106              
-   WISE J103058.74-073814.7        GSC 05491-01490                                               
+Identifiers (27):
+   HIP 51490                            IDS 10260-0707 AB                    WISEA J103058.73-073814.9          
+   TIC 56608356                         ADS 7808 AB                          BD-06 3173                         
+   CCDM J10310-0738AB                   CSI-06 3173 1                        GC 14442                           
+   GCRV 6590                            HD 91106                             HIC 51490                          
+   HR 4122                              IRC -10241                           PPM 193503                         
+   SAO 137614                           SKY# 20184                           SRS 9738                           
+   UBV 9690                             YZ 97 4005                           2MASS J10305877-0738152            
+   WDS J10310-0738AB                    ** STF 1441AB                        WEB 9396                           
+   GEN# +1.00091106                     WISE J103058.74-073814.7             GSC 05491-01490                    
 
-Bibcodes  1850-2021 () (21):
-  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M  2006AstL...32..759G
-  2004AJ....128.3012M  1999MSS...C05....0H  1995A&AS..114..269D  1993yCat.3135....0C
-  1992A&AS...96..191C  1989PASP..101...45E  1987AJ.....94..771D  1980A&A....84..108F
-  1978AJ.....83..411J  1978ApJ...221..616S  1970ApJ...161..199E  1970ApJS...19..387A
-  1967AJ.....72..899W  1960AJ.....65...60S  1958PASP...70..168B  1953GCRV..C......0W
-  1926ApJ....64..225A                                    
+Bibcodes  1850-2023 () (24):
+  2021ApJS..254...42B  2019A&A...623A..72K  2012A&A...546A..61D  2012MNRAS.427..343M
+  2007A&A...474..653V  2006AstL...32..759G  2004AJ....128.3012M  1999MSS...C05....0H
+  1997A&A...323L..49P  1995A&AS..114..269D  1993yCat.3135....0C  1992A&AS...96..191C
+  1989PASP..101...45E  1987AJ.....94..771D  1980A&A....84..108F  1978AJ.....83..411J
+  1978ApJ...221..616S  1970ApJ...161..199E  1970ApJS...19..387A  1967AJ.....72..899W
+  1960AJ.....65...60S  1958PASP...70..168B  1953GCRV..C......0W  1926ApJ....64..225A
 
-Measures (MK:2  PLX:2  PM:2  velocities:4  ):
-MK:2PLX:2PM:2velocities:4
+Measures (MK:2  PLX:2  PM:2  velocities:3  ):
+MK:2PLX:2PM:2velocities:3
 
 Notes (0) :
 

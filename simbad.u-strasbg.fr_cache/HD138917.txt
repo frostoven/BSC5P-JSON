@@ -1,37 +1,37 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:41:00
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:09:31
 
 HD138917
 --------
 
 Object * del Ser B  ---  PM*  ---  OID=@11606485   (@@-1,255)  ---  coobox=17513
 
-Coordinates(ICRS,ep=J2000,eq=2000): 15 34 48.1751909654  +10 32 15.924960583 (Opt ) A [0.2138 0.2009 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 15 32 24.6867899068  +10 42 13.275980545
-Coordinates(Gal,ep=J2000,eq=2000): 017.5910194155075  +48.1878078160615
+Coordinates(ICRS,ep=J2000,eq=2000): 15 34 48.1751809872  +10 32 15.909991116 (Opt ) A [0.1070 0.0907 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 15 32 24.6868610920  +10 42 13.212558127
+Coordinates(Gal,ep=J2000,eq=2000): 017.5910139406601  +48.1878058237155
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: -66.983 2.504 [0.444 0.479 90] A 2018yCat.1345....0G
-Parallax: 18.7090 [0.2536] A 2018yCat.1345....0G
+Proper motions: -67.012 3.473 [0.162 0.116 90] A 2020yCat.1350....0G
+Parallax: 18.9725 [0.1112] A 2020yCat.1350....0G
 Radial Velocity: -37.9 [2] E 1953GCRV..C......0W
 Redshift: -0.000126 [0.000007] E 1953GCRV..C......0W
 cz: -37.90 [2.00] E 1953GCRV..C......0W
 Flux B : 5.38 [0.01] D 2002A&A...384..180F
 Flux V : 5.13 [0.01] D 2002A&A...384..180F
-Flux G : 5.0993 [0.0038] C 2018yCat.1345....0G
+Flux G : 5.124504 [0.003156] C 2020yCat.1350....0G
 Spectral type: F0IV C ~                  
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (22):
-   TYC 933-1239-1                  * 13 Ser B                      * del Ser B                   
-   ADS 9701 B                      BD+11 2821B                     CCDM J15348+1033B             
-   CSI+11 2821 2                   GC 20941                        GCRV 8986                     
-   HD 138917                       HR 5788                         IDS 15300+1052 B              
-   PPM 131518                      ROT 2202                        SAO 101623                    
-   SKY# 28167                      UBV M 20843                     WDS J15348+1032B              
-   ** STF 1954B                    PLX 3517.00B                    WEB 12949                     
-   Gaia DR2 1165987658411091200                                                                  
+Identifiers (23):
+   Gaia DR3 1165987658411091200         TYC 933-1239-1                       * 13 Ser B                         
+   * del Ser B                          ADS 9701 B                           BD+11 2821B                        
+   CCDM J15348+1033B                    CSI+11 2821 2                        GC 20941                           
+   GCRV 8986                            HD 138917                            HR 5788                            
+   IDS 15300+1052 B                     PPM 131518                           ROT 2202                           
+   SAO 101623                           SKY# 28167                           UBV M 20843                        
+   WDS J15348+1032B                     ** STF 1954B                         PLX 3517.00B                       
+   WEB 12949                            Gaia DR2 1165987658411091200                                            
 
-Bibcodes  1850-2021 () (61):
+Bibcodes  1850-2023 () (61):
   2021MNRAS.504.3730C  2020RAA....20...12V  2013AJ....146...56M  2012A&A...542A.116A
   2012A&A...546A..69M  2011AJ....141..157M  2011AJ....142...46M  2008MNRAS.389..869E
   2007A&A...463..671R  2007AJ....134.1671M  2006A&A...446..267R  2003A&A...412..813R
@@ -49,8 +49,8 @@ Bibcodes  1850-2021 () (61):
   1953GCRV..C......0W  1952AnAp...15...79M  1952JO.....35...16B  1951JO.....34...68G
   1950JO.....33..105M                                    
 
-Measures (distance:1  MK:3  PLX:1  PM:2  ROT:5  velocities:7  ):
-distance:1MK:3PLX:1PM:2ROT:5velocities:7
+Measures (distance:2  MK:3  PLX:2  PM:3  ROT:5  velocities:7  ):
+distance:2MK:3PLX:2PM:3ROT:5velocities:7
 
 Notes (0) :
 

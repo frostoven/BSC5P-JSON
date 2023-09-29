@@ -1,34 +1,35 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:00:11
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:42:05
 
 HD165190
 --------
 
 Object CD-43 12272B  ---  PM*  ---  OID=@2320625   (@@55714,0)  ---  coobox=18435
 
-Coordinates(ICRS,ep=J2000,eq=2000): 18 06 49.9145186625  -43 25 29.100604912 (Opt ) A [0.3097 0.2544 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 18 03 12.8998088607  -43 25 45.975774233
-Coordinates(Gal,ep=J2000,eq=2000): 349.4475968123750  -10.8612748215741
-hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: -0.877 -101.047 [0.550 0.476 90] A 2018yCat.1345....0G
-Parallax: 22.3498 [0.3267] A 2018yCat.1345....0G
+Coordinates(ICRS,ep=J2000,eq=2000): 18 06 49.9149403848  -43 25 29.097604128 (Opt ) A [0.0603 0.0473 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 18 03 12.9016613411  -43 25 45.963108135
+Coordinates(Gal,ep=J2000,eq=2000): 349.4475981617712  -10.8612755747485
+hierarchy counts: #parents=2, #children=0, #siblings=0
+Proper motions: -1.187 -101.243 [0.065 0.047 90] A 2020yCat.1350....0G
+Parallax: 22.6753 [0.071] A 2020yCat.1350....0G
 Radial Velocity: ~ [~ ~ ] ~ ~                  
 Redshift: ~ [~ ~ ] ~ ~                  
 cz: ~ [~ ~ ] ~ ~                  
 Flux B : 5.94 [0.01] C 2002A&A...384..180F
 Flux V : 5.68 [0.01] C 2002A&A...384..180F
-Flux G : 5.6443 [0.0028] C 2018yCat.1345....0G
+Flux G : 5.686970 [0.002899] C 2020yCat.1350....0G
 Spectral type: A7V C 1984ApJS...55..657C
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (11):
-   CCDM J18068-4325B               CD-43 12272B                    CPD-43 8434B                  
-   CSI-43 12272 23                 HD 165190                       HR 6750                       
-   IDS 17596-4326 B                WDS J18068-4325B                ** HJ 5014B                   
-   TYC 7911-5035-2                 Gaia DR2 6724105660828668032                                  
+Identifiers (12):
+   Gaia DR3 6724105660828668032         CCDM J18068-4325B                    CD-43 12272B                       
+   CPD-43 8434B                         CSI-43 12272 23                      HD 165190                          
+   HR 6750                              IDS 17596-4326 B                     WDS J18068-4325B                   
+   ** HJ 5014B                          TYC 7911-5035-2                      Gaia DR2 6724105660828668032       
 
-Bibcodes  1850-2021 () (31):
-  2019AJ....158..187B  2018ApJ...856...23G  2018MNRAS.475.2955L  2014MNRAS.445.2169M
+Bibcodes  1850-2023 () (35):
+  2021AJ....162..260M  2020AJ....159..166U  2019AJ....158..187B  2019MNRAS.489.3625C
+  2018A&A...620A.172Z  2018ApJ...856...23G  2018MNRAS.475.2955L  2014MNRAS.445.2169M
   2012A&A...546A..69M  2012AJ....143..134M  2011A&A...531A.143D  2010MNRAS.403.1089P
   2010MNRAS.405.1253K  2008ApJ...681.1484R  2008MNRAS.389..869E  2000AJ....120.2638H
   1993yCat.3135....0C  1992BICDS..40...71P  1991A&A...252..229J  1988ApJ...329..253W
@@ -37,8 +38,8 @@ Bibcodes  1850-2021 () (31):
   1976AJ.....81..245E  1974PASP...86..907H  1972AJ.....77..878W  1972MNRAS.160..155S
   1961ApJS....6..253I  1953JO.....36...61M  1950MNRAS.110..455H            
 
-Measures (distance:1  herschel:2  MK:4  PLX:1  PM:1  ROT:1  ):
-distance:1herschel:2MK:4PLX:1PM:1ROT:1
+Measures (distance:2  herschel:2  MK:4  PLX:2  PM:2  ROT:1  ):
+distance:2herschel:2MK:4PLX:2PM:2ROT:1
 
 Notes (0) :
 

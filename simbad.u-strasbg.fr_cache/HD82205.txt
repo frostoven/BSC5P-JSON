@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:08:11
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:00:54
 
 HD82205
 -------
 
 Object HD 82205  ---  *  ---  OID=@1636972   (@@34204,13)  ---  coobox=14905
 
-Coordinates(ICRS,ep=J2000,eq=2000): 09 29 54.5047991603  -26 35 22.608500414 (Opt ) A [0.0475 0.0681 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 09 27 41.2476723684  -26 22 10.660399516
-Coordinates(Gal,ep=J2000,eq=2000): 256.6359335480173  +17.6613974083707
+Coordinates(ICRS,ep=J2000,eq=2000): 09 29 54.5048548776  -26 35 22.615420524 (Opt ) A [0.0334 0.0437 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 09 27 41.2473670752  -26 22 10.660383241
+Coordinates(Gal,ep=J2000,eq=2000): 256.6359351507747  +17.6613962227173
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -21.98 0.90 [0.25 0.20 0] A 2007A&A...474..653V
-Parallax: 4.2870 [0.0905] A 2018yCat.1345....0G
+Proper motions: -21.883 0.761 [0.057 0.045 90] A 2020yCat.1350....0G
+Parallax: 4.0447 [0.0731] A 2020yCat.1350....0G
 Radial Velocity: 11.8 [2] E 1953GCRV..C......0W
 Redshift: 0.000039 [0.000007] E 1953GCRV..C......0W
 cz: 11.80 [2.00] E 1953GCRV..C......0W
 Flux B : 6.837 [0.015] D 2000A&A...355L..27H
 Flux V : 5.479 [0.009] D 2000A&A...355L..27H
-Flux G : 5.0366 [0.0016] C 2018yCat.1345....0G
+Flux G : 5.072459 [0.002794] C 2020yCat.1350....0G
 Flux J : 3.404 [0.244] D 2003yCat.2246....0C
 Flux H : 2.651 [0.2] C 2003yCat.2246....0C
 Flux K : 2.496 [0.264] D 2003yCat.2246....0C
@@ -24,31 +24,30 @@ Spectral type: K2IIICNII C 1982MSS...C03....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (29):
-   TIC 189387794                   ADS 7405 A                      CCDM J09299-2635A             
-   CD-26 7117                      CSI-26 7117 21                  GC 13110                      
-   GCRV 6155                       GEN# +1.00082205J               GSC 06609-02527               
-   HD 82205                        HIC 46578                       HIP 46578                     
-   HR 3770                         IDS 09255-2609                  IRC -30153                    
-   PPM 256263                      SAO 177546                      SKY# 18353                    
-   SRS 42151                       TYC 6609-2527-1                 UBV 9066                      
-   UBV M 15459                     YZ 116 7372                     WDS J09299-2635A              
-   2MASS J09295450-2635225         WEB 8788                        IRAS 09276-2622               
-   AKARI-IRC-V1 J0929545-263522    Gaia DR2 5637290162510498688                                  
+Identifiers (30):
+   HIP 46578                            Gaia DR3 5637290162510498688         IDS 09255-2609 A                   
+   GEN# +1.00082205                     TIC 189387794                        ADS 7405 A                         
+   CCDM J09299-2635A                    CD-26 7117                           CSI-26 7117 21                     
+   GC 13110                             GCRV 6155                            GSC 06609-02527                    
+   HD 82205                             HIC 46578                            HR 3770                            
+   IRC -30153                           PPM 256263                           SAO 177546                         
+   SKY# 18353                           SRS 42151                            TYC 6609-2527-1                    
+   UBV 9066                             UBV M 15459                          YZ 116 7372                        
+   WDS J09299-2635A                     2MASS J09295450-2635225              WEB 8788                           
+   IRAS 09276-2622                      AKARI-IRC-V1 J0929545-263522         Gaia DR2 5637290162510498688       
 
-Bibcodes  1850-2021 () (19):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D  2012MNRAS.427..343M
-  2008MNRAS.389..869E  2006AstL...32..759G  1995A&AS..109..501C  1995A&AS..114..269D
-  1993yCat.3135....0C  1992AJ....103.1381E  1989PASP..101...45E  1989PASP..101...54E
-  1987MNRAS.227..213S  1985ApJS...59...95A  1982MSS...C03....0H  1970ApJ...161..199E
-  1970ApJS...19..387A  1953GCRV..C......0W  1950AJ.....55....9S            
+Bibcodes  1850-2023 () (22):
+  2021ApJS..254...42B  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D
+  2012MNRAS.427..343M  2008MNRAS.389..869E  2007A&A...474..653V  2006AstL...32..759G
+  1997A&A...323L..49P  1995A&AS..109..501C  1995A&AS..114..269D  1993yCat.3135....0C
+  1992AJ....103.1381E  1989PASP..101...45E  1989PASP..101...54E  1987MNRAS.227..213S
+  1985ApJS...59...95A  1982MSS...C03....0H  1970ApJ...161..199E  1970ApJS...19..387A
+  1953GCRV..C......0W  1950AJ.....55....9S                        
 
-Measures (distance:1  MK:2  PLX:3  PM:4  velocities:5  ):
-distance:1MK:2PLX:3PM:4velocities:5
+Measures (distance:2  MK:2  PLX:4  PM:5  velocities:5  ):
+distance:2MK:2PLX:4PM:5velocities:5
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 46578 includes the components \object{CCDM J09299-2635A} and \object{CCDM J09299-2635B}
+Notes (0) :
 
 ================================================================================
 

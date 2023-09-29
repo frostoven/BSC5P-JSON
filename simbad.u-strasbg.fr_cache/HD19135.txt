@@ -1,20 +1,20 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:52:00
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:27:05
 
 HD19135
 -------
 
 Object * 52 Ari C  ---  *  ---  OID=@620244   (@@21432,12)  ---  coobox=4224
 
-Coordinates(ICRS,ep=J2000,eq=2000): 03 05 26.6756785358  +25 15 23.751386133 (Opt ) A [0.0422 0.0376 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 03 02 30.3383371202  +25 03 48.125211086
-Coordinates(Gal,ep=J2000,eq=2000): 157.5323084975188  -28.4658337725801
+Coordinates(ICRS,ep=J2000,eq=2000): 03 05 26.6753625888  +25 15 23.750276580 (Opt ) A [0.0208 0.0199 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 03 02 30.3370147819  +25 03 48.120282117
+Coordinates(Gal,ep=J2000,eq=2000): 157.5323075702707  -28.4658346934834
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 5.172 -11.941 [0.096 0.098 90] A 2018yCat.1345....0G
-Parallax: 5.2399 [0.0503] A 2018yCat.1345....0G
+Proper motions: 5.446 -11.866 [0.027 0.023 90] A 2020yCat.1350....0G
+Parallax: 5.323 [0.0254] A 2020yCat.1350....0G
 Radial Velocity: 12.25 [18.61] E 2018yCat.1345....0G
 Redshift: 0.000041 [0.000062] E 2018yCat.1345....0G
 cz: 12.25 [18.61] E 2018yCat.1345....0G
-Flux G : 9.8689 [0.0011] C 2018yCat.1345....0G
+Flux G : 9.884118 [0.002848] C 2020yCat.1350....0G
 Flux J : 6.53 [0.29] D 2003yCat.2246....0C
 Flux H : 6.73 [0.34] D 2003yCat.2246....0C
 Flux K : 7.16 [0.30] D 2003yCat.2246....0C
@@ -22,15 +22,15 @@ Spectral type: ~ ~ ~
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (16):
-   TIC 34784415                    CSI+24 431 6                    HD 19135                      
-   HR 928                          SKY# 4616                       ADS 2336 C                    
-   BD+24 431C                      CCDM J03055+2515C               CSI+24 431 2                  
-   GEN# +1.00019134C               UBV 2981                        WDS J03054+2515C              
-   2MASS J03052667+2515232         ** STF 346C                     Gaia DR2 111968221155410048   
-   * 52 Ari C                                                                                    
+Identifiers (17):
+   Gaia DR3 111968221155410048          TIC 34784415                         CSI+24 431 6                       
+   HD 19135                             HR 928                               SKY# 4616                          
+   ADS 2336 C                           BD+24 431C                           CCDM J03055+2515C                  
+   CSI+24 431 2                         GEN# +1.00019134C                    UBV 2981                           
+   WDS J03054+2515C                     2MASS J03052667+2515232              ** STF 346C                        
+   Gaia DR2 111968221155410048          * 52 Ari C                                                              
 
-Bibcodes  1850-2021 () (33):
+Bibcodes  1850-2023 () (33):
   2017ApJ...844..103T  2012A&A...546A..69M  2011AJ....141..157M  2008MNRAS.389..869E
   2002ApJ...573..359A  1996A&AS..118..481B  1993yCat.3135....0C  1992BICDS..40...71P
   1988A&AS...72..563T  1987AcASn..28..410W  1986BICDS..31..131H  1985PAZh...11..112B
@@ -41,8 +41,8 @@ Bibcodes  1850-2021 () (33):
   1963ApJ...137..530C  1961JO.....44...41C  1958JO.....41..109M  1954AJ.....59..256W
   1954AJ.....59..388M                                    
 
-Measures (distance:1  MK:1  PLX:1  PM:1  ROT:1  velocities:1  ):
-distance:1MK:1PLX:1PM:1ROT:1velocities:1
+Measures (distance:2  MK:1  PLX:2  PM:2  ROT:1  velocities:1  ):
+distance:2MK:1PLX:2PM:2ROT:1velocities:1
 
 Notes (0) :
 

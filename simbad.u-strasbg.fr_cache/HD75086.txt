@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:03:56
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST09:51:28
 
 HD75086
 -------
@@ -15,29 +15,28 @@ Radial Velocity: 28.10 [1.6] B 2006AstL...32..759G
 Redshift: 0.000094 [0.000005] B 2006AstL...32..759G
 cz: 28.10 [1.60] B 2006AstL...32..759G
 Flux U : 5.64 [~] D 2003AJ....125.2531R
-Flux B : 6.12 [~] E ~                  
-Flux V : 6.21 [~] E ~                  
 Spectral type: B7III C 1975MSS...C01....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (20):
-   CPC 20 2324                     FAUST 2519                      GEN# +1.00075086J             
-   HD 75086                        HIC 42936                       HIP 42936                     
-   HR 3489                         SKY# 16794                      TD1 13078                     
-   PPM 337206                      CCDM J08451-5843AB              CEL 2868                      
-   CPD-58 1202                     CSI-58 1202 43                  IDS 08427-5821 AB             
-   UBV 8518                        ** RMK 9AB                      ALS 19669                     
-   WDS J08451-5843AB               uvby98 100075086                                              
+Identifiers (21):
+   HIP 42936                            WISE J084505.31-584326.9             GEN# +1.00075086                   
+   CPC 20 2324                          FAUST 2519                           HD 75086                           
+   HIC 42936                            HR 3489                              SKY# 16794                         
+   TD1 13078                            PPM 337206                           CCDM J08451-5843AB                 
+   CEL 2868                             CPD-58 1202                          CSI-58 1202 43                     
+   IDS 08427-5821 AB                    UBV 8518                             ** RMK 9AB                         
+   ALS 19669                            WDS J08451-5843AB                    uvby98 100075086                   
 
-Bibcodes  1850-2021 () (28):
-  2019A&A...623A..72K  2016A&A...591A.118S  2012A&A...546A..61D  2012MNRAS.424.1925C
-  2012MNRAS.427..343M  2011MNRAS.410..190T  2006AstL...32..759G  2005A&A...444..941P
-  2005AJ....130.1652R  2003AJ....125.2531R  1998A&AS..129..431H  1998A&AS..130..455V
-  1996A&AS..118..481B  1995A&AS..114..487J  1995ApJS...96..461B  1993yCat.3135....0C
-  1984ApJ...285..195C  1984ApJS...55..657C  1983A&AS...52..471A  1983MNRAS.202..761H
-  1980BICDS..19...41H  1977A&AS...27..443G  1977MmRAS..84..101B  1977PASP...89..187E
-  1977PASP...89..205E  1975MNSSA..34....7H  1975MSS...C01....0H  1973SAOSR.350....1D
+Bibcodes  1850-2023 () (31):
+  2021ApJS..254...42B  2019A&A...623A..72K  2016A&A...591A.118S  2012A&A...546A..61D
+  2012MNRAS.424.1925C  2012MNRAS.427..343M  2011MNRAS.410..190T  2007A&A...474..653V
+  2006AstL...32..759G  2005A&A...444..941P  2005AJ....130.1652R  2003AJ....125.2531R
+  1998A&AS..129..431H  1998A&AS..130..455V  1997A&A...323L..49P  1996A&AS..118..481B
+  1995A&AS..114..487J  1995ApJS...96..461B  1993yCat.3135....0C  1984ApJ...285..195C
+  1984ApJS...55..657C  1983A&AS...52..471A  1983MNRAS.202..761H  1980BICDS..19...41H
+  1977A&AS...27..443G  1977MmRAS..84..101B  1977PASP...89..187E  1977PASP...89..205E
+  1975MNSSA..34....7H  1975MSS...C01....0H  1973SAOSR.350....1D            
 
 Measures (Fe_H:1  MK:2  PLX:2  PM:3  velocities:1  ):
 Fe_H:1MK:2PLX:2PM:3velocities:1

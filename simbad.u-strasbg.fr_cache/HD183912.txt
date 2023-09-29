@@ -1,11 +1,11 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:12:49
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:04:39
 
 HD183912
 --------
 
 Object * bet01 Cyg A  ---  *  ---  OID=@3552265   (@@77099,46)  ---  coobox=20241
 
-Coordinates(ICRS,ep=J2000,eq=2000): 19 30 43.286  +27 57 34.84 (Opt ) B [6 6 90] 2000A&A...355L..27H
+Coordinates(ICRS,ep=J2000,eq=2000): 19 30 43.286  +27 57 34.84 (Opt ) C [~ ~ ] 2000A&A...355L..27H
 Coordinates(FK4,ep=B1950,eq=1950): 19 28 42.218  +27 51 12.55 
 Coordinates(Gal,ep=J2000,eq=2000): 062.109647  +04.571490     
 hierarchy counts: #parents=0, #children=0, #siblings=0
@@ -21,17 +21,17 @@ Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
 Identifiers (5):
-   WDS J19307+2758Aa               TYC 2133-2964-1                 HD 183912                     
-   CCDM J19307+2758A               * bet01 Cyg A                                                 
+   WDS J19307+2758Aa                    TYC 2133-2964-1                      HD 183912                          
+   CCDM J19307+2758A                    * bet01 Cyg A                                                           
 
-Bibcodes  1850-2021 () (14):
-  2021MNRAS.502..328D  2020A&A...639A...7J  2018A&A...620L...2B  2018MNRAS.473.4497R
-  2017ApJ...844..103T  2016A&A...591A.118S  2013AJ....146...56M  2012A&A...546A..69M
-  2011AJ....142...46M  2009AJ....138..813H  2002yCat.2237....0D  1995A&AS..114..269D
-  1993yCat.3135....0C  1989A&AS...77..125L                        
+Bibcodes  1850-2023 () (16):
+  2021MNRAS.502..328D  2020A&A...633A..34C  2020A&A...639A...7J  2020A&A...640A...2S
+  2018A&A...620L...2B  2018MNRAS.473.4497R  2017ApJ...844..103T  2016A&A...591A.118S
+  2013AJ....146...56M  2012A&A...546A..69M  2011AJ....142...46M  2009AJ....138..813H
+  2002yCat.2237....0D  1995A&AS..114..269D  1993yCat.3135....0C  1989A&AS...77..125L
 
-Measures (Fe_H:1  MK:1  ):
-Fe_H:1MK:1
+Measures (Fe_H:2  MK:1  ):
+Fe_H:2MK:1
 
 Notes (0) :
 

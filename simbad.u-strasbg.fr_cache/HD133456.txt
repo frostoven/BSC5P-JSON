@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:36:41
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:03:16
 
 HD133456
 --------
 
 Object HD 133456  ---  V*  ---  OID=@3380591   (@@67506,13)  ---  coobox=22107
 
-Coordinates(ICRS,ep=J2000,eq=2000): 15 07 56.7622243831  -65 16 31.619567164 (Opt ) A [0.0273 0.0413 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 15 03 38.1991406002  -65 05 00.516916046
-Coordinates(Gal,ep=J2000,eq=2000): 316.5816020615790  -06.0872077782201
+Coordinates(ICRS,ep=J2000,eq=2000): 15 07 56.7625704600  -65 16 31.623254292 (Opt ) A [0.0163 0.0250 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 15 03 38.2005953164  -65 05 00.532230924
+Coordinates(Gal,ep=J2000,eq=2000): 316.5816020688962  -06.0872089667868
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 8.963 -5.463 [0.050 0.090 90] A 2018yCat.1345....0G
-Parallax: 4.9701 [0.0609] A 2018yCat.1345....0G
+Proper motions: 8.820 -5.232 [0.017 0.033 90] A 2020yCat.1350....0G
+Parallax: 5.2332 [0.0412] A 2020yCat.1350....0G
 Radial Velocity: -3.14 [0.13] A 2018yCat.1345....0G
 Redshift: -0.000010 [0.000000] A 2018yCat.1345....0G
 cz: -3.14 [0.13] A 2018yCat.1345....0G
 Flux B : 7.639 [0.015] D 2000A&A...355L..27H
 Flux V : 6.166 [0.010] D 2000A&A...355L..27H
-Flux G : 5.6175 [0.0009] C 2018yCat.1345....0G
+Flux G : 5.638294 [0.002778] C 2020yCat.1350....0G
 Flux J : 3.714 [0.236] D 2003yCat.2246....0C
 Flux H : 2.854 [0.216] D 2003yCat.2246....0C
 Flux K : 2.695 [0.232] D 2003yCat.2246....0C
@@ -24,22 +24,23 @@ Spectral type: K3III C 1975MSS...C01....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (23):
-   TIC 454623501                   CD-64 904                       CPC 21 3397                   
-   CPD-64 3095                     CSV 101483                      GC 20306                      
-   GEN# +1.00133456                GSC 09028-00449                 HD 133456                     
-   HIC 74047                       HIP 74047                       HR 5611                       
-   IRAS 15036-6504                 NSV 6932                        PPM 361209                    
-   SAO 253024                      SKY# 27425                      SV* ZI 1099                   
-   TYC 9028-449-1                  UBV 13053                       UBV M 20531                   
-   2MASS J15075676-6516315         Gaia DR2 5872870149493735040                                  
+Identifiers (24):
+   HIP 74047                            Gaia DR3 5872870149533217024         TIC 454623501                      
+   CD-64 904                            CPC 21 3397                          CPD-64 3095                        
+   CSV 101483                           GC 20306                             GEN# +1.00133456                   
+   GSC 09028-00449                      HD 133456                            HIC 74047                          
+   HR 5611                              IRAS 15036-6504                      NSV 6932                           
+   PPM 361209                           SAO 253024                           SKY# 27425                         
+   SV* ZI 1099                          TYC 9028-449-1                       UBV 13053                          
+   UBV M 20531                          2MASS J15075676-6516315              Gaia DR2 5872870149493735040       
 
-Bibcodes  1850-2021 () (8):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D  2012MNRAS.427..343M
-  2006AstL...32..759G  1993yCat.3135....0C  1985A&AS...59...15A  1975MSS...C01....0H
+Bibcodes  1850-2023 () (11):
+  2021ApJS..254...42B  2019A&A...623A..72K  2019MNRAS.490.3158C  2012A&A...546A..61D
+  2012MNRAS.427..343M  2007A&A...474..653V  2006AstL...32..759G  1997A&A...323L..49P
+  1993yCat.3135....0C  1985A&AS...59...15A  1975MSS...C01....0H            
 
-Measures (distance:1  MK:2  PLX:3  PM:4  V*:1  velocities:2  ):
-distance:1MK:2PLX:3PM:4V*:1velocities:2
+Measures (distance:2  MK:2  PLX:4  PM:5  V*:1  velocities:2  ):
+distance:2MK:2PLX:4PM:5V*:1velocities:2
 
 Notes (0) :
 

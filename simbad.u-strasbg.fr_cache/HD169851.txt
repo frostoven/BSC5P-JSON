@@ -1,21 +1,20 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:02:59
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:47:18
 
 HD169851
 --------
 
-Object CCDM J18277-2638AB  ---  **  ---  OID=@2502110   (@@56794,21)  ---  coobox=18544
+Object HD 169851  ---  **  ---  OID=@2502110   (@@56794,21)  ---  coobox=18544
 
 Coordinates(ICRS,ep=J2000,eq=2000): 18 27 43.75408  -26 38 05.4153 (Opt ) A [11.94 7.55 90] 2007A&A...474..653V
 Coordinates(FK4,ep=B1950,eq=1950): 18 24 36.69360  -26 39 57.9147
 Coordinates(Gal,ep=J2000,eq=2000): 006.54643125  -07.02298629 
-hierarchy counts: #parents=0, #children=0, #siblings=0
+hierarchy counts: #parents=0, #children=2, #siblings=0
 Proper motions: -10.28 -33.90 [1.36 0.86 0] A 2007A&A...474..653V
 Parallax: 12.80 [1.13] A 2007A&A...474..653V
 Radial Velocity: -29.40 [1.9] B 2006AstL...32..759G
 Redshift: -0.000098 [0.000006] B 2006AstL...32..759G
 cz: -29.40 [1.90] B 2006AstL...32..759G
-Flux B : 6.59 [~] E ~                  
-Flux V : 6.35 [~] E ~                  
+Flux G : 6.955929 [0.006042] C 2020yCat.1350....0G
 Flux J : 5.784 [0.019] C 2003yCat.2246....0C
 Flux H : 5.735 [0.021] C 2003yCat.2246....0C
 Flux K : 5.689 [0.023] C 2003yCat.2246....0C
@@ -23,32 +22,31 @@ Spectral type: A7V C 1982MSS...C03....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (23):
-   TIC 53271646                    WDS J18277-2638AB               ADS 11354 AB                  
-   CCDM J18277-2638AB              CD-26 13184                     CPD-26 6463                   
-   GC 25174                        GEN# +1.00169851J               GSC 06865-03099               
-   HD 169851                       HIC 90478                       HIP 90478                     
-   HR 6909                         IDS 18215-2642 AB               PPM 268434                    
-   SAO 186837                      SKY# 33723                      TD1 22417                     
-   TYC 6865-3099-1                 YZ 116 12788                    2MASS J18274373-2638054       
-   ** BU 133AB                     uvby98 100169851                                              
+Identifiers (25):
+   HIP 90478                            Gaia DR3 4052054876580096896         WISE J182743.71-263806.0           
+   UCAC4 317-188948                     ** BU 133                            GEN# +1.00169851                   
+   TIC 53271646                         WDS J18277-2638AB                    ADS 11354 AB                       
+   CCDM J18277-2638AB                   CD-26 13184                          CPD-26 6463                        
+   GC 25174                             GSC 06865-03099                      HD 169851                          
+   HIC 90478                            HR 6909                              IDS 18215-2642 AB                  
+   PPM 268434                           SAO 186837                           SKY# 33723                         
+   TD1 22417                            YZ 116 12788                         2MASS J18274373-2638054            
+   uvby98 100169851                                                                                             
 
-Bibcodes  1850-2021 () (29):
+Bibcodes  1850-2023 () (31):
   2019A&A...623A..72K  2017AJ....154..115H  2016A&A...591A.118S  2015A&A...580A..23P
   2015ApJ...804..146D  2012A&A...537A.120Z  2012MNRAS.427..343M  2007A&A...463..671R
-  2006AstL...32..759G  2002A&A...393..897R  2000A&A...356..141F  1998A&AS..129..431H
-  1997AJ....114.1639H  1996AJ....112.2260M  1995ApJS...99..135A  1993yCat.3135....0C
-  1991AJ....102..589S  1989AJ.....97..909S  1987AJ.....94..771D  1983A&AS...53..177A
-  1982A&AS...50..115W  1982ApJS...49..469P  1982MSS...C03....0H  1977A&AS...27..443G
-  1975PASP...87...65C  1972AJ.....77..878W  1972MNRAS.160..155S  1956MNRAS.116..248H
-  1939AnBos...5E...1W                                    
+  2007A&A...474..653V  2006AstL...32..759G  2002A&A...393..897R  2000A&A...356..141F
+  1998A&AS..129..431H  1997A&A...323L..49P  1997AJ....114.1639H  1996AJ....112.2260M
+  1995ApJS...99..135A  1993yCat.3135....0C  1991AJ....102..589S  1989AJ.....97..909S
+  1987AJ.....94..771D  1983A&AS...53..177A  1982A&AS...50..115W  1982ApJS...49..469P
+  1982MSS...C03....0H  1977A&AS...27..443G  1975PASP...87...65C  1972AJ.....77..878W
+  1972MNRAS.160..155S  1956MNRAS.116..248H  1939AnBos...5E...1W            
 
 Measures (Fe_H:1  MK:2  PLX:2  PM:3  ROT:3  velocities:1  ):
 Fe_H:1MK:2PLX:2PM:3ROT:3velocities:1
 
-Notes (1) :
-(S) 01-Jan-2000 - com    ref:~    obj:~
-    HIC 90478 includes the components \object{CCDM J18277-2638AB}
+Notes (0) :
 
 ================================================================================
 

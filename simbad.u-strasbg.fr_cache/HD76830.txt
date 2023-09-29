@@ -1,23 +1,23 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:05:10
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST09:54:33
 
 HD76830
 -------
 
 Object V* FZ Cnc  ---  LP*  ---  OID=@1126342   (@@20650,11)  ---  coobox=5629
 
-Coordinates(ICRS,ep=J2000,eq=2000): 08 59 10.7307601614  +18 08 05.501921964 (Opt ) A [0.1389 0.0956 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 08 56 21.4461516225  +18 19 50.608886004
-Coordinates(Gal,ep=J2000,eq=2000): 209.5402548409429  +36.1081135628946
+Coordinates(ICRS,ep=J2000,eq=2000): 08 59 10.7310716472  +18 08 05.501243868 (Opt ) A [0.0930 0.0568 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 08 56 21.4473418837  +18 19 50.606367417
+Coordinates(Gal,ep=J2000,eq=2000): 209.5402556008591  +36.1081146490816
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -48.369 -68.745 [0.256 0.166 90] A 2018yCat.1345....0G
-Parallax: 5.0548 [0.1626] A 2018yCat.1345....0G
-Radial Velocity: 22.99 [0.23] A 2005A&A...430..165F
-Redshift: 0.000077 [0.000001] A 2005A&A...430..165F
-cz: 22.99 [0.23] A 2005A&A...430..165F
+Proper motions: -48.619 -68.707 [0.124 0.083 90] A 2020yCat.1350....0G
+Parallax: 4.5077 [0.1083] A 2020yCat.1350....0G
+Radial Velocity: 22.87 [0.15] A 2022yCat.1355....0G
+Redshift: 0.000076 [0.000001] A 2022yCat.1355....0G
+cz: 22.87 [0.15] A 2022yCat.1355....0G
 Flux U : 9.62 [~] C 2002yCat.2237....0D
 Flux B : 7.93 [~] C 2002yCat.2237....0D
 Flux V : 6.38 [~] C 2002yCat.2237....0D
-Flux G : 5.1220 [0.0033] C 2018yCat.1345....0G
+Flux G : 5.169844 [0.003518] C 2020yCat.1350....0G
 Flux J : 2.28 [~] C 2002yCat.2237....0D
 Flux H : 1.487 [0.164] D 2003yCat.2246....0C
 Flux K : 1.18 [~] C 2002yCat.2237....0D
@@ -25,26 +25,27 @@ Spectral type: M4.5III B 1989ApJS...71..245K
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (32):
-   TIC 203218156                   DO 13742                        PLX 2149                      
-   AG+18 927                       AGKR 8108                       AN 68.1942                    
-   BD+18 2093                      CSV 101017                      GC 12414                      
-   GCRV 5904                       GEN# +1.00076830                GSC 01397-00943               
-   HD 76830                        HIC 44126                       HIP 44126                     
-   HR 3577                         IRAS 08563+1819                 IRC +20208                    
-   NSV 4332                        PPM 125983                      SAO 98276                     
-   SKY# 17341                      TYC 1397-943-1                  UBV 8680                      
-   UBV M 14967                     V* FZ Cnc                       YZ 18 3619                    
-   [AKS95] 422                     2MASS J08591073+1808057         PLX 2149.00                   
-   WEB 8477                        Gaia DR2 612253360481473664                                   
+Identifiers (33):
+   HIP 44126                            Gaia DR3 612253364778494592          TIC 203218156                      
+   DO 13742                             PLX 2149                             AG+18 927                          
+   AGKR 8108                            AN 68.1942                           BD+18 2093                         
+   CSV 101017                           GC 12414                             GCRV 5904                          
+   GEN# +1.00076830                     GSC 01397-00943                      HD 76830                           
+   HIC 44126                            HR 3577                              IRAS 08563+1819                    
+   IRC +20208                           NSV 4332                             PPM 125983                         
+   SAO 98276                            SKY# 17341                           TYC 1397-943-1                     
+   UBV 8680                             UBV M 14967                          V* FZ Cnc                          
+   YZ 18 3619                           [AKS95] 422                          2MASS J08591073+1808057            
+   PLX 2149.00                          WEB 8477                             Gaia DR2 612253360481473664        
 
-Bibcodes  1850-2021 () (56):
-  2020AJ....159..233H  2019A&A...623A..72K  2019MNRAS.490.3158C  2018ApJS..238...29P
-  2014A&A...561L..11G  2012A&A...546A..61D  2012MNRAS.427..343M  2010A&A...514A...2I
-  2009MNRAS.400.1945T  2006AstL...32..759G  2005A&A...430..165F  2003A&A...397..997P
-  2003A&A...406..995M  2002A&A...383..188M  2002MNRAS.331...45K  2002yCat.2237....0D
-  2001A&A...367..521P  2001A&A...379..305A  2000AN....321..277S  1999ApJ...518..859K
-  1999IBVS.4659....1K  1998IBVS.4632....1E  1997A&AS..123....5C  1997ApJS..112..557K
+Bibcodes  1850-2023 () (60):
+  2023AJ....165..229S  2021ApJS..254...42B  2020AJ....159..233H  2019A&A...623A..72K
+  2019MNRAS.490.3158C  2018ApJS..238...29P  2014A&A...561L..11G  2012A&A...546A..61D
+  2012MNRAS.427..343M  2010A&A...514A...2I  2009MNRAS.400.1945T  2007A&A...474..653V
+  2006AstL...32..759G  2005A&A...430..165F  2003A&A...397..997P  2003A&A...406..995M
+  2002A&A...383..188M  2002MNRAS.331...45K  2002yCat.2237....0D  2001A&A...367..521P
+  2001A&A...379..305A  2000AN....321..277S  1999ApJ...518..859K  1999IBVS.4659....1K
+  1998IBVS.4632....1E  1997A&A...323L..49P  1997A&AS..123....5C  1997ApJS..112..557K
   1997PASJ...49..485G  1996AN....317..127A  1995A&AS..114..269D  1995AN....316..225A
   1995GCTP..C......0V  1994A&AS..108..359G  1994PASP..106..611P  1993yCat.3135....0C
   1992AJ....104..275E  1990ApJ...348..253M  1990BICDS..38..215B  1989ApJS...69..651C
@@ -54,8 +55,8 @@ Bibcodes  1850-2021 () (56):
   1974A&AS...13..395H  1971PASP...83..251E  1970ApJ...161..199E  1970ApJS...19..387A
   1967ApJS...14..307E  1955ApJS....2..195R  1953GCRV..C......0W  1926ApJ....64..225A
 
-Measures (distance:1  herschel:5  MK:2  PLX:3  PM:6  V*:2  velocities:6  ):
-distance:1herschel:5MK:2PLX:3PM:6V*:2velocities:6
+Measures (distance:3  herschel:5  MK:2  PLX:4  PM:7  V*:2  velocities:6  ):
+distance:3herschel:5MK:2PLX:4PM:7V*:2velocities:6
 
 Notes (0) :
 

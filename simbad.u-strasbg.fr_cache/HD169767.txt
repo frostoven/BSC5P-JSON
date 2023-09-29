@@ -1,56 +1,59 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:02:54
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:47:10
 
 HD169767
 --------
 
 Object * zet Tel  ---  PM*  ---  OID=@3512530   (@@70174,15)  ---  coobox=23920
 
-Coordinates(ICRS,ep=J2000,eq=2000): 18 28 49.8597995  -49 04 14.112225 (Opt ) A [0.16 0.12 90] 2007A&A...474..653V
-Coordinates(FK4,ep=B1950,eq=1950): 18 24 58.7972980  -49 06 00.025245
-Coordinates(Gal,ep=J2000,eq=2000): 345.8219460235  -16.6834236453
+Coordinates(ICRS,ep=J2000,eq=2000): 18 28 49.8593702175  -49 04 14.117954578 (Opt ) A [0.1064 0.1031 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 18 24 58.7956682992  -49 05 59.969658542
+Coordinates(Gal,ep=J2000,eq=2000): 345.8219440213009  -16.6834231682663
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 139.10 -228.66 [0.22 0.15 90] A 2007A&A...474..653V
-Parallax: 25.84 [0.21] A 2007A&A...474..653V
-Radial Velocity: -30.60 [0.7] A 2006AstL...32..759G
-Redshift: -0.000102 [0.000002] A 2006AstL...32..759G
-cz: -30.60 [0.70] A 2006AstL...32..759G
-Flux B : 5.15 [~] E ~                  
-Flux V : 4.13 [~] E ~                  
-Flux G : 3.7045 [0.0032] C 2018yCat.1345....0G
-Flux J : 2.334 [0.01] B 2012MNRAS.419.1637L
-Flux H : 1.829 [0.01] B 2012MNRAS.419.1637L
-Flux K : 1.708 [0.01] B 2012MNRAS.419.1637L
+Proper motions: 139.344 -229.884 [0.121 0.108 90] A 2020yCat.1350....0G
+Parallax: 26.6984 [0.1406] A 2020yCat.1350....0G
+Radial Velocity: -29.75 [0.19] A 2022yCat.1355....0G
+Redshift: -0.000099 [0.000001] A 2022yCat.1355....0G
+cz: -29.75 [0.19] A 2022yCat.1355....0G
+Flux B : 5.12 [0.01] D 2000A&A...355L..27H
+Flux V : 4.11 [0.01] D 2000A&A...355L..27H
+Flux G : 3.814259 [0.003025] C 2022yCat.1355....0G
+Flux J : 2.400 [0.310] D 2003yCat.2246....0C
+Flux H : 1.918 [0.246] D 2003yCat.2246....0C
+Flux K : 1.814 [0.278] D 2003yCat.2246....0C
 Spectral type: K1III-IV C 2006AJ....132..161G
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (27):
-   TIC 324497887                   PLX 4235                        * zet Tel                     
-   CD-49 12153                     CPC 0 17411                     CPD-49 10594                  
-   GC 25183                        GCRV 10928                      GEN# +1.00169767              
-   HD 169767                       HIC 90568                       HIP 90568                     
-   HR 6905                         IRAS 18249-4906                 LTT 7332                      
-   NLTT 46509                      PPM 324133                      SAO 229047                    
-   SKY# 33774                      TD1 22403                       UBV 15666                     
-   UBV M 22941                     2MASS J18284989-4904141         PLX 4235.00                   
-   TYC 8367-2755-1                 WEB 15509                       Gaia DR2 6704767209777054592  
+Identifiers (29):
+   HIP 90568                            WISE J182850.05-490418.1             Gaia DR3 6704767209778958976       
+   TIC 324497887                        PLX 4235                             * zet Tel                          
+   CD-49 12153                          CPC 0 17411                          CPD-49 10594                       
+   GC 25183                             GCRV 10928                           GEN# +1.00169767                   
+   HD 169767                            HIC 90568                            HR 6905                            
+   IRAS 18249-4906                      LTT 7332                             NLTT 46509                         
+   PPM 324133                           SAO 229047                           SKY# 33774                         
+   TD1 22403                            UBV 15666                            UBV M 22941                        
+   2MASS J18284989-4904141              PLX 4235.00                          TYC 8367-2755-1                    
+   WEB 15509                            Gaia DR2 6704767209777054592                                            
 
-Bibcodes  1850-2021 () (47):
-  2019A&A...623A..72K  2019ApJ...880...49H  2019MNRAS.490.3158C  2017AJ....154..115H
-  2017PASP..129e4501I  2016A&A...591A.118S  2015MNRAS.448.2749A  2015MNRAS.450.1900A
-  2013A&A...551L...8P  2012MNRAS.419.1637L  2012MNRAS.422.2560S  2011A&A...530A..93V
-  2010A&A...515A.111S  2010ApJS..190..203P  2009MNSSA..68..168S  2008A&A...480..115P
-  2008MNRAS.389..869E  2007A&A...466.1099O  2007MNRAS.382..553L  2006AJ....132..161G
-  2006AstL...32..759G  2005A&A...431..773R  2003A&A...401..997P  2003ApJ...582.1011S
-  2001A&A...367..297A  1999AcA....49..319P  1997ApJS..112..557K  1995A&AS..114..269D
+Bibcodes  1850-2023 () (55):
+  2022A&A...657A..87O  2022A&A...668A..89U  2021A&A...649A...6G  2021ApJS..254...42B
+  2021MNRAS.504.3730C  2020A&A...633A..34C  2019A&A...623A..72K  2019ApJ...880...49H
+  2019MNRAS.490.3158C  2017AJ....154..115H  2017PASP..129e4501I  2016A&A...591A.118S
+  2015MNRAS.448.2749A  2015MNRAS.450.1900A  2013A&A...551L...8P  2012MNRAS.419.1637L
+  2012MNRAS.422.2560S  2011A&A...530A..93V  2010A&A...515A.111S  2010ApJS..190..203P
+  2009MNSSA..68..168S  2008A&A...480..115P  2008MNRAS.389..869E  2007A&A...466.1099O
+  2007A&A...474..653V  2007MNRAS.382..553L  2006AJ....132..161G  2006AstL...32..759G
+  2005A&A...431..773R  2003A&A...401..997P  2003ApJ...582.1011S  2001A&A...367..297A
+  1999AcA....49..319P  1997A&A...323L..49P  1997ApJS..112..557K  1995A&AS..114..269D
   1995GCTP..C......0V  1995yCat.1098....0L  1994AJ....107..594E  1993AJ....106...80E
   1993yCat.3135....0C  1990A&AS...85..915D  1989A&AS...78..511P  1985AJ.....90.1870I
   1978MSS...C02....0H  1977ApJ...215..812E  1975BamVe..10..115C  1975IBVS..994....1C
   1974PASP...86..129E  1972PASP...84..406E  1970ApJ...161..199E  1968AJ.....73..431P
   1957AJ.....62...45E  1953GCRV..C......0W  1919ApJ....50..161L            
 
-Measures (distance:1  Fe_H:2  MK:3  PLX:4  PM:4  velocities:8  ):
-distance:1Fe_H:2MK:3PLX:4PM:4velocities:8
+Measures (distance:2  Fe_H:8  MK:3  PLX:5  PM:5  velocities:9  ):
+distance:2Fe_H:8MK:3PLX:5PM:5velocities:9
 
 Notes (0) :
 

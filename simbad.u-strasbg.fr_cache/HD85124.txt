@@ -1,45 +1,46 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:09:58
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:05:14
 
 HD85124
 -------
 
 Object * ups Car B  ---  *  ---  OID=@11607760   (@@-1,255)  ---  coobox=21265
 
-Coordinates(ICRS,ep=J2000,eq=2000): 09 47 06.7499670895  -65 04 22.297884869 (Opt ) A [0.0555 0.0644 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 09 45 51.8018098235  -64 50 25.451878166
-Coordinates(Gal,ep=J2000,eq=2000): 285.0398572535412  -08.8196063785259
+Coordinates(ICRS,ep=J2000,eq=2000): 09 47 06.7501580976  -65 04 22.302767316 (Opt ) A [0.0316 0.0292 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 09 45 51.8028112150  -64 50 25.472170697
+Coordinates(Gal,ep=J2000,eq=2000): 285.0398584022462  -08.8196071930098
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: -11.911 5.922 [0.112 0.095 90] A 2018yCat.1345....0G
-Parallax: 2.3681 [0.0683] A 2018yCat.1345....0G
+Proper motions: -12.012 6.231 [0.043 0.032 90] A 2020yCat.1350....0G
+Parallax: 2.2718 [0.0322] A 2020yCat.1350....0G
 Radial Velocity: 13.9 [~] D 1911PLicO...9...71W
 Redshift: 0.000046 [~] D 1911PLicO...9...71W
 cz: 13.90 [~] D 1911PLicO...9...71W
 Flux B : 6.08 [0.01] D 2002A&A...384..180F
 Flux V : 5.99 [0.01] D 2002A&A...384..180F
-Flux G : 6.1840 [0.0017] C 2018yCat.1345....0G
+Flux G : 6.202096 [0.003349] C 2020yCat.1350....0G
 Spectral type: B7III C 1984ApJS...55..657C
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (18):
-   TYC 8950-2272-2                 * ups Car B                     CCDM J09471-6504B             
-   CPC 21 1958                     CPD-64 1084B                    CSI-64 1084 42                
-   GC 13507                        GCRV 60924                      HD 85124                      
-   HR 3891                         IDS 09446-6436 B                SAO 250696                    
-   ALS 19672                       WDS J09471-6504B                ** RMK 11B                    
-   PLX 2328.00B                    UCAC4 125-024041                Gaia DR2 5249119024124571136  
+Identifiers (19):
+   Gaia DR3 5249119024124571136         TYC 8950-2272-2                      * ups Car B                        
+   CCDM J09471-6504B                    CPC 21 1958                          CPD-64 1084B                       
+   CSI-64 1084 42                       GC 13507                             GCRV 60924                         
+   HD 85124                             HR 3891                              IDS 09446-6436 B                   
+   SAO 250696                           ALS 19672                            WDS J09471-6504B                   
+   ** RMK 11B                           PLX 2328.00B                         UCAC4 125-024041                   
+   Gaia DR2 5249119024124571136                                                                                 
 
-Bibcodes  1850-2021 () (25):
-  2021MNRAS.504.3730C  2019MNRAS.483..299G  2017MNRAS.471.1926N  2015A&A...580A..23P
-  2008MNRAS.389..869E  2007AJ....134.1777T  2005AJ....130.1652R  2005MNSSA..64...78S
-  2003AJ....125.2531R  2001PASA...18..281D  1996A&AS..118..481B  1996BaltA...5..603A
-  1993yCat.3135....0C  1988IzKry..79...57S  1986MNRAS.223...79M  1985A&AS...60..315V
-  1985AbaOB..59...83B  1984ApJS...55..657C  1983MNRAS.202..761H  1982A&AS...47..221R
-  1980ApJS...44....1T  1980BICDS..19...41H  1975MSS...C01....0H  1973MitVS...6..124Z
-  1970AJ.....75..624C                                    
+Bibcodes  1850-2023 () (26):
+  2021MNRAS.504.3730C  2019MNRAS.483..299G  2018A&A...620A.172Z  2017MNRAS.471.1926N
+  2015A&A...580A..23P  2008MNRAS.389..869E  2007AJ....134.1777T  2005AJ....130.1652R
+  2005MNSSA..64...78S  2003AJ....125.2531R  2001PASA...18..281D  1996A&AS..118..481B
+  1996BaltA...5..603A  1993yCat.3135....0C  1988IzKry..79...57S  1986MNRAS.223...79M
+  1985A&AS...60..315V  1985AbaOB..59...83B  1984ApJS...55..657C  1983MNRAS.202..761H
+  1982A&AS...47..221R  1980ApJS...44....1T  1980BICDS..19...41H  1975MSS...C01....0H
+  1973MitVS...6..124Z  1970AJ.....75..624C                        
 
-Measures (distance:1  MK:2  PLX:1  PM:2  velocities:1  ):
-distance:1MK:2PLX:1PM:2velocities:1
+Measures (distance:2  MK:2  PLX:2  PM:3  velocities:1  ):
+distance:2MK:2PLX:2PM:3velocities:1
 
 Notes (0) :
 

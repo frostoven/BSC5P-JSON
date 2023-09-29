@@ -1,37 +1,37 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:53:24
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:36:26
 
 HD24554
 -------
 
 Object * 32 Eri B  ---  *  ---  OID=@9042711   (@@-1,255)  ---  coobox=6217
 
-Coordinates(ICRS,ep=J2000,eq=2000): 03 54 17.4068324561  -02 57 10.314138262 (Opt ) A [0.0472 0.0423 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 03 51 46.5784768403  -03 05 57.693687681
-Coordinates(Gal,ep=J2000,eq=2000): 192.0929773881555  -40.0982896393145
+Coordinates(ICRS,ep=J2000,eq=2000): 03 54 17.4068786208  -02 57 10.316453616 (Opt ) A [0.0373 0.0348 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 03 51 46.5786893627  -03 05 57.703740063
+Coordinates(Gal,ep=J2000,eq=2000): 192.0929782274172  -40.0982898352824
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: 26.927 0.852 [0.101 0.094 90] A 2018yCat.1345....0G
-Parallax: 9.6499 [0.0611] A 2018yCat.1345....0G
+Proper motions: 26.878 1.007 [0.045 0.051 90] A 2020yCat.1350....0G
+Parallax: 9.6777 [0.0623] A 2020yCat.1350....0G
 Radial Velocity: 17.6 [2] E 1953GCRV..C......0W
 Redshift: 0.000059 [0.000007] E 1953GCRV..C......0W
 cz: 17.60 [2.00] E 1953GCRV..C......0W
 Flux B : 6.19 [0.00] D 2012yCat.1322....0Z
 Flux V : 6.09 [0.00] D 2012yCat.1322....0Z
-Flux G : 6.1326 [0.0005] C 2018yCat.1345....0G
+Flux G : 6.146218 [0.002778] C 2020yCat.1350....0G
 Spectral type: A1V C 2008ApJS..176..216A
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (22):
-   TYC 4721-1217-1                 GSC 04721-01217                 ** STF 470B                   
-   * 32 Eri B                      ADS 2850 B                      BD-03 631B                    
-   CCDM J03543-0257B               CSI-03 631 2                    GC 4705                       
-   GCRV 2237                       GEN# +1.00024554                HD 24554                      
-   HGAM 305                        HR 1211                         IDS 03493-0315 B              
-   ROT 579                         SAO 130805                      UBV M 9805                    
-   WDS J03543-0257B                WEB 3525                        UCAC4 436-005299              
-   Gaia DR2 3247049327941271424                                                                  
+Identifiers (23):
+   Gaia DR3 3247049327941271424         TYC 4721-1217-1                      GSC 04721-01217                    
+   ** STF 470B                          * 32 Eri B                           ADS 2850 B                         
+   BD-03 631B                           CCDM J03543-0257B                    CSI-03 631 2                       
+   GC 4705                              GCRV 2237                            GEN# +1.00024554                   
+   HD 24554                             HGAM 305                             HR 1211                            
+   IDS 03493-0315 B                     ROT 579                              SAO 130805                         
+   UBV M 9805                           WDS J03543-0257B                     WEB 3525                           
+   UCAC4 436-005299                     Gaia DR2 3247049327941271424                                            
 
-Bibcodes  1850-2021 () (38):
+Bibcodes  1850-2023 () (38):
   2021MNRAS.504.3730C  2014A&A...562A..65S  2012A&ARv..20...51V  2011A&A...531A.143D
   2011AJ....142...46M  2008MNRAS.389..869E  2007A&A...475..677S  2007AJ....134.1671M
   2002A&A...393..897R  2001A&A...367..521P  2000IBVS.4984....1A  1999MSS...C05....0H
@@ -43,8 +43,8 @@ Bibcodes  1850-2021 () (38):
   1960AJ.....65...60S  1957JO.....40...93W  1955ApJ...121..118H  1953GCRV..C......0W
   1950AJ.....55..138J  1918ApJ....47..289P                        
 
-Measures (distance:1  MK:4  PLX:1  PM:2  ROT:5  velocities:5  ):
-distance:1MK:4PLX:1PM:2ROT:5velocities:5
+Measures (distance:2  MK:4  PLX:2  PM:3  ROT:5  velocities:5  ):
+distance:2MK:4PLX:2PM:3ROT:5velocities:5
 
 Notes (0) :
 

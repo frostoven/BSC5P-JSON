@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:53:26
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:36:41
 
 HD24744
 -------
 
 Object HD 24744  ---  **  ---  OID=@687889   (@@11803,20)  ---  coobox=6891
 
-Coordinates(ICRS,ep=J2000,eq=2000): 03 54 23.1679202212  -40 21 25.222849170 (Opt ) A [0.1500 0.1501 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 03 52 38.0117245201  -40 30 11.278143435
-Coordinates(Gal,ep=J2000,eq=2000): 244.3841882451013  -50.2299155785697
+Coordinates(ICRS,ep=J2000,eq=2000): 03 54 23.1669866112  -40 21 25.220081268 (Opt ) A [0.1856 0.1984 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 03 52 38.0074371135  -40 30 11.263841294
+Coordinates(Gal,ep=J2000,eq=2000): 244.3841874443290  -50.2299185978167
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: -24.572 7.308 [0.317 0.341 90] A 2018yCat.1345....0G
-Parallax: 6.1693 [0.1740] A 2018yCat.1345....0G
+Proper motions: -23.809 7.072 [0.243 0.280 90] A 2020yCat.1350....0G
+Parallax: 6.179 [0.2393] A 2020yCat.1350....0G
 Radial Velocity: 2.1 [2] E 1953GCRV..C......0W
 Redshift: 0.000007 [0.000007] E 1953GCRV..C......0W
 cz: 2.10 [2.00] E 1953GCRV..C......0W
 Flux B : 6.289 [0.014] D 2000A&A...355L..27H
 Flux V : 5.705 [0.009] D 2000A&A...355L..27H
-Flux G : 5.4833 [0.0024] C 2018yCat.1345....0G
+Flux G : 5.500099 [0.003657] C 2020yCat.1350....0G
 Flux J : 4.333 [0.272] D 2003yCat.2246....0C
 Flux H : 3.827 [0.254] D 2003yCat.2246....0C
 Flux K : 3.824 [0.28] D 2003yCat.2246....0C
@@ -25,34 +25,35 @@ Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
 Identifiers (39):
-   TIC 140143506                   CCDM J03544-4021AB              CD-40 1128                    
-   CPC 0 1932                      CPD-40 378                      CSI-40 1128 21                
-   CSV 100362                      FK5 2280                        GC 4724                       
-   GCRV 2249                       GEN# +1.00024744J               GSC 07573-01158               
-   HD 24744                        HIC 18262                       HIP 18262                     
-   HR 1219                         IDS 03509-4039 AB               NSV 1414                      
-   PPM 308094                      SAO 216546                      SKY# 5972                     
-   SV* ZI 265                      TYC 7573-1158-1                 UBV 3842                      
-   WDS J03544-4021AB               IDS 03509-4039                  ** FIN 344                    
-   2MASS J03542316-4021252         HD 24745                        IDS 03509-4039 B              
-   TD1 2672                        WDS J03544-4021B                ** HDO 188AB                  
-   IRAS 03526-4030                 AKARI-IRC-V1 J0354231-402125    uvby98 100024744              
-   Gaia DR1 4843381533903802624    WEB 3527                        Gaia DR2 4843381538200043904  
+   HIP 18262                            Gaia DR3 4843381538200043904         GEN# +1.00024744                   
+   TIC 140143506                        CCDM J03544-4021AB                   CD-40 1128                         
+   CPC 0 1932                           CPD-40 378                           CSI-40 1128 21                     
+   CSV 100362                           FK5 2280                             GC 4724                            
+   GCRV 2249                            GSC 07573-01158                      HD 24744                           
+   HIC 18262                            HR 1219                              IDS 03509-4039 AB                  
+   NSV 1414                             PPM 308094                           SAO 216546                         
+   SKY# 5972                            SV* ZI 265                           TYC 7573-1158-1                    
+   UBV 3842                             WDS J03544-4021AB                    ** FIN 344                         
+   2MASS J03542316-4021252              HD 24745                             IDS 03509-4039 B                   
+   TD1 2672                             WDS J03544-4021B                     ** HDO 188AB                       
+   IRAS 03526-4030                      AKARI-IRC-V1 J0354231-402125         uvby98 100024744                   
+   Gaia DR1 4843381533903802624         WEB 3527                             Gaia DR2 4843381538200043904       
 
-Bibcodes  1850-2021 () (37):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2018A&A...615A..49C  2018MNRAS.478.3825L
-  2016A&A...591A.118S  2015A&A...580A..23P  2015AJ....150...50T  2015AJ....150...88L
-  2012A&A...542A.116A  2012A&A...546A..61D  2012A&A...546A..69M  2012AJ....143...42H
-  2012MNRAS.427..343M  2010AJ....139..743T  2008MNRAS.389..869E  2008PASP..120..170T
-  1998A&AS..129..431H  1998ApJS..119...83P  1996AJ....111..936H  1995A&AS..114..269D
-  1993AJ....106..352H  1993VeARI..34....1S  1993yCat.3135....0C  1992MNRAS.257..105B
-  1991A&AS...90..565S  1988LAstr.102..522C  1987AJ.....94..771D  1983ApJS...53..553P
-  1980BICDS..19...41H  1978MSS...C02....0H  1977A&A....56..235H  1977A&AS...27..443G
-  1972MNRAS.160..155S  1960MNSSA..19...28F  1960PASP...72..500J  1953GCRV..C......0W
-  1938CoPer...1...10H                                    
+Bibcodes  1850-2023 () (42):
+  2021ApJS..254...42B  2020A&A...636A..74T  2020AJ....160....7T  2019A&A...623A..72K
+  2019MNRAS.490.3158C  2018A&A...615A..49C  2018MNRAS.478.3825L  2016A&A...591A.118S
+  2015A&A...580A..23P  2015AJ....150...50T  2015AJ....150...88L  2012A&A...542A.116A
+  2012A&A...546A..61D  2012A&A...546A..69M  2012AJ....143...42H  2012MNRAS.427..343M
+  2010AJ....139..743T  2008MNRAS.389..869E  2008PASP..120..170T  2007A&A...474..653V
+  1998A&AS..129..431H  1998ApJS..119...83P  1997A&A...323L..49P  1996AJ....111..936H
+  1995A&AS..114..269D  1993AJ....106..352H  1993VeARI..34....1S  1993yCat.3135....0C
+  1992MNRAS.257..105B  1991A&AS...90..565S  1988LAstr.102..522C  1987AJ.....94..771D
+  1983ApJS...53..553P  1980BICDS..19...41H  1978MSS...C02....0H  1977A&A....56..235H
+  1977A&AS...27..443G  1972MNRAS.160..155S  1960MNSSA..19...28F  1960PASP...72..500J
+  1953GCRV..C......0W  1938CoPer...1...10H                        
 
-Measures (distance:1  Fe_H:1  IUE:2  MK:7  PLX:4  PM:3  ROT:1  velocities:4  ):
-distance:1Fe_H:1IUE:2MK:7PLX:4PM:3ROT:1velocities:4
+Measures (distance:2  Fe_H:1  IUE:2  MK:7  PLX:5  PM:4  ROT:1  velocities:4  ):
+distance:2Fe_H:1IUE:2MK:7PLX:5PM:4ROT:1velocities:4
 
 Notes (1) :
 (S) 12-Sep-2015 - cl    ref:~    obj:HD 24744

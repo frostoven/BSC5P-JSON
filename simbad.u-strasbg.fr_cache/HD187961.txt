@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:15:10
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST12:09:46
 
 HD187961
 --------
@@ -26,35 +26,37 @@ Spectral type: B7V C 1968ApJS...17..371L
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (36):
-   WISE J195215.57+102105.6        UCAC4 502-119544                UCAC3 201-265817              
-   2MASS J19521557+1021056         WDS J19523+1021A                TYC 1062-2702-1               
-   GEN# +1.00187961A               CSI+09 4295 1                   CCDM J19523+1021A             
-   ADS 13041 A                     AAVSO 1947+10B                  IDS 19475+1006 A              
-   TIC 409035407                   uvby98 100187961                AG+10 2536                    
-   BD+09 4295                      CSV 101900                      GC 27515                      
-   GCRV 12218                      GSC 01062-02702                 HD 187961                     
-   HIC 97787                       HIP 97787                       HR 7572                       
-   NSV 12496                       PPM 137123                      SAO 105355                    
-   SKY# 37205                      SV* ZI 1811                     TD1 25588                     
-   UBV M 24230                     V* V1466 Aql                    YZ 10 9614                    
-   [KW97] 40-33                    ALS 17941                       WEB 17202                     
+Identifiers (37):
+   HIP 97787                            WISEA J195215.58+102105.8            WISE J195215.57+102105.6           
+   UCAC4 502-119544                     UCAC3 201-265817                     2MASS J19521557+1021056            
+   WDS J19523+1021A                     TYC 1062-2702-1                      GEN# +1.00187961A                  
+   CSI+09 4295 1                        CCDM J19523+1021A                    ADS 13041 A                        
+   AAVSO 1947+10B                       IDS 19475+1006 A                     TIC 409035407                      
+   uvby98 100187961                     AG+10 2536                           BD+09 4295                         
+   CSV 101900                           GC 27515                             GCRV 12218                         
+   GSC 01062-02702                      HD 187961                            HIC 97787                          
+   HR 7572                              NSV 12496                            PPM 137123                         
+   SAO 105355                           SKY# 37205                           SV* ZI 1811                        
+   TD1 25588                            UBV M 24230                          V* V1466 Aql                       
+   YZ 10 9614                           [KW97] 40-33                         ALS 17941                          
+   WEB 17202                                                                                                    
 
-Bibcodes  1850-2021 () (43):
-  2019A&A...623A..72K  2019MNRAS.490.3158C  2018A&A...612A..73C  2017AJ....153..252L
-  2016A&A...591A.118S  2016ApJ...826..171G  2016MNRAS.463.1162C  2015A&A...580A..23P
-  2012A&A...537A.120Z  2012MNRAS.424.1925C  2012MNRAS.427..343M  2011A&A...525A..71W
-  2008ApJ...683.1045H  2006AstL...32..759G  2005AJ....130.1652R  2004AJ....128.3012M
-  2004ApJS..152..251V  2003AJ....125.2531R  2002ApJ...573..359A  2000IBVS.4968....1A
-  1999A&AS..134..255K  1999IBVS.4659....1K  1998A&AS..129..431H  1997AAHam..11....1K
+Bibcodes  1850-2023 () (47):
+  2021ApJS..254...42B  2020MNRAS.491.2280S  2019A&A...623A..72K  2019MNRAS.490.3158C
+  2018A&A...612A..73C  2017AJ....153..252L  2016A&A...591A.118S  2016ApJ...826..171G
+  2016MNRAS.463.1162C  2015A&A...580A..23P  2012A&A...537A.120Z  2012MNRAS.424.1925C
+  2012MNRAS.427..343M  2011A&A...525A..71W  2008ApJ...683.1045H  2007A&A...474..653V
+  2006AstL...32..759G  2005AJ....130.1652R  2004AJ....128.3012M  2004ApJS..152..251V
+  2003AJ....125.2531R  2002ApJ...573..359A  2000IBVS.4968....1A  1999A&AS..134..255K
+  1999IBVS.4659....1K  1998A&AS..129..431H  1997A&A...323L..49P  1997AAHam..11....1K
   1996A&AS..118..481B  1995A&AS..114..269D  1993yCat.3135....0C  1992AcA....42..211P
   1990Afz....32....1T  1990PASP..102..669I  1987AJ.....93..183M  1986AnTok..21..107Y
   1985A&AS...60...99W  1984ApJ...285..190A  1983ApJ...272..182A  1978A&AS...34..453O
   1978ApJS...37..371W  1975PASP...87...37E  1971AJ.....76.1058C  1969AJ.....74.1082M
   1968ApJS...17..371L  1967AJ.....72..899W  1953GCRV..C......0W            
 
-Measures (distance:1  Fe_H:1  MK:3  PLX:3  PM:5  ROT:1  V*:1  velocities:4  ):
-distance:1Fe_H:1MK:3PLX:3PM:5ROT:1V*:1velocities:4
+Measures (distance:1  Fe_H:1  MK:4  PLX:3  PM:5  ROT:1  V*:1  velocities:4  ):
+distance:1Fe_H:1MK:4PLX:3PM:5ROT:1V*:1velocities:4
 
 Notes (0) :
 

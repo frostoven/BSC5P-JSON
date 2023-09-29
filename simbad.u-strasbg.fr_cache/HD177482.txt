@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST01:10:12
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST11:58:26
 
 HD177482
 --------
 
 Object * sig Oct  ---  dS*  ---  OID=@3290880   (@@69774,0)  ---  coobox=23552
 
-Coordinates(ICRS,ep=J2000,eq=2000): 21 08 46.8434241415  -88 57 23.411695274 (Opt ) A [0.1155 0.1351 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 20 15 03.1868265271  -89 08 18.405269198
-Coordinates(Gal,ep=J2000,eq=2000): 303.9052375148124  -27.7134675695504
+Coordinates(ICRS,ep=J2000,eq=2000): 21 08 46.8635701992  -88 57 23.398330572 (Opt ) A [0.0516 0.0605 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 20 15 03.3427087468  -89 08 18.353861023
+Coordinates(Gal,ep=J2000,eq=2000): 303.9052400331581  -27.7134709084915
 hierarchy counts: #parents=0, #children=0, #siblings=0
-Proper motions: 26.671 5.612 [0.250 0.268 90] A 2018yCat.1345....0G
-Parallax: 11.0917 [0.1416] A 2018yCat.1345....0G
+Proper motions: 26.323 4.721 [0.071 0.074 90] A 2020yCat.1350....0G
+Parallax: 11.1005 [0.0616] A 2020yCat.1350....0G
 Radial Velocity: 11.9 [2] E 1953GCRV..C......0W
 Redshift: 0.000040 [0.000007] E 1953GCRV..C......0W
 cz: 11.90 [2.00] E 1953GCRV..C......0W
 Flux B : 5.74 [~] E ~                  
 Flux V : 5.42 [~] E ~                  
-Flux G : 5.3594 [0.0019] C 2018yCat.1345....0G
+Flux G : 5.374763 [0.003020] C 2020yCat.1350....0G
 Flux J : 4.734 [0.184] D 2003yCat.2246....0C
 Flux H : 4.764 [0.016] C 2003yCat.2246....0C
 Flux K : 4.674 [0.020] C 2003yCat.2246....0C
@@ -24,35 +24,38 @@ Spectral type: F0IV C 1975MSS...C01....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (27):
-   2MASS J21084697-8857236         * sig Oct                       CPC 22 2512                   
-   CPD-89 47                       FK5 923                         GC 28194                      
-   GCRV 12662                      GEN# +1.00177482                HD 177482                     
-   HIC 104382                      HIP 104382                      HR 7228                       
-   IRAS 20151-8908                 N30 4483                        PPM 378539                    
-   ROT 2717                        SAO 258857                      SKY# 40219                    
-   TD1 23828                       UBV 16180                       UBV M 23463                   
-   V* sig Oct                      TYC 9536-384-1                  NAME Polaris Australis        
-   uvby98 100177482                WEB 19004                       Gaia DR2 6341181494973204096  
+Identifiers (29):
+   TIC 468184895                        Gaia DR3 6341181494973204096         2MASS J21084697-8857236            
+   * sig Oct                            CPC 22 2512                          CPD-89 47                          
+   FK5 923                              GC 28194                             GCRV 12662                         
+   GEN# +1.00177482                     HD 177482                            HIC 104382                         
+   HIP 104382                           HR 7228                              IRAS 20151-8908                    
+   N30 4483                             PPM 378539                           ROT 2717                           
+   SAO 258857                           SKY# 40219                           TD1 23828                          
+   UBV 16180                            UBV M 23463                          V* sig Oct                         
+   TYC 9536-384-1                       NAME Polaris Australis               uvby98 100177482                   
+   WEB 19004                            Gaia DR2 6341181494973204096                                            
 
-Bibcodes  1850-2021 () (56):
-  2020ApJS..247...11R  2019A&A...621A.144M  2019A&A...623A..72K  2019MNRAS.490.3158C
-  2018A&A...619A.116C  2017AJ....154..115H  2017MNRAS.469.3042N  2016ApJ...826..171G
+Bibcodes  1850-2023 () (62):
+  2023JAVSO..51...26R  2022MNRAS.516.2080B  2021ApJS..254...42B  2020ApJS..247...11R
+  2019A&A...621A.144M  2019A&A...623A..72K  2019MNRAS.490.3158C  2018A&A...619A.116C
+  2018A&A...620A.172Z  2017AJ....154..115H  2017MNRAS.469.3042N  2016ApJ...826..171G
   2015A&A...580A..23P  2015ApJ...804..146D  2013A&A...556A..52T  2012A&ARv..20...51V
-  2012MNRAS.427..343M  2011MNRAS.414.2602D  2008MNRAS.389..869E  2007MNSSA..66..263S
-  2006AstL...32..759G  2002A&A...392..515P  2001A&A...365..222G  2000A&AS..144..469R
-  1999VeARI..35....1W  1998A&AS..127..277K  1998A&AS..129..431H  1997A&A...318..841C
-  1997A&A...327..240A  1995A&AS..109..201G  1995A&AS..114..269D  1995MNSSA..54..108J
-  1994A&AS..106...21R  1993ApJ...408..305L  1993yCat.3135....0C  1992A&AS...95..355C
-  1990A&AS...83...51L  1990PBeiO..16...18L  1989AJ.....97..265S  1987A&AS...67....1C
-  1987IzKry..76...10K  1986A&A...155..371H  1983AJ.....88..361E  1983Ap&SS..91...43H
-  1982IBVS.2084....1T  1981A&AS...43..259O  1981AJ.....86..875M  1981IBVS.1921....1K
-  1981IBVS.2047....1C  1981PASP...93..237A  1980BICDS..19...41H  1978MNRAS.184..885M
-  1978Obs....98..227M  1977A&A....56..235H  1977A&AS...27..443G  1975AJ.....80..637M
-  1975MSS...C01....0H  1972MNRAS.160..155S  1968MmSAI..39..309C  1953GCRV..C......0W
+  2012MNRAS.427..343M  2011MNRAS.414.2602D  2008MNRAS.389..869E  2007A&A...474..653V
+  2007MNSSA..66..263S  2006AstL...32..759G  2002A&A...392..515P  2001A&A...365..222G
+  2000A&AS..144..469R  1999VeARI..35....1W  1998A&AS..127..277K  1998A&AS..129..431H
+  1997A&A...318..841C  1997A&A...323L..49P  1997A&A...327..240A  1995A&AS..109..201G
+  1995A&AS..114..269D  1995MNSSA..54..108J  1994A&AS..106...21R  1993ApJ...408..305L
+  1993yCat.3135....0C  1992A&AS...95..355C  1990A&AS...83...51L  1990PBeiO..16...18L
+  1989AJ.....97..265S  1987A&AS...67....1C  1987IzKry..76...10K  1986A&A...155..371H
+  1983AJ.....88..361E  1983Ap&SS..91...43H  1982IBVS.2084....1T  1981A&AS...43..259O
+  1981AJ.....86..875M  1981IBVS.1921....1K  1981IBVS.2047....1C  1981PASP...93..237A
+  1980BICDS..19...41H  1978MNRAS.184..885M  1978Obs....98..227M  1977A&A....56..235H
+  1977A&AS...27..443G  1975AJ.....80..637M  1975MSS...C01....0H  1972MNRAS.160..155S
+  1968MmSAI..39..309C  1953GCRV..C......0W                        
 
-Measures (distance:1  IUE:1  MK:3  PLX:3  PM:5  ROT:1  velocities:6  ):
-distance:1IUE:1MK:3PLX:3PM:5ROT:1velocities:6
+Measures (distance:2  IUE:1  MK:3  PLX:4  PM:6  ROT:1  velocities:6  ):
+distance:2IUE:1MK:3PLX:4PM:6ROT:1velocities:6
 
 Notes (0) :
 

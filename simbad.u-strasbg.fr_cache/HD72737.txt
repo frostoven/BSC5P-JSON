@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:01:53
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST09:47:55
 
 HD72737
 -------
@@ -23,23 +23,24 @@ Spectral type: A0/1V D 1978MSS...C02....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (26):
-   TIC 90212823                    2MASS J08320493-5312429         CCDM J08321-5313AB            
-   CPC 19 3016                     CPD-52 1517                     GC 11713                      
-   GCRV 5624                       GSC 08568-03121                 HD 72738                      
-   HD 72737                        HIC 41861                       HIP 41861                     
-   HR 3386                         IDS 08293-5252 AB               IRAS 08307-5302               
-   PPM 336997                      SAO 236062                      SKY# 16269                    
-   TD1 12694                       UBV 8145                        UBV M 14465                   
-   WDS J08321-5313AB               WEB 8058                        ** SLR 8                      
-   GEN# +1.00072737                WISE J083204.92-531242.0                                      
+Identifiers (27):
+   HIP 41861                            WISEA J083204.95-531242.3            TIC 90212823                       
+   2MASS J08320493-5312429              CCDM J08321-5313AB                   CPC 19 3016                        
+   CPD-52 1517                          GC 11713                             GCRV 5624                          
+   GSC 08568-03121                      HD 72738                             HD 72737                           
+   HIC 41861                            HR 3386                              IDS 08293-5252 AB                  
+   IRAS 08307-5302                      PPM 336997                           SAO 236062                         
+   SKY# 16269                           TD1 12694                            UBV 8145                           
+   UBV M 14465                          WDS J08321-5313AB                    WEB 8058                           
+   ** SLR 8                             GEN# +1.00072737                     WISE J083204.92-531242.0           
 
-Bibcodes  1850-2021 () (19):
-  2019A&A...623A..72K  2016A&A...591A.118S  2012A&A...542A.116A  2012A&A...546A..61D
-  2012MNRAS.427..343M  2008MNRAS.389..869E  2001A&A...367..297A  2000A&A...356..141F
-  1998ApJS..119...83P  1995A&AS..114..269D  1993yCat.3135....0C  1991A&AS...90..565S
-  1990ApJS...74..275H  1987AJ.....94..771D  1980A&AS...40..347V  1978MSS...C02....0H
-  1976ApJ...203..435P  1960PASP...72..500J  1953GCRV..C......0W            
+Bibcodes  1850-2023 () (22):
+  2021ApJS..254...42B  2019A&A...623A..72K  2016A&A...591A.118S  2012A&A...542A.116A
+  2012A&A...546A..61D  2012MNRAS.427..343M  2008MNRAS.389..869E  2007A&A...474..653V
+  2001A&A...367..297A  2000A&A...356..141F  1998ApJS..119...83P  1997A&A...323L..49P
+  1995A&AS..114..269D  1993yCat.3135....0C  1991A&AS...90..565S  1990ApJS...74..275H
+  1987AJ.....94..771D  1980A&AS...40..347V  1978MSS...C02....0H  1976ApJ...203..435P
+  1960PASP...72..500J  1953GCRV..C......0W                        
 
 Measures (Fe_H:1  IUE:2  MK:8  PLX:2  PM:3  ROT:1  velocities:4  ):
 Fe_H:1IUE:2MK:8PLX:2PM:3ROT:1velocities:4

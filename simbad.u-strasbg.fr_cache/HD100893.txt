@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:20:12
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:24:42
 
 HD100893
 --------
@@ -21,21 +21,22 @@ Spectral type: K0III C 1982MSS...C03....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (23):
-   TIC 57714798                    CCDM J11366-3334AB              CD-32 8199                    
-   CPC 17 5747                     CSI-32 8199 21                  GC 15917                      
-   HD 100893                       HIC 56620                       HIP 56620                     
-   HR 4469                         IDS 11316-3301 AB               IRAS 11341-3317               
-   PPM 289127                      SAO 202622                      SKY# 21982                    
-   SRS 42537                       UBV 10461                       WDS J11366-3334AB             
-   ** HJ 4455AB                    GEN# +1.00100893                * 22 Crt                      
-   2MASS J11363484-3334126         WISE J113634.67-333412.4                                      
+Identifiers (24):
+   HIP 56620                            WISEA J113634.93-333412.8            TIC 57714798                       
+   CCDM J11366-3334AB                   CD-32 8199                           CPC 17 5747                        
+   CSI-32 8199 21                       GC 15917                             HD 100893                          
+   HIC 56620                            HR 4469                              IDS 11316-3301 AB                  
+   IRAS 11341-3317                      PPM 289127                           SAO 202622                         
+   SKY# 21982                           SRS 42537                            UBV 10461                          
+   WDS J11366-3334AB                    ** HJ 4455AB                         GEN# +1.00100893                   
+   * 22 Crt                             2MASS J11363484-3334126              WISE J113634.67-333412.4           
 
-Bibcodes  1850-2021 () (15):
-  2019A&A...623A..72K  2013A&A...558A..80K  2012A&A...546A..61D  2008MNRAS.389..869E
-  2007MNRAS.382..239C  2006AstL...32..759G  1995A&AS..109..501C  1993yCat.3135....0C
-  1985A&AS...59...15A  1984ApJS...55..657C  1983MNRAS.202..761H  1982MSS...C03....0H
-  1980A&A....84..108F  1975MNSSA..34....7H  1950AJ.....55....9S            
+Bibcodes  1850-2023 () (18):
+  2021ApJS..254...42B  2019A&A...623A..72K  2013A&A...558A..80K  2012A&A...546A..61D
+  2008MNRAS.389..869E  2007A&A...474..653V  2007MNRAS.382..239C  2006AstL...32..759G
+  1997A&A...323L..49P  1995A&AS..109..501C  1993yCat.3135....0C  1985A&AS...59...15A
+  1984ApJS...55..657C  1983MNRAS.202..761H  1982MSS...C03....0H  1980A&A....84..108F
+  1975MNSSA..34....7H  1950AJ.....55....9S                        
 
 Measures (MK:2  PLX:2  PM:2  velocities:1  ):
 MK:2PLX:2PM:2velocities:1

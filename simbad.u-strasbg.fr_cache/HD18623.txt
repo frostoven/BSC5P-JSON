@@ -1,48 +1,49 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:51:41
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:26:05
 
 HD18623
 -------
 
 Object * tet02 Eri  ---  PM*  ---  OID=@11631734   (@@-1,255)  ---  coobox=23205
 
-Coordinates(ICRS,ep=J2000,eq=2000): 02 58 16.4053309356  -40 18 16.900014010 (Opt ) A [0.1849 0.1882 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 02 56 22.6324048333  -40 30 14.847935876
-Coordinates(Gal,ep=J2000,eq=2000): 247.8542919580369  -60.7340763587827
+Coordinates(ICRS,ep=J2000,eq=2000): 02 58 16.4037194112  -40 18 16.906306500 (Opt ) A [0.0978 0.1086 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 02 56 22.6257183594  -40 30 14.876319267
+Coordinates(Gal,ep=J2000,eq=2000): 247.8542984222616  -60.7340807508897
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: -51.661 16.178 [0.364 0.384 90] A 2018yCat.1345....0G
-Parallax: 20.3349 [0.2227] A 2018yCat.1345....0G
+Proper motions: -50.502 16.613 [0.108 0.131 90] A 2020yCat.1350....0G
+Parallax: 19.527 [0.1372] A 2020yCat.1350....0G
 Radial Velocity: 18.8 [2] E 1953GCRV..C......0W
 Redshift: 0.000063 [0.000007] E 1953GCRV..C......0W
 cz: 18.80 [2.00] E 1953GCRV..C......0W
 Flux B : 4.20 [0.01] D 2002A&A...384..180F
 Flux V : 4.11 [0.01] D 2002A&A...384..180F
-Flux G : 4.2686 [0.0036] C 2018yCat.1345....0G
+Flux G : 4.315228 [0.002998] C 2020yCat.1350....0G
 Spectral type: A1V E 1978MSS...C02....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (22):
-   TYC 7563-1017-1                 * tet02 Eri                     CCDM J02583-4018B             
-   CD-40 771B                      CPD-40 253B                     CSI-40 771 21                 
-   GC 3586                         GCRV 1662                       HD 18623                      
-   HR 898                          IDS 02545-4042 B                PPM 307196                    
-   ROT 405                         SAO 216114                      SKY# 4465                     
-   uvby98 100018623                WDS J02583-4018B                PMSC 02545-4042B              
-   GEN# +1.00018623                PLX 624.00B                     WEB 2739                      
-   Gaia DR2 5044368071868204160                                                                  
+Identifiers (23):
+   Gaia DR3 5044368071868204160         TYC 7563-1017-1                      * tet02 Eri                        
+   CCDM J02583-4018B                    CD-40 771B                           CPD-40 253B                        
+   CSI-40 771 21                        GC 3586                              GCRV 1662                          
+   HD 18623                             HR 898                               IDS 02545-4042 B                   
+   PPM 307196                           ROT 405                              SAO 216114                         
+   SKY# 4465                            uvby98 100018623                     WDS J02583-4018B                   
+   PMSC 02545-4042B                     GEN# +1.00018623                     PLX 624.00B                        
+   WEB 2739                             Gaia DR2 5044368071868204160                                            
 
-Bibcodes  1850-2021 () (32):
-  2021MNRAS.504.3730C  2015A&A...580A..23P  2011A&A...531A.143D  2008MNRAS.389..869E
-  2007AJ....134.1089S  2006MNSSA..65..230S  2001A&A...376..586F  1998A&AS..129..431H
-  1997A&AS..124...75T  1996BaltA...5..603A  1996JAVSO..24..105H  1995A&AS..114..269D
-  1995ApJS...99..135A  1993yCat.3135....0C  1991Ap&SS.183...91T  1987ApJS...65..581G
-  1985AbaOB..59...83B  1983MNRAS.202..761H  1982A&AS...47..341K  1981A&AS...44..337S
-  1980ApJS...43..501C  1980BICDS..19...41H  1978MSS...C02....0H  1977A&AS...27...47H
-  1975ApJS...29..137S  1970AJ.....75..624C  1969AJ.....74..139P  1966JO.....49..387L
-  1965BOTT....4...33I  1962AnAp...25..184B  1953GCRV..C......0W  1897ApJ.....6..419C
+Bibcodes  1850-2023 () (33):
+  2021MNRAS.504.3730C  2018A&A...620A.172Z  2015A&A...580A..23P  2011A&A...531A.143D
+  2008MNRAS.389..869E  2007AJ....134.1089S  2006MNSSA..65..230S  2001A&A...376..586F
+  1998A&AS..129..431H  1997A&AS..124...75T  1996BaltA...5..603A  1996JAVSO..24..105H
+  1995A&AS..114..269D  1995ApJS...99..135A  1993yCat.3135....0C  1991Ap&SS.183...91T
+  1987ApJS...65..581G  1985AbaOB..59...83B  1983MNRAS.202..761H  1982A&AS...47..341K
+  1981A&AS...44..337S  1980ApJS...43..501C  1980BICDS..19...41H  1978MSS...C02....0H
+  1977A&AS...27...47H  1975ApJS...29..137S  1970AJ.....75..624C  1969AJ.....74..139P
+  1966JO.....49..387L  1965BOTT....4...33I  1962AnAp...25..184B  1953GCRV..C......0W
+  1897ApJ.....6..419C                                    
 
-Measures (distance:1  MK:2  PLX:1  PM:2  ROT:2  velocities:5  ):
-distance:1MK:2PLX:1PM:2ROT:2velocities:5
+Measures (distance:2  MK:2  PLX:2  PM:3  ROT:2  velocities:5  ):
+distance:2MK:2PLX:2PM:3ROT:2velocities:5
 
 Notes (0) :
 

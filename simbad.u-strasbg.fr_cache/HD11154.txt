@@ -1,4 +1,4 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.23CEST14:50:12
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST06:14:02
 
 HD11154
 -------
@@ -16,19 +16,19 @@ Redshift: 0.000023 [0.000000] A 2018yCat.1345....0G
 cz: 7.02 [0.14] A 2018yCat.1345....0G
 Flux B : 7.34 [0.02] D 2002A&A...384..180F
 Flux V : 6.20 [0.01] D 2002A&A...384..180F
-Flux G : 5.8876 [0.0011] C 2018yCat.1345....0G
+Flux G : 5.906333 [0.002803] C 2020yCat.1350....0G
 Spectral type: K0III+ C 1999A&AS..134..473G
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (13):
-   PLX 380                         ADS 1457 A                      BD+21 243A                    
-   CCDM J01501+2217A               CSI+21 243 3                    GCRV 1026                     
-   HD 11154                        WDS J01501+2217A                * 1 Ari A                     
-   TYC 1212-1934-1                 PLX 380.00A                     WEB 1816                      
-   Gaia DR2 98209860357332608                                                                    
+Identifiers (14):
+   Gaia DR3 98209860357332608           PLX 380                              ADS 1457 A                         
+   BD+21 243A                           CCDM J01501+2217A                    CSI+21 243 3                       
+   GCRV 1026                            HD 11154                             WDS J01501+2217A                   
+   * 1 Ari A                            TYC 1212-1934-1                      PLX 380.00A                        
+   WEB 1816                             Gaia DR2 98209860357332608                                              
 
-Bibcodes  1850-2021 () (39):
+Bibcodes  1850-2023 () (39):
   2017AJ....153...16S  2015A&A...580A..23P  2013AJ....146...56M  2011AJ....142...46M
   2008MNRAS.389..869E  2004AJ....128.3012M  2002ApJS..143..513G  2000AJ....119.3084H
   1999A&AS..134..473G  1999A&AS..139..433D  1995A&AS..114..269D  1993yCat.3135....0C

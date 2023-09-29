@@ -1,35 +1,38 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:18:43
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:22:27
 
 HD99104
 -------
 
 Object HD 99104  ---  *  ---  OID=@5620670   (@@-1,255)  ---  coobox=20984
 
-Coordinates(ICRS,ep=J2000,eq=2000): 11 23 21.408  -64 57 16.92 (Opt ) B [37 36 90] 2002A&A...384..180F
-Coordinates(FK4,ep=B1950,eq=1950): 11 21 11.080  -64 40 48.57 
-Coordinates(Gal,ep=J2000,eq=2000): 293.780328  -03.659721     
-hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: -15.4 12.6 [3.0 2.9 90] B 2002A&A...384..180F
-Parallax: ~ [~] ~ ~                  
+Coordinates(ICRS,ep=J2000,eq=2000): 11 23 21.3997494541  -64 57 16.972391480 (Opt ) A [0.1109 0.1205 90] 2018yCat.1345....0G
+Coordinates(FK4,ep=B1950,eq=1950): 11 21 11.1348014451  -64 40 48.340997462
+Coordinates(Gal,ep=J2000,eq=2000): 293.7803192001563  -03.6597397586037
+hierarchy counts: #parents=2, #children=0, #siblings=0
+Proper motions: -23.483 6.904 [0.223 0.205 90] A 2018yCat.1345....0G
+Parallax: 7.3041 [0.1457] A 2018yCat.1345....0G
 Radial Velocity: 19.3 [~] E 1995A&AS..114..269D
 Redshift: 0.000064 [~] E 1995A&AS..114..269D
 cz: 19.30 [~] E 1995A&AS..114..269D
 Flux B : 5.27 [0.01] D 2002A&A...384..180F
 Flux V : 5.39 [0.01] D 2002A&A...384..180F
+Flux G : 5.3713 [0.0026] C 2018yCat.1345....0G
 Spectral type: B5IV C 1984ApJS...55..657C
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (9):
-   CCDM J11234-6457A               IDS 11190-6424 A                WDS J11234-6457A              
-   HD 99104                        GC 15649                        ALS 19675                     
-   SAO 251383                      TYC 8967-1170-1                 WEB 9994                      
+Identifiers (10):
+   Gaia DR2 5237463371929891968         CCDM J11234-6457A                    IDS 11190-6424 A                   
+   WDS J11234-6457A                     HD 99104                             GC 15649                           
+   ALS 19675                            SAO 251383                           TYC 8967-1170-1                    
+   WEB 9994                                                                                                     
 
-Bibcodes  1850-2021 () (4):
-  2018A&A...618A.110B  2015A&A...580A..23P  1995A&AS..114..269D  1993yCat.3135....0C
+Bibcodes  1850-2023 () (6):
+  2021A&A...645A..84M  2018A&A...618A.110B  2018A&A...620A.172Z  2015A&A...580A..23P
+  1995A&AS..114..269D  1993yCat.3135....0C                        
 
-Measures (MK:2  velocities:1  ):
-MK:2velocities:1
+Measures (distance:1  MK:2  PLX:1  PM:1  velocities:1  ):
+distance:1MK:2PLX:1PM:1velocities:1
 
 Notes (0) :
 

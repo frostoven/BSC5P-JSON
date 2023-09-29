@@ -1,22 +1,22 @@
-C.D.S.  -  SIMBAD4 rel 1.7  -  2021.08.24CEST00:17:08
+C.D.S.  -  SIMBAD4 rel 1.8  -  2023.09.29CEST10:19:53
 
 HD96544
 -------
 
 Object HD 96544  ---  V*  ---  OID=@3217667   (@@65116,7)  ---  coobox=20940
 
-Coordinates(ICRS,ep=J2000,eq=2000): 11 06 29.2871810540  -58 40 30.083030869 (Opt ) A [0.0571 0.0594 90] 2018yCat.1345....0G
-Coordinates(FK4,ep=B1950,eq=1950): 11 04 21.3790064370  -58 24 16.093038564
-Coordinates(Gal,ep=J2000,eq=2000): 289.6398686934699  +01.4617340174648
+Coordinates(ICRS,ep=J2000,eq=2000): 11 06 29.2872551400  -58 40 30.086655600 (Opt ) A [0.0244 0.0252 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 11 04 21.3793387976  -58 24 16.108557632
+Coordinates(Gal,ep=J2000,eq=2000): 289.6398692374687  +01.4617331550262
 hierarchy counts: #parents=1, #children=0, #siblings=0
-Proper motions: -10.833 4.442 [0.108 0.120 90] A 2018yCat.1345....0G
-Parallax: 2.0736 [0.0644] A 2018yCat.1345....0G
-Radial Velocity: 3.58 [0.12] A 2008A&A...485..303M
-Redshift: 0.000012 [0.000000] A 2008A&A...485..303M
-cz: 3.58 [0.12] A 2008A&A...485..303M
+Proper motions: -10.873 4.680 [0.030 0.034 90] A 2020yCat.1350....0G
+Parallax: 2.0997 [0.0305] A 2020yCat.1350....0G
+Radial Velocity: 3.862 [0.09] A 2021A&A...647A..19T
+Redshift: 0.000013 [0.000000] A 2021A&A...647A..19T
+cz: 3.86 [0.09] A 2021A&A...647A..19T
 Flux B : 7.31 [~] E ~                  
 Flux V : 6.03 [~] E ~                  
-Flux G : 5.6617 [0.0011] C 2018yCat.1345....0G
+Flux G : 5.682478 [0.002788] C 2020yCat.1350....0G
 Flux J : 4.15 [0.31] E 2003yCat.2246....0C
 Flux H : 3.41 [0.25] D 2003yCat.2246....0C
 Flux K : 3.28 [0.31] E 2003yCat.2246....0C
@@ -24,30 +24,32 @@ Spectral type: K2II/III D 1975MSS...C01....0H
 Morphological type: ~ ~ ~
 Angular size:     ~     ~   ~ (~)  ~ ~
 
-Identifiers (31):
-   TIC 306384457                   Cl* NGC 3532 MMU 221            Cl* NGC 3532 FERN 221         
-   CCDM J11065-5841A               CD-57 3704                      CPC 20 3302                   
-   CPD-58 3112                     CSI-58 3112 41                  CSV 6818                      
-   GC 15283                        GSC 08627-02432                 HD 96544                      
-   HIC 54294                       HIP 54294                       HR 4323                       
-   IDS 11022-5808 A                NGC 3532 156                    NSV 5091                      
-   PPM 339768                      SAO 238779                      SKY# 21205                    
-   TYC 8627-2432-1                 UBV 10151                       UBV M 34117                   
-   WDS J11065-5841A                ** HDO 210A                     2MASS J11062929-5840301       
-   DENIS J110629.1-584029          AKARI-IRC-V1 J1106292-584029    IRAS 11043-5824               
-   Gaia DR2 5340161266999026944                                                                  
+Identifiers (32):
+   HIP 54294                            Gaia DR3 5340161266999026944         TIC 306384457                      
+   Cl* NGC 3532 MMU 221                 Cl* NGC 3532 FERN 221                CCDM J11065-5841A                  
+   CD-57 3704                           CPC 20 3302                          CPD-58 3112                        
+   CSI-58 3112 41                       CSV 6818                             GC 15283                           
+   GSC 08627-02432                      HD 96544                             HIC 54294                          
+   HR 4323                              IDS 11022-5808 A                     NGC 3532 156                       
+   NSV 5091                             PPM 339768                           SAO 238779                         
+   SKY# 21205                           TYC 8627-2432-1                      UBV 10151                          
+   UBV M 34117                          WDS J11065-5841A                     ** HDO 210A                        
+   2MASS J11062929-5840301              DENIS J110629.1-584029               AKARI-IRC-V1 J1106292-584029       
+   IRAS 11043-5824                      Gaia DR2 5340161266999026944                                            
 
-Bibcodes  1850-2021 () (27):
-  2019A&A...623A..72K  2019AJ....157...78J  2019MNRAS.490.3158C  2018A&A...616A..10G
-  2018A&A...620A.139L  2016A&A...591A.118S  2012A&A...546A..61D  2012MNRAS.427..343M
-  2011MNRAS.410..190T  2010A&A...515A.111S  2008A&A...485..303M  2006AstL...32..759G
-  2002AJ....123.3318G  2001A&A...373..159C  2000A&AS..146..251B  1999A&A...345..471R
-  1997A&AS..124..299C  1994ApJS...91..309L  1993yCat.3135....0C  1992AJ....103.1381E
-  1989PASP..101...45E  1989PASP..101...54E  1985A&AS...59...15A  1980A&AS...39...11F
-  1975MSS...C01....0H  1959BAN....14..265K  1933BAN.....7...61M            
+Bibcodes  1850-2023 () (34):
+  2021A&A...647A..19T  2021ApJS..254...42B  2020A&A...633A..99C  2020A&A...636A..74T
+  2020A&A...640A...1C  2019A&A...623A..72K  2019AJ....157...78J  2019MNRAS.490.3158C
+  2018A&A...616A..10G  2018A&A...620A.139L  2016A&A...591A.118S  2012A&A...546A..61D
+  2012MNRAS.427..343M  2011MNRAS.410..190T  2010A&A...515A.111S  2008A&A...485..303M
+  2007A&A...474..653V  2006AstL...32..759G  2002AJ....123.3318G  2001A&A...373..159C
+  2000A&AS..146..251B  1999A&A...345..471R  1997A&A...323L..49P  1997A&AS..124..299C
+  1994ApJS...91..309L  1993yCat.3135....0C  1992AJ....103.1381E  1989PASP..101...45E
+  1989PASP..101...54E  1985A&AS...59...15A  1980A&AS...39...11F  1975MSS...C01....0H
+  1959BAN....14..265K  1933BAN.....7...61M                        
 
-Measures (distance:1  Fe_H:1  MK:2  PLX:3  PM:4  V*:1  velocities:3  ):
-distance:1Fe_H:1MK:2PLX:3PM:4V*:1velocities:3
+Measures (distance:2  Fe_H:1  MK:2  PLX:4  PM:5  V*:1  velocities:4  ):
+distance:2Fe_H:1MK:2PLX:4PM:5V*:1velocities:4
 
 Notes (0) :
 
